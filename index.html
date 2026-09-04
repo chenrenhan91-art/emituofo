@@ -13,9 +13,6 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="assets/icon-192.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #16110E;
@@ -33,8 +30,8 @@
       --safe-b: env(safe-area-inset-bottom, 0px);
       --tab-h: 56px;
       --dock: calc(var(--tab-h) + var(--safe-b));
-      --font-serif: "Noto Serif SC", "Songti SC", "STSong", serif;
-      --font-ui: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+      --font-serif: "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", serif;
+      --font-ui: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
       --ease: cubic-bezier(0.16, 1, 0.3, 1);
       --radius: 20px;
     }
@@ -1612,14 +1609,8 @@
           <div class="verse-meaning" style="display:${S.showMeaning ? "block" : "none"}">${v.meaning}</div>
         </article>`).join("");
       renderPills();
-      s.verses.forEach((_, i) => {
-        const url = verseAudioUrl(s.id, i);
-        if (prefetched.has(url)) return;
-        prefetched.add(url);
-        const a = new Audio();
-        a.preload = "auto";
-        a.src = url;
-      });
+      prefetchVerse(s.id, 0);
+      prefetchVerse(s.id, 1);
     }
     function renderMuyu() {
       $("count-session").innerHTML = `${S.sessionCount}<em>遍</em>`;
@@ -1692,6 +1683,17 @@
 
     function verseAudioUrl(sutraId, i) {
       return `audio/${sutraId}/${String(i).padStart(2, "0")}.m4a`;
+    }
+    function prefetchVerse(sutraId, i) {
+      if (i < 0) return;
+      const s = SUTRA_DATABASE.find((item) => item.id === sutraId);
+      if (!s || i >= s.verses.length) return;
+      const url = verseAudioUrl(sutraId, i);
+      if (prefetched.has(url)) return;
+      prefetched.add(url);
+      const a = new Audio();
+      a.preload = "auto";
+      a.src = url;
     }
     function recitationRate() {
       const map = { 0.7: 0.84, 0.85: 1, 1: 1.1, 1.2: 1.2 };
@@ -1774,6 +1776,7 @@
       S.readingIndex = i;
       markLastRead(i);
       highlight(i);
+      prefetchVerse(s.id, i + 1);
       speak(s.verses[i].text, () => {
         const el = $("verse-" + i);
         if (el) el.classList.remove("is-on");
@@ -1797,6 +1800,7 @@
         S.readingIndex = idx;
         markLastRead(idx);
         highlight(idx);
+        prefetchVerse(s.id, idx + 1);
         speak(s.verses[idx].text, () => {
           if (S.isReadingAll) setTimeout(() => next(idx + 1), 280);
         }, { id: s.id, i: idx });
@@ -1940,7 +1944,7 @@
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {
-        navigator.serviceWorker.register("./sw.js?v=7").catch(() => {});
+        navigator.serviceWorker.register("./sw.js?v=8").catch(() => {});
       });
     }
   </script>

@@ -1,4 +1,4 @@
-const CACHE = "lingtai-v7";
+const CACHE = "lingtai-v8";
 const ASSETS = [
   "./",
   "./index.html",

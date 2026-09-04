@@ -1,0 +1,10 @@
+.git
+.wrangler
+**/.DS_Store
+voices/*.onnx
+scripts/
+node_modules
+.github
+wrangler.jsonc
+.gitignore
+.assetsignore

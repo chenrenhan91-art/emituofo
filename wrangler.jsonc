@@ -1,0 +1,11 @@
+{
+  "name": "emituofo",
+  "compatibility_date": "2026-09-04",
+  "preview_urls": true,
+  "workers_dev": true,
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "single-page-application",
+    "html_handling": "auto-trailing-slash"
+  }
+}
