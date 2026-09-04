@@ -887,7 +887,7 @@
         <button class="row-btn" id="btn-open-dedication" type="button">回向<span>把今日功课送出去</span></button>
         <button class="row-btn" id="btn-toggle-sound" type="button">木鱼音效<span id="sound-label">开</span></button>
         <button class="row-btn" id="btn-ring" type="button">击磬清心<span>432Hz</span></button>
-        <div class="row-btn" style="cursor:default;width:100%">诵读声线<span>系统中文</span></div>
+        <div class="row-btn" style="cursor:default;width:100%">诵读声线<span>自然女声</span></div>
 
         <div class="section-label">功课</div>
         <p class="persist-note" id="persist-note">功课只存在这台设备，不会上传。加到主屏幕后，系统更少清掉。</p>
@@ -979,7 +979,7 @@
           <button type="button" data-fs="3">特</button>
         </div>
       </div>
-      <p class="read-sub" style="margin:14px 0 0">诵读使用系统中文女声，按标点停顿。</p>
+      <p class="read-sub" style="margin:14px 0 0">诵读使用自然女声，仍按经文标点停顿。</p>
     </div>
   </div>
 
@@ -1966,7 +1966,7 @@
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {
-        navigator.serviceWorker.register("./sw.js?v=11").catch(() => {});
+        navigator.serviceWorker.register("./sw.js?v=12").catch(() => {});
       });
     }
   </script>
