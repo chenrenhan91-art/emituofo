@@ -251,6 +251,14 @@
       justify-content: space-between;
       gap: 12px;
     }
+    .read-settings-control {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+      color: var(--text-dim);
+      font-size: 12px;
+      white-space: nowrap;
+    }
     .read-title {
       font-family: var(--font-serif);
       font-size: 22px;
@@ -794,9 +802,12 @@
             <h1 class="read-title" id="sutra-title">心经</h1>
             <p class="read-sub" id="sutra-sub"></p>
           </div>
-          <button class="icon-btn" id="btn-read-settings" type="button" aria-label="读经设置">
+          <div class="read-settings-control">
+            <span>诵经设置</span>
+            <button class="icon-btn" id="btn-read-settings" type="button" aria-label="诵经设置">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="3"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M18.4 5.6L17 7M7 17l-1.4 1.4"/></svg>
-          </button>
+            </button>
+          </div>
         </div>
         <div class="pills" id="sutra-pills"></div>
       </div>
@@ -917,7 +928,7 @@
       </button>
       <button class="tab" data-view="muyu" type="button">
         <svg viewBox="0 0 24 24"><ellipse cx="12" cy="13" rx="8" ry="6"/><path d="M8 12h8"/></svg>
-        <span>木鱼</span>
+        <span>计诵</span>
       </button>
       <button class="tab" data-view="me" type="button">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="8.2" r="3.4"/><path d="M5.5 19.5c.8-3.2 3.2-5 6.5-5s5.7 1.8 6.5 5"/></svg>
@@ -982,7 +993,6 @@
           <button type="button" data-fs="3">特</button>
         </div>
       </div>
-      <p class="read-sub" style="margin:14px 0 0">诵读使用 AI 合成女声，按句意舒缓朗读，段落间留出停顿。拼音采用普通话标调；咒语保留所选底本的汉字音译。</p>
     </div>
   </div>
 
