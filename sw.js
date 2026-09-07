@@ -1,7 +1,8 @@
-const CACHE = "lingtai-v12";
+const CACHE = "lingtai-cbeta-c827f963f437";
 const ASSETS = [
   "/",
   "/index.html",
+  "/data/sutras.js?v=cbeta-c827f963f437",
   "/manifest.webmanifest",
   "/assets/ip-waiting.jpg",
   "/assets/ip-rejoice.jpg",
@@ -45,17 +46,19 @@ self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   const url = new URL(event.request.url);
   if (!sameOrigin(url)) return;
+  // Media range responses must not enter CacheStorage as partial files.
+  if (event.request.headers.has("range")) return;
 
   // /index.html 会被 Pages 308 到 /，导航统一走首页，避免独立 App 里跟跳失败
   if (isNavigate(event.request) || url.pathname === "/index.html") {
     event.respondWith(
       fetch("/")
         .then((response) => {
-          if (response.ok) {
+          if (response.ok && response.status === 200) {
             const copy = response.clone();
             caches.open(CACHE).then((cache) => {
-              cache.put("/", copy);
-              cache.put("/index.html", copy.clone());
+              cache.put("/", copy.clone());
+              cache.put("/index.html", copy);
             });
           }
           return response;
@@ -74,13 +77,13 @@ self.addEventListener("fetch", (event) => {
       if (cached) return cached;
       return fetch(event.request)
         .then((response) => {
-          if (response.ok) {
+          if (response.ok && response.status === 200) {
             const copy = response.clone();
             caches.open(CACHE).then((cache) => cache.put(event.request, copy));
           }
           return response;
         })
-        .catch(() => caches.match("/"));
+        .catch(() => Response.error());
     })
   );
 });

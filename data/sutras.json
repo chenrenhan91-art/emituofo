@@ -1,0 +1,1593 @@
+[
+  {
+    "id": "heart_sutra",
+    "title": "般若波罗蜜多心经",
+    "shortTitle": "心经",
+    "translator": "唐·玄奘译",
+    "category": "完整经文",
+    "source": "https://cbetaonline.dila.edu.tw/zh/T08n0251",
+    "sourceCode": "T08n0251",
+    "sourceHash": "f5507df86309f861ef2b92e9ba9db985c6db0ad357553599c6e921e15deca761",
+    "verses": [
+      {
+        "text": "观自在菩萨行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+        "pinyin": "guān zì zài pú sà xíng shēn bō rě bō luó mì duō shí ， zhào jiàn wǔ yùn jiē kōng ， dù yī qiè kǔ è 。",
+        "speechText": "观自在菩萨形深波惹波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+        "audio": "audio/heart_sutra/0dcfa99e143d673e.mp3",
+        "textHash": "74983ec6b0fe8b281a7c2ec530df56e8e72aa8bcc5566f4b08f154208d506dde"
+      },
+      {
+        "text": "「舍利子！色不异空，空不异色，色即是空，空即是色；受、想、行、识，亦复如是。",
+        "pinyin": "「 shè lì zi ！ sè bù yì kōng ， kōng bù yì sè ， sè jí shì kōng ， kōng jí shì sè ； shòu 、 xiǎng 、 xíng 、 shí ， yì fù rú shì 。",
+        "speechText": "「舍利子！色不异空，空不异色，色即是空，空即是色；受、想、行、识，亦复如是。",
+        "audio": "audio/heart_sutra/393a55ebf102e23d.mp3",
+        "textHash": "400efa557e5684053e5cdee94e57345aa23642b926ea4e3f32af8f5960c015e5"
+      },
+      {
+        "text": "「舍利子！是诸法空相，不生不灭，不垢不净，不增不减。是故，空中无色，无受、想、行、识；无眼、耳、鼻、舌、身、意；无色、声、香、味、触、法；无眼界，乃至无意识界；无无明亦无无明尽，乃至无老死亦无老死尽；无苦、集、灭、道；无智，亦无得。",
+        "pinyin": "「 shè lì zi ！ shì zhū fǎ kōng xiāng ， bù shēng bù miè ， bù gòu bù jìng ， bù zēng bù jiǎn 。 shì gù ， kōng zhōng wú sè ， wú shòu 、 xiǎng 、 xíng 、 shí ； wú yǎn 、 ěr 、 bí 、 shé 、 shēn 、 yì ； wú sè 、 shēng 、 xiāng 、 wèi 、 chù 、 fǎ ； wú yǎn jiè ， nǎi zhì wú yì shí jiè ； wú wú míng yì wú wú míng jǐn ， nǎi zhì wú lǎo sǐ yì wú lǎo sǐ jǐn ； wú kǔ 、 jí 、 miè 、 dào ； wú zhì ， yì wú dé 。",
+        "speechText": "「舍利子！是诸法空相，不生不灭，不垢不净，不增不减。是故，空中无色，无受、想、行、识；无眼、耳、鼻、舌、身、意；无色、声、香、味、触、法；无眼界，乃至无意识界；无无明亦无无明尽，乃至无老死亦无老死尽；无苦、集、灭、道；无智，亦无得。",
+        "audio": "audio/heart_sutra/10b2a194e71c315c.mp3",
+        "textHash": "7c639436997190d2f40696c1f4695f7cfc497d32285913e954db7abb68e49d13"
+      },
+      {
+        "text": "「以无所得故，菩提萨埵依般若波罗蜜多故，心无罣碍；无罣碍故，无有恐怖，远离颠倒梦想，究竟涅槃。三世诸佛依般若波罗蜜多故，得阿耨多罗三藐三菩提。",
+        "pinyin": "「 yǐ wú suǒ de gù ， pú tí sà duǒ yī bō rě bō luó mì duō gù ， xīn wú guà ài ； wú guà ài gù ， wú yǒu kǒng bù ， yuǎn lí diān dǎo mèng xiǎng ， jiū jìng niè pán 。 sān shì zhū fú yī bō rě bō luó mì duō gù ， dé ā nòu duō luó sān miǎo sān pú tí 。",
+        "speechText": "「以无所得故，菩提萨朵依波惹波罗蜜多故，心无罣碍；无罣碍故，无有恐怖，远离颠倒梦想，究竟涅槃。三世诸佛依波惹波罗蜜多故，得阿耨多罗三藐三菩提。",
+        "audio": "audio/heart_sutra/25fe37e85c39491d.mp3",
+        "textHash": "2b5e4686992f3b729a834ff95153e03a7152f663b9395e7abee7a77a9048da0c"
+      },
+      {
+        "text": "「故知般若波罗蜜多是大神咒、是大明咒、是无上咒、是无等等咒，能除一切苦，真实不虚，故说般若波罗蜜多咒。」",
+        "pinyin": "「 gù zhī bō rě bō luó mì duō shì dà shén zhòu 、 shì dà míng zhòu 、 shì wú shàng zhòu 、 shì wú děng děng zhòu ， néng chú yī qiè kǔ ， zhēn shí bù xū ， gù shuō bō rě bō luó mì duō zhòu 。 」",
+        "speechText": "「故知波惹波罗蜜多是大神咒、是大明咒、是无上咒、是无等等咒，能除一切苦，真实不虚，故说波惹波罗蜜多咒。」",
+        "audio": "audio/heart_sutra/42a46797b3896459.mp3",
+        "textHash": "581db8f9efde90f82f960e4a07fbbd067ad8d050b2ccb54950236b7e8f1abc28"
+      },
+      {
+        "text": "即说咒曰：",
+        "pinyin": "jí shuō zhòu yuē ：",
+        "speechText": "即说咒曰：",
+        "audio": "audio/heart_sutra/13d353a795aedfe3.mp3",
+        "textHash": "ac179615329e2a182c16e8e4010099d5d76b59785c54b58ff383d4004440475c"
+      },
+      {
+        "text": "「揭帝，揭帝，般罗揭帝，般罗僧揭帝，菩提，莎婆诃」",
+        "pinyin": "「 jiē dì ， jiē dì ， bō luó jiē dì ， bō luó sēng jiē dì ， pú tí ， suō pó hē 」",
+        "speechText": "「揭帝，揭帝，波罗揭帝，波罗僧揭帝，菩提，娑婆喝」",
+        "audio": "audio/heart_sutra/1fc87ca3717aee12.mp3",
+        "textHash": "0076fb6eabef9c17238079a05478b4882b287c87975968579a42046009819b0f"
+      }
+    ]
+  },
+  {
+    "id": "diamond_sutra",
+    "title": "金刚般若波罗蜜经",
+    "shortTitle": "金刚经",
+    "translator": "姚秦·鸠摩罗什译",
+    "category": "完整经文",
+    "source": "https://cbetaonline.dila.edu.tw/zh/T08n0235",
+    "sourceCode": "T08n0235",
+    "sourceHash": "45c5103fa03a6f12338cb7c5680a7b9a82e034c661ea9687e4b9f99540adea55",
+    "verses": [
+      {
+        "text": "如是我闻：",
+        "pinyin": "rú shì wǒ wén ：",
+        "speechText": "如是我闻：",
+        "audio": "audio/diamond_sutra/4f2ddb2f150a6f37.mp3",
+        "textHash": "9a1293af00cb89af248120626b7a7c9c3668228f9c414ba661f597f251438639"
+      },
+      {
+        "text": "一时，佛在舍卫国祇树给孤独园，与大比丘众千二百五十人俱。尔时，世尊食时，著衣持钵，入舍卫大城乞食。于其城中，次第乞已，还至本处。饭食讫，收衣钵，洗足已，敷座而坐。",
+        "pinyin": "yī shí ， fú zài shè wèi guó qí shù jǐ gū dú yuán ， yǔ dà bǐ qiū zhòng qiān èr bǎi wǔ shí rén jù 。 ěr shí ， shì zūn shí shí ， zhuó yī chí bō ， rù shè wèi dà chéng qǐ shí 。 yú qí chéng zhōng ， cì dì qǐ yǐ ， hái zhì běn chù 。 fàn shí qì ， shōu yī bō ， xǐ zú yǐ ， fū zuò ér zuò 。",
+        "speechText": "一时，佛在设卫国其树几孤独园，与大比丘众千二百五十人俱。尔时，世尊食时，卓衣持钵，入设卫大城乞食。于其城中，次第乞已，还至本处。饭食讫，收衣钵，洗足已，敷座而坐。",
+        "audio": "audio/diamond_sutra/08a453b6e648f3af.mp3",
+        "textHash": "5b422e5d709c1e8dde6dc44f0270552b963b2ab264f54bdd4abd600279d4ac9c"
+      },
+      {
+        "text": "时，长老须菩提在大众中即从座起，偏袒右肩，右膝著地，合掌恭敬而白佛言：「希有世尊！如来善护念诸菩萨，善付嘱诸菩萨。世尊！善男子、善女人，发阿耨多罗三藐三菩提心，应云何住？云何降伏其心？」",
+        "pinyin": "shí ， zhǎng lǎo xū pú tí zài dà zhòng zhōng jí cóng zuò qǐ ， piān tǎn yòu jiān ， yòu xī zhù dì ， hé zhǎng gōng jìng ér bái fú yán ： 「 xī yǒu shì zūn ！ rú lái shàn hù niàn zhū pú sà ， shàn fù zhǔ zhū pú sà 。 shì zūn ！ shàn nán zi 、 shàn nǚ rén ， fā ā nòu duō luó sān miǎo sān pú tí xīn ， yīng yún hé zhù ？ yún hé xiáng fú qí xīn ？ 」",
+        "speechText": "时，长老须菩提在大众中即从座起，偏袒右肩，右膝著地，合掌恭敬而白佛言：「希有世尊！如来善护念诸菩萨，善付嘱诸菩萨。世尊！善男子、善女人，发阿耨多罗三藐三菩提心，应云何住？云何祥伏其心？」",
+        "audio": "audio/diamond_sutra/56574577a89ee364.mp3",
+        "textHash": "7b6a6aa946ebd20a7382403a4b65d556967e7f9aa5bff1619bdeb31b71623917"
+      },
+      {
+        "text": "佛言：「善哉，善哉！须菩提！如汝所说：『如来善护念诸菩萨，善付嘱诸菩萨。』汝今谛听，当为汝说。善男子、善女人，发阿耨多罗三藐三菩提心，应如是住，如是降伏其心。」",
+        "pinyin": "fú yán ： 「 shàn zāi ， shàn zāi ！ xū pú tí ！ rú rǔ suǒ shuō ： 『 rú lái shàn hù niàn zhū pú sà ， shàn fù zhǔ zhū pú sà 。 』 rǔ jīn dì tīng ， dāng wèi rǔ shuō 。 shàn nán zi 、 shàn nǚ rén ， fā ā nòu duō luó sān miǎo sān pú tí xīn ， yīng rú shì zhù ， rú shì xiáng fú qí xīn 。 」",
+        "speechText": "佛言：「善哉，善哉！须菩提！如汝所说：『如来善护念诸菩萨，善付嘱诸菩萨。』汝今谛听，当为汝说。善男子、善女人，发阿耨多罗三藐三菩提心，应如是住，如是祥伏其心。」",
+        "audio": "audio/diamond_sutra/18c0a5eef8d0575a.mp3",
+        "textHash": "8dd690882e691e823fa171343c4be174c3a5a5867ae6bc379d2bae45d26d8255"
+      },
+      {
+        "text": "「唯然。世尊！愿乐欲闻。」",
+        "pinyin": "「 wéi rán 。 shì zūn ！ yuàn lè yù wén 。 」",
+        "speechText": "「唯然。世尊！愿乐欲闻。」",
+        "audio": "audio/diamond_sutra/257ad3f6428824c0.mp3",
+        "textHash": "6bc3d9713487d736af3262d5283769db81bdbf5559e6c13f5e3e9b19a56cb913"
+      },
+      {
+        "text": "佛告须菩提：「诸菩萨摩诃萨应如是降伏其心：『所有一切众生之类，若卵生、若胎生、若湿生、若化生，若有色、若无色，若有想、若无想、若非有想非无想，我皆令入无余涅槃而灭度之。』如是灭度无量、无数、无边众生，实无众生得灭度者。何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，即非菩萨。",
+        "pinyin": "fú gào xū pú tí ： 「 zhū pú sà mó hē sà yīng rú shì xiáng fú qí xīn ： 『 suǒ yǒu yī qiè zhòng shēng zhī lèi ， ruò luǎn shēng 、 ruò tāi shēng 、 ruò shī shēng 、 ruò huà shēng ， ruò yǒu sè 、 ruò wú sè ， ruò yǒu xiǎng 、 ruò wú xiǎng 、 ruò fēi yǒu xiǎng fēi wú xiǎng ， wǒ jiē lìng rù wú yú niè pán ér miè dù zhī 。 』 rú shì miè dù wú liàng 、 wú shù 、 wú biān zhòng shēng ， shí wú zhòng shēng dé miè dù zhě 。 hé yǐ gù ？ xū pú tí ！ ruò pú sà yǒu wǒ xiāng 、 rén xiāng 、 zhòng shēng xiàng 、 shòu zhě xiāng ， jí fēi pú sà 。",
+        "speechText": "佛告须菩提：「诸菩萨摩喝萨应如是祥伏其心：『所有一切众生之类，若卵生、若胎生、若湿生、若化生，若有色、若无色，若有想、若无想、若非有想非无想，我皆令入无余涅槃而灭度之。』如是灭度无量、无数、无边众生，实无众生得灭度者。何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，即非菩萨。",
+        "audio": "audio/diamond_sutra/a32d23f907e08398.mp3",
+        "textHash": "f58e3a76decd72f0944ea54a3b79f0001847da0215be3f9843d2e204b4807d16"
+      },
+      {
+        "text": "「复次，须菩提！菩萨于法应无所住行于布施，所谓不住色布施，不住声、香、味、触、法布施。须菩提！菩萨应如是布施，不住于相。何以故？若菩萨不住相布施，其福德不可思量。",
+        "pinyin": "「 fù cì ， xū pú tí ！ pú sà yú fǎ yīng wú suǒ zhù xíng yú bù shī ， suǒ wèi bú zhù sè bù shī ， bú zhù shēng 、 xiāng 、 wèi 、 chù 、 fǎ bù shī 。 xū pú tí ！ pú sà yīng rú shì bù shī ， bú zhù yú xiāng 。 hé yǐ gù ？ ruò pú sà bú zhù xiāng bù shī ， qí fú dé bù kě sī liáng 。",
+        "speechText": "「复次，须菩提！菩萨于法应无所住行于布施，所谓不住色布施，不住声、香、味、触、法布施。须菩提！菩萨应如是布施，不住于相。何以故？若菩萨不住相布施，其福德不可思量。",
+        "audio": "audio/diamond_sutra/15a80bcd0924ca8e.mp3",
+        "textHash": "e98f9587c895171f68a54815f59c3594d3f3b8f8a41b95e30d32f167225ee939"
+      },
+      {
+        "text": "「须菩提！于意云何？东方虚空可思量不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ dōng fāng xū kōng kě sī liáng bù ？ 」",
+        "speechText": "「须菩提！于意云何？东方虚空可思量不？」",
+        "audio": "audio/diamond_sutra/40e1c8968a351c66.mp3",
+        "textHash": "31f2b1ae14a49ebb32928bab3e943bfbf6ffd9da5593ddec83d422f291e53f91"
+      },
+      {
+        "text": "「不也，世尊！」",
+        "pinyin": "「 bù yě ， shì zūn ！ 」",
+        "speechText": "「不也，世尊！」",
+        "audio": "audio/diamond_sutra/cedf24fedb2de2fa.mp3",
+        "textHash": "0d6fed4c959e04fb9a66e49110c859583b43897457a073deb26ad92518407576"
+      },
+      {
+        "text": "「须菩提！南、西、北方，四维、上、下虚空可思量不？」",
+        "pinyin": "「 xū pú tí ！ nán 、 xī 、 běi fāng ， sì wéi 、 shàng 、 xià xū kōng kě sī liáng bù ？ 」",
+        "speechText": "「须菩提！南、西、北方，四维、上、下虚空可思量不？」",
+        "audio": "audio/diamond_sutra/b57cc82709abdba6.mp3",
+        "textHash": "c7dfdbf63013b27dfe3e961d0e67ecad305824637144390bf98a6c87ea742437"
+      },
+      {
+        "text": "「不也，世尊！」",
+        "pinyin": "「 bù yě ， shì zūn ！ 」",
+        "speechText": "「不也，世尊！」",
+        "audio": "audio/diamond_sutra/cedf24fedb2de2fa.mp3",
+        "textHash": "0d6fed4c959e04fb9a66e49110c859583b43897457a073deb26ad92518407576"
+      },
+      {
+        "text": "「须菩提！菩萨无住相布施，福德亦复如是不可思量。须菩提！菩萨但应如所教住。",
+        "pinyin": "「 xū pú tí ！ pú sà wú zhù xiāng bù shī ， fú dé yì fù rú shì bù kě sī liáng 。 xū pú tí ！ pú sà dàn yīng rú suǒ jiào zhù 。",
+        "speechText": "「须菩提！菩萨无住相布施，福德亦复如是不可思量。须菩提！菩萨但应如所教住。",
+        "audio": "audio/diamond_sutra/6148c18da4a15d56.mp3",
+        "textHash": "50a5038260476f16ee24c1fcca073d82f712378c9067844380d01e5243b9fe90"
+      },
+      {
+        "text": "「须菩提！于意云何？可以身相见如来不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ kě yǐ shēn xiāng jiàn rú lái bù ？ 」",
+        "speechText": "「须菩提！于意云何？可以身相见如来不？」",
+        "audio": "audio/diamond_sutra/be46048f9897460b.mp3",
+        "textHash": "8d6313a8a5a599af4b576549e4d1ff279c175ef62fc990edfbb5b01137769aae"
+      },
+      {
+        "text": "「不也，世尊！不可以身相得见如来。何以故？如来所说身相，即非身相。」",
+        "pinyin": "「 bù yě ， shì zūn ！ bù kě yǐ shēn xiāng de jiàn rú lái 。 hé yǐ gù ？ rú lái suǒ shuō shēn xiāng ， jí fēi shēn xiāng 。 」",
+        "speechText": "「不也，世尊！不可以身相得见如来。何以故？如来所说身相，即非身相。」",
+        "audio": "audio/diamond_sutra/b854e2bfbe62d31c.mp3",
+        "textHash": "5672a8f289acd04620de69605451cf4a0dbb49f8e03f84c5b1f44f6695671651"
+      },
+      {
+        "text": "佛告须菩提：「凡所有相，皆是虚妄；若见诸相非相，则见如来。」",
+        "pinyin": "fú gào xū pú tí ： 「 fán suǒ yǒu xiāng ， jiē shì xū wàng ； ruò jiàn zhū xiāng fēi xiāng ， zé jiàn rú lái 。 」",
+        "speechText": "佛告须菩提：「凡所有相，皆是虚妄；若见诸相非相，则见如来。」",
+        "audio": "audio/diamond_sutra/ce96056b18a5c218.mp3",
+        "textHash": "b26398dcfa3d474268bf8169e9458c713d3e03e0cadeae569ad4e4cd47782f7a"
+      },
+      {
+        "text": "须菩提白佛言：「世尊！颇有众生，得闻如是言说章句，生实信不？」",
+        "pinyin": "xū pú tí bái fú yán ： 「 shì zūn ！ pǒ yǒu zhòng shēng ， dé wén rú shì yán shuō zhāng jù ， shēng shí xìn bù ？ 」",
+        "speechText": "须菩提白佛言：「世尊！颇有众生，得闻如是言说章句，生实信不？」",
+        "audio": "audio/diamond_sutra/842a61b168bc7993.mp3",
+        "textHash": "e3e7dd1f41e9350dc3498fa505050e67dc7ee57fb3fedbc9e249492fb346e52e"
+      },
+      {
+        "text": "佛告须菩提：「莫作是说。如来灭后后五百岁，有持戒修福者，于此章句能生信心，以此为实，当知是人不于一佛二佛、三、四、五佛而种善根，已于无量千万佛所种诸善根。闻是章句，乃至一念生净信者，须菩提！如来悉知悉见是诸众生得如是无量福德。何以故？是诸众生无复我相、人相、众生相、寿者相。",
+        "pinyin": "fú gào xū pú tí ： 「 mò zuò shì shuō 。 rú lái miè hòu hòu wǔ bǎi suì ， yǒu chí jiè xiū fú zhě ， yú cǐ zhāng jù néng shēng xìn xīn ， yǐ cǐ wèi shí ， dāng zhī shì rén bù yú yī fú èr fú 、 sān 、 sì 、 wǔ fú ér zhǒng shàn gēn ， yǐ yú wú liàng qiān wàn fú suǒ zhǒng zhū shàn gēn 。 wén shì zhāng jù ， nǎi zhì yī niàn shēng jìng xìn zhě ， xū pú tí ！ rú lái xī zhī xī jiàn shì zhū zhòng shēng dé rú shì wú liàng fú dé 。 hé yǐ gù ？ shì zhū zhòng shēng wú fù wǒ xiāng 、 rén xiāng 、 zhòng shēng xiàng 、 shòu zhě xiāng 。",
+        "speechText": "佛告须菩提：「莫作是说。如来灭后后五百岁，有持戒修福者，于此章句能生信心，以此为实，当知是人不于一佛二佛、三、四、五佛而种善根，已于无量千万佛所种诸善根。闻是章句，乃至一念生净信者，须菩提！如来悉知悉见是诸众生得如是无量福德。何以故？是诸众生无复我相、人相、众生相、寿者相。",
+        "audio": "audio/diamond_sutra/f6355ccdf6b12605.mp3",
+        "textHash": "64651eccae0c07404ea3495056a8b1c587c0fe22b7765d452249c92528a31951"
+      },
+      {
+        "text": "「无法相，亦无非法相。何以故？是诸众生若心取相，则为著我、人、众生、寿者。",
+        "pinyin": "「 wú fǎ xiàng ， yì wú fēi fǎ xiàng 。 hé yǐ gù ？ shì zhū zhòng shēng ruò xīn qǔ xiāng ， zé wèi zhù wǒ 、 rén 、 zhòng shēng 、 shòu zhě 。",
+        "speechText": "「无法相，亦无非法相。何以故？是诸众生若心取相，则为著我、人、众生、寿者。",
+        "audio": "audio/diamond_sutra/2b5dd8a7fe61f76b.mp3",
+        "textHash": "ca5c5d6c64d4815ffe147ca0cfaa4a5e1896646dc0407b6bc696b7f7130fbb6c"
+      },
+      {
+        "text": "「若取法相，即著我、人、众生、寿者。何以故？若取非法相，即著我、人、众生、寿者。是故不应取法，不应取非法。以是义故，如来常说：『汝等比丘，知我说法，如筏喻者，法尚应舍，何况非法。』",
+        "pinyin": "「 ruò qǔ fǎ xiàng ， jí zhù wǒ 、 rén 、 zhòng shēng 、 shòu zhě 。 hé yǐ gù ？ ruò qǔ fēi fǎ xiàng ， jí zhù wǒ 、 rén 、 zhòng shēng 、 shòu zhě 。 shì gù bù yīng qǔ fǎ ， bù yīng qǔ fēi fǎ 。 yǐ shì yì gù ， rú lái cháng shuō ： 『 rǔ děng bǐ qiū ， zhī wǒ shuō fǎ ， rú fá yù zhě ， fǎ shàng yīng shě ， hé kuàng fēi fǎ 。 』",
+        "speechText": "「若取法相，即著我、人、众生、寿者。何以故？若取非法相，即著我、人、众生、寿者。是故不应取法，不应取非法。以是义故，如来常说：『汝等比丘，知我说法，如筏喻者，法尚应舍，何况非法。』",
+        "audio": "audio/diamond_sutra/f150a8dae9cc0109.mp3",
+        "textHash": "14ab5a49d60c6ef50a28afa63a58ccf1d35f7526900f62bd6fa15d62b0b86daf"
+      },
+      {
+        "text": "「须菩提！于意云何？如来得阿耨多罗三藐三菩提耶？如来有所说法耶？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái de ā nòu duō luó sān miǎo sān pú tí yé ？ rú lái yǒu suǒ shuō fǎ yé ？ 」",
+        "speechText": "「须菩提！于意云何？如来得阿耨多罗三藐三菩提耶？如来有所说法耶？」",
+        "audio": "audio/diamond_sutra/7f34faf4d82df0dc.mp3",
+        "textHash": "22ddf1746d3bf83e893333450af75f7258d5c0b6d3905a6a76bb3d190e22f29b"
+      },
+      {
+        "text": "须菩提言：「如我解佛所说义，无有定法名阿耨多罗三藐三菩提，亦无有定法如来可说。何以故？如来所说法，皆不可取、不可说、非法、非非法。所以者何？一切贤圣皆以无为法而有差别。」",
+        "pinyin": "xū pú tí yán ： 「 rú wǒ jiě fú suǒ shuō yì ， wú yǒu dìng fǎ míng ā nòu duō luó sān miǎo sān pú tí ， yì wú yǒu dìng fǎ rú lái kě shuō 。 hé yǐ gù ？ rú lái suǒ shuō fǎ ， jiē bù kě qǔ 、 bù kě shuō 、 fēi fǎ 、 fēi fēi fǎ 。 suǒ yǐ zhě hé ？ yī qiè xián shèng jiē yǐ wú wéi fǎ ér yǒu chā bié 。 」",
+        "speechText": "须菩提言：「如我解佛所说义，无有定法名阿耨多罗三藐三菩提，亦无有定法如来可说。何以故？如来所说法，皆不可取、不可说、非法、非非法。所以者何？一切贤圣皆以无为法而有差别。」",
+        "audio": "audio/diamond_sutra/ad662e6486e04b48.mp3",
+        "textHash": "e6369228c7442df834e730a1f814e5b49d4e5f0c368ba0abf7c65772fb629291"
+      },
+      {
+        "text": "「须菩提！于意云何？若人满三千大千世界七宝以用布施，是人所得福德，宁为多不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ ruò rén mǎn sān qiān dà qiān shì jiè qī bǎo yǐ yòng bù shī ， shì rén suǒ de fú dé ， níng wèi duō bù ？ 」",
+        "speechText": "「须菩提！于意云何？若人满三千大千世界七宝以用布施，是人所得福德，宁为多不？」",
+        "audio": "audio/diamond_sutra/4f8a78865a5a43cb.mp3",
+        "textHash": "986825dd37f8ef09393c239f346af228fd9e8cc7406b54a9a348dfa73bbf1d67"
+      },
+      {
+        "text": "须菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如来说福德多。」",
+        "pinyin": "xū pú tí yán ： 「 shèn duō ， shì zūn ！ hé yǐ gù ？ shì fú dé jí fēi fú dé xìng ， shì gù rú lái shuō fú dé duō 。 」",
+        "speechText": "须菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如来说福德多。」",
+        "audio": "audio/diamond_sutra/ede9e489f99c5f38.mp3",
+        "textHash": "086ced3f7eedc1a9a8f571f5119255e4ee078a5b53c645797b9527cd8bf0eadd"
+      },
+      {
+        "text": "「若复有人，于此经中受持乃至四句偈等，为他人说，其福胜彼。何以故？须菩提！一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出。须菩提！所谓佛法者，即非佛法。",
+        "pinyin": "「 ruò fù yǒu rén ， yú cǐ jīng zhōng shòu chí nǎi zhì sì jù jì děng ， wèi tā rén shuō ， qí fú shèng bǐ 。 hé yǐ gù ？ xū pú tí ！ yī qiè zhū fú jí zhū fú ā nòu duō luó sān miǎo sān pú tí fǎ ， jiē cóng cǐ jīng chū 。 xū pú tí ！ suǒ wèi fó fǎ zhě ， jí fēi fó fǎ 。",
+        "speechText": "「若复有人，于此经中受持乃至四句偈等，为他人说，其福胜彼。何以故？须菩提！一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出。须菩提！所谓佛法者，即非佛法。",
+        "audio": "audio/diamond_sutra/9da03294927bc9bd.mp3",
+        "textHash": "2d5b74adf5be8bb1a08e64d97e54f338ce2347947e1c771f48ccc374a4067e07"
+      },
+      {
+        "text": "「须菩提！于意云何？须陀洹能作是念，『我得须陀洹果』不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ xū tuó huán néng zuò shì niàn ， 『 wǒ dé xū tuó huán guǒ 』 bù ？ 」",
+        "speechText": "「须菩提！于意云何？须陀洹能作是念，『我得须陀洹果』不？」",
+        "audio": "audio/diamond_sutra/ec3897272085b90e.mp3",
+        "textHash": "9e2258e7a93a799824f4e19c38a031cea0b56c5ef368d5b54b1eda67a8cc72c5"
+      },
+      {
+        "text": "须菩提言：「不也，世尊！何以故？须陀洹名为入流，而无所入，不入色、声、香、味、触、法，是名须陀洹。」",
+        "pinyin": "xū pú tí yán ： 「 bù yě ， shì zūn ！ hé yǐ gù ？ xū tuó huán míng wèi rù liú ， ér wú suǒ rù ， bù rù sè 、 shēng 、 xiāng 、 wèi 、 chù 、 fǎ ， shì míng xū tuó huán 。 」",
+        "speechText": "须菩提言：「不也，世尊！何以故？须陀洹名为入流，而无所入，不入色、声、香、味、触、法，是名须陀洹。」",
+        "audio": "audio/diamond_sutra/07cccdce5ac63208.mp3",
+        "textHash": "3366b4567a7279562d80cee8e0369fb4eda3dd721d1413602756322170473403"
+      },
+      {
+        "text": "「须菩提！于意云何？斯陀含能作是念，『我得斯陀含果』不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ sī tuó hán néng zuò shì niàn ， 『 wǒ dé sī tuó hán guǒ 』 bù ？ 」",
+        "speechText": "「须菩提！于意云何？斯陀含能作是念，『我得斯陀含果』不？」",
+        "audio": "audio/diamond_sutra/e4c1e8b77855311e.mp3",
+        "textHash": "d26d116c68860e506ca084564965ac4b80fdc458215a116069c61f68d4b08f30"
+      },
+      {
+        "text": "须菩提言：「不也，世尊！何以故？斯陀含名一往来，而实无往来，是名斯陀含。」",
+        "pinyin": "xū pú tí yán ： 「 bù yě ， shì zūn ！ hé yǐ gù ？ sī tuó hán míng yī wǎng lái ， ér shí wú wǎng lái ， shì míng sī tuó hán 。 」",
+        "speechText": "须菩提言：「不也，世尊！何以故？斯陀含名一往来，而实无往来，是名斯陀含。」",
+        "audio": "audio/diamond_sutra/870b5a8373b8dddb.mp3",
+        "textHash": "42d949eb6640c642205f9e16565cb504b4fc6bf251c05b3d2a487af480167cac"
+      },
+      {
+        "text": "「须菩提！于意云何？阿那含能作是念，『我得阿那含果』不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ ā nà hán néng zuò shì niàn ， 『 wǒ dé ā nà hán guǒ 』 bù ？ 」",
+        "speechText": "「须菩提！于意云何？阿那含能作是念，『我得阿那含果』不？」",
+        "audio": "audio/diamond_sutra/f5bab8b3bb05a199.mp3",
+        "textHash": "2175962a34e03886a23715f86e83302d026bb2c3eaef429a8a32e4c941d5294e"
+      },
+      {
+        "text": "须菩提言：「不也，世尊！何以故？阿那含名为不来，而实无来，是故名阿那含。」",
+        "pinyin": "xū pú tí yán ： 「 bù yě ， shì zūn ！ hé yǐ gù ？ ā nà hán míng wèi bù lái ， ér shí wú lái ， shì gù míng ā nà hán 。 」",
+        "speechText": "须菩提言：「不也，世尊！何以故？阿那含名为不来，而实无来，是故名阿那含。」",
+        "audio": "audio/diamond_sutra/315ce5e4f12169be.mp3",
+        "textHash": "77652f573b8dcd54537b55938afd1c24cb76a4d50f588fb866cbf36166f869d3"
+      },
+      {
+        "text": "「须菩提！于意云何？阿罗汉能作是念，『我得阿罗汉道』不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ ā luó hàn néng zuò shì niàn ， 『 wǒ dé ā luó hàn dào 』 bù ？ 」",
+        "speechText": "「须菩提！于意云何？阿罗汉能作是念，『我得阿罗汉道』不？」",
+        "audio": "audio/diamond_sutra/1e98333acf4c2d08.mp3",
+        "textHash": "e5fb05904405947b08795b8780c778d674c35e948084e412ca4141fc48dbdb48"
+      },
+      {
+        "text": "须菩提言：「不也，世尊！何以故？实无有法名阿罗汉。世尊！若阿罗汉作是念『我得阿罗汉道』，即为著我、人、众生、寿者。世尊！佛说我得无诤三昧人中最为第一，是第一离欲阿罗汉。我不作是念：『我是离欲阿罗汉。』世尊！我若作是念『我得阿罗汉道』，世尊则不说须菩提是乐阿兰那行者。",
+        "pinyin": "xū pú tí yán ： 「 bù yě ， shì zūn ！ hé yǐ gù ？ shí wú yǒu fǎ míng ā luó hàn 。 shì zūn ！ ruò ā luó hàn zuò shì niàn 『 wǒ dé ā luó hàn dào 』 ， jí wèi zhù wǒ 、 rén 、 zhòng shēng 、 shòu zhě 。 shì zūn ！ fú shuō wǒ dé wú zhèng sān mèi rén zhōng zuì wèi dì yī ， shì dì yī lí yù ā luó hàn 。 wǒ bù zuò shì niàn ： 『 wǒ shì lí yù ā luó hàn 。 』 shì zūn ！ wǒ ruò zuò shì niàn 『 wǒ dé ā luó hàn dào 』 ， shì zūn zé bù shuō xū pú tí shì lè ā lán nà xíng zhě 。",
+        "speechText": "须菩提言：「不也，世尊！何以故？实无有法名阿罗汉。世尊！若阿罗汉作是念『我得阿罗汉道』，即为著我、人、众生、寿者。世尊！佛说我得无诤三昧人中最为第一，是第一离欲阿罗汉。我不作是念：『我是离欲阿罗汉。』世尊！我若作是念『我得阿罗汉道』，世尊则不说须菩提是乐阿兰那行者。",
+        "audio": "audio/diamond_sutra/659eaa0d566b8c8c.mp3",
+        "textHash": "9cfc74908d1d360832d3219d3e27635aed9c24fb4729a01da9f4b7767bfea780"
+      },
+      {
+        "text": "以须菩提实无所行，而名须菩提是乐阿兰那行。」",
+        "pinyin": "yǐ xū pú tí shí wú suǒ xíng ， ér míng xū pú tí shì lè ā lán nà xíng 。 」",
+        "speechText": "以须菩提实无所行，而名须菩提是乐阿兰那行。」",
+        "audio": "audio/diamond_sutra/31adce94bf2b774a.mp3",
+        "textHash": "8955e08ebc06dce1fa0db8523b64580661f440ef2dfc7a2cac7a3730707b6e93"
+      },
+      {
+        "text": "佛告须菩提：「于意云何？如来昔在然灯佛所，于法有所得不？」",
+        "pinyin": "fú gào xū pú tí ： 「 yú yì yún hé ？ rú lái xī zài rán dēng fú suǒ ， yú fǎ yǒu suǒ de bù ？ 」",
+        "speechText": "佛告须菩提：「于意云何？如来昔在然灯佛所，于法有所得不？」",
+        "audio": "audio/diamond_sutra/fdbac3a133a53ff9.mp3",
+        "textHash": "9dd388aac27308ffb95e548ce392e562f677c830113ffff4f526999946df3fc1"
+      },
+      {
+        "text": "「世尊！如来在然灯佛所，于法实无所得。」",
+        "pinyin": "「 shì zūn ！ rú lái zài rán dēng fú suǒ ， yú fǎ shí wú suǒ de 。 」",
+        "speechText": "「世尊！如来在然灯佛所，于法实无所得。」",
+        "audio": "audio/diamond_sutra/225ce02220334bad.mp3",
+        "textHash": "fe70f50b603c4684b7a16be430290f9d496ed17d455e90f96f8d31bb0d079cf6"
+      },
+      {
+        "text": "「须菩提！于意云何？菩萨庄严佛土不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ pú sà zhuāng yán fú tǔ bù ？ 」",
+        "speechText": "「须菩提！于意云何？菩萨庄严佛土不？」",
+        "audio": "audio/diamond_sutra/ae6b4f171ab144d8.mp3",
+        "textHash": "e025c98596f6ba12bd26eb7df06837d35057a078abb649bf025b5798e4efb66a"
+      },
+      {
+        "text": "「不也，世尊！何以故？庄严佛土者，则非庄严，是名庄严。」",
+        "pinyin": "「 bù yě ， shì zūn ！ hé yǐ gù ？ zhuāng yán fú tǔ zhě ， zé fēi zhuāng yán ， shì míng zhuāng yán 。 」",
+        "speechText": "「不也，世尊！何以故？庄严佛土者，则非庄严，是名庄严。」",
+        "audio": "audio/diamond_sutra/3d81462bbe29b793.mp3",
+        "textHash": "781206f7e6e232491240a2701709fbe7ab2113792677b105744e5da6bc51351b"
+      },
+      {
+        "text": "「是故须菩提，诸菩萨摩诃萨应如是生清净心，不应住色生心，不应住声、香、味、触、法生心，应无所住而生其心。",
+        "pinyin": "「 shì gù xū pú tí ， zhū pú sà mó hē sà yīng rú shì shēng qīng jìng xīn ， bù yīng zhù sè shēng xīn ， bù yīng zhù shēng 、 xiāng 、 wèi 、 chù 、 fǎ shēng xīn ， yīng wú suǒ zhù ér shēng qí xīn 。",
+        "speechText": "「是故须菩提，诸菩萨摩喝萨应如是生清净心，不应住色生心，不应住声、香、味、触、法生心，应无所住而生其心。",
+        "audio": "audio/diamond_sutra/f91abd4d6dc6f846.mp3",
+        "textHash": "ac00b95a293d8f8ba7c3442a1c3def999ef6f5d80dceb3e3489129064c29fcbe"
+      },
+      {
+        "text": "「须菩提！譬如有人，身如须弥山王，于意云何？是身为大不？」",
+        "pinyin": "「 xū pú tí ！ pì rú yǒu rén ， shēn rú xū mí shān wáng ， yú yì yún hé ？ shì shēn wèi dà bù ？ 」",
+        "speechText": "「须菩提！譬如有人，身如须弥山王，于意云何？是身为大不？」",
+        "audio": "audio/diamond_sutra/255351665a36faa8.mp3",
+        "textHash": "1a493a09a91aac9b27cf323a0134af60eb150fea52a2fb9e234c695bc49787ab"
+      },
+      {
+        "text": "须菩提言：「甚大，世尊！何以故？佛说非身，是名大身。」",
+        "pinyin": "xū pú tí yán ： 「 shèn dà ， shì zūn ！ hé yǐ gù ？ fú shuō fēi shēn ， shì míng dà shēn 。 」",
+        "speechText": "须菩提言：「甚大，世尊！何以故？佛说非身，是名大身。」",
+        "audio": "audio/diamond_sutra/1398f68d265c6445.mp3",
+        "textHash": "819880c2c8dfd172b7557d0102db28cd91126a4eabb17c0bdcbcf8dafd46cca4"
+      },
+      {
+        "text": "「须菩提！如恒河中所有沙数，如是沙等恒河，于意云何？是诸恒河沙宁为多不？」",
+        "pinyin": "「 xū pú tí ！ rú héng hé zhōng suǒ yǒu shā shù ， rú shì shā děng héng hé ， yú yì yún hé ？ shì zhū héng hé shā níng wèi duō bù ？ 」",
+        "speechText": "「须菩提！如恒河中所有沙数，如是沙等恒河，于意云何？是诸恒河沙宁为多不？」",
+        "audio": "audio/diamond_sutra/fc29dc1adc707739.mp3",
+        "textHash": "f733bc12a41c75a847ff95deb98c4c927afa444b59d07de3ff0c88ff8cde8107"
+      },
+      {
+        "text": "须菩提言：「甚多，世尊！但诸恒河尚多无数，何况其沙。」",
+        "pinyin": "xū pú tí yán ： 「 shèn duō ， shì zūn ！ dàn zhū héng hé shàng duō wú shù ， hé kuàng qí shā 。 」",
+        "speechText": "须菩提言：「甚多，世尊！但诸恒河尚多无数，何况其沙。」",
+        "audio": "audio/diamond_sutra/cae825da2fa8013c.mp3",
+        "textHash": "90edde131e18aec66df6a3bf4fdf1c1eaa35c60eabcf5390a8e29f741448988a"
+      },
+      {
+        "text": "「须菩提！我今实言告汝，若有善男子、善女人，以七宝满尔所恒河沙数三千大千世界以用布施，得福多不？」",
+        "pinyin": "「 xū pú tí ！ wǒ jīn shí yán gào rǔ ， ruò yǒu shàn nán zi 、 shàn nǚ rén ， yǐ qī bǎo mǎn ěr suǒ héng hé shā shù sān qiān dà qiān shì jiè yǐ yòng bù shī ， dé fú duō bù ？ 」",
+        "speechText": "「须菩提！我今实言告汝，若有善男子、善女人，以七宝满尔所恒河沙数三千大千世界以用布施，得福多不？」",
+        "audio": "audio/diamond_sutra/0158644d7a57a880.mp3",
+        "textHash": "23b9b54d74f39de6a509a9596ce6ee32a080462af586311ca8e85ad40b53ad36"
+      },
+      {
+        "text": "须菩提言：「甚多，世尊！」",
+        "pinyin": "xū pú tí yán ： 「 shèn duō ， shì zūn ！ 」",
+        "speechText": "须菩提言：「甚多，世尊！」",
+        "audio": "audio/diamond_sutra/b07830613e089cc3.mp3",
+        "textHash": "dfa6759583d6cf253a1c5df7f3abcccf4f4d7f980c9c592dc74b542101a73b09"
+      },
+      {
+        "text": "佛告须菩提：「若善男子、善女人于此经中，乃至受持四句偈等，为他人说，而此福德胜前福德。",
+        "pinyin": "fú gào xū pú tí ： 「 ruò shàn nán zi 、 shàn nǚ rén yú cǐ jīng zhōng ， nǎi zhì shòu chí sì jù jì děng ， wèi tā rén shuō ， ér cǐ fú dé shèng qián fú dé 。",
+        "speechText": "佛告须菩提：「若善男子、善女人于此经中，乃至受持四句偈等，为他人说，而此福德胜前福德。",
+        "audio": "audio/diamond_sutra/99d34390deb5aa87.mp3",
+        "textHash": "64a593f4df2bac78acaa4b60de1d70a2c9f9d605effdac6b986ba5ce90ae6fb7"
+      },
+      {
+        "text": "「复次，须菩提！随说是经，乃至四句偈等，当知此处，一切世间天、人、阿修罗皆应供养，如佛塔庙，何况有人尽能受持读诵？须菩提！当知是人成就最上、第一、希有之法，若是经典所在之处，则为有佛，若尊重弟子。」",
+        "pinyin": "「 fù cì ， xū pú tí ！ suí shuō shì jīng ， nǎi zhì sì jù jì děng ， dāng zhī cǐ chù ， yī qiè shì jiān tiān 、 rén 、 ā xiū luó jiē yìng gòng yǎng ， rú fó tǎ miào ， hé kuàng yǒu rén jǐn néng shòu chí dú sòng ？ xū pú tí ！ dāng zhī shì rén chéng jiù zuì shàng 、 dì yī 、 xī yǒu zhī fǎ ， ruò shì jīng diǎn suǒ zài zhī chù ， zé wèi yǒu fú ， ruò zūn zhòng dì zǐ 。 」",
+        "speechText": "「复次，须菩提！随说是经，乃至四句偈等，当知此处，一切世间天、人、阿修罗皆应贡养，如佛塔庙，何况有人尽能受持读诵？须菩提！当知是人成就最上、第一、希有之法，若是经典所在之处，则为有佛，若尊重弟子。」",
+        "audio": "audio/diamond_sutra/7c330bcbe746a4b2.mp3",
+        "textHash": "ca16828f18cd7d8230ecd1bd1a659fb3ada0617a911298038db7b54f50329fde"
+      },
+      {
+        "text": "尔时，须菩提白佛言：「世尊！当何名此经？我等云何奉持？」",
+        "pinyin": "ěr shí ， xū pú tí bái fú yán ： 「 shì zūn ！ dāng hé míng cǐ jīng ？ wǒ děng yún hé fèng chí ？ 」",
+        "speechText": "尔时，须菩提白佛言：「世尊！当何名此经？我等云何奉持？」",
+        "audio": "audio/diamond_sutra/7283780ac85cac64.mp3",
+        "textHash": "0e51acc4acdcbbada9e382c53d305271631844da66329e0138e05d141c14434e"
+      },
+      {
+        "text": "佛告须菩提：「是经名为『金刚般若波罗蜜』。以是名字，汝当奉持。所以者何？须菩提！佛说般若波罗蜜，则非般若波罗蜜。须菩提！于意云何？如来有所说法不？」",
+        "pinyin": "fú gào xū pú tí ： 「 shì jīng míng wèi 『 jīn gāng bō rě bō luó mì 』 。 yǐ shì míng zì ， rǔ dāng fèng chí 。 suǒ yǐ zhě hé ？ xū pú tí ！ fú shuō bō rě bō luó mì ， zé fēi bō rě bō luó mì 。 xū pú tí ！ yú yì yún hé ？ rú lái yǒu suǒ shuō fǎ bù ？ 」",
+        "speechText": "佛告须菩提：「是经名为『金刚波惹波罗蜜』。以是名字，汝当奉持。所以者何？须菩提！佛说波惹波罗蜜，则非波惹波罗蜜。须菩提！于意云何？如来有所说法不？」",
+        "audio": "audio/diamond_sutra/0bdba3f18698dd3c.mp3",
+        "textHash": "ccb362f7a55b38cffaa34e625c047168c8c0741c2ee8b861124d9f8b6e5a6894"
+      },
+      {
+        "text": "须菩提白佛言：「世尊！如来无所说。」",
+        "pinyin": "xū pú tí bái fú yán ： 「 shì zūn ！ rú lái wú suǒ shuō 。 」",
+        "speechText": "须菩提白佛言：「世尊！如来无所说。」",
+        "audio": "audio/diamond_sutra/5cada20025093e5c.mp3",
+        "textHash": "063c8e5ae5d4ffd17ade8913aadae93614e91169e91f29c6f3f29fe7254004ea"
+      },
+      {
+        "text": "「须菩提！于意云何？三千大千世界所有微尘是为多不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ sān qiān dà qiān shì jiè suǒ yǒu wēi chén shì wèi duō bù ？ 」",
+        "speechText": "「须菩提！于意云何？三千大千世界所有微尘是为多不？」",
+        "audio": "audio/diamond_sutra/de7fc3fd5da7b7fb.mp3",
+        "textHash": "e297a02caafcb3651f393063854afc494a2d30ecf90baed3fe779be050ed78a3"
+      },
+      {
+        "text": "须菩提言：「甚多，世尊！」",
+        "pinyin": "xū pú tí yán ： 「 shèn duō ， shì zūn ！ 」",
+        "speechText": "须菩提言：「甚多，世尊！」",
+        "audio": "audio/diamond_sutra/b07830613e089cc3.mp3",
+        "textHash": "dfa6759583d6cf253a1c5df7f3abcccf4f4d7f980c9c592dc74b542101a73b09"
+      },
+      {
+        "text": "「须菩提！诸微尘，如来说非微尘，是名微尘。如来说世界，非世界，是名世界。",
+        "pinyin": "「 xū pú tí ！ zhū wēi chén ， rú lái shuō fēi wēi chén ， shì míng wēi chén 。 rú lái shuō shì jiè ， fēi shì jiè ， shì míng shì jiè 。",
+        "speechText": "「须菩提！诸微尘，如来说非微尘，是名微尘。如来说世界，非世界，是名世界。",
+        "audio": "audio/diamond_sutra/63c7d3aa3176ff6e.mp3",
+        "textHash": "5ea44cdcf526e5fd655f6482116b914698ec23dd7d5f202400dce988b8f83189"
+      },
+      {
+        "text": "「须菩提！于意云何？可以三十二相见如来不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ kě yǐ sān shí èr xiāng jiàn rú lái bù ？ 」",
+        "speechText": "「须菩提！于意云何？可以三十二相见如来不？」",
+        "audio": "audio/diamond_sutra/f6869220ea60c957.mp3",
+        "textHash": "f77f484804b766e1fb58ebec092517919434dca162845131210c7811fc00807e"
+      },
+      {
+        "text": "「不也，世尊！不可以三十二相得见如来。何以故？如来说三十二相，即是非相，是名三十二相。」",
+        "pinyin": "「 bù yě ， shì zūn ！ bù kě yǐ sān shí èr xiāng de jiàn rú lái 。 hé yǐ gù ？ rú lái shuō sān shí èr xiāng ， jí shì fēi xiāng ， shì míng sān shí èr xiāng 。 」",
+        "speechText": "「不也，世尊！不可以三十二相得见如来。何以故？如来说三十二相，即是非相，是名三十二相。」",
+        "audio": "audio/diamond_sutra/dbe937a368853f3c.mp3",
+        "textHash": "1635bb321654a4d3be09a7ac59456dd56826e9e2893cec0a970decd0e79b3edf"
+      },
+      {
+        "text": "「须菩提！若有善男子、善女人，以恒河沙等身命布施；若复有人，于此经中，乃至受持四句偈等，为他人说，其福甚多。」",
+        "pinyin": "「 xū pú tí ！ ruò yǒu shàn nán zi 、 shàn nǚ rén ， yǐ héng hé shā děng shēn mìng bù shī ； ruò fù yǒu rén ， yú cǐ jīng zhōng ， nǎi zhì shòu chí sì jù jì děng ， wèi tā rén shuō ， qí fú shèn duō 。 」",
+        "speechText": "「须菩提！若有善男子、善女人，以恒河沙等身命布施；若复有人，于此经中，乃至受持四句偈等，为他人说，其福甚多。」",
+        "audio": "audio/diamond_sutra/756d0637a6e7bf46.mp3",
+        "textHash": "3aee1689a8d63446a472a091d1a991f7f267bccb54734cb9f1d79edc450a4403"
+      },
+      {
+        "text": "尔时，须菩提闻说是经，深解义趣，涕泪悲泣，而白佛言：「希有世尊！佛说如是甚深经典，我从昔来所得慧眼，未曾得闻如是之经。世尊！若复有人得闻是经，信心清净，则生实相，当知是人，成就第一希有功德。世尊！是实相者，则是非相，是故如来说名实相。世尊！",
+        "pinyin": "ěr shí ， xū pú tí wén shuō shì jīng ， shēn jiě yì qù ， tì lèi bēi qì ， ér bái fú yán ： 「 xī yǒu shì zūn ！ fú shuō rú shì shèn shēn jīng diǎn ， wǒ cóng xī lái suǒ de huì yǎn ， wèi céng dé wén rú shì zhī jīng 。 shì zūn ！ ruò fù yǒu rén dé wén shì jīng ， xìn xīn qīng jìng ， zé shēng shí xiàng ， dāng zhī shì rén ， chéng jiù dì yī xī yǒu gōng dé 。 shì zūn ！ shì shí xiàng zhě ， zé shì fēi xiāng ， shì gù rú lái shuō míng shí xiāng 。 shì zūn ！",
+        "speechText": "尔时，须菩提闻说是经，深解义趣，涕泪悲泣，而白佛言：「希有世尊！佛说如是甚深经典，我从昔来所得慧眼，未曾得闻如是之经。世尊！若复有人得闻是经，信心清净，则生实相，当知是人，成就第一希有功德。世尊！是实相者，则是非相，是故如来说名实相。世尊！",
+        "audio": "audio/diamond_sutra/fa8142188a4b82dd.mp3",
+        "textHash": "81a214f71053ba1277ed12f4b523a1c6699f0bc709fbc39565c75041ef64f0af"
+      },
+      {
+        "text": "我今得闻如是经典，信解、受持不足为难，若当来世后五百岁，其有众生得闻是经，信解、受持，是人则为第一希有。何以故？此人无我相、人相、众生相、寿者相。所以者何？我相即是非相，人相、众生相、寿者相即是非相。何以故？离一切诸相，则名诸佛。」",
+        "pinyin": "wǒ jīn dé wén rú shì jīng diǎn ， xìn jiě 、 shòu chí bù zú wéi nán ， ruò dāng lái shì hòu wǔ bǎi suì ， qí yǒu zhòng shēng dé wén shì jīng ， xìn jiě 、 shòu chí ， shì rén zé wèi dì yī xī yǒu 。 hé yǐ gù ？ cǐ rén wú wǒ xiāng 、 rén xiāng 、 zhòng shēng xiàng 、 shòu zhě xiāng 。 suǒ yǐ zhě hé ？ wǒ xiāng jí shì fēi xiāng ， rén xiāng 、 zhòng shēng xiàng 、 shòu zhě xiāng jí shì fēi xiāng 。 hé yǐ gù ？ lí yī qiè zhū xiāng ， zé míng zhū fú 。 」",
+        "speechText": "我今得闻如是经典，信解、受持不足为难，若当来世后五百岁，其有众生得闻是经，信解、受持，是人则为第一希有。何以故？此人无我相、人相、众生相、寿者相。所以者何？我相即是非相，人相、众生相、寿者相即是非相。何以故？离一切诸相，则名诸佛。」",
+        "audio": "audio/diamond_sutra/a51ffeccc0e61730.mp3",
+        "textHash": "41e75f2f80e5c3d619b0fa5f27e54544d66cac2311f54b387185d168aa2c15bb"
+      },
+      {
+        "text": "佛告须菩提：「如是，如是！若复有人得闻是经，不惊、不怖、不畏，当知是人甚为希有。何以故？须菩提！如来说第一波罗蜜，非第一波罗蜜，是名第一波罗蜜。须菩提！忍辱波罗蜜，如来说非忍辱波罗蜜。何以故？须菩提！如我昔为歌利王割截身体，我于尔时，无我相、无人相、无众生相、无寿者相。何以故？",
+        "pinyin": "fú gào xū pú tí ： 「 rú shì ， rú shì ！ ruò fù yǒu rén dé wén shì jīng ， bù jīng 、 bù bù 、 bù wèi ， dāng zhī shì rén shèn wéi xī yǒu 。 hé yǐ gù ？ xū pú tí ！ rú lái shuō dì yī bō luó mì ， fēi dì yī bō luó mì ， shì míng dì yī bō luó mì 。 xū pú tí ！ rěn rǔ bō luó mì ， rú lái shuō fēi rěn rǔ bō luó mì 。 hé yǐ gù ？ xū pú tí ！ rú wǒ xī wèi gē lì wáng gē jié shēn tǐ ， wǒ yú ěr shí ， wú wǒ xiāng 、 wú rén xiāng 、 wú zhòng shēng xiàng 、 wú shòu zhě xiāng 。 hé yǐ gù ？",
+        "speechText": "佛告须菩提：「如是，如是！若复有人得闻是经，不惊、不怖、不畏，当知是人甚为希有。何以故？须菩提！如来说第一波罗蜜，非第一波罗蜜，是名第一波罗蜜。须菩提！忍辱波罗蜜，如来说非忍辱波罗蜜。何以故？须菩提！如我昔为歌利王割截身体，我于尔时，无我相、无人相、无众生相、无寿者相。何以故？",
+        "audio": "audio/diamond_sutra/e9067eb736d90718.mp3",
+        "textHash": "ea0b4f73cf9b04f7e3e93f2d48fbc1b083f5936830e8834b73a543af32650d1e"
+      },
+      {
+        "text": "我于往昔节节支解时，若有我相、人相、众生相、寿者相，应生瞋恨。须菩提！又念过去于五百世作忍辱仙人，于尔所世，无我相、无人相、无众生相、无寿者相。是故，须菩提！菩萨应离一切相，发阿耨多罗三藐三菩提心，不应住色生心，不应住声、香、味、触、法生心，应生无所住心。若心有住，则为非住。",
+        "pinyin": "wǒ yú wǎng xī jié jié zhī jiě shí ， ruò yǒu wǒ xiāng 、 rén xiāng 、 zhòng shēng xiàng 、 shòu zhě xiāng ， yīng shēng chēn hèn 。 xū pú tí ！ yòu niàn guò qù yú wǔ bǎi shì zuò rěn rǔ xiān rén ， yú ěr suǒ shì ， wú wǒ xiāng 、 wú rén xiāng 、 wú zhòng shēng xiàng 、 wú shòu zhě xiāng 。 shì gù ， xū pú tí ！ pú sà yīng lí yī qiè xiāng ， fā ā nòu duō luó sān miǎo sān pú tí xīn ， bù yīng zhù sè shēng xīn ， bù yīng zhù shēng 、 xiāng 、 wèi 、 chù 、 fǎ shēng xīn ， yīng shēng wú suǒ zhù xīn 。 ruò xīn yǒu zhù ， zé wèi fēi zhù 。",
+        "speechText": "我于往昔节节支解时，若有我相、人相、众生相、寿者相，应生瞋恨。须菩提！又念过去于五百世作忍辱仙人，于尔所世，无我相、无人相、无众生相、无寿者相。是故，须菩提！菩萨应离一切相，发阿耨多罗三藐三菩提心，不应住色生心，不应住声、香、味、触、法生心，应生无所住心。若心有住，则为非住。",
+        "audio": "audio/diamond_sutra/02babf1718b50f27.mp3",
+        "textHash": "b38e44f4ab4586d23ac650daed56634991187cc3e6b0058508a598984f2aac0a"
+      },
+      {
+        "text": "是故，佛说菩萨心不应住色布施。",
+        "pinyin": "shì gù ， fú shuō pú sà xīn bù yīng zhù sè bù shī 。",
+        "speechText": "是故，佛说菩萨心不应住色布施。",
+        "audio": "audio/diamond_sutra/d7bc18057eea883f.mp3",
+        "textHash": "3dbc25619fab410405003d7e520df6a23a8569f31ebbcc26be90b271bee85830"
+      },
+      {
+        "text": "「须菩提！菩萨为利益一切众生，应如是布施。如来说：『一切诸相，即是非相。』又说：『一切众生，则非众生。』",
+        "pinyin": "「 xū pú tí ！ pú sà wèi lì yì yī qiè zhòng shēng ， yīng rú shì bù shī 。 rú lái shuō ： 『 yī qiè zhū xiāng ， jí shì fēi xiāng 。 』 yòu shuō ： 『 yī qiè zhòng shēng ， zé fēi zhòng shēng 。 』",
+        "speechText": "「须菩提！菩萨为利益一切众生，应如是布施。如来说：『一切诸相，即是非相。』又说：『一切众生，则非众生。』",
+        "audio": "audio/diamond_sutra/d31b625297410f5c.mp3",
+        "textHash": "4262397aa40288ae63ee0ca41b928ef1fd3679fca214d7f1f1e6a34f8b96a33d"
+      },
+      {
+        "text": "「须菩提！如来是真语者、实语者、如语者、不诳语者、不异语者。",
+        "pinyin": "「 xū pú tí ！ rú lái shì zhēn yǔ zhě 、 shí yǔ zhě 、 rú yǔ zhě 、 bù kuáng yǔ zhě 、 bù yì yǔ zhě 。",
+        "speechText": "「须菩提！如来是真语者、实语者、如语者、不诳语者、不异语者。",
+        "audio": "audio/diamond_sutra/2d070ed630cd3759.mp3",
+        "textHash": "ea0e8d218e518fd65c549cfb1c9b1b7cf2cfe20cf4a394c2b72b055312dcd3d7"
+      },
+      {
+        "text": "「须菩提！如来所得法，此法无实无虚。须菩提！若菩萨心住于法而行布施，如人入暗，则无所见；若菩萨心不住法而行布施，如人有目，日光明照，见种种色。",
+        "pinyin": "「 xū pú tí ！ rú lái suǒ de fǎ ， cǐ fǎ wú shí wú xū 。 xū pú tí ！ ruò pú sà xīn zhù yú fǎ ér xíng bù shī ， rú rén rù àn ， zé wú suǒ jiàn ； ruò pú sà xīn bú zhù fǎ ér xíng bù shī ， rú rén yǒu mù ， rì guāng míng zhào ， jiàn zhǒng zhǒng sè 。",
+        "speechText": "「须菩提！如来所得法，此法无实无虚。须菩提！若菩萨心住于法而行布施，如人入暗，则无所见；若菩萨心不住法而行布施，如人有目，日光明照，见种种色。",
+        "audio": "audio/diamond_sutra/8e1acb5583ac71c1.mp3",
+        "textHash": "978cd5f35d7008f1621b2c2a23caaa0684e004b31da04b686a8e3b934bbac80c"
+      },
+      {
+        "text": "「须菩提！当来之世，若有善男子、善女人，能于此经受持、读诵，则为如来以佛智慧悉知是人，悉见是人，皆得成就无量无边功德。",
+        "pinyin": "「 xū pú tí ！ dāng lái zhī shì ， ruò yǒu shàn nán zi 、 shàn nǚ rén ， néng yú cǐ jīng shòu chí 、 dú sòng ， zé wèi rú lái yǐ fú zhì huì xī zhī shì rén ， xī jiàn shì rén ， jiē dé chéng jiù wú liàng wú biān gōng dé 。",
+        "speechText": "「须菩提！当来之世，若有善男子、善女人，能于此经受持、读诵，则为如来以佛智慧悉知是人，悉见是人，皆得成就无量无边功德。",
+        "audio": "audio/diamond_sutra/07d0e8afd450335d.mp3",
+        "textHash": "cf98356c01e80801be3eb39ec340932c3f361fe2672bbd79b3e12b6f1dd0b04e"
+      },
+      {
+        "text": "「须菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分复以恒河沙等身布施，后日分亦以恒河沙等身布施，如是无量百千万亿劫以身布施；若复有人，闻此经典，信心不逆，其福胜彼，何况书写、受持、读诵、为人解说。",
+        "pinyin": "「 xū pú tí ！ ruò yǒu shàn nán zi 、 shàn nǚ rén ， chū rì fēn yǐ héng hé shā děng shēn bù shī ， zhōng rì fēn fù yǐ héng hé shā děng shēn bù shī ， hòu rì fēn yì yǐ héng hé shā děng shēn bù shī ， rú shì wú liàng bǎi qiān wàn yì jié yǐ shēn bù shī ； ruò fù yǒu rén ， wén cǐ jīng diǎn ， xìn xīn bù nì ， qí fú shèng bǐ ， hé kuàng shū xiě 、 shòu chí 、 dú sòng 、 wéi rén jiě shuō 。",
+        "speechText": "「须菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分复以恒河沙等身布施，后日分亦以恒河沙等身布施，如是无量百千万亿劫以身布施；若复有人，闻此经典，信心不逆，其福胜彼，何况书写、受持、读诵、为人解说。",
+        "audio": "audio/diamond_sutra/495e05f97f2eadcf.mp3",
+        "textHash": "5c71d76ea6b27ac10d6886248873c7e94d338035c5edb3ea367a4e2b8cb4c3de"
+      },
+      {
+        "text": "「须菩提！以要言之，是经有不可思议、不可称量、无边功德。如来为发大乘者说，为发最上乘者说。若有人能受持、读诵、广为人说，如来悉知是人，悉见是人，皆得成就不可量、不可称、无有边、不可思议功德，如是人等，则为荷担如来阿耨多罗三藐三菩提。何以故？须菩提！",
+        "pinyin": "「 xū pú tí ！ yǐ yào yán zhī ， shì jīng yǒu bù kě sī yì 、 bù kě chēng liáng 、 wú biān gōng dé 。 rú lái wèi fā dà shèng zhě shuō ， wèi fā zuì shàng chéng zhě shuō 。 ruò yǒu rén néng shòu chí 、 dú sòng 、 guǎng wéi rén shuō ， rú lái xī zhī shì rén ， xī jiàn shì rén ， jiē dé chéng jiù bù kě liàng 、 bù kě chēng 、 wú yǒu biān 、 bù kě sī yì gōng dé ， rú shì rén děng ， zé wèi hé dān rú lái ā nòu duō luó sān miǎo sān pú tí 。 hé yǐ gù ？ xū pú tí ！",
+        "speechText": "「须菩提！以要言之，是经有不可思议、不可称量、无边功德。如来为发大胜者说，为发最上乘者说。若有人能受持、读诵、广为人说，如来悉知是人，悉见是人，皆得成就不可量、不可称、无有边、不可思议功德，如是人等，则为荷担如来阿耨多罗三藐三菩提。何以故？须菩提！",
+        "audio": "audio/diamond_sutra/3509cd58a4e8d76e.mp3",
+        "textHash": "b9355ae526a39a031599ca8782d3f672c214f0f05d74636437f8be02f86fde63"
+      },
+      {
+        "text": "若乐小法者，著我见、人见、众生见、寿者见，则于此经，不能听受、读诵、为人解说。",
+        "pinyin": "ruò lè xiǎo fǎ zhě ， zhù wǒ jiàn 、 rén jiàn 、 zhòng shēng jiàn 、 shòu zhě jiàn ， zé yú cǐ jīng ， bù néng tīng shòu 、 dú sòng 、 wéi rén jiě shuō 。",
+        "speechText": "若乐小法者，著我见、人见、众生见、寿者见，则于此经，不能听受、读诵、为人解说。",
+        "audio": "audio/diamond_sutra/a69912023c45ca8b.mp3",
+        "textHash": "503bba966b49cd670d775ad029c1f9f787a3608a32a6f05b325be028fbb5cfa2"
+      },
+      {
+        "text": "「须菩提！在在处处若有此经，一切世间天、人、阿修罗所应供养；当知此处则为是塔，皆应恭敬、作礼、围绕，以诸华香而散其处。",
+        "pinyin": "「 xū pú tí ！ zài zài chù chù ruò yǒu cǐ jīng ， yī qiè shì jiān tiān 、 rén 、 ā xiū luó suǒ yìng gòng yǎng ； dāng zhī cǐ chù zé wèi shì tǎ ， jiē yīng gōng jìng 、 zuò lǐ 、 wéi rào ， yǐ zhū huá xiāng ér sàn qí chù 。",
+        "speechText": "「须菩提！在在处处若有此经，一切世间天、人、阿修罗所应贡养；当知此处则为是塔，皆应恭敬、作礼、围绕，以诸华香而散其处。",
+        "audio": "audio/diamond_sutra/523d581d3642cd14.mp3",
+        "textHash": "2a5a883baa49be33a032fadab0d7b3f48e4fdb538d3faa5bf345843d71186674"
+      },
+      {
+        "text": "「复次，须菩提！善男子、善女人受持、读诵此经，若为人轻贱，是人先世罪业应堕恶道，以今世人轻贱故，先世罪业则为消灭，当得阿耨多罗三藐三菩提。",
+        "pinyin": "「 fù cì ， xū pú tí ！ shàn nán zi 、 shàn nǚ rén shòu chí 、 dú sòng cǐ jīng ， ruò wéi rén qīng jiàn ， shì rén xiān shì zuì yè yīng duò è dào ， yǐ jīn shì rén qīng jiàn gù ， xiān shì zuì yè zé wèi xiāo miè ， dāng dé ā nòu duō luó sān miǎo sān pú tí 。",
+        "speechText": "「复次，须菩提！善男子、善女人受持、读诵此经，若为人轻贱，是人先世罪业应堕恶道，以今世人轻贱故，先世罪业则为消灭，当得阿耨多罗三藐三菩提。",
+        "audio": "audio/diamond_sutra/9598dd9a1525baff.mp3",
+        "textHash": "52fa12938a56824523a18f77fa2447841bd10d675ac46d7922e2d59d29b6ea57"
+      },
+      {
+        "text": "「须菩提！我念过去无量阿僧祇劫，于然灯佛前，得值八百四千万亿那由他诸佛，悉皆供养承事，无空过者；若复有人，于后末世，能受持、读诵此经，所得功德，于我所供养诸佛功德，百分不及一，千万亿分乃至算数、譬喻所不能及。",
+        "pinyin": "「 xū pú tí ！ wǒ niàn guò qù wú liàng ā sēng qí jié ， yú rán dēng fú qián ， dé zhí bā bǎi sì qiān wàn yì nà yóu tā zhū fú ， xī jiē gòng yǎng chéng shì ， wú kōng guò zhě ； ruò fù yǒu rén ， yú hòu mò shì ， néng shòu chí 、 dú sòng cǐ jīng ， suǒ de gōng dé ， yú wǒ suǒ gòng yǎng zhū fú gōng dé ， bǎi fēn bù jí yī ， qiān wàn yì fēn nǎi zhì suàn shù 、 pì yù suǒ bù néng jí 。",
+        "speechText": "「须菩提！我念过去无量阿僧其劫，于然灯佛前，得值八百四千万亿那由他诸佛，悉皆供养承事，无空过者；若复有人，于后末世，能受持、读诵此经，所得功德，于我所供养诸佛功德，百分不及一，千万亿分乃至算数、譬喻所不能及。",
+        "audio": "audio/diamond_sutra/e38b0d468c138e7d.mp3",
+        "textHash": "89e9a6d41f6ecd336709f569f36e4ffe49ae6496c9c42884891a776b75fd607b"
+      },
+      {
+        "text": "「须菩提！若善男子、善女人于后末世，有受持、读诵此经所得功德，我若具说者，或有人闻，心则狂乱，狐疑不信。须菩提！当知是经义不可思议，果报亦不可思议。」",
+        "pinyin": "「 xū pú tí ！ ruò shàn nán zi 、 shàn nǚ rén yú hòu mò shì ， yǒu shòu chí 、 dú sòng cǐ jīng suǒ de gōng dé ， wǒ ruò jù shuō zhě ， huò yǒu rén wén ， xīn zé kuáng luàn ， hú yí bù xìn 。 xū pú tí ！ dāng zhī shì jīng yì bù kě sī yì ， guǒ bào yì bù kě sī yì 。 」",
+        "speechText": "「须菩提！若善男子、善女人于后末世，有受持、读诵此经所得功德，我若具说者，或有人闻，心则狂乱，狐疑不信。须菩提！当知是经义不可思议，果报亦不可思议。」",
+        "audio": "audio/diamond_sutra/1977d0e526017d3d.mp3",
+        "textHash": "41c08f0a6bfd42ac6b4ec58b4b42a16b5c1add9e410836ec9eb6d3b9ea6bdb51"
+      },
+      {
+        "text": "尔时，须菩提白佛言：「世尊！善男子、善女人发阿耨多罗三藐三菩提心，云何应住？云何降伏其心？」",
+        "pinyin": "ěr shí ， xū pú tí bái fú yán ： 「 shì zūn ！ shàn nán zi 、 shàn nǚ rén fā ā nòu duō luó sān miǎo sān pú tí xīn ， yún hé yīng zhù ？ yún hé xiáng fú qí xīn ？ 」",
+        "speechText": "尔时，须菩提白佛言：「世尊！善男子、善女人发阿耨多罗三藐三菩提心，云何应住？云何祥伏其心？」",
+        "audio": "audio/diamond_sutra/9dd42c40e931eb04.mp3",
+        "textHash": "dfdd7b63f5a32932d40bca03f7b1a26187633006fb01a30c6fe060b8953e6cac"
+      },
+      {
+        "text": "佛告须菩提：「善男子、善女人发阿耨多罗三藐三菩提者，当生如是心：『我应灭度一切众生。灭度一切众生已，而无有一众生实灭度者。』何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，则非菩萨。所以者何？须菩提！实无有法发阿耨多罗三藐三菩提者。",
+        "pinyin": "fú gào xū pú tí ： 「 shàn nán zi 、 shàn nǚ rén fā ā nòu duō luó sān miǎo sān pú tí zhě ， dāng shēng rú shì xīn ： 『 wǒ yīng miè dù yī qiè zhòng shēng 。 miè dù yī qiè zhòng shēng yǐ ， ér wú yǒu yī zhòng shēng shí miè dù zhě 。 』 hé yǐ gù ？ xū pú tí ！ ruò pú sà yǒu wǒ xiāng 、 rén xiāng 、 zhòng shēng xiàng 、 shòu zhě xiāng ， zé fēi pú sà 。 suǒ yǐ zhě hé ？ xū pú tí ！ shí wú yǒu fǎ fā ā nòu duō luó sān miǎo sān pú tí zhě 。",
+        "speechText": "佛告须菩提：「善男子、善女人发阿耨多罗三藐三菩提者，当生如是心：『我应灭度一切众生。灭度一切众生已，而无有一众生实灭度者。』何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，则非菩萨。所以者何？须菩提！实无有法发阿耨多罗三藐三菩提者。",
+        "audio": "audio/diamond_sutra/ecc06e47af1b10f1.mp3",
+        "textHash": "a2c4da94a93c10331c7ce3ec7d736a2e245418a6999236a77ce1c1e924fa3da6"
+      },
+      {
+        "text": "「须菩提！于意云何？如来于然灯佛所，有法得阿耨多罗三藐三菩提不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái yú rán dēng fú suǒ ， yǒu fǎ dé ā nòu duō luó sān miǎo sān pú tí bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来于然灯佛所，有法得阿耨多罗三藐三菩提不？」",
+        "audio": "audio/diamond_sutra/bc12d188e21998d6.mp3",
+        "textHash": "8935b23d97c813852d7b52c9fbc1e12236fb53dcf088d55bd792f6ef032e95c1"
+      },
+      {
+        "text": "「不也，世尊！如我解佛所说义，佛于然灯佛所，无有法得阿耨多罗三藐三菩提。」",
+        "pinyin": "「 bù yě ， shì zūn ！ rú wǒ jiě fú suǒ shuō yì ， fú yú rán dēng fú suǒ ， wú yǒu fǎ dé ā nòu duō luó sān miǎo sān pú tí 。 」",
+        "speechText": "「不也，世尊！如我解佛所说义，佛于然灯佛所，无有法得阿耨多罗三藐三菩提。」",
+        "audio": "audio/diamond_sutra/a135bf017c772cc8.mp3",
+        "textHash": "e02e18d712f3f46773cddaf37520bdb67ee3d659f9d8f10d3509aa8ff3783b8e"
+      },
+      {
+        "text": "佛言：「如是，如是！须菩提！实无有法，如来得阿耨多罗三藐三菩提。须菩提！若有法，如来得阿耨多罗三藐三菩提者，然灯佛则不与我受记：『汝于来世当得作佛，号释迦牟尼。』以实无有法得阿耨多罗三藐三菩提，是故然灯佛与我受记，作是言：『汝于来世当得作佛，号释迦牟尼。』何以故？如来者，即诸法如义。",
+        "pinyin": "fú yán ： 「 rú shì ， rú shì ！ xū pú tí ！ shí wú yǒu fǎ ， rú lái de ā nòu duō luó sān miǎo sān pú tí 。 xū pú tí ！ ruò yǒu fǎ ， rú lái de ā nòu duō luó sān miǎo sān pú tí zhě ， rán dēng fú zé bù yǔ wǒ shòu jì ： 『 rǔ yú lái shì dāng dé zuò fú ， hào shì jiā mù ní 。 』 yǐ shí wú yǒu fǎ dé ā nòu duō luó sān miǎo sān pú tí ， shì gù rán dēng fú yǔ wǒ shòu jì ， zuò shì yán ： 『 rǔ yú lái shì dāng dé zuò fú ， hào shì jiā mù ní 。 』 hé yǐ gù ？ rú lái zhě ， jí zhū fǎ rú yì 。",
+        "speechText": "佛言：「如是，如是！须菩提！实无有法，如来得阿耨多罗三藐三菩提。须菩提！若有法，如来得阿耨多罗三藐三菩提者，然灯佛则不与我受记：『汝于来世当得作佛，号释迦牟尼。』以实无有法得阿耨多罗三藐三菩提，是故然灯佛与我受记，作是言：『汝于来世当得作佛，号释迦牟尼。』何以故？如来者，即诸法如义。",
+        "audio": "audio/diamond_sutra/b113950aa49aab16.mp3",
+        "textHash": "1874c9b9f294d4dba3634dca4b2f8dc60ee834474a5ff82874419717120f184d"
+      },
+      {
+        "text": "「若有人言『如来得阿耨多罗三藐三菩提』，须菩提！实无有法，佛得阿耨多罗三藐三菩提。须菩提！如来所得阿耨多罗三藐三菩提，于是中无实无虚，是故如来说：『一切法皆是佛法。』须菩提！所言一切法者，即非一切法，是故名一切法。",
+        "pinyin": "「 ruò yǒu rén yán 『 rú lái de ā nòu duō luó sān miǎo sān pú tí 』 ， xū pú tí ！ shí wú yǒu fǎ ， fú dé ā nòu duō luó sān miǎo sān pú tí 。 xū pú tí ！ rú lái suǒ de ā nòu duō luó sān miǎo sān pú tí ， yú shì zhōng wú shí wú xū ， shì gù rú lái shuō ： 『 yī qiè fǎ jiē shì fó fǎ 。 』 xū pú tí ！ suǒ yán yī qiè fǎ zhě ， jí fēi yī qiè fǎ ， shì gù míng yī qiè fǎ 。",
+        "speechText": "「若有人言『如来得阿耨多罗三藐三菩提』，须菩提！实无有法，佛得阿耨多罗三藐三菩提。须菩提！如来所得阿耨多罗三藐三菩提，于是中无实无虚，是故如来说：『一切法皆是佛法。』须菩提！所言一切法者，即非一切法，是故名一切法。",
+        "audio": "audio/diamond_sutra/003089a4dac8aea1.mp3",
+        "textHash": "a0f59541914d2564802c911e4523a333432d0728dd6f14b634e88c03b023fbe1"
+      },
+      {
+        "text": "「须菩提！譬如人身长、大。」",
+        "pinyin": "「 xū pú tí ！ pì rú rén shēn cháng 、 dà 。 」",
+        "speechText": "「须菩提！譬如人身长、大。」",
+        "audio": "audio/diamond_sutra/27a037955b5e42d4.mp3",
+        "textHash": "481139dc87fc1ed1da200bb6a82de708127ee578dd64b5346d8ce6deee39469a"
+      },
+      {
+        "text": "须菩提言：「世尊！如来说人身长、大，则为非大身，是名大身。」",
+        "pinyin": "xū pú tí yán ： 「 shì zūn ！ rú lái shuō rén shēn cháng 、 dà ， zé wèi fēi dà shēn ， shì míng dà shēn 。 」",
+        "speechText": "须菩提言：「世尊！如来说人身长、大，则为非大身，是名大身。」",
+        "audio": "audio/diamond_sutra/bad11c4f754be79c.mp3",
+        "textHash": "4a40645862a93cf2061e991c9e2854d76a00649f001144d030d569d864206783"
+      },
+      {
+        "text": "「须菩提！菩萨亦如是，若作是言『我当灭度无量众生』，则不名菩萨。何以故？须菩提！实无有法名为菩萨。是故，佛说：『一切法无我、无人、无众生、无寿者。』须菩提！若菩萨作是言『我当庄严佛土』，是不名菩萨。何以故？如来说庄严佛土者，即非庄严，是名庄严。须菩提！若菩萨通达无我、法者，如来说名真是菩萨。",
+        "pinyin": "「 xū pú tí ！ pú sà yì rú shì ， ruò zuò shì yán 『 wǒ dāng miè dù wú liàng zhòng shēng 』 ， zé bù míng pú sà 。 hé yǐ gù ？ xū pú tí ！ shí wú yǒu fǎ míng wèi pú sà 。 shì gù ， fú shuō ： 『 yī qiè fǎ wú wǒ 、 wú rén 、 wú zhòng shēng 、 wú shòu zhě 。 』 xū pú tí ！ ruò pú sà zuò shì yán 『 wǒ dāng zhuāng yán fú tǔ 』 ， shì bù míng pú sà 。 hé yǐ gù ？ rú lái shuō zhuāng yán fú tǔ zhě ， jí fēi zhuāng yán ， shì míng zhuāng yán 。 xū pú tí ！ ruò pú sà tōng dá wú wǒ 、 fǎ zhě ， rú lái shuō míng zhēn shì pú sà 。",
+        "speechText": "「须菩提！菩萨亦如是，若作是言『我当灭度无量众生』，则不名菩萨。何以故？须菩提！实无有法名为菩萨。是故，佛说：『一切法无我、无人、无众生、无寿者。』须菩提！若菩萨作是言『我当庄严佛土』，是不名菩萨。何以故？如来说庄严佛土者，即非庄严，是名庄严。须菩提！若菩萨通达无我、法者，如来说名真是菩萨。",
+        "audio": "audio/diamond_sutra/8d2f24c0c9177531.mp3",
+        "textHash": "9421c3a2c05b2fd0d723cae8c043896e96a59d72ab50c4dd3b0a4c85f36719a5"
+      },
+      {
+        "text": "「须菩提！于意云何？如来有肉眼不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái yǒu ròu yǎn bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来有肉眼不？」",
+        "audio": "audio/diamond_sutra/fc283c63100add30.mp3",
+        "textHash": "ea8beb948f068b6320e5d1abae4bbd7efd71955e5bd1bbce6e40c939e08b01c9"
+      },
+      {
+        "text": "「如是，世尊！如来有肉眼。」",
+        "pinyin": "「 rú shì ， shì zūn ！ rú lái yǒu ròu yǎn 。 」",
+        "speechText": "「如是，世尊！如来有肉眼。」",
+        "audio": "audio/diamond_sutra/b7b3daaa8b4b29c9.mp3",
+        "textHash": "52ade75fb368a37ce420e438eec77cd989df8676bdc9eac883332a6cf53a0363"
+      },
+      {
+        "text": "「须菩提！于意云何？如来有天眼不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái yǒu tiān yǎn bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来有天眼不？」",
+        "audio": "audio/diamond_sutra/2bb67661736b07da.mp3",
+        "textHash": "17f6bcecd4536a8396e0ce9bf634814d55b8841d45aacf78a80b9e74a04053ce"
+      },
+      {
+        "text": "「如是，世尊！如来有天眼。」",
+        "pinyin": "「 rú shì ， shì zūn ！ rú lái yǒu tiān yǎn 。 」",
+        "speechText": "「如是，世尊！如来有天眼。」",
+        "audio": "audio/diamond_sutra/c444d04429a781bb.mp3",
+        "textHash": "dd44c2ce7cf7a543ab559c6ff26448e1605e6c4b3d9695fc7f5d5d0f65d34393"
+      },
+      {
+        "text": "「须菩提！于意云何？如来有慧眼不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái yǒu huì yǎn bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来有慧眼不？」",
+        "audio": "audio/diamond_sutra/cb96e25d7c73296e.mp3",
+        "textHash": "5447123f79bb4c8ea7025f9917a7e9f5323c6a3508d662648748ba3f2c8e37ac"
+      },
+      {
+        "text": "「如是，世尊！如来有慧眼。」",
+        "pinyin": "「 rú shì ， shì zūn ！ rú lái yǒu huì yǎn 。 」",
+        "speechText": "「如是，世尊！如来有慧眼。」",
+        "audio": "audio/diamond_sutra/b2e065438ec2f45e.mp3",
+        "textHash": "155dfabb3a1c5e540fbdc0206fb66c1f2a49eae5cd84dfb311adb20337078c70"
+      },
+      {
+        "text": "「须菩提！于意云何？如来有法眼不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái yǒu fǎ yǎn bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来有法眼不？」",
+        "audio": "audio/diamond_sutra/f133fa7a01e5fecc.mp3",
+        "textHash": "a01ebe485848bbc91a4fec4a27d642edc2bbf8ee38289d1dcf0fdecbac376821"
+      },
+      {
+        "text": "「如是，世尊！如来有法眼。」",
+        "pinyin": "「 rú shì ， shì zūn ！ rú lái yǒu fǎ yǎn 。 」",
+        "speechText": "「如是，世尊！如来有法眼。」",
+        "audio": "audio/diamond_sutra/1f9213fda0e0f80d.mp3",
+        "textHash": "ebacc82a9ae0701ce271cef8fe1aa63e941b98d7a4528acff2b8efbaa7eb22bc"
+      },
+      {
+        "text": "「须菩提！于意云何？如来有佛眼不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái yǒu fú yǎn bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来有佛眼不？」",
+        "audio": "audio/diamond_sutra/172a9c1797127b21.mp3",
+        "textHash": "0076c0442c8f4d0f6bd5c257e355f32294ef96683712a9b7cb33abc2d33fe170"
+      },
+      {
+        "text": "「如是，世尊！如来有佛眼。」",
+        "pinyin": "「 rú shì ， shì zūn ！ rú lái yǒu fú yǎn 。 」",
+        "speechText": "「如是，世尊！如来有佛眼。」",
+        "audio": "audio/diamond_sutra/65a69ef7fc8f558b.mp3",
+        "textHash": "b874daebff987412733361801540dde9214ae16aefaad053e18c072f5240d367"
+      },
+      {
+        "text": "「须菩提！于意云何？恒河中所有沙，佛说是沙不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ héng hé zhōng suǒ yǒu shā ， fú shuō shì shā bù ？ 」",
+        "speechText": "「须菩提！于意云何？恒河中所有沙，佛说是沙不？」",
+        "audio": "audio/diamond_sutra/bf8162f4b26381ca.mp3",
+        "textHash": "8da35f1abf82b40047fc3e7009e8b4464f4f8b3943ecc1747cfd411afbdf91a1"
+      },
+      {
+        "text": "「如是，世尊！如来说是沙。」",
+        "pinyin": "「 rú shì ， shì zūn ！ rú lái shuō shì shā 。 」",
+        "speechText": "「如是，世尊！如来说是沙。」",
+        "audio": "audio/diamond_sutra/79f2b751efbb5537.mp3",
+        "textHash": "b901e860278ab4af77521894aeabf552d16b616f282aa2df067d1b3747980567"
+      },
+      {
+        "text": "「须菩提！于意云何？如一恒河中所有沙，有如是等恒河，是诸恒河所有沙数佛世界，如是宁为多不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú yī héng hé zhōng suǒ yǒu shā ， yǒu rú shì děng héng hé ， shì zhū héng hé suǒ yǒu shā shù fú shì jiè ， rú shì níng wèi duō bù ？ 」",
+        "speechText": "「须菩提！于意云何？如一恒河中所有沙，有如是等恒河，是诸恒河所有沙数佛世界，如是宁为多不？」",
+        "audio": "audio/diamond_sutra/387a84e9c374f90c.mp3",
+        "textHash": "8574a1fb8f947abf12f10c245b8ef15eb3f3c962f8b68eb2b5667df45d3126e0"
+      },
+      {
+        "text": "「甚多，世尊！」",
+        "pinyin": "「 shèn duō ， shì zūn ！ 」",
+        "speechText": "「甚多，世尊！」",
+        "audio": "audio/diamond_sutra/ec681994b097ee18.mp3",
+        "textHash": "862ed8968e39e78a03ba645b1f4e41374ff45d906d22aa22d311b0111cf5ad8e"
+      },
+      {
+        "text": "佛告须菩提：「尔所国土中，所有众生若干种心，如来悉知。何以故？如来说诸心，皆为非心，是名为心。所以者何？须菩提！过去心不可得，现在心不可得，未来心不可得。",
+        "pinyin": "fú gào xū pú tí ： 「 ěr suǒ guó tǔ zhōng ， suǒ yǒu zhòng shēng ruò gān zhǒng xīn ， rú lái xī zhī 。 hé yǐ gù ？ rú lái shuō zhū xīn ， jiē wèi fēi xīn ， shì míng wèi xīn 。 suǒ yǐ zhě hé ？ xū pú tí ！ guò qù xīn bù kě dé ， xiàn zài xīn bù kě dé ， wèi lái xīn bù kě dé 。",
+        "speechText": "佛告须菩提：「尔所国土中，所有众生若干种心，如来悉知。何以故？如来说诸心，皆为非心，是名为心。所以者何？须菩提！过去心不可得，现在心不可得，未来心不可得。",
+        "audio": "audio/diamond_sutra/752e810c459f4a18.mp3",
+        "textHash": "5866ad371d736f61d7c257165b9efd6b17d488cf1d0225b0ba2c390f69ab91ae"
+      },
+      {
+        "text": "「须菩提！于意云何？若有人满三千大千世界七宝以用布施，是人以是因缘得福多不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ ruò yǒu rén mǎn sān qiān dà qiān shì jiè qī bǎo yǐ yòng bù shī ， shì rén yǐ shì yīn yuán dé fú duō bù ？ 」",
+        "speechText": "「须菩提！于意云何？若有人满三千大千世界七宝以用布施，是人以是因缘得福多不？」",
+        "audio": "audio/diamond_sutra/0004d132815dc2df.mp3",
+        "textHash": "367548f82a50178772d4da083601719e99e0f5e61ab53eace8e1cefd968ba343"
+      },
+      {
+        "text": "「如是，世尊！此人以是因缘得福甚多。」",
+        "pinyin": "「 rú shì ， shì zūn ！ cǐ rén yǐ shì yīn yuán dé fú shèn duō 。 」",
+        "speechText": "「如是，世尊！此人以是因缘得福甚多。」",
+        "audio": "audio/diamond_sutra/7ba110790d4d0f28.mp3",
+        "textHash": "272ef8aa3cc8eaa59a7ae607b98479bc221cb7e9e5e3acbc803a1d6cc2912711"
+      },
+      {
+        "text": "「须菩提！若福德有实，如来不说得福德多；以福德无故，如来说得福德多。",
+        "pinyin": "「 xū pú tí ！ ruò fú dé yǒu shí ， rú lái bù shuō dé fú dé duō ； yǐ fú dé wú gù ， rú lái shuō dé fú dé duō 。",
+        "speechText": "「须菩提！若福德有实，如来不说得福德多；以福德无故，如来说得福德多。",
+        "audio": "audio/diamond_sutra/4667cd2f7011002b.mp3",
+        "textHash": "88c379c0a1bf68bdb1d03e33ae37871ba9acff0add4abf753bd71864ce03076d"
+      },
+      {
+        "text": "「须菩提！于意云何？佛可以具足色身见不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ fú kě yǐ jù zú sè shēn jiàn bù ？ 」",
+        "speechText": "「须菩提！于意云何？佛可以具足色身见不？」",
+        "audio": "audio/diamond_sutra/eb2837e9746485e0.mp3",
+        "textHash": "dfda6a51dc42ac186c86da987ed017c2729797f0d878fc2ec8648cf909295ab0"
+      },
+      {
+        "text": "「不也，世尊！如来不应以具足色身见。何以故？如来说具足色身，即非具足色身，是名具足色身。」",
+        "pinyin": "「 bù yě ， shì zūn ！ rú lái bù yīng yǐ jù zú sè shēn jiàn 。 hé yǐ gù ？ rú lái shuō jù zú sè shēn ， jí fēi jù zú sè shēn ， shì míng jù zú sè shēn 。 」",
+        "speechText": "「不也，世尊！如来不应以具足色身见。何以故？如来说具足色身，即非具足色身，是名具足色身。」",
+        "audio": "audio/diamond_sutra/1ef25e44cf71429b.mp3",
+        "textHash": "71e9d0f66cb0ace19afeba4df1899cf091332cc539ae5acebd25768b6aaa9da6"
+      },
+      {
+        "text": "「须菩提！于意云何？如来可以具足诸相见不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rú lái kě yǐ jù zú zhū xiāng jiàn bù ？ 」",
+        "speechText": "「须菩提！于意云何？如来可以具足诸相见不？」",
+        "audio": "audio/diamond_sutra/27cb2795b1e4cf01.mp3",
+        "textHash": "425650e45ae93d35204e7801d27d733182c947063fd96c8d49cafb74285a5bb4"
+      },
+      {
+        "text": "「不也，世尊！如来不应以具足诸相见。何以故？如来说诸相具足，即非具足，是名诸相具足。」",
+        "pinyin": "「 bù yě ， shì zūn ！ rú lái bù yīng yǐ jù zú zhū xiāng jiàn 。 hé yǐ gù ？ rú lái shuō zhū xiāng jù zú ， jí fēi jù zú ， shì míng zhū xiāng jù zú 。 」",
+        "speechText": "「不也，世尊！如来不应以具足诸相见。何以故？如来说诸相具足，即非具足，是名诸相具足。」",
+        "audio": "audio/diamond_sutra/4cea28d759a48706.mp3",
+        "textHash": "a10f87903e0bf0859f130703916b4196f47ae99c883f706cdbb4e17bd5cb705f"
+      },
+      {
+        "text": "「须菩提！汝勿谓如来作是念，『我当有所说法』。莫作是念，何以故？若人言『如来有所说法』，即为谤佛，不能解我所说故。须菩提！说法者，无法可说，是名说法。」",
+        "pinyin": "「 xū pú tí ！ rǔ wù wèi rú lái zuò shì niàn ， 『 wǒ dāng yǒu suǒ shuō fǎ 』 。 mò zuò shì niàn ， hé yǐ gù ？ ruò rén yán 『 rú lái yǒu suǒ shuō fǎ 』 ， jí wèi bàng fú ， bù néng jiě wǒ suǒ shuō gù 。 xū pú tí ！ shuō fǎ zhě ， wú fǎ kě shuō ， shì míng shuō fǎ 。 」",
+        "speechText": "「须菩提！汝勿谓如来作是念，『我当有所说法』。莫作是念，何以故？若人言『如来有所说法』，即为谤佛，不能解我所说故。须菩提！说法者，无法可说，是名说法。」",
+        "audio": "audio/diamond_sutra/fa9e3ca15fadc73f.mp3",
+        "textHash": "0bb6778267c4de22cc080a8008e51689021e9fef24fcba3456ecebca3a66621f"
+      },
+      {
+        "text": "尔时，慧命须菩提白佛言：「世尊！颇有众生于未来世，闻说是法生信心不？」",
+        "pinyin": "ěr shí ， huì mìng xū pú tí bái fú yán ： 「 shì zūn ！ pǒ yǒu zhòng shēng yú wèi lái shì ， wén shuō shì fǎ shēng xìn xīn bù ？ 」",
+        "speechText": "尔时，慧命须菩提白佛言：「世尊！颇有众生于未来世，闻说是法生信心不？」",
+        "audio": "audio/diamond_sutra/4351822fd0b16523.mp3",
+        "textHash": "a82eecf750a500daabd41109b8b456ca073823536614285c9779ed0a1bf2bb49"
+      },
+      {
+        "text": "佛言：「须菩提！彼非众生，非不众生。何以故？须菩提！众生、众生者，如来说非众生，是名众生。」",
+        "pinyin": "fú yán ： 「 xū pú tí ！ bǐ fēi zhòng shēng ， fēi bù zhòng shēng 。 hé yǐ gù ？ xū pú tí ！ zhòng shēng 、 zhòng shēng zhě ， rú lái shuō fēi zhòng shēng ， shì míng zhòng shēng 。 」",
+        "speechText": "佛言：「须菩提！彼非众生，非不众生。何以故？须菩提！众生、众生者，如来说非众生，是名众生。」",
+        "audio": "audio/diamond_sutra/208de127e7af3c65.mp3",
+        "textHash": "e70ebd8972a71ff21a86f4f691f33f5c7b3f1f6647d185343944bc27b94584dd"
+      },
+      {
+        "text": "须菩提白佛言：「世尊！佛得阿耨多罗三藐三菩提，为无所得耶？」",
+        "pinyin": "xū pú tí bái fú yán ： 「 shì zūn ！ fú dé ā nòu duō luó sān miǎo sān pú tí ， wèi wú suǒ de yé ？ 」",
+        "speechText": "须菩提白佛言：「世尊！佛得阿耨多罗三藐三菩提，为无所得耶？」",
+        "audio": "audio/diamond_sutra/c72b9bfce8b81606.mp3",
+        "textHash": "076b26872654c3cb4838c495e92badce7b863c5048a1fc8c4e96a576929a6cb9"
+      },
+      {
+        "text": "「如是，如是！须菩提！我于阿耨多罗三藐三菩提乃至无有少法可得，是名阿耨多罗三藐三菩提。",
+        "pinyin": "「 rú shì ， rú shì ！ xū pú tí ！ wǒ yú ā nòu duō luó sān miǎo sān pú tí nǎi zhì wú yǒu shǎo fǎ kě dé ， shì míng ā nòu duō luó sān miǎo sān pú tí 。",
+        "speechText": "「如是，如是！须菩提！我于阿耨多罗三藐三菩提乃至无有少法可得，是名阿耨多罗三藐三菩提。",
+        "audio": "audio/diamond_sutra/ff4d36723b197325.mp3",
+        "textHash": "d0dceebb8b218cecc7a950ff80fe71f1fad0db9dc9eaf8b09b153e3518264c6e"
+      },
+      {
+        "text": "「复次，须菩提！是法平等，无有高下，是名阿耨多罗三藐三菩提；以无我、无人、无众生、无寿者，修一切善法，则得阿耨多罗三藐三菩提。须菩提！所言善法者，如来说非善法，是名善法。",
+        "pinyin": "「 fù cì ， xū pú tí ！ shì fǎ píng děng ， wú yǒu gāo xià ， shì míng ā nòu duō luó sān miǎo sān pú tí ； yǐ wú wǒ 、 wú rén 、 wú zhòng shēng 、 wú shòu zhě ， xiū yī qiè shàn fǎ ， zé dé ā nòu duō luó sān miǎo sān pú tí 。 xū pú tí ！ suǒ yán shàn fǎ zhě ， rú lái shuō fēi shàn fǎ ， shì míng shàn fǎ 。",
+        "speechText": "「复次，须菩提！是法平等，无有高下，是名阿耨多罗三藐三菩提；以无我、无人、无众生、无寿者，修一切善法，则得阿耨多罗三藐三菩提。须菩提！所言善法者，如来说非善法，是名善法。",
+        "audio": "audio/diamond_sutra/82907ef4bfd9ec62.mp3",
+        "textHash": "98ea7652d8eb0a5e28b689b475368ee828b36dc354819974e2b35df348bc40dd"
+      },
+      {
+        "text": "「须菩提！若三千大千世界中所有诸须弥山王，如是等七宝聚，有人持用布施；若人以此《般若波罗蜜经》，乃至四句偈等，受持、读诵、为他人说，于前福德百分不及一，百千万亿分，乃至算数、譬喻所不能及。",
+        "pinyin": "「 xū pú tí ！ ruò sān qiān dà qiān shì jiè zhōng suǒ yǒu zhū xū mí shān wáng ， rú shì děng qī bǎo jù ， yǒu rén chí yòng bù shī ； ruò rén yǐ cǐ 《 bō rě bō luó mì jīng 》 ， nǎi zhì sì jù jì děng ， shòu chí 、 dú sòng 、 wèi tā rén shuō ， yú qián fú dé bǎi fēn bù jí yī ， bǎi qiān wàn yì fēn ， nǎi zhì suàn shù 、 pì yù suǒ bù néng jí 。",
+        "speechText": "「须菩提！若三千大千世界中所有诸须弥山王，如是等七宝聚，有人持用布施；若人以此《波惹波罗蜜经》，乃至四句偈等，受持、读诵、为他人说，于前福德百分不及一，百千万亿分，乃至算数、譬喻所不能及。",
+        "audio": "audio/diamond_sutra/35f033f4508b50fe.mp3",
+        "textHash": "b1e39d68f695949ea7ce7061872bbcb5ddb49c70dc2e8087b9030986053bf8e9"
+      },
+      {
+        "text": "「须菩提！于意云何？汝等勿谓如来作是念：『我当度众生。』须菩提！莫作是念。何以故？实无有众生如来度者，若有众生如来度者，如来则有我、人、众生、寿者。须菩提！如来说有我者，则非有我，而凡夫之人以为有我。须菩提！凡夫者，如来说则非凡夫。",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ rǔ děng wù wèi rú lái zuò shì niàn ： 『 wǒ dāng dù zhòng shēng 。 』 xū pú tí ！ mò zuò shì niàn 。 hé yǐ gù ？ shí wú yǒu zhòng shēng rú lái dù zhě ， ruò yǒu zhòng shēng rú lái dù zhě ， rú lái zé yǒu wǒ 、 rén 、 zhòng shēng 、 shòu zhě 。 xū pú tí ！ rú lái shuō yǒu wǒ zhě ， zé fēi yǒu wǒ ， ér fán fū zhī rén yǐ wéi yǒu wǒ 。 xū pú tí ！ fán fū zhě ， rú lái shuō zé fēi fán fū 。",
+        "speechText": "「须菩提！于意云何？汝等勿谓如来作是念：『我当度众生。』须菩提！莫作是念。何以故？实无有众生如来度者，若有众生如来度者，如来则有我、人、众生、寿者。须菩提！如来说有我者，则非有我，而凡夫之人以为有我。须菩提！凡夫者，如来说则非凡夫。",
+        "audio": "audio/diamond_sutra/d4df7eb62fbee64f.mp3",
+        "textHash": "251c91350f016dbdddb90edd8a905b3a385a62eb633c3521e886b54083ac7336"
+      },
+      {
+        "text": "「须菩提！于意云何？可以三十二相观如来不？」",
+        "pinyin": "「 xū pú tí ！ yú yì yún hé ？ kě yǐ sān shí èr xiāng guān rú lái bù ？ 」",
+        "speechText": "「须菩提！于意云何？可以三十二相观如来不？」",
+        "audio": "audio/diamond_sutra/be54bc0fa1327df3.mp3",
+        "textHash": "fd16de841e7b2a12b9d692641b98fc6dd6f111781d656e64d7ce91bd5aa97fe8"
+      },
+      {
+        "text": "须菩提言：「如是，如是！以三十二相观如来。」",
+        "pinyin": "xū pú tí yán ： 「 rú shì ， rú shì ！ yǐ sān shí èr xiāng guān rú lái 。 」",
+        "speechText": "须菩提言：「如是，如是！以三十二相观如来。」",
+        "audio": "audio/diamond_sutra/23f67c68d5e5d6d8.mp3",
+        "textHash": "d3d25f86c084455885ed187d9c2c60b636335788dc183e4a2662a98014cfd7e5"
+      },
+      {
+        "text": "佛言：「须菩提！若以三十二相观如来者，转轮圣王则是如来。」",
+        "pinyin": "fú yán ： 「 xū pú tí ！ ruò yǐ sān shí èr xiāng guān rú lái zhě ， zhuàn lún shèng wáng zé shì rú lái 。 」",
+        "speechText": "佛言：「须菩提！若以三十二相观如来者，转轮圣王则是如来。」",
+        "audio": "audio/diamond_sutra/3ae3d8c30d061850.mp3",
+        "textHash": "4e515d01e0e7e17ec585060d0c80d19f9b3de3ac5b09a0dcf1f69e0f25fe6975"
+      },
+      {
+        "text": "须菩提白佛言：「世尊！如我解佛所说义，不应以三十二相观如来。」",
+        "pinyin": "xū pú tí bái fú yán ： 「 shì zūn ！ rú wǒ jiě fú suǒ shuō yì ， bù yīng yǐ sān shí èr xiāng guān rú lái 。 」",
+        "speechText": "须菩提白佛言：「世尊！如我解佛所说义，不应以三十二相观如来。」",
+        "audio": "audio/diamond_sutra/2a73532bba69add7.mp3",
+        "textHash": "12f906f5d908696f4941600caa887fdab2234d488a84b4600c5a58d528dade44"
+      },
+      {
+        "text": "尔时，世尊而说偈言：",
+        "pinyin": "ěr shí ， shì zūn ér shuō jì yán ：",
+        "speechText": "尔时，世尊而说偈言：",
+        "audio": "audio/diamond_sutra/2f45e1cceaf3dc78.mp3",
+        "textHash": "36c7384bd0babeb48f792826ee322d95d65da1c248c82733602fb40ba95f4e56"
+      },
+      {
+        "text": "「若以色见我，以音声求我，是人行邪道，不能见如来。",
+        "pinyin": "「 ruò yǐ sè jiàn wǒ ， yǐ yīn shēng qiú wǒ ， shì rén xíng xié dào ， bù néng jiàn rú lái 。",
+        "speechText": "「若以色见我，以音声求我，是人行邪道，不能见如来。",
+        "audio": "audio/diamond_sutra/56c38d547525b663.mp3",
+        "textHash": "ba181af6122829c658c5ca03d42df14a3851043c051a52b69e74453e94220893"
+      },
+      {
+        "text": "「须菩提！汝若作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』须菩提！莫作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』",
+        "pinyin": "「 xū pú tí ！ rǔ ruò zuò shì niàn ： 『 rú lái bù yǐ jù zú xiāng gù ， dé ā nòu duō luó sān miǎo sān pú tí 。 』 xū pú tí ！ mò zuò shì niàn ： 『 rú lái bù yǐ jù zú xiāng gù ， dé ā nòu duō luó sān miǎo sān pú tí 。 』",
+        "speechText": "「须菩提！汝若作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』须菩提！莫作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』",
+        "audio": "audio/diamond_sutra/c1a9986f016825fb.mp3",
+        "textHash": "21e78a2955d3af4d9bff6b7893f1d91d649ef834b8475f78910ae0506558820a"
+      },
+      {
+        "text": "「须菩提！汝若作是念：『发阿耨多罗三藐三菩提者，说诸法断灭相。』莫作是念。何以故？发阿耨多罗三藐三菩提心者，于法不说断灭相。",
+        "pinyin": "「 xū pú tí ！ rǔ ruò zuò shì niàn ： 『 fā ā nòu duō luó sān miǎo sān pú tí zhě ， shuō zhū fǎ duàn miè xiāng 。 』 mò zuò shì niàn 。 hé yǐ gù ？ fā ā nòu duō luó sān miǎo sān pú tí xīn zhě ， yú fǎ bù shuō duàn miè xiāng 。",
+        "speechText": "「须菩提！汝若作是念：『发阿耨多罗三藐三菩提者，说诸法断灭相。』莫作是念。何以故？发阿耨多罗三藐三菩提心者，于法不说断灭相。",
+        "audio": "audio/diamond_sutra/1f8198f14146978e.mp3",
+        "textHash": "c85ae9be3eba7f80cbc3a248d0fd0d0be6560fe38f8f0d730ada17cea1d526d0"
+      },
+      {
+        "text": "「须菩提！若菩萨以满恒河沙等世界七宝布施；若复有人知一切法无我，得成于忍，此菩萨胜前菩萨所得功德。须菩提！以诸菩萨不受福德故。」",
+        "pinyin": "「 xū pú tí ！ ruò pú sà yǐ mǎn héng hé shā děng shì jiè qī bǎo bù shī ； ruò fù yǒu rén zhī yī qiè fǎ wú wǒ ， dé chéng yú rěn ， cǐ pú sà shèng qián pú sà suǒ de gōng dé 。 xū pú tí ！ yǐ zhū pú sà bù shòu fú dé gù 。 」",
+        "speechText": "「须菩提！若菩萨以满恒河沙等世界七宝布施；若复有人知一切法无我，得成于忍，此菩萨胜前菩萨所得功德。须菩提！以诸菩萨不受福德故。」",
+        "audio": "audio/diamond_sutra/655239b5798ae7e1.mp3",
+        "textHash": "aa466367ff9d842826bdec365bc43905ca01bd605f5509595dafa4aee00e91f9"
+      },
+      {
+        "text": "须菩提白佛言：「世尊！云何菩萨不受福德？」",
+        "pinyin": "xū pú tí bái fú yán ： 「 shì zūn ！ yún hé pú sà bù shòu fú dé ？ 」",
+        "speechText": "须菩提白佛言：「世尊！云何菩萨不受福德？」",
+        "audio": "audio/diamond_sutra/52c9b10e740d6493.mp3",
+        "textHash": "caf74b5b5e1a255d73c312a555c14c1b6bc0850e183f9617e329a27bbfec0263"
+      },
+      {
+        "text": "「须菩提！菩萨所作福德，不应贪著，是故说不受福德。",
+        "pinyin": "「 xū pú tí ！ pú sà suǒ zuò fú dé ， bù yīng tān zhù ， shì gù shuō bù shòu fú dé 。",
+        "speechText": "「须菩提！菩萨所作福德，不应贪著，是故说不受福德。",
+        "audio": "audio/diamond_sutra/dc8046d2eab0cc0c.mp3",
+        "textHash": "57337a253871376bc4d389cadd63c749165e2a50b1e7944556b5c568462b5210"
+      },
+      {
+        "text": "「须菩提！若有人言『如来若来若去、若坐若卧』，是人不解我所说义。何以故？如来者，无所从来，亦无所去，故名如来。",
+        "pinyin": "「 xū pú tí ！ ruò yǒu rén yán 『 rú lái ruò lái ruò qù 、 ruò zuò ruò wò 』 ， shì rén bù jiě wǒ suǒ shuō yì 。 hé yǐ gù ？ rú lái zhě ， wú suǒ cóng lái ， yì wú suǒ qù ， gù míng rú lái 。",
+        "speechText": "「须菩提！若有人言『如来若来若去、若坐若卧』，是人不解我所说义。何以故？如来者，无所从来，亦无所去，故名如来。",
+        "audio": "audio/diamond_sutra/3f0caac48b5f8f50.mp3",
+        "textHash": "6dc690d3c4af524a69611a69429dbecf4b301ad789eb102ba39f65d3277e0d0d"
+      },
+      {
+        "text": "「须菩提！若善男子、善女人以三千大千世界碎为微尘，于意云何？是微尘众宁为多不？」",
+        "pinyin": "「 xū pú tí ！ ruò shàn nán zi 、 shàn nǚ rén yǐ sān qiān dà qiān shì jiè suì wèi wēi chén ， yú yì yún hé ？ shì wēi chén zhòng níng wèi duō bù ？ 」",
+        "speechText": "「须菩提！若善男子、善女人以三千大千世界碎为微尘，于意云何？是微尘众宁为多不？」",
+        "audio": "audio/diamond_sutra/56d3ffd4877b4f82.mp3",
+        "textHash": "37f9c5a28d2d3fc8bb60895e98dd6e4ca7f26b786ae9c9c16b10eb617e9f2c5b"
+      },
+      {
+        "text": "「甚多，世尊！何以故？若是微尘众实有者，佛则不说是微尘众。所以者何？佛说微尘众，则非微尘众，是名微尘众。世尊！如来所说三千大千世界，则非世界，是名世界。何以故？若世界实有者，则是一合相。如来说一合相，则非一合相，是名一合相。」",
+        "pinyin": "「 shèn duō ， shì zūn ！ hé yǐ gù ？ ruò shì wēi chén zhòng shí yǒu zhě ， fú zé bù shuō shì wēi chén zhòng 。 suǒ yǐ zhě hé ？ fú shuō wēi chén zhòng ， zé fēi wēi chén zhòng ， shì míng wēi chén zhòng 。 shì zūn ！ rú lái suǒ shuō sān qiān dà qiān shì jiè ， zé fēi shì jiè ， shì míng shì jiè 。 hé yǐ gù ？ ruò shì jiè shí yǒu zhě ， zé shì yī hé xiāng 。 rú lái shuō yī hé xiāng ， zé fēi yī hé xiāng ， shì míng yī hé xiāng 。 」",
+        "speechText": "「甚多，世尊！何以故？若是微尘众实有者，佛则不说是微尘众。所以者何？佛说微尘众，则非微尘众，是名微尘众。世尊！如来所说三千大千世界，则非世界，是名世界。何以故？若世界实有者，则是一合相。如来说一合相，则非一合相，是名一合相。」",
+        "audio": "audio/diamond_sutra/a51fc27b38cbafce.mp3",
+        "textHash": "9aea22ce72112a96da4b194ec14dacd0eaa98d3f852c32b7fe6f5b9b3f1e46f7"
+      },
+      {
+        "text": "「须菩提！一合相者，则是不可说，但凡夫之人贪著其事。",
+        "pinyin": "「 xū pú tí ！ yī hé xiāng zhě ， zé shì bù kě shuō ， dàn fán fū zhī rén tān zhù qí shì 。",
+        "speechText": "「须菩提！一合相者，则是不可说，但凡夫之人贪著其事。",
+        "audio": "audio/diamond_sutra/92db1027a9ea6e92.mp3",
+        "textHash": "fb34655ac4b7172b01fc087e9d7495c2a9344da9b15835cbc30e04f39cc1b94d"
+      },
+      {
+        "text": "「须菩提！若人言『佛说我见、人见、众生见、寿者见』，须菩提！于意云何？是人解我所说义不？」",
+        "pinyin": "「 xū pú tí ！ ruò rén yán 『 fú shuō wǒ jiàn 、 rén jiàn 、 zhòng shēng jiàn 、 shòu zhě jiàn 』 ， xū pú tí ！ yú yì yún hé ？ shì rén jiě wǒ suǒ shuō yì bù ？ 」",
+        "speechText": "「须菩提！若人言『佛说我见、人见、众生见、寿者见』，须菩提！于意云何？是人解我所说义不？」",
+        "audio": "audio/diamond_sutra/0a51c37312539462.mp3",
+        "textHash": "f930d67cd0122911179c8e5b455301e01da0b9ecc0cc41ee851596bb566cb2bb"
+      },
+      {
+        "text": "「世尊！是人不解如来所说义。何以故？世尊说我见、人见、众生见、寿者见，即非我见、人见、众生见、寿者见，是名我见、人见、众生见、寿者见。」",
+        "pinyin": "「 shì zūn ！ shì rén bù jiě rú lái suǒ shuō yì 。 hé yǐ gù ？ shì zūn shuō wǒ jiàn 、 rén jiàn 、 zhòng shēng jiàn 、 shòu zhě jiàn ， jí fēi wǒ jiàn 、 rén jiàn 、 zhòng shēng jiàn 、 shòu zhě jiàn ， shì míng wǒ jiàn 、 rén jiàn 、 zhòng shēng jiàn 、 shòu zhě jiàn 。 」",
+        "speechText": "「世尊！是人不解如来所说义。何以故？世尊说我见、人见、众生见、寿者见，即非我见、人见、众生见、寿者见，是名我见、人见、众生见、寿者见。」",
+        "audio": "audio/diamond_sutra/c6f7050365b94674.mp3",
+        "textHash": "06fc9cab05b95e3b48767597fe49ede25d3ac89df0a7da51602131216f4a523f"
+      },
+      {
+        "text": "「须菩提！发阿耨多罗三藐三菩提心者，于一切法，应如是知，如是见，如是信解，不生法相。须菩提！所言法相者，如来说即非法相，是名法相。",
+        "pinyin": "「 xū pú tí ！ fā ā nòu duō luó sān miǎo sān pú tí xīn zhě ， yú yī qiè fǎ ， yīng rú shì zhī ， rú shì jiàn ， rú shì xìn jiě ， bù shēng fǎ xiàng 。 xū pú tí ！ suǒ yán fǎ xiàng zhě ， rú lái shuō jí fēi fǎ xiàng ， shì míng fǎ xiàng 。",
+        "speechText": "「须菩提！发阿耨多罗三藐三菩提心者，于一切法，应如是知，如是见，如是信解，不生法相。须菩提！所言法相者，如来说即非法相，是名法相。",
+        "audio": "audio/diamond_sutra/440fa70986b3599d.mp3",
+        "textHash": "5d6e10c5c5644b84c117bee6a73b17fb9138fb436df7d8fb3430e1208cfbef45"
+      },
+      {
+        "text": "「须菩提！若有人以满无量阿僧祇世界七宝持用布施，若有善男子、善女人发菩萨心者，持于此经乃至四句偈等，受持、读诵、为人演说，其福胜彼。云何为人演说？不取于相，如如不动。何以故？",
+        "pinyin": "「 xū pú tí ！ ruò yǒu rén yǐ mǎn wú liàng ā sēng qí shì jiè qī bǎo chí yòng bù shī ， ruò yǒu shàn nán zi 、 shàn nǚ rén fā pú sà xīn zhě ， chí yú cǐ jīng nǎi zhì sì jù jì děng ， shòu chí 、 dú sòng 、 wéi rén yǎn shuō ， qí fú shèng bǐ 。 yún hé wéi rén yǎn shuō ？ bù qǔ yú xiāng ， rú rú bù dòng 。 hé yǐ gù ？",
+        "speechText": "「须菩提！若有人以满无量阿僧其世界七宝持用布施，若有善男子、善女人发菩萨心者，持于此经乃至四句偈等，受持、读诵、为人演说，其福胜彼。云何为人演说？不取于相，如如不动。何以故？",
+        "audio": "audio/diamond_sutra/e1180cf20a0bd65c.mp3",
+        "textHash": "ac3e3d3de6af18067add00e72f259b20e41bf0ad2c23bc6765e9520260a84a21"
+      },
+      {
+        "text": "「一切有为法，如梦、幻、泡、影，如露亦如电，应作如是观。」",
+        "pinyin": "「 yī qiè yǒu wéi fǎ ， rú mèng 、 huàn 、 pào 、 yǐng ， rú lù yì rú diàn ， yīng zuò rú shì guān 。 」",
+        "speechText": "「一切有为法，如梦、幻、泡、影，如露亦如电，应作如是观。」",
+        "audio": "audio/diamond_sutra/7d0ff8e2b1535246.mp3",
+        "textHash": "d7441f3c7183eb90c43916fd1427c3065368ab82674ad74af11ec37b5687fb29"
+      },
+      {
+        "text": "佛说是经已，长老须菩提及诸比丘、比丘尼、优婆塞、优婆夷，一切世间天、人、阿修罗，闻佛所说，皆大欢喜，信受奉行。",
+        "pinyin": "fú shuō shì jīng yǐ ， zhǎng lǎo xū pú tí jí zhū bǐ qiū 、 bǐ qiū ní 、 yōu pó sāi 、 yōu pó yí ， yī qiè shì jiān tiān 、 rén 、 ā xiū luó ， wén fú suǒ shuō ， jiē dà huān xǐ ， xìn shòu fèng xíng 。",
+        "speechText": "佛说是经已，长老须菩提及诸比丘、比丘尼、优婆塞、优婆夷，一切世间天、人、阿修罗，闻佛所说，皆大欢喜，信受奉行。",
+        "audio": "audio/diamond_sutra/64b9c58738175dca.mp3",
+        "textHash": "5eebe7a9221118478c5d9b69d05ba141b93388767baf0dda406935957497a884"
+      }
+    ]
+  },
+  {
+    "id": "dabei_mantra",
+    "title": "大悲心陀罗尼",
+    "shortTitle": "大悲咒",
+    "translator": "唐·伽梵达摩译",
+    "category": "完整咒文",
+    "source": "https://cbetaonline.dila.edu.tw/zh/T20n1060",
+    "sourceCode": "T20n1060",
+    "sourceHash": "a34b0fc4e2f215868c75315eb334402ebdd416c49ee2506692b8be86d9cd0f72",
+    "verses": [
+      {
+        "text": "南无喝啰怛那哆啰夜㖿。南无阿唎㖿。婆卢羯帝烁钵啰㖿。菩提萨跢婆㖿。摩诃萨跢婆㖿。摩诃迦卢尼迦㖿。",
+        "pinyin": "ná mó hē luō dá nà duō luō yè yē 。 ná mó ā lì yē 。 pó lú jié dì shuò bō luō yē 。 pú tí sà duǒ pó yē 。 mó hē sà duǒ pó yē 。 mó hē jiā lú ní jiā yē 。",
+        "speechText": "拿摩喝啰怛那哆啰夜耶。拿摩阿唎耶。婆卢羯帝烁钵啰耶。菩提萨朵婆耶。摩喝萨朵婆耶。摩喝迦卢尼迦耶。",
+        "audio": "audio/dabei_mantra/10c762a8c5bf1afc.mp3",
+        "textHash": "151328dd2aa5893230da64035cb9fec624c20ad7814e6a4141076994ac7cf0c8"
+      },
+      {
+        "text": "唵。萨皤啰罚曳。数怛那怛写。南无悉吉利埵伊蒙阿唎㖿。婆卢吉帝室佛啰㘄驮婆。南无那啰谨墀。",
+        "pinyin": "ōng 。 sà pó luō fá yè 。 shù dá nà dá xiě 。 ná mó xī jí lì duǒ yī méng ā lì yē 。 pó lú jí dì shì fó luó léng tuó pó 。 ná mó nà luō jǐn chí 。",
+        "speechText": "嗡。萨皤啰罚曳。数怛那怛写。拿摩悉吉利朵伊蒙阿唎耶。婆卢吉帝室佛啰楞驮婆。拿摩那啰谨墀。",
+        "audio": "audio/dabei_mantra/ed32d4aa74c0ebea.mp3",
+        "textHash": "eef73a24a8807876e980771eeb630d297ee0850c97a56451a3e2729a19a78b26"
+      },
+      {
+        "text": "醯唎摩诃皤哆沙咩。萨婆阿他豆输朋。阿逝孕。萨婆萨哆那摩婆伽。摩罚特豆。怛姪他。",
+        "pinyin": "xī lì mó hē pó duō shā miē 。 sà pó ā tuō dòu shū péng 。 ā shì yùn 。 sà pó sà duō nà mó pó gā 。 mó fá tè dòu 。 dá zhí tā 。",
+        "speechText": "西唎摩喝皤哆沙咩。萨婆阿他豆输朋。阿逝孕。萨婆萨哆那摩婆伽。摩罚特豆。怛姪他。",
+        "audio": "audio/dabei_mantra/e9d2e64d551534d3.mp3",
+        "textHash": "ec0b1fcbc710eb925956377286cc3037a9c14bcaa75dd850460b703f5c0f448e"
+      },
+      {
+        "text": "唵阿婆卢醯。卢迦帝。迦罗帝。夷醯唎。摩诃菩提萨埵。萨婆萨婆。",
+        "pinyin": "ōng ā pó lú xī 。 lú jiā dì 。 jiā luó dì 。 yí xī lì 。 mó hē pú tí sà duǒ 。 sà pó sà pó 。",
+        "speechText": "嗡阿婆卢西。卢迦帝。迦罗帝。夷西唎。摩喝菩提萨朵。萨婆萨婆。",
+        "audio": "audio/dabei_mantra/f56095e730c48a28.mp3",
+        "textHash": "fc029ac817ef27d1afcf3df59c54ed8d09faa3309cf9f9a082cc9a8c34268732"
+      },
+      {
+        "text": "摩罗摩罗。摩醯摩醯唎驮孕。俱卢俱卢羯蒙。度卢度卢罚阇耶帝。摩诃罚阇耶帝。陀罗陀罗。",
+        "pinyin": "mó luó mó luó 。 mó xī mó xī lì tuó yùn 。 jù lú jù lú jié méng 。 dù lú dù lú fá dū yé dì 。 mó hē fá dū yé dì 。 tuó luó tuó luó 。",
+        "speechText": "摩罗摩罗。摩西摩西唎驮孕。俱卢俱卢羯蒙。度卢度卢罚阇耶帝。摩喝罚阇耶帝。陀罗陀罗。",
+        "audio": "audio/dabei_mantra/a1fe05fd4c819bc5.mp3",
+        "textHash": "b3476612962115855d8dabecc44ab5a777368a5810a49a9606a678e219662896"
+      },
+      {
+        "text": "地利尼。室佛啰耶。遮罗遮罗。摩摩罚摩啰。穆帝囇。伊醯移醯。",
+        "pinyin": "dì lì ní 。 shì fó luó yé 。 zhē luó zhē luó 。 mó mó fá mó luō 。 mù dì lì 。 yī xī yí xī 。",
+        "speechText": "地利尼。室佛啰耶。遮罗遮罗。摩摩罚摩啰。穆帝利。伊西移西。",
+        "audio": "audio/dabei_mantra/84691015824f5bbf.mp3",
+        "textHash": "32b45e3346a073c92723ba24038a99bf678f1a598426876b7a4316207768beb5"
+      },
+      {
+        "text": "室那室那。阿啰嘇佛啰舍利。罚沙罚嘇。佛罗舍耶。呼𠰷呼𠰷摩啰。呼𠰷呼𠰷醯利。",
+        "pinyin": "shì nà shì nà 。 ā luō shān fó luó shè lì 。 fá shā fá shān 。 fú luó shě yé 。 hū lú hū lú mó luō 。 hū lú hū lú xī lì 。",
+        "speechText": "室那室那。阿啰山佛啰舍利。罚沙罚山。佛罗舍耶。呼卢呼卢摩啰。呼卢呼卢西利。",
+        "audio": "audio/dabei_mantra/5817d7089d2f01ad.mp3",
+        "textHash": "b2a5188eac6831f343a787eaa3576f3da848d20f8374c6500761939ee2338a28"
+      },
+      {
+        "text": "娑啰娑啰。悉利悉利。苏𠰷苏𠰷。菩提夜菩提夜。菩驮夜菩驮夜。弥帝利夜。",
+        "pinyin": "suō luō suō luō 。 xī lì xī lì 。 sū lú sū lú 。 pú tí yè pú tí yè 。 pú tuó yè pú tuó yè 。 mí dì lì yè 。",
+        "speechText": "娑啰娑啰。悉利悉利。苏卢苏卢。菩提夜菩提夜。菩驮夜菩驮夜。弥帝利夜。",
+        "audio": "audio/dabei_mantra/ecbbfe286e69c7c0.mp3",
+        "textHash": "af53706c9c31996197ff3622b4f68bcf9be723e05571931f5a041d534b838e5d"
+      },
+      {
+        "text": "那啰谨墀。地唎瑟尼那。波夜摩那。娑婆诃。悉陀夜。娑婆诃。",
+        "pinyin": "nà luō jǐn chí 。 dì lì sè ní nà 。 bō yè mó nà 。 suō pó hē 。 xī tuó yè 。 suō pó hē 。",
+        "speechText": "那啰谨墀。地唎瑟尼那。波夜摩那。娑婆喝。悉陀夜。娑婆喝。",
+        "audio": "audio/dabei_mantra/1d37ac9d3dc66ed1.mp3",
+        "textHash": "40e3e88a783702e1d582d7c49fd1d52b428ad615ed5c4d66c5171cd823107d10"
+      },
+      {
+        "text": "摩诃悉陀夜。娑婆诃。悉陀喻艺。室皤啰耶。娑婆诃。那啰谨墀。",
+        "pinyin": "mó hē xī tuó yè 。 suō pó hē 。 xī tuó yù yì 。 shì pó luō yé 。 suō pó hē 。 nà luō jǐn chí 。",
+        "speechText": "摩喝悉陀夜。娑婆喝。悉陀喻艺。室皤啰耶。娑婆喝。那啰谨墀。",
+        "audio": "audio/dabei_mantra/aed93656503f3170.mp3",
+        "textHash": "73910f6c09801ef89bcacb5c9687ca961e669c05efba809f6a7da26c24af8f64"
+      },
+      {
+        "text": "娑婆诃。摩啰那啰。娑婆诃。悉啰僧阿穆佉耶。娑婆诃。娑婆摩诃阿悉陀夜。",
+        "pinyin": "suō pó hē 。 mó luō nà luō 。 suō pó hē 。 xī luō sēng ā mù qū yé 。 suō pó hē 。 suō pó mó hē ā xī tuó yè 。",
+        "speechText": "娑婆喝。摩啰那啰。娑婆喝。悉啰僧阿穆佉耶。娑婆喝。娑婆摩喝阿悉陀夜。",
+        "audio": "audio/dabei_mantra/9541ed96e1205466.mp3",
+        "textHash": "abda4cde6d98f87636e1dc66f1b9000123305d268ba08824c6c673bd3b05cbc3"
+      },
+      {
+        "text": "娑婆诃。者吉啰阿悉陀夜。娑婆诃。波陀摩羯悉哆夜。娑婆诃。那啰谨墀皤伽啰㖿。",
+        "pinyin": "suō pó hē 。 zhě jí luō ā xī tuó yè 。 suō pó hē 。 bō tuó mó jié xī duō yè 。 suō pó hē 。 nà luō jǐn chí pó gā luō yē 。",
+        "speechText": "娑婆喝。者吉啰阿悉陀夜。娑婆喝。波陀摩羯悉哆夜。娑婆喝。那啰谨墀皤伽啰耶。",
+        "audio": "audio/dabei_mantra/ab5d72dd8e90619b.mp3",
+        "textHash": "fff1006e8bd2071c576e65583cd735f50fc852126e1673fda2894a2b2be61d92"
+      },
+      {
+        "text": "娑婆诃。摩婆利胜羯啰夜。娑婆诃。南无喝啰怛那哆啰夜耶。南无阿唎㖿。婆𠰷吉帝。",
+        "pinyin": "suō pó hē 。 mó pó lì shèng jié luō yè 。 suō pó hē 。 ná mó hē luō dá nà duō luō yè yé 。 ná mó ā lì yē 。 pó lú jí dì 。",
+        "speechText": "娑婆喝。摩婆利胜羯啰夜。娑婆喝。拿摩喝啰怛那哆啰夜耶。拿摩阿唎耶。婆卢吉帝。",
+        "audio": "audio/dabei_mantra/03b9553bc8fd69c1.mp3",
+        "textHash": "6df3581e4aae0d44dacb14406a7527a1a8fb9d7b4a4dd1f263599046372d0a78"
+      },
+      {
+        "text": "烁皤啰夜。娑婆诃。唵悉殿都曼哆啰钵驮耶。娑婆诃。",
+        "pinyin": "shuò pó luō yè 。 suō pó hē 。 ōng xī diàn dū màn duō luō bō tuó yé 。 suō pó hē 。",
+        "speechText": "烁皤啰夜。娑婆喝。嗡悉殿都曼哆啰钵驮耶。娑婆喝。",
+        "audio": "audio/dabei_mantra/abd4ded69ae98b2a.mp3",
+        "textHash": "10ec7065624b5719351447fae22d58452fab340dec5d469adfe99dcf8e462e74"
+      }
+    ]
+  },
+  {
+    "id": "pumen_pin",
+    "title": "妙法莲华经·观世音菩萨普门品第二十五",
+    "shortTitle": "普门品",
+    "translator": "后秦·鸠摩罗什译",
+    "category": "完整经文",
+    "source": "https://cbetaonline.dila.edu.tw/zh/T09n0262",
+    "sourceCode": "T09n0262",
+    "sourceHash": "c8975bef9da3bbe0faec9d47ab3f2efb8147fb530d5c17f130045a336c5df017",
+    "verses": [
+      {
+        "text": "尔时，无尽意菩萨即从座起，偏袒右肩，合掌向佛而作是言：「世尊！观世音菩萨以何因缘名观世音？」",
+        "pinyin": "ěr shí ， wú jìn yì pú sà jí cóng zuò qǐ ， piān tǎn yòu jiān ， hé zhǎng xiàng fú ér zuò shì yán ： 「 shì zūn ！ guān shì yīn pú sà yǐ hé yīn yuán míng guān shì yīn ？ 」",
+        "speechText": "尔时，无尽意菩萨即从座起，偏袒右肩，合掌向佛而作是言：「世尊！观世音菩萨以何因缘名观世音？」",
+        "audio": "audio/pumen_pin/ab5768635cbbf734.mp3",
+        "textHash": "64a37bdb5b3f9f6401bd14cfa11361dadf3eb450afc845bb6bafbe806231eff4"
+      },
+      {
+        "text": "佛告无尽意菩萨：「善男子！若有无量百千万亿众生受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。若有持是观世音菩萨名者，设入大火，火不能烧，由是菩萨威神力故。若为大水所漂，称其名号，即得浅处。若有百千万亿众生，为求金、银、琉璃、车𤦲、马瑙、珊瑚、虎珀、真珠等宝，入于大海。",
+        "pinyin": "fú gào wú jìn yì pú sà ： 「 shàn nán zi ！ ruò yǒu wú liàng bǎi qiān wàn yì zhòng shēng shòu zhū kǔ nǎo ， wén shì guān shì yīn pú sà ， yī xīn chēng míng ， guān shì yīn pú sà jí shí guān qí yīn shēng ， jiē dé jiě tuō 。 ruò yǒu chí shì guān shì yīn pú sà míng zhě ， shè rù dà huǒ ， huǒ bù néng shāo ， yóu shì pú sà wēi shén lì gù 。 ruò wèi dà shuǐ suǒ piāo ， chēng qí míng hào ， jí dé qiǎn chù 。 ruò yǒu bǎi qiān wàn yì zhòng shēng ， wèi qiú jīn 、 yín 、 liú lí 、 chē qú 、 mǎ nǎo 、 shān hú 、 hǔ pò 、 zhēn zhū děng bǎo ， rù yú dà hǎi 。",
+        "speechText": "佛告无尽意菩萨：「善男子！若有无量百千万亿众生受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。若有持是观世音菩萨名者，设入大火，火不能烧，由是菩萨威神力故。若为大水所漂，称其名号，即得浅处。若有百千万亿众生，为求金、银、琉璃、车渠、马瑙、珊瑚、虎珀、真珠等宝，入于大海。",
+        "audio": "audio/pumen_pin/89e8ee9d1904a7b4.mp3",
+        "textHash": "ea60fc118cbf473a79a29614cdf55e22512c549cf2b7b79fb5f04a2f61eef29e"
+      },
+      {
+        "text": "假使黑风吹其船舫，飘堕罗刹鬼国，其中若有，乃至一人，称观世音菩萨名者，是诸人等皆得解脱罗刹之难。以是因缘，名观世音。若复有人临当被害，称观世音菩萨名者，彼所执刀杖寻段段坏，而得解脱。若三千大千国土满中夜叉、罗刹欲来恼人，闻其称观世音菩萨名者，是诸恶鬼尚不能以恶眼视之，况复加害。",
+        "pinyin": "jiǎ shǐ hēi fēng chuī qí chuán fǎng ， piāo duò luó chà guǐ guó ， qí zhōng ruò yǒu ， nǎi zhì yī rén ， chēng guān shì yīn pú sà míng zhě ， shì zhū rén děng jiē dé jiě tuō luó chà zhī nán 。 yǐ shì yīn yuán ， míng guān shì yīn 。 ruò fù yǒu rén lín dāng bèi hài ， chēng guān shì yīn pú sà míng zhě ， bǐ suǒ zhí dāo zhàng xún duàn duàn huài ， ér dé jiě tuō 。 ruò sān qiān dà qiān guó tǔ mǎn zhōng yè chā 、 luó chà yù lái nǎo rén ， wén qí chēng guān shì yīn pú sà míng zhě ， shì zhū è guǐ shàng bù néng yǐ è yǎn shì zhī ， kuàng fù jiā hài 。",
+        "speechText": "假使黑风吹其船舫，飘堕罗刹鬼国，其中若有，乃至一人，称观世音菩萨名者，是诸人等皆得解脱罗刹之难。以是因缘，名观世音。若复有人临当被害，称观世音菩萨名者，彼所执刀杖寻段段坏，而得解脱。若三千大千国土满中夜叉、罗刹欲来恼人，闻其称观世音菩萨名者，是诸恶鬼尚不能以恶眼视之，况复加害。",
+        "audio": "audio/pumen_pin/152b5b7ab63d7ee8.mp3",
+        "textHash": "d79e0336c76fe26d233316ab07cd85f651ccea18439ce6f88f4d7c77d103be83"
+      },
+      {
+        "text": "设复有人，若有罪、若无罪，杻械、枷锁检系其身，称观世音菩萨名者，皆悉断坏，即得解脱。若三千大千国土满中怨贼，有一商主将诸商人，赍持重宝经过崄路。其中一人作是唱言：『诸善男子！勿得恐怖！汝等应当一心称观世音菩萨名号。是菩萨能以无畏施于众生。汝等若称名者，于此怨贼当得解脱。』",
+        "pinyin": "shè fù yǒu rén ， ruò yǒu zuì 、 ruò wú zuì ， chǒu xiè 、 jiā suǒ jiǎn xì qí shēn ， chēng guān shì yīn pú sà míng zhě ， jiē xī duàn huài ， jí dé jiě tuō 。 ruò sān qiān dà qiān guó tǔ mǎn zhōng yuàn zéi ， yǒu yī shāng zhǔ jiàng zhū shāng rén ， jī chí zhòng bǎo jīng guò xiǎn lù 。 qí zhōng yī rén zuò shì chàng yán ： 『 zhū shàn nán zi ！ wù dé kǒng bù ！ rǔ děng yīng dāng yī xīn chēng guān shì yīn pú sà míng hào 。 shì pú sà néng yǐ wú wèi shī yú zhòng shēng 。 rǔ děng ruò chēng míng zhě ， yú cǐ yuàn zéi dāng dé jiě tuō 。 』",
+        "speechText": "设复有人，若有罪、若无罪，杻械、枷锁检系其身，称观世音菩萨名者，皆悉断坏，即得解脱。若三千大千国土满中怨贼，有一商主将诸商人，赍持重宝经过崄路。其中一人作是唱言：『诸善男子！勿得恐怖！汝等应当一心称观世音菩萨名号。是菩萨能以无畏施于众生。汝等若称名者，于此怨贼当得解脱。』",
+        "audio": "audio/pumen_pin/fea5614d2607d7e1.mp3",
+        "textHash": "549746b056dbc486c4860799b9b55bf0453d8ace8714b1f07258e32db009e49e"
+      },
+      {
+        "text": "众商人闻，俱发声言：『南无观世音菩萨。』称其名故，即得解脱。",
+        "pinyin": "zhòng shāng rén wén ， jù fā shēng yán ： 『 ná mó guān shì yīn pú sà 。 』 chēng qí míng gù ， jí dé jiě tuō 。",
+        "speechText": "众商人闻，俱发声言：『拿摩观世音菩萨。』称其名故，即得解脱。",
+        "audio": "audio/pumen_pin/7663912efd3f4176.mp3",
+        "textHash": "886e8b08cdcd953a3832569d71211202bd6133b365281f7aef402b0046b1df19"
+      },
+      {
+        "text": "「无尽意！观世音菩萨摩诃萨威神之力，巍巍如是。若有众生多于婬欲，常念恭敬观世音菩萨，便得离欲。若多瞋恚，常念恭敬观世音菩萨，便得离瞋。若多愚痴，常念恭敬观世音菩萨，便得离痴。",
+        "pinyin": "「 wú jìn yì ！ guān shì yīn pú sà mó hē sà wēi shén zhī lì ， wēi wēi rú shì 。 ruò yǒu zhòng shēng duō yú yín yù ， cháng niàn gōng jìng guān shì yīn pú sà ， biàn dé lí yù 。 ruò duō chēn huì ， cháng niàn gōng jìng guān shì yīn pú sà ， biàn dé lí chēn 。 ruò duō yú chī ， cháng niàn gōng jìng guān shì yīn pú sà ， biàn dé lí chī 。",
+        "speechText": "「无尽意！观世音菩萨摩喝萨威神之力，巍巍如是。若有众生多于婬欲，常念恭敬观世音菩萨，便得离欲。若多瞋恚，常念恭敬观世音菩萨，便得离瞋。若多愚痴，常念恭敬观世音菩萨，便得离痴。",
+        "audio": "audio/pumen_pin/516aa4505c28b4ef.mp3",
+        "textHash": "eff2c65461d197ff003f952a502013e82e5c7f0e9ed5665b02b3869cd30feeb0"
+      },
+      {
+        "text": "「无尽意！观世音菩萨有如是等大威神力，多所饶益。是故众生常应心念。若有女人，设欲求男，礼拜供养观世音菩萨，便生福德智慧之男；设欲求女，便生端正有相之女。宿殖德本，众人爱敬。",
+        "pinyin": "「 wú jìn yì ！ guān shì yīn pú sà yǒu rú shì děng dà wēi shén lì ， duō suǒ ráo yì 。 shì gù zhòng shēng cháng yīng xīn niàn 。 ruò yǒu nǚ rén ， shè yù qiú nán ， lǐ bài gòng yǎng guān shì yīn pú sà ， biàn shēng fú dé zhì huì zhī nán ； shè yù qiú nǚ ， biàn shēng duān zhèng yǒu xiāng zhī nǚ 。 sù zhí dé běn ， zhòng rén ài jìng 。",
+        "speechText": "「无尽意！观世音菩萨有如是等大威神力，多所饶益。是故众生常应心念。若有女人，设欲求男，礼拜供养观世音菩萨，便生福德智慧之男；设欲求女，便生端正有相之女。宿殖德本，众人爱敬。",
+        "audio": "audio/pumen_pin/4eaff0d952b87e80.mp3",
+        "textHash": "d2167ec92ca7d3a7bc880994ed480a1c08cd346145883a2f1642680264937c03"
+      },
+      {
+        "text": "「无尽意！观世音菩萨有如是力。若有众生恭敬礼拜观世音菩萨，福不唐捐。是故众生皆应受持观世音菩萨名号。",
+        "pinyin": "「 wú jìn yì ！ guān shì yīn pú sà yǒu rú shì lì 。 ruò yǒu zhòng shēng gōng jìng lǐ bài guān shì yīn pú sà ， fú bù táng juān 。 shì gù zhòng shēng jiē yīng shòu chí guān shì yīn pú sà míng hào 。",
+        "speechText": "「无尽意！观世音菩萨有如是力。若有众生恭敬礼拜观世音菩萨，福不唐捐。是故众生皆应受持观世音菩萨名号。",
+        "audio": "audio/pumen_pin/01c1b2aaaadbb481.mp3",
+        "textHash": "fe223626fc34af712d9a25a7618e24c3758b5503d6bae035c1eeb172c32c5ded"
+      },
+      {
+        "text": "「无尽意！若有人受持六十二亿恒河沙菩萨名字，复尽形供养饮食、衣服、卧具、医药。于汝意云何？是善男子、善女人，功德多不？」",
+        "pinyin": "「 wú jìn yì ！ ruò yǒu rén shòu chí liù shí èr yì héng hé shā pú sà míng zì ， fù jǐn xíng gòng yǎng yǐn shí 、 yī fú 、 wò jù 、 yī yào 。 yú rǔ yì yún hé ？ shì shàn nán zi 、 shàn nǚ rén ， gōng dé duō bù ？ 」",
+        "speechText": "「无尽意！若有人受持六十二亿恒河沙菩萨名字，复尽形供养饮食、衣服、卧具、医药。于汝意云何？是善男子、善女人，功德多不？」",
+        "audio": "audio/pumen_pin/114f196d8025aa26.mp3",
+        "textHash": "879e92e75b41087f70a65243db2eb6f087d7a6df495969214fc79093392a3b67"
+      },
+      {
+        "text": "无尽意言：「甚多，世尊！」",
+        "pinyin": "wú jìn yì yán ： 「 shèn duō ， shì zūn ！ 」",
+        "speechText": "无尽意言：「甚多，世尊！」",
+        "audio": "audio/pumen_pin/b7b66aaa2155a679.mp3",
+        "textHash": "367e7003ccf02473da6207c39db63fa687eb6bfd7427501740ed7b32c3495b43"
+      },
+      {
+        "text": "佛言：「若复有人受持观世音菩萨名号，乃至一时礼拜、供养。是二人福，正等无异，于百千万亿劫不可穷尽。无尽意！受持观世音菩萨名号，得如是无量无边福德之利。」",
+        "pinyin": "fú yán ： 「 ruò fù yǒu rén shòu chí guān shì yīn pú sà míng hào ， nǎi zhì yī shí lǐ bài 、 gòng yǎng 。 shì èr rén fú ， zhèng děng wú yì ， yú bǎi qiān wàn yì jié bù kě qióng jìn 。 wú jìn yì ！ shòu chí guān shì yīn pú sà míng hào ， dé rú shì wú liàng wú biān fú dé zhī lì 。 」",
+        "speechText": "佛言：「若复有人受持观世音菩萨名号，乃至一时礼拜、供养。是二人福，正等无异，于百千万亿劫不可穷尽。无尽意！受持观世音菩萨名号，得如是无量无边福德之利。」",
+        "audio": "audio/pumen_pin/d87f9b0451df44ba.mp3",
+        "textHash": "257721060f641e0af889e6f34d54e1fbd4a909d11c4a7df238b5b2b7dd7ba970"
+      },
+      {
+        "text": "无尽意菩萨白佛言：「世尊！观世音菩萨云何游此娑婆世界？云何而为众生说法？方便之力，其事云何？」",
+        "pinyin": "wú jìn yì pú sà bái fú yán ： 「 shì zūn ！ guān shì yīn pú sà yún hé yóu cǐ suō pó shì jiè ？ yún hé ér wèi zhòng shēng shuō fǎ ？ fāng biàn zhī lì ， qí shì yún hé ？ 」",
+        "speechText": "无尽意菩萨白佛言：「世尊！观世音菩萨云何游此娑婆世界？云何而为众生说法？方便之力，其事云何？」",
+        "audio": "audio/pumen_pin/dfe3bb9da0f6d15d.mp3",
+        "textHash": "eed37e7efef2b284790557a4a40c6a3a9a7fe22ef9c16d3e4f37b140906de467"
+      },
+      {
+        "text": "佛告无尽意菩萨：「善男子！若有国土众生应以佛身得度者，观世音菩萨即现佛身而为说法；应以辟支佛身得度者，即现辟支佛身而为说法；应以声闻身得度者，即现声闻身而为说法；应以梵王身得度者，即现梵王身而为说法；应以帝释身得度者，即现帝释身而为说法；应以自在天身得度者，即现自在天身而为说法；",
+        "pinyin": "fú gào wú jìn yì pú sà ： 「 shàn nán zi ！ ruò yǒu guó tǔ zhòng shēng yīng yǐ fú shēn dé dù zhě ， guān shì yīn pú sà jí xiàn fú shēn ér wèi shuō fǎ ； yīng yǐ pì zhī fó shēn dé dù zhě ， jí xiàn pì zhī fó shēn ér wèi shuō fǎ ； yīng yǐ shēng wén shēn dé dù zhě ， jí xiàn shēng wén shēn ér wèi shuō fǎ ； yīng yǐ fàn wáng shēn dé dù zhě ， jí xiàn fàn wáng shēn ér wèi shuō fǎ ； yīng yǐ dì shì shēn dé dù zhě ， jí xiàn dì shì shēn ér wèi shuō fǎ ； yīng yǐ zì zài tiān shēn dé dù zhě ， jí xiàn zì zài tiān shēn ér wèi shuō fǎ ；",
+        "speechText": "佛告无尽意菩萨：「善男子！若有国土众生应以佛身得度者，观世音菩萨即现佛身而为说法；应以辟支佛身得度者，即现辟支佛身而为说法；应以声闻身得度者，即现声闻身而为说法；应以梵王身得度者，即现梵王身而为说法；应以帝释身得度者，即现帝释身而为说法；应以自在天身得度者，即现自在天身而为说法；",
+        "audio": "audio/pumen_pin/1c75f0d58af29fe1.mp3",
+        "textHash": "184b268d56462cae20b5f215d32c0ef175a77fb534834a22a6ad234beeb567a4"
+      },
+      {
+        "text": "应以大自在天身得度者，即现大自在天身而为说法；应以天大将军身得度者，即现天大将军身而为说法；应以毘沙门身得度者，即现毘沙门身而为说法；应以小王身得度者，即现小王身而为说法；应以长者身得度者，即现长者身而为说法；应以居士身得度者，即现居士身而为说法；应以宰官身得度者，即现宰官身而为说法；",
+        "pinyin": "yīng yǐ dà zì zài tiān shēn dé dù zhě ， jí xiàn dà zì zài tiān shēn ér wèi shuō fǎ ； yīng yǐ tiān dà jiāng jūn shēn dé dù zhě ， jí xiàn tiān dà jiāng jūn shēn ér wèi shuō fǎ ； yīng yǐ pí shā mén shēn dé dù zhě ， jí xiàn pí shā mén shēn ér wèi shuō fǎ ； yīng yǐ xiǎo wáng shēn dé dù zhě ， jí xiàn xiǎo wáng shēn ér wèi shuō fǎ ； yīng yǐ zhǎng zhě shēn dé dù zhě ， jí xiàn zhǎng zhě shēn ér wèi shuō fǎ ； yīng yǐ jū shì shēn dé dù zhě ， jí xiàn jū shì shēn ér wèi shuō fǎ ； yīng yǐ zǎi guān shēn dé dù zhě ， jí xiàn zǎi guān shēn ér wèi shuō fǎ ；",
+        "speechText": "应以大自在天身得度者，即现大自在天身而为说法；应以天大将军身得度者，即现天大将军身而为说法；应以毘沙门身得度者，即现毘沙门身而为说法；应以小王身得度者，即现小王身而为说法；应以长者身得度者，即现长者身而为说法；应以居士身得度者，即现居士身而为说法；应以宰官身得度者，即现宰官身而为说法；",
+        "audio": "audio/pumen_pin/6a67bb651791def9.mp3",
+        "textHash": "0d6c152cfb7de969b3f56750f6f66c447c625721105f73165e04d678c7ab666f"
+      },
+      {
+        "text": "应以婆罗门身得度者，即现婆罗门身而为说法；应以比丘、比丘尼、优婆塞、优婆夷身得度者，即现比丘、比丘尼、优婆塞、优婆夷身而为说法；应以长者、居士、宰官、婆罗门妇女身得度者，即现妇女身而为说法；应以童男、童女身得度者，即现童男、童女身而为说法；",
+        "pinyin": "yīng yǐ pó luó mén shēn dé dù zhě ， jí xiàn pó luó mén shēn ér wèi shuō fǎ ； yīng yǐ bǐ qiū 、 bǐ qiū ní 、 yōu pó sāi 、 yōu pó yí shēn dé dù zhě ， jí xiàn bǐ qiū 、 bǐ qiū ní 、 yōu pó sāi 、 yōu pó yí shēn ér wèi shuō fǎ ； yīng yǐ zhǎng zhě 、 jū shì 、 zǎi guān 、 pó luó mén fù nǚ shēn dé dù zhě ， jí xiàn fù nǚ shēn ér wèi shuō fǎ ； yīng yǐ tóng nán 、 tóng nǚ shēn dé dù zhě ， jí xiàn tóng nán 、 tóng nǚ shēn ér wèi shuō fǎ ；",
+        "speechText": "应以婆罗门身得度者，即现婆罗门身而为说法；应以比丘、比丘尼、优婆塞、优婆夷身得度者，即现比丘、比丘尼、优婆塞、优婆夷身而为说法；应以长者、居士、宰官、婆罗门妇女身得度者，即现妇女身而为说法；应以童男、童女身得度者，即现童男、童女身而为说法；",
+        "audio": "audio/pumen_pin/6e2a8dd8c767d091.mp3",
+        "textHash": "6df9da780e6cf812c05b7a62714986516a47382dcee3c452a6c9494e7a9c09aa"
+      },
+      {
+        "text": "应以天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等身得度者，即皆现之而为说法；应以执金刚身得度者，即现执金刚身而为说法。",
+        "pinyin": "yīng yǐ tiān 、 lóng 、 yè chā 、 gàn tà pó 、 ā xiū luó 、 jiā lóu luó 、 jǐn nà luó 、 mó hóu luó gā 、 rén fēi rén děng shēn dé dù zhě ， jí jiē xiàn zhī ér wèi shuō fǎ ； yīng yǐ zhí jīn gāng shēn dé dù zhě ， jí xiàn zhí jīn gāng shēn ér wèi shuō fǎ 。",
+        "speechText": "应以天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等身得度者，即皆现之而为说法；应以执金刚身得度者，即现执金刚身而为说法。",
+        "audio": "audio/pumen_pin/62df3d465d372ef0.mp3",
+        "textHash": "c3b94f7d231ead55f6796353d598744f0c017e74d6d15d7248e6a37e2b86238a"
+      },
+      {
+        "text": "「无尽意！是观世音菩萨成就如是功德，以种种形，游诸国土，度脱众生。是故汝等应当一心供养观世音菩萨。是观世音菩萨摩诃萨于怖畏急难之中能施无畏，是故此娑婆世界皆号之为施无畏者。」",
+        "pinyin": "「 wú jìn yì ！ shì guān shì yīn pú sà chéng jiù rú shì gōng dé ， yǐ zhǒng zhǒng xíng ， yóu zhū guó tǔ ， dù tuō zhòng shēng 。 shì gù rǔ děng yīng dāng yī xīn gòng yǎng guān shì yīn pú sà 。 shì guān shì yīn pú sà mó hē sà yú bù wèi jí nàn zhī zhōng néng shī wú wèi ， shì gù cǐ suō pó shì jiè jiē hào zhī wèi shī wú wèi zhě 。 」",
+        "speechText": "「无尽意！是观世音菩萨成就如是功德，以种种形，游诸国土，度脱众生。是故汝等应当一心供养观世音菩萨。是观世音菩萨摩喝萨于怖畏急难之中能施无畏，是故此娑婆世界皆号之为施无畏者。」",
+        "audio": "audio/pumen_pin/ad68ddb6bdb13a2b.mp3",
+        "textHash": "919875351d6ad0d11f3ebefea661b2ccc84365f9948171dff58a3277ae1dbbd0"
+      },
+      {
+        "text": "无尽意菩萨白佛言：「世尊！我今当供养观世音菩萨。」即解颈众宝珠、璎珞，价直百千两金，而以与之，作是言：「仁者！受此法施珍宝璎珞。」时观世音菩萨不肯受之。无尽意复白观世音菩萨言：「仁者！愍我等故，受此璎珞。」",
+        "pinyin": "wú jìn yì pú sà bái fú yán ： 「 shì zūn ！ wǒ jīn dāng gòng yǎng guān shì yīn pú sà 。 」 jí jiě jǐng zhòng bǎo zhū 、 yīng luò ， jià zhí bǎi qiān liǎng jīn ， ér yǐ yǔ zhī ， zuò shì yán ： 「 rén zhě ！ shòu cǐ fǎ shī zhēn bǎo yīng luò 。 」 shí guān shì yīn pú sà bù kěn shòu zhī 。 wú jìn yì fù bái guān shì yīn pú sà yán ： 「 rén zhě ！ mǐn wǒ děng gù ， shòu cǐ yīng luò 。 」",
+        "speechText": "无尽意菩萨白佛言：「世尊！我今当供养观世音菩萨。」即解颈众宝珠、璎珞，价直百千两金，而以与之，作是言：「仁者！受此法施珍宝璎珞。」时观世音菩萨不肯受之。无尽意复白观世音菩萨言：「仁者！愍我等故，受此璎珞。」",
+        "audio": "audio/pumen_pin/0815d8b3bd856551.mp3",
+        "textHash": "6f6a744104cf1fd22d578d539938ffc19baaf94bf647f4b9dc044062d031ba5b"
+      },
+      {
+        "text": "尔时佛告观世音菩萨：「当愍此无尽意菩萨及四众，天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等故，受是璎珞。」",
+        "pinyin": "ěr shí fú gào guān shì yīn pú sà ： 「 dāng mǐn cǐ wú jìn yì pú sà jí sì zhòng ， tiān 、 lóng 、 yè chā 、 gàn tà pó 、 ā xiū luó 、 jiā lóu luó 、 jǐn nà luó 、 mó hóu luó gā 、 rén fēi rén děng gù ， shòu shì yīng luò 。 」",
+        "speechText": "尔时佛告观世音菩萨：「当愍此无尽意菩萨及四众，天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等故，受是璎珞。」",
+        "audio": "audio/pumen_pin/ca88e8cf49676ada.mp3",
+        "textHash": "baa3158c51b0bc99dc05ab357c7db3cadd4dc6519140b03b769abb08a009bd0c"
+      },
+      {
+        "text": "即时观世音菩萨愍诸四众，及于天、龙、人非人等，受其璎珞，分作二分，一分奉释迦牟尼佛，一分奉多宝佛塔。",
+        "pinyin": "jí shí guān shì yīn pú sà mǐn zhū sì zhòng ， jí yú tiān 、 lóng 、 rén fēi rén děng ， shòu qí yīng luò ， fēn zuò èr fēn ， yī fēn fèng shì jiā mù ní fú ， yī fēn fèng duō bǎo fó tǎ 。",
+        "speechText": "即时观世音菩萨愍诸四众，及于天、龙、人非人等，受其璎珞，分作二分，一分奉释迦牟尼佛，一分奉多宝佛塔。",
+        "audio": "audio/pumen_pin/a0c8c7336d9f5b4e.mp3",
+        "textHash": "7851c6edaa2a5daaf4cb45f620ad85660977828408bf5c5681731348da155069"
+      },
+      {
+        "text": "「无尽意！观世音菩萨有如是自在神力，游于娑婆世界。」",
+        "pinyin": "「 wú jìn yì ！ guān shì yīn pú sà yǒu rú shì zì zài shén lì ， yóu yú suō pó shì jiè 。 」",
+        "speechText": "「无尽意！观世音菩萨有如是自在神力，游于娑婆世界。」",
+        "audio": "audio/pumen_pin/a9341bab88621fbe.mp3",
+        "textHash": "1d374b533e45b556981891bd8d4781f3e1ac5c53cd71034761f7899045ef86eb"
+      },
+      {
+        "text": "尔时无尽意菩萨以偈问曰：",
+        "pinyin": "ěr shí wú jìn yì pú sà yǐ jì wèn yuē ：",
+        "speechText": "尔时无尽意菩萨以偈问曰：",
+        "audio": "audio/pumen_pin/5951033e248c00f1.mp3",
+        "textHash": "88c248bfcd612f48d46b7521d957dd2dd4f4300d56d1f3cb0f1002661635b215"
+      },
+      {
+        "text": "「世尊妙相具，我今重问彼，佛子何因缘，名为观世音？具足妙相尊，偈答无尽意：『汝听观音行，善应诸方所，弘誓深如海，历劫不思议，侍多千亿佛，发大清净愿。我为汝略说，闻名及见身，心念不空过，能灭诸有苦。假使兴害意，推落大火坑，念彼观音力，火坑变成池。或漂流巨海，龙鱼诸鬼难，念彼观音力，波浪不能没。",
+        "pinyin": "「 shì zūn miào xiāng jù ， wǒ jīn zhòng wèn bǐ ， fú zi hé yīn yuán ， míng wèi guān shì yīn ？ jù zú miào xiāng zūn ， jì dá wú jìn yì ： 『 rǔ tīng guān yīn xíng ， shàn yīng zhū fāng suǒ ， hóng shì shēn rú hǎi ， lì jié bù sī yì ， shì duō qiān yì fú ， fā dà qīng jìng yuàn 。 wǒ wèi rǔ lüè shuō ， wén míng jí jiàn shēn ， xīn niàn bù kōng guò ， néng miè zhū yǒu kǔ 。 jiǎ shǐ xīng hài yì ， tuī luò dà huǒ kēng ， niàn bǐ guān yīn lì ， huǒ kēng biàn chéng chí 。 huò piāo liú jù hǎi ， lóng yú zhū guǐ nán ， niàn bǐ guān yīn lì ， bō làng bù néng méi 。",
+        "speechText": "「世尊妙相具，我今重问彼，佛子何因缘，名为观世音？具足妙相尊，偈答无尽意：『汝听观音行，善应诸方所，弘誓深如海，历劫不思议，侍多千亿佛，发大清净愿。我为汝略说，闻名及见身，心念不空过，能灭诸有苦。假使兴害意，推落大火坑，念彼观音力，火坑变成池。或漂流巨海，龙鱼诸鬼难，念彼观音力，波浪不能没。",
+        "audio": "audio/pumen_pin/87e7ab64c6aaf1e2.mp3",
+        "textHash": "afea5dff46d7a525c8ac56281446e951a59d29bec14cd5064f3a48ef8ec68e4b"
+      },
+      {
+        "text": "或在须弥峰，为人所推堕，念彼观音力，如日虚空住。或被恶人逐，堕落金刚山，念彼观音力，不能损一毛。或值怨贼绕，各执刀加害，念彼观音力，咸即起慈心。或遭王难苦，临刑欲寿终，念彼观音力，刀寻段段坏。或囚禁枷锁，手足被杻械，念彼观音力，释然得解脱。呪诅诸毒药，所欲害身者，念彼观音力，还著于本人。",
+        "pinyin": "huò zài xū mí fēng ， wéi rén suǒ tuī duò ， niàn bǐ guān yīn lì ， rú rì xū kōng zhù 。 huò bèi è rén zhú ， duò luò jīn gāng shān ， niàn bǐ guān yīn lì ， bù néng sǔn yī máo 。 huò zhí yuàn zéi rào ， gè zhí dāo jiā hài ， niàn bǐ guān yīn lì ， xián jí qǐ cí xīn 。 huò zāo wáng nán kǔ ， lín xíng yù shòu zhōng ， niàn bǐ guān yīn lì ， dāo xún duàn duàn huài 。 huò qiú jìn jiā suǒ ， shǒu zú bèi chǒu xiè ， niàn bǐ guān yīn lì ， shì rán dé jiě tuō 。 zhòu zǔ zhū dú yào ， suǒ yù hài shēn zhě ， niàn bǐ guān yīn lì ， hái zhù yú běn rén 。",
+        "speechText": "或在须弥峰，为人所推堕，念彼观音力，如日虚空住。或被恶人逐，堕落金刚山，念彼观音力，不能损一毛。或值怨贼绕，各执刀加害，念彼观音力，咸即起慈心。或遭王难苦，临刑欲寿终，念彼观音力，刀寻段段坏。或囚禁枷锁，手足被杻械，念彼观音力，释然得解脱。呪诅诸毒药，所欲害身者，念彼观音力，还著于本人。",
+        "audio": "audio/pumen_pin/19b2334baecf695b.mp3",
+        "textHash": "7a4b71d61fa05d9e7e778f9a12beec07437fc499370bda94805932adb93be848"
+      },
+      {
+        "text": "或遇恶罗刹、毒龙诸鬼等，念彼观音力，时悉不敢害。若恶兽围遶，利牙爪可怖，念彼观音力，疾走无边方。蚖蛇及蝮蝎，气毒烟火燃，念彼观音力，寻声自回去。云雷鼓掣电，降雹澍大雨，念彼观音力，应时得消散。众生被困厄，无量苦逼身，观音妙智力，能救世间苦。具足神通力，广修智方便，十方诸国土，无刹不现身。",
+        "pinyin": "huò yù è luó chà 、 dú lóng zhū guǐ děng ， niàn bǐ guān yīn lì ， shí xī bù gǎn hài 。 ruò è shòu wéi rào ， lì yá zhǎo kě bù ， niàn bǐ guān yīn lì ， jí zǒu wú biān fāng 。 yuán shé jí fù xiē ， qì dú yān huǒ rán ， niàn bǐ guān yīn lì ， xún shēng zì huí qù 。 yún léi gǔ chè diàn ， jiàng báo shù dà yǔ ， niàn bǐ guān yīn lì ， yìng shí dé xiāo sàn 。 zhòng shēng bèi kùn è ， wú liàng kǔ bī shēn ， guān yīn miào zhì lì ， néng jiù shì jiān kǔ 。 jù zú shén tōng lì ， guǎng xiū zhì fāng biàn ， shí fāng zhū guó tǔ ， wú chà bù xiàn shēn 。",
+        "speechText": "或遇恶罗刹、毒龙诸鬼等，念彼观音力，时悉不敢害。若恶兽围遶，利牙爪可怖，念彼观音力，疾走无边方。蚖蛇及蝮蝎，气毒烟火燃，念彼观音力，寻声自回去。云雷鼓掣电，降雹澍大雨，念彼观音力，应时得消散。众生被困厄，无量苦逼身，观音妙智力，能救世间苦。具足神通力，广修智方便，十方诸国土，无岔不现身。",
+        "audio": "audio/pumen_pin/255167bb1b1c1b3a.mp3",
+        "textHash": "c03eca0e0ee63a8a69ece1377225df0940e920941245d54db34ba1ff5d97b935"
+      },
+      {
+        "text": "种种诸恶趣，地狱鬼畜生，生老病死苦，以渐悉令灭。真观清净观，广大智慧观，悲观及慈观，常愿常瞻仰。无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。悲体戒雷震，慈意妙大云，澍甘露法雨，灭除烦恼焰。诤讼经官处，怖畏军阵中，念彼观音力，众怨悉退散。妙音观世音，梵音海潮音，胜彼世间音，是故须常念，念念勿生疑。",
+        "pinyin": "zhǒng zhǒng zhū è qù ， dì yù guǐ chù sheng ， shēng lǎo bìng sǐ kǔ ， yǐ jiàn xī lìng miè 。 zhēn guān qīng jìng guān ， guǎng dà zhì huì guān ， bēi guān jí cí guān ， cháng yuàn cháng zhān yǎng 。 wú gòu qīng jìng guāng ， huì rì pò zhū àn ， néng fú zāi fēng huǒ ， pǔ míng zhào shì jiān 。 bēi tǐ jiè léi zhèn ， cí yì miào dà yún ， shù gān lù fǎ yǔ ， miè chú fán nǎo yàn 。 zhèng sòng jīng guān chù ， bù wèi jūn zhèn zhōng ， niàn bǐ guān yīn lì ， zhòng yuàn xī tuì sàn 。 miào yīn guān shì yīn ， fàn yīn hǎi cháo yīn ， shèng bǐ shì jiān yīn ， shì gù xū cháng niàn ， niàn niàn wù shēng yí 。",
+        "speechText": "种种诸恶趣，地狱鬼畜生，生老病死苦，以渐悉令灭。真观清净观，广大智慧观，悲观及慈观，常愿常瞻仰。无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。悲体戒雷震，慈意妙大云，澍甘露法雨，灭除烦恼焰。诤讼经官处，怖畏军阵中，念彼观音力，众怨悉退散。妙音观世音，梵音海潮音，胜彼世间音，是故须常念，念念勿生疑。",
+        "audio": "audio/pumen_pin/a6282eef158445c5.mp3",
+        "textHash": "7694e13d2d9df7976a8d2bd4da56b9d6cc7b85aba2974f44d6b8d1699ff97393"
+      },
+      {
+        "text": "观世音净圣，于苦恼死厄，能为作依怙，具一切功德，慈眼视众生，福聚海无量，是故应顶礼。』」",
+        "pinyin": "guān shì yīn jìng shèng ， yú kǔ nǎo sǐ è ， néng wèi zuò yī hù ， jù yī qiè gōng dé ， cí yǎn shì zhòng shēng ， fú jù hǎi wú liàng ， shì gù yīng dǐng lǐ 。 』 」",
+        "speechText": "观世音净圣，于苦恼死厄，能为作依怙，具一切功德，慈眼视众生，福聚海无量，是故应顶礼。』」",
+        "audio": "audio/pumen_pin/f7f778e1d7b7f698.mp3",
+        "textHash": "8813be8e03031a762451d0a9e49ec393d64cf3b4fdc95c92eef962197d334d22"
+      },
+      {
+        "text": "尔时持地菩萨即从座起，前白佛言：「世尊！若有众生闻是观世音菩萨品自在之业、普门示现神通力者，当知是人功德不少。」",
+        "pinyin": "ěr shí chí dì pú sà jí cóng zuò qǐ ， qián bái fú yán ： 「 shì zūn ！ ruò yǒu zhòng shēng wén shì guān shì yīn pú sà pǐn zì zài zhī yè 、 pǔ mén shì xiàn shén tōng lì zhě ， dāng zhī shì rén gōng dé bù shǎo 。 」",
+        "speechText": "尔时持地菩萨即从座起，前白佛言：「世尊！若有众生闻是观世音菩萨品自在之业、普门示现神通力者，当知是人功德不少。」",
+        "audio": "audio/pumen_pin/61512a6816bbff4f.mp3",
+        "textHash": "f32cc478e1a846fa18abdd31638e8047bcb85a12bd80ed8397b9109ec204bfeb"
+      },
+      {
+        "text": "佛说是普门品时，众中八万四千众生，皆发无等等阿耨多罗三藐三菩提心。",
+        "pinyin": "fú shuō shì pǔ mén pǐn shí ， zhòng zhōng bā wàn sì qiān zhòng shēng ， jiē fā wú děng děng ā nòu duō luó sān miǎo sān pú tí xīn 。",
+        "speechText": "佛说是普门品时，众中八万四千众生，皆发无等等阿耨多罗三藐三菩提心。",
+        "audio": "audio/pumen_pin/73aad74159f68221.mp3",
+        "textHash": "1c960e24e2b6e1b8e47a9b49ff5fc44e7424adcfe9f1dc563455fe1dcf6b8e83"
+      }
+    ]
+  },
+  {
+    "id": "amituo_sutra",
+    "title": "佛说阿弥陀经",
+    "shortTitle": "阿弥陀经",
+    "translator": "姚秦·鸠摩罗什译",
+    "category": "完整经文",
+    "source": "https://cbetaonline.dila.edu.tw/zh/T12n0366",
+    "sourceCode": "T12n0366",
+    "sourceHash": "93da2ce198913efcd8d7dbe47ea37bbeb22f11c6a02d0aea610151b29d4a9b7f",
+    "verses": [
+      {
+        "text": "如是我闻：",
+        "pinyin": "rú shì wǒ wén ：",
+        "speechText": "如是我闻：",
+        "audio": "audio/amituo_sutra/4f2ddb2f150a6f37.mp3",
+        "textHash": "9a1293af00cb89af248120626b7a7c9c3668228f9c414ba661f597f251438639"
+      },
+      {
+        "text": "一时，佛在舍卫国祇树给孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+        "pinyin": "yī shí ， fú zài shè wèi guó qí shù jǐ gū dú yuán ， yǔ dà bǐ qiū sēng qiān èr bǎi wǔ shí rén jù ， jiē shì dà ā luó hàn ， zhòng suǒ zhī shí 。",
+        "speechText": "一时，佛在设卫国其树几孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+        "audio": "audio/amituo_sutra/18ed7fad85b9c9a7.mp3",
+        "textHash": "5e6e2ac055ec74c0d6ed78dfcd3e6900cf30c9b9065825f4e015dadb12a11b24"
+      },
+      {
+        "text": "长老舍利弗、摩诃目干连、摩诃迦叶、摩诃迦栴延、摩诃拘𫄨罗、离婆多、周梨槃陀迦、难陀、阿难陀、罗睺罗、憍梵波提、宾头卢颇罗堕、迦留陀夷、摩诃劫宾那、薄俱罗、阿㝹楼驮，如是等诸大弟子，并诸菩萨摩诃萨——文殊师利法王子、阿逸多菩萨、干陀诃提菩萨、常精进菩萨——与如是等诸大菩萨，及释提桓因等无量诸天大众俱。",
+        "pinyin": "zhǎng lǎo shè lì fú 、 mó hē mù gān lián 、 mó hē jiā shè 、 mó hē jiā zhān yán 、 mó hē jū chī luó 、 lí pó duō 、 zhōu lí pán tuó jiā 、 nán tuó 、 ā nàn tuó 、 luó hóu luó 、 jiāo fàn bō tí 、 bīn tóu lú pǒ luó duò 、 jiā liú tuó yí 、 mó hē jié bīn nà 、 báo jù luó 、 ā nóu lóu tuó ， rú shì děng zhū dà dì zǐ ， bìng zhū pú sà mó hē sà — — wén shū shī lì fǎ wáng zi 、 ā yì duō pú sà 、 gàn tuó hē tí pú sà 、 cháng jīng jìn pú sà — — yǔ rú shì děng zhū dà pú sà ， jí shì tí huán yīn děng wú liàng zhū tiān dà zhòng jù 。",
+        "speechText": "长老舍利弗、摩喝目干连、摩喝迦摄、摩喝迦栴延、摩喝拘𫄨罗、离婆多、周梨槃陀迦、难陀、阿难陀、罗睺罗、憍梵波提、宾头卢颇罗堕、迦留陀夷、摩喝劫宾那、薄俱罗、阿㝹楼驮，如是等诸大弟子，并诸菩萨摩喝萨——文殊师利法王子、阿逸多菩萨、干陀喝提菩萨、常精进菩萨——与如是等诸大菩萨，及释提桓因等无量诸天大众俱。",
+        "audio": "audio/amituo_sutra/6a53a7864c7138c0.mp3",
+        "textHash": "631d3681edd152307939c9d917283e1088bc848abd255eb98dcff2d8ae1e8dd5"
+      },
+      {
+        "text": "尔时，佛告长老舍利弗：",
+        "pinyin": "ěr shí ， fú gào zhǎng lǎo shè lì fú ：",
+        "speechText": "尔时，佛告长老舍利弗：",
+        "audio": "audio/amituo_sutra/10ecbb9789654d82.mp3",
+        "textHash": "38fa3b900dd3f0d08bd4b969cc1d7e8d71bb80b6233b5f54de37212783bbc970"
+      },
+      {
+        "text": "「从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。舍利弗！彼土何故名为极乐？其国众生无有众苦，但受诸乐，故名极乐。又舍利弗！极乐国土，七重栏楯、七重罗网、七重行树，皆是四宝周匝围绕，是故彼国名曰极乐。",
+        "pinyin": "「 cóng shì xī fāng guò shí wàn yì fú tǔ ， yǒu shì jiè míng yuē jí lè 。 qí tǔ yǒu fú ， hào ā mí tuó ， jīn xiàn zài shuō fǎ 。 shè lì fú ！ bǐ tǔ hé gù míng wèi jí lè ？ qí guó zhòng shēng wú yǒu zhòng kǔ ， dàn shòu zhū lè ， gù míng jí lè 。 yòu shè lì fú ！ jí lè guó tǔ ， qī zhòng lán dùn 、 qī zhòng luó wǎng 、 qī chóng xíng shù ， jiē shì sì bǎo zhōu zā wéi rào ， shì gù bǐ guó míng yuē jí lè 。",
+        "speechText": "「从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。舍利弗！彼土何故名为极乐？其国众生无有众苦，但受诸乐，故名极乐。又舍利弗！极乐国土，七重栏楯、七重罗网、七重行树，皆是四宝周匝围绕，是故彼国名曰极乐。",
+        "audio": "audio/amituo_sutra/17711bef3d756783.mp3",
+        "textHash": "1a251450bdb4ac6dcdcc0f9146ebac4ea3d51dac584a952cb121f5cfb08aac75"
+      },
+      {
+        "text": "「又舍利弗！极乐国土有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、颇梨合成；上有楼阁，亦以金、银、琉璃、颇梨、车𤦲、赤珠、马瑙而严饰之。池中莲花，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。舍利弗！极乐国土成就如是功德庄严。",
+        "pinyin": "「 yòu shè lì fú ！ jí lè guó tǔ yǒu qī bǎo chí ， bā gōng dé shuǐ chōng mǎn qí zhōng ， chí dǐ chún yǐ jīn shā bù dì 。 sì biān jiē dào ， jīn 、 yín 、 liú lí 、 pǒ lí hé chéng ； shàng yǒu lóu gé ， yì yǐ jīn 、 yín 、 liú lí 、 pǒ lí 、 chē qú 、 chì zhū 、 mǎ nǎo ér yán shì zhī 。 chí zhōng lián huā ， dà rú chē lún ， qīng sè qīng guāng ， huáng sè huáng guāng ， chì sè chì guāng ， bái sè bái guāng ， wēi miào xiāng jié 。 shè lì fú ！ jí lè guó tǔ chéng jiù rú shì gōng dé zhuāng yán 。",
+        "speechText": "「又舍利弗！极乐国土有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、颇梨合成；上有楼阁，亦以金、银、琉璃、颇梨、车渠、赤珠、马瑙而严饰之。池中莲花，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。舍利弗！极乐国土成就如是功德庄严。",
+        "audio": "audio/amituo_sutra/de8337fd61ba447b.mp3",
+        "textHash": "70bcd180d1e6c06c211644a5c8983cbdd4df058933b7d515d23828550b5dd10a"
+      },
+      {
+        "text": "「又舍利弗！彼佛国土，常作天乐，黄金为地，昼夜六时，天雨曼陀罗华。其国众生，常以清旦，各以衣裓盛众妙华，供养他方十万亿佛；即以食时，还到本国，饭食经行。舍利弗！极乐国土成就如是功德庄严。",
+        "pinyin": "「 yòu shè lì fú ！ bǐ fú guó tǔ ， cháng zuò tiān yuè ， huáng jīn wèi dì ， zhòu yè liù shí ， tiān yǔ màn tuó luó huá 。 qí guó zhòng shēng ， cháng yǐ qīng dàn ， gè yǐ yī gé shèng zhòng miào huá ， gòng yǎng tā fāng shí wàn yì fú ； jí yǐ shí shí ， hái dào běn guó ， fàn shí jīng xíng 。 shè lì fú ！ jí lè guó tǔ chéng jiù rú shì gōng dé zhuāng yán 。",
+        "speechText": "「又舍利弗！彼佛国土，常作天月，黄金为地，昼夜六时，天雨曼陀罗华。其国众生，常以清旦，各以衣裓盛众妙华，供养他方十万亿佛；即以食时，还到本国，饭食经行。舍利弗！极乐国土成就如是功德庄严。",
+        "audio": "audio/amituo_sutra/4cb496e30d163b64.mp3",
+        "textHash": "716148c5092cf233331d7eb53ef0977d27d64e8f9ba868778f4d554c4296766f"
+      },
+      {
+        "text": "「复次舍利弗！彼国常有种种奇妙杂色之鸟——白鹄、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时出和雅音，其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。舍利弗！汝勿谓此鸟实是罪报所生。所以者何？彼佛国土无三恶趣。舍利弗！",
+        "pinyin": "「 fù cì shè lì fú ！ bǐ guó cháng yǒu zhǒng zhǒng qí miào zá sè zhī niǎo — — bái gǔ 、 kǒng què 、 yīng wǔ 、 shè lì 、 jiā líng pín gā 、 gòng mìng zhī niǎo 。 shì zhū zhòng niǎo ， zhòu yè liù shí chū hé yǎ yīn ， qí yīn yǎn chàng wǔ gēn 、 wǔ lì 、 qī pú tí fēn 、 bā shèng dào fēn rú shì děng fǎ 。 qí tǔ zhòng shēng wén shì yīn yǐ ， jiē xī niàn fó 、 niàn fǎ 、 niàn sēng 。 shè lì fú ！ rǔ wù wèi cǐ niǎo shí shì zuì bào suǒ shēng 。 suǒ yǐ zhě hé ？ bǐ fú guó tǔ wú sān è qù 。 shè lì fú ！",
+        "speechText": "「复次舍利弗！彼国常有种种奇妙杂色之鸟——白鹄、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时出和雅音，其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。舍利弗！汝勿谓此鸟实是罪报所生。所以者何？彼佛国土无三恶趣。舍利弗！",
+        "audio": "audio/amituo_sutra/e5523ebde6f45ca4.mp3",
+        "textHash": "71029b4d4e533238b399d02da6d4d6362490208d7a983cd84f95e4b9ffba9c21"
+      },
+      {
+        "text": "其佛国土尚无三恶道之名，何况有实？是诸众鸟，皆是阿弥陀佛欲令法音宣流，变化所作。舍利弗！彼佛国土微风吹动，诸宝行树及宝罗网出微妙音，譬如百千种乐同时俱作，闻是音者，皆自然生念佛、念法、念僧之心。舍利弗！其佛国土成就如是功德庄严。",
+        "pinyin": "qí fú guó tǔ shàng wú sān è dào zhī míng ， hé kuàng yǒu shí ？ shì zhū zhòng niǎo ， jiē shì ē mí tuó fó yù lìng fǎ yīn xuān liú ， biàn huà suǒ zuò 。 shè lì fú ！ bǐ fú guó tǔ wēi fēng chuī dòng ， zhū bǎo xíng shù jí bǎo luó wǎng chū wēi miào yīn ， pì rú bǎi qiān zhǒng lè tóng shí jù zuò ， wén shì yīn zhě ， jiē zì rán shēng niàn fó 、 niàn fǎ 、 niàn sēng zhī xīn 。 shè lì fú ！ qí fú guó tǔ chéng jiù rú shì gōng dé zhuāng yán 。",
+        "speechText": "其佛国土尚无三恶道之名，何况有实？是诸众鸟，皆是阿弥陀佛欲令法音宣流，变化所作。舍利弗！彼佛国土微风吹动，诸宝行树及宝罗网出微妙音，譬如百千种乐同时俱作，闻是音者，皆自然生念佛、念法、念僧之心。舍利弗！其佛国土成就如是功德庄严。",
+        "audio": "audio/amituo_sutra/2216ffa35bda1968.mp3",
+        "textHash": "9b7073911bb309a6e4c832fb89f74614ef1121f9c2f20e1bf58a1ceb533a35a0"
+      },
+      {
+        "text": "「舍利弗！于汝意云何？彼佛何故号阿弥陀？舍利弗！彼佛光明无量，照十方国无所障碍，是故号为阿弥陀。又舍利弗！彼佛寿命及其人民，无量无边阿僧祇劫，故名阿弥陀。舍利弗！阿弥陀佛成佛已来，于今十劫。又舍利弗！彼佛有无量无边声闻弟子，皆阿罗汉，非是算数之所能知；诸菩萨，亦复如是。舍利弗！",
+        "pinyin": "「 shè lì fú ！ yú rǔ yì yún hé ？ bǐ fú hé gù hào ā mí tuó ？ shè lì fú ！ bǐ fó guāng míng wú liàng ， zhào shí fāng guó wú suǒ zhàng ài ， shì gù hào wèi ā mí tuó 。 yòu shè lì fú ！ bǐ fú shòu mìng jí qí rén mín ， wú liàng wú biān ā sēng qí jié ， gù míng ā mí tuó 。 shè lì fú ！ ē mí tuó fó chéng fú yǐ lái ， yú jīn shí jié 。 yòu shè lì fú ！ bǐ fú yǒu wú liàng wú biān shēng wén dì zǐ ， jiē ā luó hàn ， fēi shì suàn shù zhī suǒ néng zhī ； zhū pú sà ， yì fù rú shì 。 shè lì fú ！",
+        "speechText": "「舍利弗！于汝意云何？彼佛何故号阿弥陀？舍利弗！彼佛光明无量，照十方国无所障碍，是故号为阿弥陀。又舍利弗！彼佛寿命及其人民，无量无边阿僧其劫，故名阿弥陀。舍利弗！阿弥陀佛成佛已来，于今十劫。又舍利弗！彼佛有无量无边声闻弟子，皆阿罗汉，非是算数之所能知；诸菩萨，亦复如是。舍利弗！",
+        "audio": "audio/amituo_sutra/f46c3b76b61afeda.mp3",
+        "textHash": "2a63f0c600f470d43521dc9ec2fa19d3ed1dec317eb1244486579b1034cee717"
+      },
+      {
+        "text": "彼佛国土成就如是功德庄严。",
+        "pinyin": "bǐ fú guó tǔ chéng jiù rú shì gōng dé zhuāng yán 。",
+        "speechText": "彼佛国土成就如是功德庄严。",
+        "audio": "audio/amituo_sutra/50f8f49019e88588.mp3",
+        "textHash": "e8e4989647d1101c89aabe35c33b577fd0fc7517a84f9aa2ae8d320f05c56d35"
+      },
+      {
+        "text": "「又舍利弗！极乐国土众生生者，皆是阿鞞跋致。其中多有一生补处，其数甚多，非是算数所能知之，但可以无量无边阿僧祇劫说。舍利弗！众生闻者，应当发愿，愿生彼国。所以者何？得与如是诸上善人俱会一处。",
+        "pinyin": "「 yòu shè lì fú ！ jí lè guó tǔ zhòng shēng shēng zhě ， jiē shì ā bǐng bá zhì 。 qí zhōng duō yǒu yī shēng bǔ chù ， qí shù shèn duō ， fēi shì suàn shù suǒ néng zhī zhī ， dàn kě yǐ wú liàng wú biān ā sēng qí jié shuō 。 shè lì fú ！ zhòng shēng wén zhě ， yīng dāng fā yuàn ， yuàn shēng bǐ guó 。 suǒ yǐ zhě hé ？ dé yǔ rú shì zhū shàng shàn rén jù huì yī chù 。",
+        "speechText": "「又舍利弗！极乐国土众生生者，皆是阿鞞跋致。其中多有一生补处，其数甚多，非是算数所能知之，但可以无量无边阿僧其劫说。舍利弗！众生闻者，应当发愿，愿生彼国。所以者何？得与如是诸上善人俱会一处。",
+        "audio": "audio/amituo_sutra/a2c3acfbe8c34c3a.mp3",
+        "textHash": "4f5d299e8c694b706a5247897ff66cc8913783224cc6fc63eb474685b0d1e03a"
+      },
+      {
+        "text": "「舍利弗！不可以少善根福德因缘得生彼国。舍利弗！若有善男子、善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众，现在其前。是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。舍利弗！我见是利，故说此言。",
+        "pinyin": "「 shè lì fú ！ bù kě yǐ shǎo shàn gēn fú dé yīn yuán dé shēng bǐ guó 。 shè lì fú ！ ruò yǒu shàn nán zi 、 shàn nǚ rén ， wén shuō ē mí tuó fó ， zhí chí míng hào ， ruò yī rì 、 ruò èr rì 、 ruò sān rì 、 ruò sì rì 、 ruò wǔ rì 、 ruò liù rì 、 ruò qī rì ， yī xīn bù luàn 。 qí rén lín mìng zhōng shí ， ē mí tuó fó yǔ zhū shèng zhòng ， xiàn zài qí qián 。 shì rén zhōng shí ， xīn bù diān dǎo ， jí dé wǎng shēng ē mí tuó fó jí lè guó tǔ 。 shè lì fú ！ wǒ jiàn shì lì ， gù shuō cǐ yán 。",
+        "speechText": "「舍利弗！不可以少善根福德因缘得生彼国。舍利弗！若有善男子、善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众，现在其前。是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。舍利弗！我见是利，故说此言。",
+        "audio": "audio/amituo_sutra/b437b20602f66898.mp3",
+        "textHash": "5bbe77be7a15e6356b3631778d06fd9344aa4655e87550b3807e1fdafe09f998"
+      },
+      {
+        "text": "若有众生闻是说者，应当发愿生彼国土。",
+        "pinyin": "ruò yǒu zhòng shēng wén shì shuō zhě ， yīng dāng fā yuàn shēng bǐ guó tǔ 。",
+        "speechText": "若有众生闻是说者，应当发愿生彼国土。",
+        "audio": "audio/amituo_sutra/9f3a6feab17a1870.mp3",
+        "textHash": "31a014bfab5e13040c78663569c8ce1618316c76fc02dc443a20280670538dab"
+      },
+      {
+        "text": "「舍利弗！如我今者，赞叹阿弥陀佛不可思议功德；东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "pinyin": "「 shè lì fú ！ rú wǒ jīn zhě ， zàn tàn ē mí tuó fó bù kě sī yì gōng dé ； dōng fāng yì yǒu ā chù bǐng fú 、 xū mí xiāng fú 、 dà xū mí fú 、 xū mí guāng fú 、 miào yīn fú ， rú shì děng héng hé shā shù zhū fú ， gè yú qí guó chū guǎng cháng shé xiāng ， biàn fù sān qiān dà qiān shì jiè ， shuō chéng shí yán ： 『 rǔ děng zhòng shēng ， dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fú suǒ hù niàn jīng 。 』",
+        "speechText": "「舍利弗！如我今者，赞叹阿弥陀佛不可思议功德；东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "audio": "audio/amituo_sutra/52b40e0686f405cc.mp3",
+        "textHash": "683a9ebad3ef82da2fc0160354779f293fe4d079cf4c42501611e164149e87e3"
+      },
+      {
+        "text": "「舍利弗！南方世界有日月灯佛、名闻光佛、大焰肩佛、须弥灯佛、无量精进佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "pinyin": "「 shè lì fú ！ nán fāng shì jiè yǒu rì yuè dēng fú 、 míng wén guāng fú 、 dà yàn jiān fú 、 xū mí dēng fú 、 wú liàng jīng jìn fú ， rú shì děng héng hé shā shù zhū fú ， gè yú qí guó chū guǎng cháng shé xiāng ， biàn fù sān qiān dà qiān shì jiè ， shuō chéng shí yán ： 『 rǔ děng zhòng shēng ， dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fú suǒ hù niàn jīng 。 』",
+        "speechText": "「舍利弗！南方世界有日月灯佛、名闻光佛、大焰肩佛、须弥灯佛、无量精进佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "audio": "audio/amituo_sutra/29227ed4c964744d.mp3",
+        "textHash": "7e6c64af167bd2f094961368c77ff1c17e5a2303e9e4d1c7afa6ad5e1ba124c6"
+      },
+      {
+        "text": "「舍利弗！西方世界有无量寿佛、无量相佛、无量幢佛、大光佛、大明佛、宝相佛、净光佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "pinyin": "「 shè lì fú ！ xī fāng shì jiè yǒu wú liàng shòu fú 、 wú liàng xiāng fú 、 wú liàng chuáng fú 、 dà guāng fú 、 dà míng fú 、 bǎo xiāng fú 、 jìng guāng fú ， rú shì děng héng hé shā shù zhū fú ， gè yú qí guó chū guǎng cháng shé xiāng ， biàn fù sān qiān dà qiān shì jiè ， shuō chéng shí yán ： 『 rǔ děng zhòng shēng ， dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fú suǒ hù niàn jīng 。 』",
+        "speechText": "「舍利弗！西方世界有无量寿佛、无量相佛、无量幢佛、大光佛、大明佛、宝相佛、净光佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "audio": "audio/amituo_sutra/4fc72db466a9613e.mp3",
+        "textHash": "ad5e3d35215c631b2eb19403ae4d7632167d0ae8aa88f739b14d2a45e3ae775f"
+      },
+      {
+        "text": "「舍利弗！北方世界有焰肩佛、最胜音佛、难沮佛、日生佛、网明佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "pinyin": "「 shè lì fú ！ běi fāng shì jiè yǒu yàn jiān fú 、 zuì shèng yīn fú 、 nán jǔ fú 、 rì shēng fú 、 wǎng míng fú ， rú shì děng héng hé shā shù zhū fú ， gè yú qí guó chū guǎng cháng shé xiāng ， biàn fù sān qiān dà qiān shì jiè ， shuō chéng shí yán ： 『 rǔ děng zhòng shēng ， dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fú suǒ hù niàn jīng 。 』",
+        "speechText": "「舍利弗！北方世界有焰肩佛、最胜音佛、难沮佛、日生佛、网明佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "audio": "audio/amituo_sutra/b016b72a81ae13f4.mp3",
+        "textHash": "fc6d242b4ff210af17ef42eefbe42850fbbb2738d6a8f70b0c8f36b1be645c99"
+      },
+      {
+        "text": "「舍利弗！下方世界有师子佛、名闻佛、名光佛、达摩佛、法幢佛、持法佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "pinyin": "「 shè lì fú ！ xià fāng shì jiè yǒu shī zi fú 、 míng wén fú 、 míng guāng fú 、 dá mó fú 、 fǎ chuáng fú 、 chí fǎ fú ， rú shì děng héng hé shā shù zhū fú ， gè yú qí guó chū guǎng cháng shé xiāng ， biàn fù sān qiān dà qiān shì jiè ， shuō chéng shí yán ： 『 rǔ děng zhòng shēng ， dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fú suǒ hù niàn jīng 。 』",
+        "speechText": "「舍利弗！下方世界有师子佛、名闻佛、名光佛、达摩佛、法幢佛、持法佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "audio": "audio/amituo_sutra/96f921aa582d2af6.mp3",
+        "textHash": "ae0bcf13721f8f2b4d9886019b58f6b87d1eb67c2538cc241402b54fa6a46b56"
+      },
+      {
+        "text": "「舍利弗！上方世界有梵音佛、宿王佛、香上佛、香光佛、大焰肩佛、杂色宝华严身佛、娑罗树王佛、宝华德佛、见一切义佛、如须弥山佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "pinyin": "「 shè lì fú ！ shàng fāng shì jiè yǒu fàn yīn fú 、 sù wáng fú 、 xiāng shàng fú 、 xiāng guāng fú 、 dà yàn jiān fú 、 zá sè bǎo huá yán shēn fú 、 suō luó shù wáng fú 、 bǎo huá dé fú 、 jiàn yī qiè yì fú 、 rú xū mí shān fú ， rú shì děng héng hé shā shù zhū fú ， gè yú qí guó chū guǎng cháng shé xiāng ， biàn fù sān qiān dà qiān shì jiè ， shuō chéng shí yán ： 『 rǔ děng zhòng shēng ， dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fú suǒ hù niàn jīng 。 』",
+        "speechText": "「舍利弗！上方世界有梵音佛、宿王佛、香上佛、香光佛、大焰肩佛、杂色宝华严身佛、娑罗树王佛、宝华德佛、见一切义佛、如须弥山佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+        "audio": "audio/amituo_sutra/b7647f71ae360fdd.mp3",
+        "textHash": "b30417ddfa2f1d490695ede9e7d46aa7319ecac3a5b4fea25d3425e5ebd71a94"
+      },
+      {
+        "text": "「舍利弗！于汝意云何？何故名为『一切诸佛所护念经』？舍利弗！若有善男子、善女人，闻是经受持者，及闻诸佛名者；是诸善男子、善女人，皆为一切诸佛共所护念，皆得不退转于阿耨多罗三藐三菩提。是故舍利弗！汝等皆当信受我语及诸佛所说。",
+        "pinyin": "「 shè lì fú ！ yú rǔ yì yún hé ？ hé gù míng wèi 『 yī qiè zhū fú suǒ hù niàn jīng 』 ？ shè lì fú ！ ruò yǒu shàn nán zi 、 shàn nǚ rén ， wén shì jīng shòu chí zhě ， jí wén zhū fú míng zhě ； shì zhū shàn nán zi 、 shàn nǚ rén ， jiē wèi yī qiè zhū fú gòng suǒ hù niàn ， jiē dé bù tuì zhuǎn yú ā nòu duō luó sān miǎo sān pú tí 。 shì gù shè lì fú ！ rǔ děng jiē dāng xìn shòu wǒ yǔ jí zhū fú suǒ shuō 。",
+        "speechText": "「舍利弗！于汝意云何？何故名为『一切诸佛所护念经』？舍利弗！若有善男子、善女人，闻是经受持者，及闻诸佛名者；是诸善男子、善女人，皆为一切诸佛共所护念，皆得不退转于阿耨多罗三藐三菩提。是故舍利弗！汝等皆当信受我语及诸佛所说。",
+        "audio": "audio/amituo_sutra/9867c9bc57ebbad6.mp3",
+        "textHash": "68b03a27f73424976b3a95b8d03daa47d8278abd979cb36e67f14cbc9073be15"
+      },
+      {
+        "text": "「舍利弗！若有人已发愿、今发愿、当发愿，欲生阿弥陀佛国者；是诸人等，皆得不退转于阿耨多罗三藐三菩提，于彼国土若已生、若今生、若当生。是故舍利弗！诸善男子、善女人若有信者，应当发愿生彼国土。",
+        "pinyin": "「 shè lì fú ！ ruò yǒu rén yǐ fā yuàn 、 jīn fā yuàn 、 dāng fā yuàn ， yù shēng ē mí tuó fó guó zhě ； shì zhū rén děng ， jiē dé bù tuì zhuǎn yú ā nòu duō luó sān miǎo sān pú tí ， yú bǐ guó tǔ ruò yǐ shēng 、 ruò jīn shēng 、 ruò dāng shēng 。 shì gù shè lì fú ！ zhū shàn nán zi 、 shàn nǚ rén ruò yǒu xìn zhě ， yīng dāng fā yuàn shēng bǐ guó tǔ 。",
+        "speechText": "「舍利弗！若有人已发愿、今发愿、当发愿，欲生阿弥陀佛国者；是诸人等，皆得不退转于阿耨多罗三藐三菩提，于彼国土若已生、若今生、若当生。是故舍利弗！诸善男子、善女人若有信者，应当发愿生彼国土。",
+        "audio": "audio/amituo_sutra/d11791276dd0bfd1.mp3",
+        "textHash": "0a3d17ac2953f75224b30d2e613b051405b80b8049aee1050df775efa9e1461a"
+      },
+      {
+        "text": "「舍利弗！如我今者，称赞诸佛不可思议功德；彼诸佛等，亦称说我不可思议功德，而作是言：『释迦牟尼佛能为甚难希有之事，能于娑婆国土五浊恶世，劫浊、见浊、烦恼浊、众生浊、命浊中，得阿耨多罗三藐三菩提，为诸众生说是一切世间难信之法。』舍利弗！",
+        "pinyin": "「 shè lì fú ！ rú wǒ jīn zhě ， chēng zàn zhū fú bù kě sī yì gōng dé ； bǐ zhū fú děng ， yì chēng shuō wǒ bù kě sī yì gōng dé ， ér zuò shì yán ： 『 shì jiā mù ní fú néng wèi shèn nán xī yǒu zhī shì ， néng yú suō pó guó tǔ wǔ zhuó è shì ， jié zhuó 、 jiàn zhuó 、 fán nǎo zhuó 、 zhòng shēng zhuó 、 mìng zhuó zhōng ， dé ā nòu duō luó sān miǎo sān pú tí ， wèi zhū zhòng shēng shuō shì yī qiè shì jiān nán xìn zhī fǎ 。 』 shè lì fú ！",
+        "speechText": "「舍利弗！如我今者，称赞诸佛不可思议功德；彼诸佛等，亦称说我不可思议功德，而作是言：『释迦牟尼佛能为甚难希有之事，能于娑婆国土五浊恶世，劫浊、见浊、烦恼浊、众生浊、命浊中，得阿耨多罗三藐三菩提，为诸众生说是一切世间难信之法。』舍利弗！",
+        "audio": "audio/amituo_sutra/71ef2f8f0d1a83e4.mp3",
+        "textHash": "8b536fc1642bdfa57b6433fa4e78beac567eb73264abed85158c8f697291e965"
+      },
+      {
+        "text": "当知我于五浊恶世行此难事，得阿耨多罗三藐三菩提，为一切世间说此难信之法，是为甚难！」",
+        "pinyin": "dāng zhī wǒ yú wǔ zhuó è shì xíng cǐ nán shì ， dé ā nòu duō luó sān miǎo sān pú tí ， wèi yī qiè shì jiān shuō cǐ nán xìn zhī fǎ ， shì wèi shèn nán ！ 」",
+        "speechText": "当知我于五浊恶世行此难事，得阿耨多罗三藐三菩提，为一切世间说此难信之法，是为甚难！」",
+        "audio": "audio/amituo_sutra/c84fbc7df0f902c6.mp3",
+        "textHash": "2cadc814fce40af010b5dd807afdb3deb584dbf7bca5a708c065973b32ca7270"
+      },
+      {
+        "text": "佛说此经已，舍利弗及诸比丘，一切世间天、人、阿修罗等，闻佛所说，欢喜信受，作礼而去。",
+        "pinyin": "fú shuō cǐ jīng yǐ ， shè lì fú jí zhū bǐ qiū ， yī qiè shì jiān tiān 、 rén 、 ā xiū luó děng ， wén fú suǒ shuō ， huān xǐ xìn shòu ， zuò lǐ ér qù 。",
+        "speechText": "佛说此经已，舍利弗及诸比丘，一切世间天、人、阿修罗等，闻佛所说，欢喜信受，作礼而去。",
+        "audio": "audio/amituo_sutra/e7ac0c498f7c6f92.mp3",
+        "textHash": "e73d808622c0a19a2869078f100730b20349cf0adfa15e9b7b3a80097e5a5fa0"
+      }
+    ]
+  },
+  {
+    "id": "eight_realizations",
+    "title": "佛说八大人觉经",
+    "shortTitle": "八大人觉经",
+    "translator": "后汉·安世高译",
+    "category": "完整经文",
+    "source": "https://cbetaonline.dila.edu.tw/zh/T17n0779",
+    "sourceCode": "T17n0779",
+    "sourceHash": "ead963b8212ba63e10af82f1fd1ebbbc5d398f90d897dd6ed52355745aeddfa8",
+    "verses": [
+      {
+        "text": "为佛弟子，常于昼夜，至心诵念，八大人觉：",
+        "pinyin": "wèi fú dì zǐ ， cháng yú zhòu yè ， zhì xīn sòng niàn ， bā dà rén jué ：",
+        "speechText": "为佛弟子，常于昼夜，至心诵念，八大人觉：",
+        "audio": "audio/eight_realizations/c5b09da499be2c05.mp3",
+        "textHash": "be49371df29005acfba48fd1e2c4365cc967ed906c1cb3e7c9f48032ff2ed672"
+      },
+      {
+        "text": "第一觉悟：世间无常，国土危脆；四大苦空，五阴无我；生灭变异，虚伪无主；心是恶源，形为罪薮。如是观察，渐离生死。",
+        "pinyin": "dì yī jiào wù ： shì jiān wú cháng ， guó tǔ wēi cuì ； sì dà kǔ kōng ， wǔ yīn wú wǒ ； shēng miè biàn yì ， xū wěi wú zhǔ ； xīn shì è yuán ， xíng wèi zuì sǒu 。 rú shì guān chá ， jiàn lí shēng sǐ 。",
+        "speechText": "第一觉悟：世间无常，国土危脆；四大苦空，五阴无我；生灭变异，虚伪无主；心是恶源，形为罪薮。如是观察，渐离生死。",
+        "audio": "audio/eight_realizations/2fdf556b565d8141.mp3",
+        "textHash": "8751c19b2861aa21a2180bafd4a432e22a01b91adcd14fae76f653ef4da4a486"
+      },
+      {
+        "text": "第二觉知：多欲为苦，生死疲劳，从贪欲起；少欲无为，身心自在。",
+        "pinyin": "dì èr jué zhī ： duō yù wèi kǔ ， shēng sǐ pí láo ， cóng tān yù qǐ ； shǎo yù wú wéi ， shēn xīn zì zài 。",
+        "speechText": "第二觉知：多欲为苦，生死疲劳，从贪欲起；少欲无为，身心自在。",
+        "audio": "audio/eight_realizations/9f028721889709d1.mp3",
+        "textHash": "eb3fefaacca5f37a332a7f7cd97090d30c2393f2a69aa9717b35fe87e6333262"
+      },
+      {
+        "text": "第三觉知：心无厌足，唯得多求，增长罪恶；菩萨不尔，常念知足，安贫守道，唯慧是业。",
+        "pinyin": "dì sān jué zhī ： xīn wú yàn zú ， wéi dé duō qiú ， zēng zhǎng zuì è ； pú sà bù ěr ， cháng niàn zhī zú ， ān pín shǒu dào ， wéi huì shì yè 。",
+        "speechText": "第三觉知：心无厌足，唯得多求，增长罪恶；菩萨不尔，常念知足，安贫守道，唯慧是业。",
+        "audio": "audio/eight_realizations/7545b113311d1b82.mp3",
+        "textHash": "584c45216d621b22c574eb23df46443df7018666c1a51e02188450280b2e76f0"
+      },
+      {
+        "text": "第四觉知：懈怠坠落；常行精进，破烦恼恶，摧伏四魔，出阴界狱。",
+        "pinyin": "dì sì jué zhī ： xiè dài zhuì luò ； cháng xíng jīng jìn ， pò fán nǎo è ， cuī fú sì mó ， chū yīn jiè yù 。",
+        "speechText": "第四觉知：懈怠坠落；常行精进，破烦恼恶，摧伏四魔，出阴界狱。",
+        "audio": "audio/eight_realizations/a2d2a296635cbb6d.mp3",
+        "textHash": "d9e61a341af265c5039700c9239e8be29b40799681bbed48ba8166b0c6c501c3"
+      },
+      {
+        "text": "第五觉悟：愚痴生死。菩萨常念，广学多闻，增长智慧，成就辩才，教化一切，悉以大乐。",
+        "pinyin": "dì wǔ jué wù ： yú chī shēng sǐ 。 pú sà cháng niàn ， guǎng xué duō wén ， zēng zhǎng zhì huì ， chéng jiù biàn cái ， jiào huà yī qiè ， xī yǐ dà lè 。",
+        "speechText": "第五觉悟：愚痴生死。菩萨常念，广学多闻，增长智慧，成就辩才，教化一切，悉以大乐。",
+        "audio": "audio/eight_realizations/0229121c7c0294f5.mp3",
+        "textHash": "cdb2c0cb654f534d7779b3b4a2b51faa4fbaa124d109ed99984338589217f2bf"
+      },
+      {
+        "text": "第六觉知：贫苦多怨，横结恶缘。菩萨布施，等念冤亲，不念旧恶，不憎恶人。",
+        "pinyin": "dì liù jué zhī ： pín kǔ duō yuàn ， héng jié è yuán 。 pú sà bù shī ， děng niàn yuān qīn ， bù niàn jiù è ， bù zēng è rén 。",
+        "speechText": "第六觉知：贫苦多怨，横结恶缘。菩萨布施，等念冤亲，不念旧恶，不憎饿人。",
+        "audio": "audio/eight_realizations/76f994da67d18d97.mp3",
+        "textHash": "b797cfdc232a1e4e7e939298fc130a766c1c1aafbb080177ac0f824b14c8a5fb"
+      },
+      {
+        "text": "第七觉悟：五欲过患。虽为俗人，不染世乐；常念三衣，瓦钵法器；志愿出家，守道清白；梵行高远，慈悲一切。",
+        "pinyin": "dì qī jué wù ： wǔ yù guò huàn 。 suī wèi sú rén ， bù rǎn shì lè ； cháng niàn sān yī ， wǎ bō fǎ qì ； zhì yuàn chū jiā ， shǒu dào qīng bái ； fàn xíng gāo yuǎn ， cí bēi yī qiè 。",
+        "speechText": "第七觉悟：五欲过患。虽为俗人，不染世乐；常念三衣，瓦钵法器；志愿出家，守道清白；梵行高远，慈悲一切。",
+        "audio": "audio/eight_realizations/75a65d59be70919f.mp3",
+        "textHash": "868ba2f8cf58cc0a65a798d166a76e2c7a86b6987a3021bab551fbd61c227c3b"
+      },
+      {
+        "text": "第八觉知：生死炽然，苦恼无量。发大乘心，普济一切；愿代众生，受无量苦；令诸众生，毕竟大乐。",
+        "pinyin": "dì bā jué zhī ： shēng sǐ chì rán ， kǔ nǎo wú liàng 。 fā dà shèng xīn ， pǔ jì yī qiè ； yuàn dài zhòng shēng ， shòu wú liàng kǔ ； lìng zhū zhòng shēng ， bì jìng dà lè 。",
+        "speechText": "第八觉知：生死炽然，苦恼无量。发大胜心，普济一切；愿代众生，受无量苦；令诸众生，毕竟大乐。",
+        "audio": "audio/eight_realizations/61b154c30dc49026.mp3",
+        "textHash": "e95e4ea4514c0831c62974e6621d93060f898afbf78fd2fe1331a102ab26137b"
+      },
+      {
+        "text": "如此八事，乃是诸佛菩萨大人之所觉悟。精进行道，慈悲修慧，乘法身船，至涅槃岸；复还生死，度脱众生。以前八事，开导一切，令诸众生，觉生死苦，舍离五欲，修心圣道。",
+        "pinyin": "rú cǐ bā shì ， nǎi shì zhū fú pú sà dà rén zhī suǒ jué wù 。 jīng jìn háng dào ， cí bēi xiū huì ， chéng fǎ shēn chuán ， zhì niè pán àn ； fù hái shēng sǐ ， dù tuō zhòng shēng 。 yǐ qián bā shì ， kāi dǎo yī qiè ， lìng zhū zhòng shēng ， jué shēng sǐ kǔ ， shě lí wǔ yù ， xiū xīn shèng dào 。",
+        "speechText": "如此八事，乃是诸佛菩萨大人之所觉悟。精进行道，慈悲修慧，乘法身船，至涅槃岸；复还生死，度脱众生。以前八事，开导一切，令诸众生，觉生死苦，舍离五欲，修心圣道。",
+        "audio": "audio/eight_realizations/7f6f2f2a7fb453d2.mp3",
+        "textHash": "54273416c2e8c3beb2f33ed317ae61d2d033572324f4c52919260ac9565f6f0e"
+      },
+      {
+        "text": "若佛弟子，诵此八事，于念念中，灭无量罪；进趣菩提，速登正觉；永断生死，常住快乐。",
+        "pinyin": "ruò fú dì zǐ ， sòng cǐ bā shì ， yú niàn niàn zhōng ， miè wú liàng zuì ； jìn qù pú tí ， sù dēng zhèng jué ； yǒng duàn shēng sǐ ， cháng zhù kuài lè 。",
+        "speechText": "若佛弟子，诵此八事，于念念中，灭无量罪；进趣菩提，速登正觉；永断生死，常住快乐。",
+        "audio": "audio/eight_realizations/3adfe45f1cbb2b33.mp3",
+        "textHash": "9da868cc6943636e253930ceb08cd3ddad28694bb23f0ce15606fbf950252b05"
+      }
+    ]
+  }
+]

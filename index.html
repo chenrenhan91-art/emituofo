@@ -307,6 +307,10 @@
       cursor: pointer;
     }
     .verse.is-on { background: linear-gradient(90deg, rgba(196,163,106,0.08), transparent); margin: 0 -18px; padding-left: 20px; padding-right: 20px; border-left: 2px solid var(--gold); border-bottom-color: transparent; }
+    .verse-text.with-pinyin { line-height: 2.7; }
+    #sutra-sub a { color: var(--gold-deep); text-underline-offset: 3px; }
+    .verse-text ruby { ruby-align: center; }
+    .verse-text rt { font-family: sans-serif; font-weight: 400; font-size: 0.45em; letter-spacing: 0; color: var(--gold-deep); }
     .verse-pinyin {
       font-size: 11px;
       letter-spacing: 0.04em;
@@ -962,7 +966,6 @@
       <div class="grab"></div>
       <h3>读经</h3>
       <div class="setting-row">拼音标注<button class="toggle" id="tog-pinyin" type="button"><i></i></button></div>
-      <div class="setting-row">白话注释<button class="toggle is-on" id="tog-meaning" type="button"><i></i></button></div>
       <div class="setting-row">语速
         <div class="seg" id="seg-rate">
           <button type="button" data-rate="0.7">慢</button>
@@ -979,96 +982,15 @@
           <button type="button" data-fs="3">特</button>
         </div>
       </div>
-      <p class="read-sub" style="margin:14px 0 0">诵读使用自然女声，仍按经文标点停顿。</p>
+      <p class="read-sub" style="margin:14px 0 0">诵读使用 AI 合成女声，按句意舒缓朗读，段落间留出停顿。拼音采用普通话标调；咒语保留所选底本的汉字音译。</p>
     </div>
   </div>
 
   <div class="toast" id="toast"></div>
 
+  <script src="data/sutras.js?v=cbeta-c827f963f437"></script>
   <script>
-    const SUTRA_DATABASE = [
-      { id: "heart_sutra", title: "般若波罗蜜多心经", shortTitle: "心经", category: "般若心法", translator: "唐·三藏法师玄奘奉诏译",
-        verses: [
-          { text: "观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。", pinyin: "guān zì zài pú sà，xíng shēn bō rě bō luó mì duō shí，zhào jiàn wǔ yùn jiē kōng，dù yī qiè kǔ è。", meaning: "观世音菩萨在深入体证究竟般若智慧时，明彻照见色受想行识五蕴全无自性实体，当下超越消除了一切痛苦与患难。" },
-          { text: "舍利子，色不异空，空不异色，色即是空，空即是色，受想行识，亦复如是。", pinyin: "shè lì zǐ，sè bù yì kōng，kōng bù yì sè，sè jí shì kōng，kōng jí shì sè，shòu xiǎng xíng shí，yì fù rú shì。", meaning: "舍利子啊！物质现象不离开因缘本空，本空亦不脱离物质现象显现；现象当下即是空性，空性就在现象之中；受想行识亦复如是。" },
-          { text: "舍利子，是诸法空相，不生不灭，不垢不净，不增不减。", pinyin: "shè lì zǐ，shì zhū fǎ kōng xiàng，bù shēng bù miè，bù gòu bù jìng，bù zēng bù jiǎn。", meaning: "一切万事万物的真实空性之相，没有生灭垢净增减。" },
-          { text: "是故空中无色，无受想行识，无眼耳鼻舌身意，无色声香味触法，无眼界，乃至无意识界。", pinyin: "shì gù kōng zhōng wú sè，wú shòu xiǎng xíng shí，wú yǎn ěr bí shé shēn yì，wú sè shēng xiāng wèi chù fǎ，wú yǎn jiè，nǎi zhì wú yì shí jiè。", meaning: "在离相本空中，没有孤立永恒的物质与心识，没有六根六尘与十八界的执着束缚。" },
-          { text: "无无明，亦无无明尽，乃至无老死，亦无老死尽。无苦集灭道，无智亦无得。以无所得故。", pinyin: "wú wú míng，yì wú wú míng jìn，nǎi zhì wú lǎo sǐ，yì wú lǎo sǐ jìn。wú kǔ jí miè dào，wú zhì yì wú dé。yǐ wú suǒ dé gù。", meaning: "没有痴暗无明，也没有消灭无明的造作，乃至超越生老死病。因究竟实相本自具足。" },
-          { text: "菩提萨埵，依般若波罗蜜多故，心无罣碍，无罣碍故，无有恐怖，远离颠倒梦想，究竟涅槃。", pinyin: "pú tí sà duǒ，yī bō rě bō luó mì duō gù，xīn wú guà ài，wú guà ài gù，wú yǒu kǒng bù，yuǎn lí diān dǎo mèng xiǎng，jiū jìng niè pán。", meaning: "菩萨依凭圆满智慧，内心毫无滞碍，不再有惊恐忧惧，契入究竟涅槃。" },
-          { text: "三世诸佛，依般若波罗蜜多故，得阿耨多罗三藐三菩提。", pinyin: "sān shì zhū fó，yī bō rě bō luó mì duō gù，dé ā nòu duō luó sān miǎo sān pú tí。", meaning: "过去现在未来一切诸佛，皆依此智成就无上正等正觉。" },
-          { text: "故知般若波罗蜜多，是大神咒，是大明咒，是无上咒，是无等等咒，能除一切苦，真实不虚。", pinyin: "gù zhī bō rě bō luó mì duō，shì dà shén zhòu，shì dà míng zhòu，shì wú shàng zhòu，shì wú děng děng zhòu，néng chú yí qiè kǔ，zhēn shí bù xū。", meaning: "般若大智慧能拔除一切苦厄，真实不虚。" },
-          { text: "故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。", pinyin: "gù shuō bō rě bō luó mì duō zhòu，jí shuō zhòu yuē：jiē dì jiē dì，bō luó jiē dì，bō luó sēng jiē dì，pú tí sà pó hē。", meaning: "去吧，去吧，到达解脱彼岸，大众共同到达彼岸，愿觉悟圆满成就。" }
-        ]
-      },
-      { id: "diamond_sutra", title: "金刚般若波罗蜜经", shortTitle: "金刚经", category: "般若经典", translator: "姚秦·三藏法师鸠摩罗什译",
-        verses: [
-          { text: "一时，佛在舍卫国祇树给孤独园。须菩提白佛言：世尊，善男子、善女人，发阿耨多罗三藐三菩提心，应云何住，云何降伏其心？", pinyin: "yī shí，fó zài shě wèi guó qí shù jǐ gū dú yuán。xū pú tí bái fó yán：shì zūn，shàn nán zǐ、shàn nǚ rén，fā ā nòu duō luó sān miǎo sān pú tí xīn，yīng yún hé zhù，yún hé xiáng fú qí xīn？", meaning: "佛在舍卫国。须菩提问：发无上觉心的人，心应安住何处，又当如何降伏妄心？" },
-          { text: "诸菩萨摩诃萨，应如是生清净心：不应住色生心，不应住声香味触法生心，应生无所住心。若心有住，则为非住。", pinyin: "zhū pú sà mó hē sà，yīng rú shì shēng qīng jìng xīn：bù yīng zhù sè shēng xīn，bù yīng zhù shēng xiāng wèi chù fǎ shēng xīn，yīng shēng wú suǒ zhù xīn。ruò xīn yǒu zhù，zé wéi fēi zhù。", meaning: "菩萨当生清净心，不执色声香味触法，应无所住而生其心。心若有住，便不是真正的安住。" },
-          { text: "若菩萨有我相、人相、众生相、寿者相，即非菩萨。菩萨应离一切相，发阿耨多罗三藐三菩提心。", pinyin: "ruò pú sà yǒu wǒ xiàng、rén xiàng、zhòng shēng xiàng、shòu zhě xiàng，jí fēi pú sà。pú sà yīng lí yī qiè xiàng，fā ā nòu duō luó sān miǎo sān pú tí xīn。", meaning: "若心中仍有我、人、众生、寿者四相，即不是菩萨。发无上觉心，须离一切相。" },
-          { text: "凡所有相，皆是虚妄。若见诸相非相，则见如来。", pinyin: "fán suǒ yǒu xiàng，jiē shì xū wàng。ruò jiàn zhū xiàng fēi xiàng，zé jiàn rú lái。", meaning: "一切可见可感的形态皆是因缘假象。若见诸相非相，则见如来。" },
-          { text: "须菩提，如来无所说。所谓佛法者，即非佛法。", pinyin: "xū pú tí，rú lái wú suǒ shuō。suǒ wèi fó fǎ zhě，jí fēi fó fǎ。", meaning: "如来没有可执取的言说。所谓佛法，也不可以相求。" },
-          { text: "若以色见我，以音声求我，是人行邪道，不能见如来。", pinyin: "ruò yǐ sè jiàn wǒ，yǐ yīn shēng qiú wǒ，shì rén xíng xié dào，bù néng jiàn rú lái。", meaning: "若执色相音声以求佛，便入偏途，不能见如来。" },
-          { text: "一切有为法，如梦幻泡影，如露亦如电，应作如是观。", pinyin: "yī qiè yǒu wéi fǎ，rú mèng huàn pào yǐng，rú lù yì rú diàn，yīng zuò rú shì guān。", meaning: "一切有为法如梦幻泡影，如露如电，应作如是观。" },
-          { text: "若复有人得闻是经，信心清净，则生实相。当知是人，成就第一希有功德。", pinyin: "ruò fù yǒu rén dé wén shì jīng，xìn xīn qīng jìng，zé shēng shí xiàng。dāng zhī shì rén，chéng jiù dì yī xī yǒu gōng dé。", meaning: "若闻此经而信心清净，便能显发实相，成就最为希有的功德。" },
-          { text: "如来者，无所从来，亦无所去，故名如来。", pinyin: "rú lái zhě，wú suǒ cóng lái，yì wú suǒ qù，gù míng rú lái。", meaning: "如来不是从某处来，也不往某处去，只是如其本来。" },
-          { text: "佛说是经已，一切大众闻佛所说，皆大欢喜，信受奉行。", pinyin: "fó shuō shì jīng yǐ，yī qiè dà zhòng wén fó suǒ shuō，jiē dà huān xǐ，xìn shòu fèng xíng。", meaning: "大众闻法，心生欢喜，信受奉行。" }
-        ]
-      },
-      { id: "dabei_mantra", title: "千手千眼观世音菩萨广大圆满无碍大悲心陀罗尼", shortTitle: "大悲咒", category: "密咒威德", translator: "唐·西天竺沙门伽梵达摩译",
-        verses: [
-          { text: "南无大悲观世音菩萨。愿持此广大圆满无碍大悲心陀罗尼。", pinyin: "ná mó dà bēi guān shì yīn pú sà。yuàn chí cǐ guǎng dà yuán mǎn wú ài dà bēi xīn tuó luó ní。", meaning: "皈命大悲观世音，发心持诵此咒。" },
-          { text: "南无喝啰怛那哆啰夜耶。南无阿唎耶。婆卢羯帝烁钵啰耶。菩提萨埵婆耶。摩诃萨埵婆耶。摩诃迦卢尼迦耶。", pinyin: "ná mó hē là dá nà duō là yè yē。ná mó ā lì yē。pó lú jié dì shuò bō là yē。pú tí sà duǒ pó yē。mó hē sà duǒ pó yē。mó hē jiā lú ní jiā yē。", meaning: "皈命佛法僧，顶礼观世音自在菩萨，顶礼大慈悲者。" },
-          { text: "唵。萨皤啰罚曳。数怛那怛写。南无悉吉栗埵伊蒙阿唎耶。婆卢吉帝室佛啰楞驮婆。南无那啰谨墀。醯利摩诃皤哆沙咩。萨婆阿他豆输朋。阿逝孕。萨婆萨哆那摩婆萨哆那摩婆伽。摩罚特豆。", pinyin: "ōng。sà pó là fá yì。shù dá nà dá xiě。ná mó xī jí lì duǒ yī méng ā lì yē。pó lú jí dì shì fó là léng tuó pó。ná mó nà là jǐn chí。xī lì mó hē pó duō shā miē。sà pó ā tuō dòu shū péng。ā shì yùn。sà pó sà duō ná mó pó sà duō ná mó pó qié。mó fá tè dòu。", meaning: "咒心起诵，皈依大自在者，祈愿慈悲威德加被。" },
-          { text: "怛侄他。唵。阿婆卢醯。卢迦帝。迦罗帝。夷醯唎。摩诃菩提萨埵。萨婆萨婆。摩啰摩啰。摩醯摩醯唎驮孕。", pinyin: "dá zhí tuō。ōng。ā pó lú xī。lú jiā dì。jiā luó dì。yí xī lì。mó hē pú tí sà duǒ。sà pó sà pó。mó là mó là。mó xī mó xī lì tuó yùn。", meaning: "即说咒曰，照见世间苦厄，速疾成就。" },
-          { text: "俱卢俱卢羯蒙。度卢度卢罚阇耶帝。摩诃罚阇耶帝。陀罗陀罗。地唎尼。室佛啰耶。遮啰遮啰。摩么罚摩啰。穆帝隶。", pinyin: "jù lú jù lú jié méng。dù lú dù lú fá shé yē dì。mó hē fá shé yē dì。tuó luó tuó luó。dì lì ní。shì fó là yē。zhē luó zhē luó。mó me fá mó là。mù dì lì。", meaning: "祈愿摧破障难，安住清净。" },
-          { text: "伊醯伊醯。室那室那。阿啰参佛啰舍利。罚沙罚参。佛啰舍耶。呼卢呼卢摩啰。呼卢呼卢醯利。娑啰娑啰。悉唎悉唎。苏嚧苏嚧。", pinyin: "yī xī yī xī。shì nà shì nà。ā là shēn fó là shè lì。fá shā fá shēn。fó là shè yē。hū lú hū lú mó là。hū lú hū lú xī lì。suō là suō là。xī lì xī lì。sū lú sū lú。", meaning: "召请圣力加持，令愿速疾圆满。" },
-          { text: "菩提夜菩提夜。菩驮夜菩驮夜。弥帝唎夜。那啰谨墀。地利瑟尼那。婆伽摩那。娑婆诃。悉陀夜。娑婆诃。摩诃悉陀夜。娑婆诃。", pinyin: "pú tí yè pú tí yè。pú tuó yè pú tuó yè。mí dì lì yè。nà là jǐn chí。dì lì sè ní nà。pó qié mó nà。suō pó hē。xī tuó yè。suō pó hē。mó hē xī tuó yè。suō pó hē。", meaning: "愿觉悟现前，成就无碍。" },
-          { text: "悉陀誉。室皤啰耶。娑婆诃。那啰谨墀。娑婆诃。摩啰那啰。娑婆诃。悉啰僧阿穆佉耶。娑婆诃。娑婆摩诃阿悉陀夜。娑婆诃。", pinyin: "xī tuó yù。shì pó là yē。suō pó hē。nà là jǐn chí。suō pó hē。mó là nà là。suō pó hē。xī là sēng ā mù qū yē。suō pó hē。suō pó mó hē ā xī tuó yè。suō pó hē。", meaning: "以娑婆诃收摄愿力，令所求成就。" },
-          { text: "者吉啰阿悉陀夜。娑婆诃。波陀摩羯悉陀夜。娑婆诃。那啰谨墀皤伽啰耶。娑婆诃。摩婆利胜羯啰夜。娑婆诃。南无喝啰怛那哆啰夜耶。南无阿唎耶。婆嚧吉帝。烁皤啰夜。娑婆诃。唵悉殿都。漫多啰。跋陀耶。娑婆诃。", pinyin: "zhě jí là ā xī tuó yè。suō pó hē。bō tuó mó jié xī tuó yè。suō pó hē。nà là jǐn chí pó qié là yē。suō pó hē。mó pó lì shèng jié là yè。suō pó hē。ná mó hē là dá nà duō là yè yē。ná mó ā lì yē。pó lú jí dì。shuò pó là yè。suō pó hē。ōng xī diàn dū。màn duō là。bá tuó yē。suō pó hē。", meaning: "礼敬圆满，咒愿成就。" }
-        ]
-      },
-      { id: "pumen_pin", title: "妙法莲华经·观世音菩萨普门品", shortTitle: "普门品", category: "法华胜境", translator: "姚秦·三藏法师鸠摩罗什译",
-        verses: [
-          { text: "尔时，无尽意菩萨白佛言：世尊，观世音菩萨，以何因缘，名观世音？", pinyin: "ěr shí，wú jìn yì pú sà bái fó yán：shì zūn，guān shì yīn pú sà，yǐ hé yīn yuán，míng guān shì yīn？", meaning: "无尽意菩萨问：观世音菩萨因何得名？" },
-          { text: "佛告无尽意菩萨：若有无量百千万亿众生，受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。", pinyin: "fó gào wú jìn yì pú sà：ruò yǒu wú liàng bǎi qiān wàn yì zhòng shēng，shòu zhū kǔ nǎo，wén shì guān shì yīn pú sà，yī xīn chēng míng，guān shì yīn pú sà jí shí guān qí yīn shēng，jiē dé jiě tuō。", meaning: "众生若受诸苦，一心称观世音名，菩萨即时观其音声，皆得解脱。" },
-          { text: "若有持是观世音菩萨名者，设入大火，火不能烧，由是菩萨威神力故。若为大水所漂，称其名号，即得浅处。", pinyin: "ruò yǒu chí shì guān shì yīn pú sà míng zhě，shè rù dà huǒ，huǒ bù néng shāo，yóu shì pú sà wēi shén lì gù。ruò wéi dà shuǐ suǒ piāo，chēng qí míng hào，jí dé qiǎn chù。", meaning: "持名之人，大火不能烧，大水不能没，皆仗观音威神。" },
-          { text: "若复有人临当被害，称观世音菩萨名者，彼所执刀杖，寻段段坏，而得解脱。若有罪若无罪，杻械枷锁检系其身，称观世音菩萨名者，皆悉断坏，即得解脱。", pinyin: "ruò fù yǒu rén lín dāng bèi hài，chēng guān shì yīn pú sà míng zhě，bǐ suǒ zhí dāo zhàng，xún duàn duàn huài，ér dé jiě tuō。ruò yǒu zuì ruò wú zuì，chǒu xiè jiā suǒ jiǎn xì qí shēn，chēng guān shì yīn pú sà míng zhě，jiē xī duàn huài，jí dé jiě tuō。", meaning: "临当被害或身被枷锁，称观音名，刀杖枷锁皆得解脱。" },
-          { text: "应以佛身得度者，即现佛身而为说法；应以比丘、比丘尼、优婆塞、优婆夷身得度者，即现其身而为说法。观世音菩萨以种种形，游诸国土，度脱众生。", pinyin: "yīng yǐ fó shēn dé dù zhě，jí xiàn fó shēn ér wéi shuō fǎ；yīng yǐ bǐ qiū、bǐ qiū ní、yōu pó sāi、yōu pó yí shēn dé dù zhě，jí xiàn qí shēn ér wéi shuō fǎ。guān shì yīn pú sà yǐ zhǒng zhǒng xíng，yóu zhū guó tǔ，dù tuō zhòng shēng。", meaning: "应以何身得度，即现何身而为说法。观音以种种形，游诸国土度众生。" },
-          { text: "是故众生，皆应受持观世音菩萨名号。无尽意，观世音菩萨摩诃萨，于怖畏急难之中能施无畏，是故此娑婆世界，皆号之为施无畏者。", pinyin: "shì gù zhòng shēng，jiē yīng shòu chí guān shì yīn pú sà míng hào。wú jìn yì，guān shì yīn pú sà mó hē sà，yú bù wèi jí nàn zhī zhōng néng shī wú wèi，shì gù cǐ suō pó shì jiè，jiē hào zhī wéi shī wú wèi zhě。", meaning: "众生皆应受持观音名号。于怖畏急难中能施无畏，故号施无畏者。" },
-          { text: "汝听观音行，善应诸方所，弘誓深如海，历劫不思议，侍多千亿佛，发大清净愿。", pinyin: "rǔ tīng guān yīn xíng，shàn yīng zhū fāng suǒ，hóng shì shēn rú hǎi，lì jié bù sī yì，shì duō qiān yì fó，fā dà qīng jìng yuàn。", meaning: "观音菩萨弘誓深如海，善于应化诸方。" },
-          { text: "或遭王难苦，临刑欲寿终，念彼观音力，刀寻段段坏。或囚禁枷锁，手足被杻械，念彼观音力，释然得解脱。若恶兽围绕，利牙爪可怖，念彼观音力，疾走无边方。", pinyin: "huò zāo wáng nàn kǔ，lín xíng yù shòu zhōng，niàn bǐ guān yīn lì，dāo xún duàn duàn huài。huò qiú jìn jiā suǒ，shǒu zú bèi chǒu xiè，niàn bǐ guān yīn lì，shì rán dé jiě tuō。ruò è shòu wéi rào，lì yá zhǎo kě bù，niàn bǐ guān yīn lì，jí zǒu wú biān fāng。", meaning: "刀杖、枷锁、恶兽之难，诚念观音，皆得解脱。" },
-          { text: "妙音观世音，梵音海潮音，胜彼世间音，是故须常念。念念勿生疑，观世音净圣。", pinyin: "miào yīn guān shì yīn，fàn yīn hǎi cháo yīn，shèng bǐ shì jiān yīn，shì gù xū cháng niàn。niàn niàn wù shēng yí，guān shì yīn jìng shèng。", meaning: "观音音声胜过世间一切音声，是故须常念，念念勿生疑。" },
-          { text: "于苦恼死厄，能为作依怙。具一切功德，慈眼视众生，福聚海无量，是故应顶礼。", pinyin: "yú kǔ nǎo sǐ è，néng wéi zuò yī hù。jù yī qiè gōng dé，cí yǎn shì zhòng shēng，fú jù hǎi wú liàng，shì gù yīng dǐng lǐ。", meaning: "于苦恼死厄中，观音能为依怙，是故应顶礼。" }
-        ]
-      },
-      { id: "amituo_sutra", title: "佛说阿弥陀经", shortTitle: "阿弥陀经", category: "净土法门", translator: "姚秦·三藏法师鸠摩罗什译",
-        verses: [
-          { text: "如是我闻。一时，佛在舍卫国祇树给孤独园。尔时，佛告长老舍利弗：从是西方，过十万亿佛土，有世界名曰极乐。", pinyin: "rú shì wǒ wén。yī shí，fó zài shě wèi guó qí shù jǐ gū dú yuán。ěr shí，fó gào zhǎng lǎo shè lì fú：cóng shì xī fāng，guò shí wàn yì fó tǔ，yǒu shì jiè míng yuē jí lè。", meaning: "佛在舍卫国告舍利弗：从此往西过十万亿佛土，有世界名曰极乐。" },
-          { text: "其土有佛，号阿弥陀，今现在说法。", pinyin: "qí tǔ yǒu fó，hào ā mí tuó，jīn xiàn zài shuō fǎ。", meaning: "极乐世界有佛，号阿弥陀，今正在说法。" },
-          { text: "彼土何故名为极乐？其国众生，无有众苦，但受诸乐，故名极乐。", pinyin: "bǐ tǔ hé gù míng wéi jí lè？qí guó zhòng shēng，wú yǒu zhòng kǔ，dàn shòu zhū lè，gù míng jí lè。", meaning: "彼土众生无有众苦，但受诸乐，故名极乐。" },
-          { text: "又舍利弗，极乐国土，有七宝池，八功德水，充满其中，池底纯以金沙布地。池中莲华大如车轮，青色青光、黄色黄光、赤色赤光、白色白光，微妙香洁。", pinyin: "yòu shè lì fú，jí lè guó tǔ，yǒu qī bǎo chí，bā gōng dé shuǐ，chōng mǎn qí zhōng，chí dǐ chún yǐ jīn shā bù dì。chí zhōng lián huā dà rú chē lún，qīng sè qīng guāng、huáng sè huáng guāng、chì sè chì guāng、bái sè bái guāng，wēi miào xiāng jié。", meaning: "极乐有七宝池、八功德水，池中莲华大如车轮，微妙香洁。" },
-          { text: "又舍利弗，彼佛国土，常作天乐，黄金为地，昼夜六时，雨天曼陀罗华。", pinyin: "yòu shè lì fú，bǐ fó guó tǔ，cháng zuò tiān yuè，huáng jīn wéi dì，zhòu yè liù shí，yù tiān màn tuó luó huā。", meaning: "极乐常作天乐，黄金为地，昼夜六时天华如雨。" },
-          { text: "彼佛光明无量，照十方国，无所障碍，是故号为阿弥陀。彼佛寿命及其人民，无量无边阿僧祇劫，故名阿弥陀。", pinyin: "bǐ fó guāng míng wú liàng，zhào shí fāng guó，wú suǒ zhàng ài，shì gù hào wéi ā mí tuó。bǐ fó shòu mìng jí qí rén mín，wú liàng wú biān ā sēng qí jié，gù míng ā mí tuó。", meaning: "阿弥陀义为无量光、无量寿：光明遍照十方，寿命无量无边。" },
-          { text: "若有善男子、善女人，闻说阿弥陀佛，执持名号，若一日乃至七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众现在其前。是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。", pinyin: "ruò yǒu shàn nán zǐ、shàn nǚ rén，wén shuō ā mí tuó fó，zhí chí míng hào，ruò yī rì nǎi zhì qī rì，yī xīn bù luàn。qí rén lín mìng zhōng shí，ā mí tuó fó yǔ zhū shèng zhòng xiàn zài qí qián。shì rén zhōng shí，xīn bù diān dǎo，jí dé wǎng shēng ā mí tuó fó jí lè guó tǔ。", meaning: "执持名号，一日至七日一心不乱，临终佛与圣众现前，即得往生极乐。" },
-          { text: "如我今者，赞叹阿弥陀佛不可思议功德。六方恒河沙数诸佛，各于其国，出广长舌相，说诚实言：汝等众生，当信是称赞不可思议功德一切诸佛所护念经。", pinyin: "rú wǒ jīn zhě，zàn tàn ā mí tuó fó bù kě sī yì gōng dé。liù fāng héng hé shā shù zhū fó，gè yú qí guó，chū guǎng cháng shé xiàng，shuō chéng shí yán：rǔ děng zhòng shēng，dāng xìn shì chēng zàn bù kě sī yì gōng dé yī qiè zhū fó suǒ hù niàn jīng。", meaning: "十方诸佛同声劝信：当信此称赞阿弥陀佛功德、一切诸佛所护念之经。" },
-          { text: "若有人已发愿、今发愿、当发愿，欲生阿弥陀佛国者，皆得不退转于阿耨多罗三藐三菩提。是故舍利弗，诸善男子、善女人，若有信者，应当发愿，生彼国土。", pinyin: "ruò yǒu rén yǐ fā yuàn、jīn fā yuàn、dāng fā yuàn，yù shēng ā mí tuó fó guó zhě，jiē dé bù tuì zhuǎn yú ā nòu duō luó sān miǎo sān pú tí。shì gù shè lì fú，zhū shàn nán zǐ、shàn nǚ rén，ruò yǒu xìn zhě，yīng dāng fā yuàn，shēng bǐ guó tǔ。", meaning: "已愿、今愿、当愿生彼国者，皆得不退转。有信者，应当发愿往生。" }
-        ]
-      },
-      { id: "eight_realizations", title: "佛说八大人觉经", shortTitle: "八大人觉经", category: "修持纲领", translator: "后汉·安息国沙门安世高译",
-        verses: [
-          { text: "为佛弟子，常于昼夜，至心诵念，八大人觉：第一觉悟：世间无常，国土危脆；四大苦空，五阴无我；生灭变异，虚伪无主；心是恶源，形为罪薮。如是观察，渐离生死。", pinyin: "wéi fó dì zǐ，cháng yú zhòu yè，zhì xīn sòng niàn，bā dà rén jué：dì yī jué wù：shì jiān wú cháng，guó tǔ wēi cuì；sì dà kǔ kōng，wǔ yīn wú wǒ；shēng miè biàn yì，xū wěi wú zhǔ；xīn shì è yuán，xíng wéi zuì sǒu。rú shì guān chá，jiàn lí shēng sǐ。", meaning: "第一觉知世间无常，四大苦空。如是观察，渐离生死。" },
-          { text: "第二觉知：多欲为苦，生死疲劳，从贪欲起；少欲无为，身心自在。", pinyin: "dì èr jué zhī：duō yù wéi kǔ，shēng sǐ pí láo，cóng tān yù qǐ；shǎo yù wú wéi，shēn xīn zì zài。", meaning: "多欲为苦，少欲无为，身心自在。" },
-          { text: "第三觉知：心无厌足，唯得多求，增长罪恶；菩萨不尔，常念知足，安贫守道，唯慧是业。", pinyin: "dì sān jué zhī：xīn wú yàn zú，wéi dé duō qiú，zēng zhǎng zuì è；pú sà bù ěr，cháng niàn zhī zú，ān pín shǒu dào，wéi huì shì yè。", meaning: "心无厌足则增长罪恶；菩萨常念知足，唯慧是业。" },
-          { text: "第四觉知：懈怠坠落；常行精进，破烦恼恶，摧伏四魔，出阴界狱。", pinyin: "dì sì jué zhī：xiè dài zhuì luò；cháng xíng jīng jìn，pò fán nǎo è，cuī fú sì mó，chū yīn jiè yù。", meaning: "怠惰使人沉沦，当常行精进。" },
-          { text: "第五觉悟：愚痴生死。菩萨常念，广学多闻，增长智慧，成就辩才，教化一切，悉以大乐。", pinyin: "dì wǔ jué wù：yú chī shēng sǐ。pú sà cháng niàn，guǎng xué duō wén，zēng zhǎng zhì huì，chéng jiù biàn cái，jiào huà yī qiè，xī yǐ dà lè。", meaning: "菩萨广学多闻，增长智慧，教化一切。" },
-          { text: "第六觉知：贫苦多怨，横结恶缘。菩萨布施，等念怨亲，不念旧恶，不憎恶人。", pinyin: "dì liù jué zhī：pín kǔ duō yuàn，héng jié è yuán。pú sà bù shī，děng niàn yuàn qīn，bú niàn jiù è，bù zēng è rén。", meaning: "菩萨平等布施，等念怨亲。" },
-          { text: "第七觉悟：五欲过患。虽为俗人，不染世乐；常念三衣，瓦钵法器；志愿出家，守道清白；梵行高远，慈悲一切。", pinyin: "dì qī jué wù：wǔ yù guō huàn。suī wéi sú rén，bù rǎn shì lè；cháng niàn sān yī，wǎ bō fǎ qì；zhì yuàn chū jiā，shǒu dào qīng bái；fàn xíng gāo yuǎn，cí bēi yī qiè。", meaning: "虽处尘俗，不染五欲，志愿守道慈悲。" },
-          { text: "第八觉知：生死炽然，苦恼无量。发大乘心，普济一切；愿代众生，受无量苦；令诸众生，毕竟大乐。", pinyin: "dì bā jué zhī：shēng sǐ chì rán，kǔ nǎo wú liàng。fā dà chéng xīn，pǔ jì yī qiè；yuàn dài zhòng shēng，shòu wú liàng kǔ；lìng zhū zhòng shēng，bì jìng dà lè。", meaning: "发大乘心，愿代众生受苦，令毕竟得乐。" },
-          { text: "如此八事，乃是诸佛菩萨大人之所觉悟。精进行道，慈悲修慧，乘法身船，至涅槃岸；复还生死，度脱众生。以前八事，开导一切，令诸众生，觉生死苦，舍离五欲，修心圣道。若佛弟子，诵此八事，于念念中，灭无量罪；进趣菩提，速登正觉；永断生死，常住快乐。", pinyin: "rú cǐ bā shì，nǎi shì zhū fó pú sà dà rén zhī suǒ jué wù。jīng jìn xíng dào，cí bēi xiū huì，chéng fǎ shēn chuán，zhì niè pán àn；fù huán shēng sǐ，dù tuō zhòng shēng。yǐ qián bā shì，kāi dǎo yī qiè，lìng zhū zhòng shēng，jué shēng sǐ kǔ，shě lí wǔ yù，xiū xīn shèng dào。ruò fó dì zǐ，sòng cǐ bā shì，yú niàn niàn zhōng，miè wú liàng zuì；jìn qù pú tí，sù dēng zhèng jué；yǒng duàn shēng sǐ，cháng zhù kuài lè。", meaning: "此八事为诸佛菩萨之所觉悟。精进慈悲，开导一切，念念灭罪，速登正觉。" }
-        ]
-      }
-    ];
-
+    const CORPUS_VERSION = "cbeta-c827f963f437";
     const ACHIEVEMENTS = [
       { id: "first", mark: "初", title: "初诵", desc: "完成第一遍", test: (s) => s.totalCount >= 1 },
       { id: "dedicate", mark: "向", title: "回向", desc: "完成一次回向", test: (s) => s.hasDedicated },
@@ -1251,6 +1173,7 @@
       const onboarded = localStorage.getItem("lingtai_onboarded") === "1";
       return {
         v: 1,
+        corpusVersion: CORPUS_VERSION,
         savedAt: Date.now(),
         sutra: S.sutra,
         sessionCount: S.sessionCount,
@@ -1281,6 +1204,7 @@
     }
     function applySnapshot(data) {
       if (!data || typeof data !== "object") return;
+      S.lastRead = null;
       S.sutra = Math.max(0, Math.min(SUTRA_DATABASE.length - 1, Math.round(asNum(data.sutra, S.sutra))));
       S.sessionCount = Math.max(0, asNum(data.sessionCount, S.sessionCount));
       S.todayCount = Math.max(0, asNum(data.todayCount, S.todayCount));
@@ -1305,7 +1229,7 @@
       S._todayKey = asStr(data._todayKey, S._todayKey);
       S.quoteDay = asStr(data.quoteDay, S.quoteDay);
       S.quoteIndex = asNum(data.quoteIndex, S.quoteIndex);
-      if (data.lastRead && typeof data.lastRead === "object") {
+      if (data.corpusVersion === CORPUS_VERSION && data.lastRead && typeof data.lastRead === "object") {
         S.lastRead = {
           sutra: Math.max(0, Math.min(SUTRA_DATABASE.length - 1, Math.round(asNum(data.lastRead.sutra, 0)))),
           verse: Math.max(0, asNum(data.lastRead.verse, 0))
@@ -1619,17 +1543,20 @@
         `<button class="pill${i === S.sutra ? " is-on" : ""}" data-i="${i}" type="button">${s.shortTitle}</button>`
       ).join("");
     }
+    function rubyVerse(v) {
+      const sounds = v.pinyin.split(" ");
+      return Array.from(v.text).map((char, i) => /\p{Script=Han}/u.test(char)
+        ? `<ruby>${char}<rt>${sounds[i]}</rt></ruby>` : char).join("");
+    }
     function renderSutra() {
       const s = SUTRA_DATABASE[S.sutra];
       $("sutra-title").textContent = s.shortTitle;
-      $("sutra-sub").textContent = `${s.translator} · ${s.category}`;
+      $("sutra-sub").innerHTML = `${s.translator} · ${s.category} · <a href="${s.source}" target="_blank" rel="noopener noreferrer">CBETA ${s.sourceCode}</a>`;
       const list = $("verse-list");
       list.className = "verse-list fs-" + S.fontSize;
       list.innerHTML = s.verses.map((v, i) => `
         <article class="verse" id="verse-${i}" data-i="${i}">
-          <div class="verse-pinyin" style="display:${S.showPinyin ? "block" : "none"}">${v.pinyin}</div>
-          <div class="verse-text">${v.text}</div>
-          <div class="verse-meaning" style="display:${S.showMeaning ? "block" : "none"}">${v.meaning}</div>
+          <div class="verse-text${S.showPinyin ? " with-pinyin" : ""}">${S.showPinyin ? rubyVerse(v) : v.text}</div>
         </article>`).join("");
       renderPills();
       prefetchVerse(s.id, 0);
@@ -1665,7 +1592,6 @@
     }
     function renderToggles() {
       $("tog-pinyin").classList.toggle("is-on", S.showPinyin);
-      $("tog-meaning").classList.toggle("is-on", S.showMeaning);
       document.querySelectorAll("#seg-rate button").forEach((b) => b.classList.toggle("is-on", Number(b.dataset.rate) === S.speechRate));
       document.querySelectorAll("#seg-font button").forEach((b) => b.classList.toggle("is-on", Number(b.dataset.fs) === S.fontSize));
     }
@@ -1705,7 +1631,7 @@
     }
 
     function verseAudioUrl(sutraId, i) {
-      return `audio/${sutraId}/${String(i).padStart(2, "0")}.m4a`;
+      return SUTRA_DATABASE.find((s) => s.id === sutraId)?.verses[i]?.audio;
     }
     function prefetchVerse(sutraId, i) {
       if (i < 0) return;
@@ -1735,6 +1661,7 @@
       $("btn-play").textContent = "顺序朗读";
       reciter.onended = null;
       reciter.onerror = null;
+      reciter.onloadedmetadata = null;
       reciter.pause();
       reciter.removeAttribute("src");
       try { reciter.load(); } catch (e) {}
@@ -1781,13 +1708,18 @@
       reciter.src = verseAudioUrl(meta.id, meta.i);
       reciter.playbackRate = recitationRate();
       reciter.onended = done;
-      reciter.onerror = () => { if (gen === speakGen) speakTTS(text, done); };
+      const fail = () => {
+        if (gen !== speakGen) return;
+        stopSpeech();
+        toast("诵读音频暂不可用，请联网后重试");
+      };
+      reciter.onerror = fail;
       const play = reciter.play();
       if (play && play.catch) {
         play.catch((err) => {
           if (gen !== speakGen) return;
           if (err && err.name === "AbortError") return;
-          speakTTS(text, done);
+          fail();
         });
       }
     }
@@ -1812,8 +1744,9 @@
       S.isReadingAll = true;
       $("btn-play").textContent = "暂停";
       const s = SUTRA_DATABASE[S.sutra];
+      const gen = speakGen;
       const next = (idx) => {
-        if (!S.isReadingAll) return;
+        if (!S.isReadingAll || gen !== speakGen) return;
         if (idx >= s.verses.length) {
           stopSpeech();
           recordRecitation(false);
@@ -1824,7 +1757,7 @@
         highlight(idx);
         prefetchVerse(s.id, idx + 1);
         speak(s.verses[idx].text, () => {
-          if (S.isReadingAll) setTimeout(() => next(idx + 1), 280);
+          if (S.isReadingAll && gen === speakGen) setTimeout(() => next(idx + 1), 500);
         }, { id: s.id, i: idx });
       };
       next(start);
@@ -1908,7 +1841,6 @@
       $("sheet-dedication").addEventListener("click", (e) => { if (e.target.id === "sheet-dedication") closeSheet("sheet-dedication"); });
       $("sheet-settings").addEventListener("click", (e) => { if (e.target.id === "sheet-settings") closeSheet("sheet-settings"); });
       $("tog-pinyin").addEventListener("click", () => { S.showPinyin = !S.showPinyin; save(); renderSutra(); renderToggles(); });
-      $("tog-meaning").addEventListener("click", () => { S.showMeaning = !S.showMeaning; save(); renderSutra(); renderToggles(); });
       $("seg-rate").addEventListener("click", (e) => {
         const b = e.target.closest("[data-rate]");
         if (!b) return;
@@ -1966,7 +1898,7 @@
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {
-        navigator.serviceWorker.register("./sw.js?v=12").catch(() => {});
+        navigator.serviceWorker.register("./sw.js?v=cbeta-c827f963f437").catch(() => {});
       });
     }
   </script>

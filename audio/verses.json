@@ -1,88 +1,2178 @@
-[
-  {
-    "id": "heart_sutra",
-    "verses": [
-      "观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
-      "舍利子，色不异空，空不异色，色即是空，空即是色，受想行识，亦复如是。",
-      "舍利子，是诸法空相，不生不灭，不垢不净，不增不减。",
-      "是故空中无色，无受想行识，无眼耳鼻舌身意，无色声香味触法，无眼界，乃至无意识界。",
-      "无无明，亦无无明尽，乃至无老死，亦无老死尽。无苦集灭道，无智亦无得。以无所得故。",
-      "菩提萨埵，依般若波罗蜜多故，心无罣碍，无罣碍故，无有恐怖，远离颠倒梦想，究竟涅槃。",
-      "三世诸佛，依般若波罗蜜多故，得阿耨多罗三藐三菩提。",
-      "故知般若波罗蜜多，是大神咒，是大明咒，是无上咒，是无等等咒，能除一切苦，真实不虚。",
-      "故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。"
-    ]
-  },
-  {
-    "id": "diamond_sutra",
-    "verses": [
-      "一时，佛在舍卫国祇树给孤独园。须菩提白佛言：世尊，善男子、善女人，发阿耨多罗三藐三菩提心，应云何住，云何降伏其心？",
-      "诸菩萨摩诃萨，应如是生清净心：不应住色生心，不应住声香味触法生心，应生无所住心。若心有住，则为非住。",
-      "若菩萨有我相、人相、众生相、寿者相，即非菩萨。菩萨应离一切相，发阿耨多罗三藐三菩提心。",
-      "凡所有相，皆是虚妄。若见诸相非相，则见如来。",
-      "须菩提，如来无所说。所谓佛法者，即非佛法。",
-      "若以色见我，以音声求我，是人行邪道，不能见如来。",
-      "一切有为法，如梦幻泡影，如露亦如电，应作如是观。",
-      "若复有人得闻是经，信心清净，则生实相。当知是人，成就第一希有功德。",
-      "如来者，无所从来，亦无所去，故名如来。",
-      "佛说是经已，一切大众闻佛所说，皆大欢喜，信受奉行。"
-    ]
-  },
-  {
-    "id": "dabei_mantra",
-    "verses": [
-      "南无大悲观世音菩萨。愿持此广大圆满无碍大悲心陀罗尼。",
-      "南无喝啰怛那哆啰夜耶。南无阿唎耶。婆卢羯帝烁钵啰耶。菩提萨埵婆耶。摩诃萨埵婆耶。摩诃迦卢尼迦耶。",
-      "唵。萨皤啰罚曳。数怛那怛写。南无悉吉栗埵伊蒙阿唎耶。婆卢吉帝室佛啰楞驮婆。南无那啰谨墀。醯利摩诃皤哆沙咩。萨婆阿他豆输朋。阿逝孕。萨婆萨哆那摩婆萨哆那摩婆伽。摩罚特豆。",
-      "怛侄他。唵。阿婆卢醯。卢迦帝。迦罗帝。夷醯唎。摩诃菩提萨埵。萨婆萨婆。摩啰摩啰。摩醯摩醯唎驮孕。",
-      "俱卢俱卢羯蒙。度卢度卢罚阇耶帝。摩诃罚阇耶帝。陀罗陀罗。地唎尼。室佛啰耶。遮啰遮啰。摩么罚摩啰。穆帝隶。",
-      "伊醯伊醯。室那室那。阿啰参佛啰舍利。罚沙罚参。佛啰舍耶。呼卢呼卢摩啰。呼卢呼卢醯利。娑啰娑啰。悉唎悉唎。苏嚧苏嚧。",
-      "菩提夜菩提夜。菩驮夜菩驮夜。弥帝唎夜。那啰谨墀。地利瑟尼那。婆伽摩那。娑婆诃。悉陀夜。娑婆诃。摩诃悉陀夜。娑婆诃。",
-      "悉陀誉。室皤啰耶。娑婆诃。那啰谨墀。娑婆诃。摩啰那啰。娑婆诃。悉啰僧阿穆佉耶。娑婆诃。娑婆摩诃阿悉陀夜。娑婆诃。",
-      "者吉啰阿悉陀夜。娑婆诃。波陀摩羯悉陀夜。娑婆诃。那啰谨墀皤伽啰耶。娑婆诃。摩婆利胜羯啰夜。娑婆诃。南无喝啰怛那哆啰夜耶。南无阿唎耶。婆嚧吉帝。烁皤啰夜。娑婆诃。唵悉殿都。漫多啰。跋陀耶。娑婆诃。"
-    ]
-  },
-  {
-    "id": "pumen_pin",
-    "verses": [
-      "尔时，无尽意菩萨白佛言：世尊，观世音菩萨，以何因缘，名观世音？",
-      "佛告无尽意菩萨：若有无量百千万亿众生，受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。",
-      "若有持是观世音菩萨名者，设入大火，火不能烧，由是菩萨威神力故。若为大水所漂，称其名号，即得浅处。",
-      "若复有人临当被害，称观世音菩萨名者，彼所执刀杖，寻段段坏，而得解脱。若有罪若无罪，杻械枷锁检系其身，称观世音菩萨名者，皆悉断坏，即得解脱。",
-      "应以佛身得度者，即现佛身而为说法；应以比丘、比丘尼、优婆塞、优婆夷身得度者，即现其身而为说法。观世音菩萨以种种形，游诸国土，度脱众生。",
-      "是故众生，皆应受持观世音菩萨名号。无尽意，观世音菩萨摩诃萨，于怖畏急难之中能施无畏，是故此娑婆世界，皆号之为施无畏者。",
-      "汝听观音行，善应诸方所，弘誓深如海，历劫不思议，侍多千亿佛，发大清净愿。",
-      "或遭王难苦，临刑欲寿终，念彼观音力，刀寻段段坏。或囚禁枷锁，手足被杻械，念彼观音力，释然得解脱。若恶兽围绕，利牙爪可怖，念彼观音力，疾走无边方。",
-      "妙音观世音，梵音海潮音，胜彼世间音，是故须常念。念念勿生疑，观世音净圣。",
-      "于苦恼死厄，能为作依怙。具一切功德，慈眼视众生，福聚海无量，是故应顶礼。"
-    ]
-  },
-  {
-    "id": "amituo_sutra",
-    "verses": [
-      "如是我闻。一时，佛在舍卫国祇树给孤独园。尔时，佛告长老舍利弗：从是西方，过十万亿佛土，有世界名曰极乐。",
-      "其土有佛，号阿弥陀，今现在说法。",
-      "彼土何故名为极乐？其国众生，无有众苦，但受诸乐，故名极乐。",
-      "又舍利弗，极乐国土，有七宝池，八功德水，充满其中，池底纯以金沙布地。池中莲华大如车轮，青色青光、黄色黄光、赤色赤光、白色白光，微妙香洁。",
-      "又舍利弗，彼佛国土，常作天乐，黄金为地，昼夜六时，雨天曼陀罗华。",
-      "彼佛光明无量，照十方国，无所障碍，是故号为阿弥陀。彼佛寿命及其人民，无量无边阿僧祇劫，故名阿弥陀。",
-      "若有善男子、善女人，闻说阿弥陀佛，执持名号，若一日乃至七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众现在其前。是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。",
-      "如我今者，赞叹阿弥陀佛不可思议功德。六方恒河沙数诸佛，各于其国，出广长舌相，说诚实言：汝等众生，当信是称赞不可思议功德一切诸佛所护念经。",
-      "若有人已发愿、今发愿、当发愿，欲生阿弥陀佛国者，皆得不退转于阿耨多罗三藐三菩提。是故舍利弗，诸善男子、善女人，若有信者，应当发愿，生彼国土。"
-    ]
-  },
-  {
-    "id": "eight_realizations",
-    "verses": [
-      "为佛弟子，常于昼夜，至心诵念，八大人觉：第一觉悟：世间无常，国土危脆；四大苦空，五阴无我；生灭变异，虚伪无主；心是恶源，形为罪薮。如是观察，渐离生死。",
-      "第二觉知：多欲为苦，生死疲劳，从贪欲起；少欲无为，身心自在。",
-      "第三觉知：心无厌足，唯得多求，增长罪恶；菩萨不尔，常念知足，安贫守道，唯慧是业。",
-      "第四觉知：懈怠坠落；常行精进，破烦恼恶，摧伏四魔，出阴界狱。",
-      "第五觉悟：愚痴生死。菩萨常念，广学多闻，增长智慧，成就辩才，教化一切，悉以大乐。",
-      "第六觉知：贫苦多怨，横结恶缘。菩萨布施，等念怨亲，不念旧恶，不憎恶人。",
-      "第七觉悟：五欲过患。虽为俗人，不染世乐；常念三衣，瓦钵法器；志愿出家，守道清白；梵行高远，慈悲一切。",
-      "第八觉知：生死炽然，苦恼无量。发大乘心，普济一切；愿代众生，受无量苦；令诸众生，毕竟大乐。",
-      "如此八事，乃是诸佛菩萨大人之所觉悟。精进行道，慈悲修慧，乘法身船，至涅槃岸；复还生死，度脱众生。以前八事，开导一切，令诸众生，觉生死苦，舍离五欲，修心圣道。若佛弟子，诵此八事，于念念中，灭无量罪；进趣菩提，速登正觉；永断生死，常住快乐。"
-    ]
-  }
-]
+{
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-18%",
+  "pitch": "+0Hz",
+  "paragraphPauseMs": 500,
+  "records": [
+    {
+      "sutra": "heart_sutra",
+      "index": 0,
+      "text": "观自在菩萨行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+      "speechText": "观自在菩萨形深波惹波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+      "textHash": "74983ec6b0fe8b281a7c2ec530df56e8e72aa8bcc5566f4b08f154208d506dde",
+      "audio": "audio/heart_sutra/0dcfa99e143d673e.mp3",
+      "audioHash": "35d432645ab3045caf7742508026d975b605a9cd8841ef6925d05a290a941af7",
+      "bytes": 47088
+    },
+    {
+      "sutra": "heart_sutra",
+      "index": 1,
+      "text": "「舍利子！色不异空，空不异色，色即是空，空即是色；受、想、行、识，亦复如是。",
+      "speechText": "「舍利子！色不异空，空不异色，色即是空，空即是色；受、想、行、识，亦复如是。",
+      "textHash": "400efa557e5684053e5cdee94e57345aa23642b926ea4e3f32af8f5960c015e5",
+      "audio": "audio/heart_sutra/393a55ebf102e23d.mp3",
+      "audioHash": "8446dbf8254fc03b6a678358bd941ecfd09eb35eb346a0e9371d25942996a7de",
+      "bytes": 69552
+    },
+    {
+      "sutra": "heart_sutra",
+      "index": 2,
+      "text": "「舍利子！是诸法空相，不生不灭，不垢不净，不增不减。是故，空中无色，无受、想、行、识；无眼、耳、鼻、舌、身、意；无色、声、香、味、触、法；无眼界，乃至无意识界；无无明亦无无明尽，乃至无老死亦无老死尽；无苦、集、灭、道；无智，亦无得。",
+      "speechText": "「舍利子！是诸法空相，不生不灭，不垢不净，不增不减。是故，空中无色，无受、想、行、识；无眼、耳、鼻、舌、身、意；无色、声、香、味、触、法；无眼界，乃至无意识界；无无明亦无无明尽，乃至无老死亦无老死尽；无苦、集、灭、道；无智，亦无得。",
+      "textHash": "7c639436997190d2f40696c1f4695f7cfc497d32285913e954db7abb68e49d13",
+      "audio": "audio/heart_sutra/10b2a194e71c315c.mp3",
+      "audioHash": "30736fbfa5192f872d86fbc841a5b66bc88b8a2c333e423c346d51e853bc8b32",
+      "bytes": 207360
+    },
+    {
+      "sutra": "heart_sutra",
+      "index": 3,
+      "text": "「以无所得故，菩提萨埵依般若波罗蜜多故，心无罣碍；无罣碍故，无有恐怖，远离颠倒梦想，究竟涅槃。三世诸佛依般若波罗蜜多故，得阿耨多罗三藐三菩提。",
+      "speechText": "「以无所得故，菩提萨朵依波惹波罗蜜多故，心无罣碍；无罣碍故，无有恐怖，远离颠倒梦想，究竟涅槃。三世诸佛依波惹波罗蜜多故，得阿耨多罗三藐三菩提。",
+      "textHash": "2b5e4686992f3b729a834ff95153e03a7152f663b9395e7abee7a77a9048da0c",
+      "audio": "audio/heart_sutra/25fe37e85c39491d.mp3",
+      "audioHash": "178824da4cab15aad87570aef6681909be04b7a27d329221fc4a216649ea4b0f",
+      "bytes": 114480
+    },
+    {
+      "sutra": "heart_sutra",
+      "index": 4,
+      "text": "「故知般若波罗蜜多是大神咒、是大明咒、是无上咒、是无等等咒，能除一切苦，真实不虚，故说般若波罗蜜多咒。」",
+      "speechText": "「故知波惹波罗蜜多是大神咒、是大明咒、是无上咒、是无等等咒，能除一切苦，真实不虚，故说波惹波罗蜜多咒。」",
+      "textHash": "581db8f9efde90f82f960e4a07fbbd067ad8d050b2ccb54950236b7e8f1abc28",
+      "audio": "audio/heart_sutra/42a46797b3896459.mp3",
+      "audioHash": "0dfb8bfd403d47054a81022346104ee5f5ba0450faa46ea6eca92a57cdb1a028",
+      "bytes": 81072
+    },
+    {
+      "sutra": "heart_sutra",
+      "index": 5,
+      "text": "即说咒曰：",
+      "speechText": "即说咒曰：",
+      "textHash": "ac179615329e2a182c16e8e4010099d5d76b59785c54b58ff383d4004440475c",
+      "audio": "audio/heart_sutra/13d353a795aedfe3.mp3",
+      "audioHash": "0d2f1fc508e0cba54b425036637b58c862eaecffeb23026b4000c2f8265b1c52",
+      "bytes": 11664
+    },
+    {
+      "sutra": "heart_sutra",
+      "index": 6,
+      "text": "「揭帝，揭帝，般罗揭帝，般罗僧揭帝，菩提，莎婆诃」",
+      "speechText": "「揭帝，揭帝，波罗揭帝，波罗僧揭帝，菩提，娑婆喝」",
+      "textHash": "0076fb6eabef9c17238079a05478b4882b287c87975968579a42046009819b0f",
+      "audio": "audio/heart_sutra/1fc87ca3717aee12.mp3",
+      "audioHash": "e97aa88e1e317f7591d318c585a628725902d607efabb9848eead28c0442866a",
+      "bytes": 43200
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 0,
+      "text": "如是我闻：",
+      "speechText": "如是我闻：",
+      "textHash": "9a1293af00cb89af248120626b7a7c9c3668228f9c414ba661f597f251438639",
+      "audio": "audio/diamond_sutra/4f2ddb2f150a6f37.mp3",
+      "audioHash": "8b6dd437d462a517d9290db68c8321773d90cbb430416db00c2f3b399b47ea6a",
+      "bytes": 11376
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 1,
+      "text": "一时，佛在舍卫国祇树给孤独园，与大比丘众千二百五十人俱。尔时，世尊食时，著衣持钵，入舍卫大城乞食。于其城中，次第乞已，还至本处。饭食讫，收衣钵，洗足已，敷座而坐。",
+      "speechText": "一时，佛在设卫国其树几孤独园，与大比丘众千二百五十人俱。尔时，世尊食时，卓衣持钵，入设卫大城乞食。于其城中，次第乞已，还至本处。饭食讫，收衣钵，洗足已，敷座而坐。",
+      "textHash": "5b422e5d709c1e8dde6dc44f0270552b963b2ab264f54bdd4abd600279d4ac9c",
+      "audio": "audio/diamond_sutra/08a453b6e648f3af.mp3",
+      "audioHash": "a6bfca49c2fbb14013f0f4084f3676057fa0721f4cf3784d8c87d4fbbf19a0df",
+      "bytes": 142272
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 2,
+      "text": "时，长老须菩提在大众中即从座起，偏袒右肩，右膝著地，合掌恭敬而白佛言：「希有世尊！如来善护念诸菩萨，善付嘱诸菩萨。世尊！善男子、善女人，发阿耨多罗三藐三菩提心，应云何住？云何降伏其心？」",
+      "speechText": "时，长老须菩提在大众中即从座起，偏袒右肩，右膝著地，合掌恭敬而白佛言：「希有世尊！如来善护念诸菩萨，善付嘱诸菩萨。世尊！善男子、善女人，发阿耨多罗三藐三菩提心，应云何住？云何祥伏其心？」",
+      "textHash": "7b6a6aa946ebd20a7382403a4b65d556967e7f9aa5bff1619bdeb31b71623917",
+      "audio": "audio/diamond_sutra/56574577a89ee364.mp3",
+      "audioHash": "a7ab128064a04d97ae814691331e189f2b528160315ad52c80f5d93ead0aa56d",
+      "bytes": 164016
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 3,
+      "text": "佛言：「善哉，善哉！须菩提！如汝所说：『如来善护念诸菩萨，善付嘱诸菩萨。』汝今谛听，当为汝说。善男子、善女人，发阿耨多罗三藐三菩提心，应如是住，如是降伏其心。」",
+      "speechText": "佛言：「善哉，善哉！须菩提！如汝所说：『如来善护念诸菩萨，善付嘱诸菩萨。』汝今谛听，当为汝说。善男子、善女人，发阿耨多罗三藐三菩提心，应如是住，如是祥伏其心。」",
+      "textHash": "8dd690882e691e823fa171343c4be174c3a5a5867ae6bc379d2bae45d26d8255",
+      "audio": "audio/diamond_sutra/18c0a5eef8d0575a.mp3",
+      "audioHash": "a4adfa07933461962810f744f4cc1e713d72ed5769bb05a0135d311dc467be3e",
+      "bytes": 135504
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 4,
+      "text": "「唯然。世尊！愿乐欲闻。」",
+      "speechText": "「唯然。世尊！愿乐欲闻。」",
+      "textHash": "6bc3d9713487d736af3262d5283769db81bdbf5559e6c13f5e3e9b19a56cb913",
+      "audio": "audio/diamond_sutra/257ad3f6428824c0.mp3",
+      "audioHash": "a62014405f341f737492ec3737d4fe06104fb4b263b1db9d78c2c0b5a03d77c7",
+      "bytes": 28656
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 5,
+      "text": "佛告须菩提：「诸菩萨摩诃萨应如是降伏其心：『所有一切众生之类，若卵生、若胎生、若湿生、若化生，若有色、若无色，若有想、若无想、若非有想非无想，我皆令入无余涅槃而灭度之。』如是灭度无量、无数、无边众生，实无众生得灭度者。何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，即非菩萨。",
+      "speechText": "佛告须菩提：「诸菩萨摩喝萨应如是祥伏其心：『所有一切众生之类，若卵生、若胎生、若湿生、若化生，若有色、若无色，若有想、若无想、若非有想非无想，我皆令入无余涅槃而灭度之。』如是灭度无量、无数、无边众生，实无众生得灭度者。何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，即非菩萨。",
+      "textHash": "f58e3a76decd72f0944ea54a3b79f0001847da0215be3f9843d2e204b4807d16",
+      "audio": "audio/diamond_sutra/a32d23f907e08398.mp3",
+      "audioHash": "4eb1bfe1c87dea28952dbb7ab8efd3dadf3e7ffda114c383774b690a35560217",
+      "bytes": 237600
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 6,
+      "text": "「复次，须菩提！菩萨于法应无所住行于布施，所谓不住色布施，不住声、香、味、触、法布施。须菩提！菩萨应如是布施，不住于相。何以故？若菩萨不住相布施，其福德不可思量。",
+      "speechText": "「复次，须菩提！菩萨于法应无所住行于布施，所谓不住色布施，不住声、香、味、触、法布施。须菩提！菩萨应如是布施，不住于相。何以故？若菩萨不住相布施，其福德不可思量。",
+      "textHash": "e98f9587c895171f68a54815f59c3594d3f3b8f8a41b95e30d32f167225ee939",
+      "audio": "audio/diamond_sutra/15a80bcd0924ca8e.mp3",
+      "audioHash": "3cc3c896a33f801953b4f3d2c1c54e8d270e795b49890292d06d8f8983d11e37",
+      "bytes": 145584
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 7,
+      "text": "「须菩提！于意云何？东方虚空可思量不？」",
+      "speechText": "「须菩提！于意云何？东方虚空可思量不？」",
+      "textHash": "31f2b1ae14a49ebb32928bab3e943bfbf6ffd9da5593ddec83d422f291e53f91",
+      "audio": "audio/diamond_sutra/40e1c8968a351c66.mp3",
+      "audioHash": "a705b0d75e28912eb43b5fac937ce0fb439ae1a5823dd575bf97c11dcc18da14",
+      "bytes": 38160
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 8,
+      "text": "「不也，世尊！」",
+      "speechText": "「不也，世尊！」",
+      "textHash": "0d6fed4c959e04fb9a66e49110c859583b43897457a073deb26ad92518407576",
+      "audio": "audio/diamond_sutra/cedf24fedb2de2fa.mp3",
+      "audioHash": "79110bfce58cacd55352feddf08f8f9b8d18b15de0820a81e1f6b907e8a37ec8",
+      "bytes": 13392
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 9,
+      "text": "「须菩提！南、西、北方，四维、上、下虚空可思量不？」",
+      "speechText": "「须菩提！南、西、北方，四维、上、下虚空可思量不？」",
+      "textHash": "c7dfdbf63013b27dfe3e961d0e67ecad305824637144390bf98a6c87ea742437",
+      "audio": "audio/diamond_sutra/b57cc82709abdba6.mp3",
+      "audioHash": "75d159cf39e48f0c321fb1fca715ab86fc6e847fbd6a46e44db291f4af9c8c5e",
+      "bytes": 47808
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 10,
+      "text": "「不也，世尊！」",
+      "speechText": "「不也，世尊！」",
+      "textHash": "0d6fed4c959e04fb9a66e49110c859583b43897457a073deb26ad92518407576",
+      "audio": "audio/diamond_sutra/cedf24fedb2de2fa.mp3",
+      "audioHash": "79110bfce58cacd55352feddf08f8f9b8d18b15de0820a81e1f6b907e8a37ec8",
+      "bytes": 13392
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 11,
+      "text": "「须菩提！菩萨无住相布施，福德亦复如是不可思量。须菩提！菩萨但应如所教住。",
+      "speechText": "「须菩提！菩萨无住相布施，福德亦复如是不可思量。须菩提！菩萨但应如所教住。",
+      "textHash": "50a5038260476f16ee24c1fcca073d82f712378c9067844380d01e5243b9fe90",
+      "audio": "audio/diamond_sutra/6148c18da4a15d56.mp3",
+      "audioHash": "84c0036c34934a994bc6053070e642f9cb89976bff09b8e66ddb2f5858ec0251",
+      "bytes": 68976
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 12,
+      "text": "「须菩提！于意云何？可以身相见如来不？」",
+      "speechText": "「须菩提！于意云何？可以身相见如来不？」",
+      "textHash": "8d6313a8a5a599af4b576549e4d1ff279c175ef62fc990edfbb5b01137769aae",
+      "audio": "audio/diamond_sutra/be46048f9897460b.mp3",
+      "audioHash": "0dc7ff73130a2fbb5707880bafdb58586073e336adedf8934d900c2a3363f000",
+      "bytes": 37008
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 13,
+      "text": "「不也，世尊！不可以身相得见如来。何以故？如来所说身相，即非身相。」",
+      "speechText": "「不也，世尊！不可以身相得见如来。何以故？如来所说身相，即非身相。」",
+      "textHash": "5672a8f289acd04620de69605451cf4a0dbb49f8e03f84c5b1f44f6695671651",
+      "audio": "audio/diamond_sutra/b854e2bfbe62d31c.mp3",
+      "audioHash": "43f2c9fc12e2753f46fecb6863cfb390c04a82a0822f5f89998237022791fb17",
+      "bytes": 61776
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 14,
+      "text": "佛告须菩提：「凡所有相，皆是虚妄；若见诸相非相，则见如来。」",
+      "speechText": "佛告须菩提：「凡所有相，皆是虚妄；若见诸相非相，则见如来。」",
+      "textHash": "b26398dcfa3d474268bf8169e9458c713d3e03e0cadeae569ad4e4cd47782f7a",
+      "audio": "audio/diamond_sutra/ce96056b18a5c218.mp3",
+      "audioHash": "afb7c07d75a7fb40e5e670bcbb8b3c47de0b7c2277120617a1a26949ff8612aa",
+      "bytes": 49104
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 15,
+      "text": "须菩提白佛言：「世尊！颇有众生，得闻如是言说章句，生实信不？」",
+      "speechText": "须菩提白佛言：「世尊！颇有众生，得闻如是言说章句，生实信不？」",
+      "textHash": "e3e7dd1f41e9350dc3498fa505050e67dc7ee57fb3fedbc9e249492fb346e52e",
+      "audio": "audio/diamond_sutra/842a61b168bc7993.mp3",
+      "audioHash": "01e5338b1b835d012d330cb5b26307c145d373f347c484600c62a9b4fdca7981",
+      "bytes": 52704
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 16,
+      "text": "佛告须菩提：「莫作是说。如来灭后后五百岁，有持戒修福者，于此章句能生信心，以此为实，当知是人不于一佛二佛、三、四、五佛而种善根，已于无量千万佛所种诸善根。闻是章句，乃至一念生净信者，须菩提！如来悉知悉见是诸众生得如是无量福德。何以故？是诸众生无复我相、人相、众生相、寿者相。",
+      "speechText": "佛告须菩提：「莫作是说。如来灭后后五百岁，有持戒修福者，于此章句能生信心，以此为实，当知是人不于一佛二佛、三、四、五佛而种善根，已于无量千万佛所种诸善根。闻是章句，乃至一念生净信者，须菩提！如来悉知悉见是诸众生得如是无量福德。何以故？是诸众生无复我相、人相、众生相、寿者相。",
+      "textHash": "64651eccae0c07404ea3495056a8b1c587c0fe22b7765d452249c92528a31951",
+      "audio": "audio/diamond_sutra/f6355ccdf6b12605.mp3",
+      "audioHash": "8a87fcdc167afa76de3aed33868197f3b53a5d0fb04b7c121ab517630d48b51c",
+      "bytes": 234144
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 17,
+      "text": "「无法相，亦无非法相。何以故？是诸众生若心取相，则为著我、人、众生、寿者。",
+      "speechText": "「无法相，亦无非法相。何以故？是诸众生若心取相，则为著我、人、众生、寿者。",
+      "textHash": "ca5c5d6c64d4815ffe147ca0cfaa4a5e1896646dc0407b6bc696b7f7130fbb6c",
+      "audio": "audio/diamond_sutra/2b5dd8a7fe61f76b.mp3",
+      "audioHash": "aa13cc78a54d703581cf7dfbfb4adf0328e9d03a06774f9cbe676c92cbb04c6c",
+      "bytes": 68832
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 18,
+      "text": "「若取法相，即著我、人、众生、寿者。何以故？若取非法相，即著我、人、众生、寿者。是故不应取法，不应取非法。以是义故，如来常说：『汝等比丘，知我说法，如筏喻者，法尚应舍，何况非法。』",
+      "speechText": "「若取法相，即著我、人、众生、寿者。何以故？若取非法相，即著我、人、众生、寿者。是故不应取法，不应取非法。以是义故，如来常说：『汝等比丘，知我说法，如筏喻者，法尚应舍，何况非法。』",
+      "textHash": "14ab5a49d60c6ef50a28afa63a58ccf1d35f7526900f62bd6fa15d62b0b86daf",
+      "audio": "audio/diamond_sutra/f150a8dae9cc0109.mp3",
+      "audioHash": "444a0f1c58573f0bf63dfe03b251b7eec8f536cf673f3d0476ed1abe70491724",
+      "bytes": 158112
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 19,
+      "text": "「须菩提！于意云何？如来得阿耨多罗三藐三菩提耶？如来有所说法耶？」",
+      "speechText": "「须菩提！于意云何？如来得阿耨多罗三藐三菩提耶？如来有所说法耶？」",
+      "textHash": "22ddf1746d3bf83e893333450af75f7258d5c0b6d3905a6a76bb3d190e22f29b",
+      "audio": "audio/diamond_sutra/7f34faf4d82df0dc.mp3",
+      "audioHash": "f394b9431be56c8afd4faa9edd77af23bce7b096ff97fb7f9c4fcb163a3fc50d",
+      "bytes": 60192
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 20,
+      "text": "须菩提言：「如我解佛所说义，无有定法名阿耨多罗三藐三菩提，亦无有定法如来可说。何以故？如来所说法，皆不可取、不可说、非法、非非法。所以者何？一切贤圣皆以无为法而有差别。」",
+      "speechText": "须菩提言：「如我解佛所说义，无有定法名阿耨多罗三藐三菩提，亦无有定法如来可说。何以故？如来所说法，皆不可取、不可说、非法、非非法。所以者何？一切贤圣皆以无为法而有差别。」",
+      "textHash": "e6369228c7442df834e730a1f814e5b49d4e5f0c368ba0abf7c65772fb629291",
+      "audio": "audio/diamond_sutra/ad662e6486e04b48.mp3",
+      "audioHash": "72972f9394cd80e6c3497bd75cd1ee49e213d4b758c7a01dd4003f86d6d5f53f",
+      "bytes": 145872
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 21,
+      "text": "「须菩提！于意云何？若人满三千大千世界七宝以用布施，是人所得福德，宁为多不？」",
+      "speechText": "「须菩提！于意云何？若人满三千大千世界七宝以用布施，是人所得福德，宁为多不？」",
+      "textHash": "986825dd37f8ef09393c239f346af228fd9e8cc7406b54a9a348dfa73bbf1d67",
+      "audio": "audio/diamond_sutra/4f8a78865a5a43cb.mp3",
+      "audioHash": "2f03afe08abf5e09b06eb98531d2dd84cd5de3d4c164676e14e1f846f1791d8f",
+      "bytes": 66384
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 22,
+      "text": "须菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如来说福德多。」",
+      "speechText": "须菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如来说福德多。」",
+      "textHash": "086ced3f7eedc1a9a8f571f5119255e4ee078a5b53c645797b9527cd8bf0eadd",
+      "audio": "audio/diamond_sutra/ede9e489f99c5f38.mp3",
+      "audioHash": "72169fbd28fda2cebef3f9b1f4a033129015ceeea6fd942cb1d7022de4b4c4b0",
+      "bytes": 64080
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 23,
+      "text": "「若复有人，于此经中受持乃至四句偈等，为他人说，其福胜彼。何以故？须菩提！一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出。须菩提！所谓佛法者，即非佛法。",
+      "speechText": "「若复有人，于此经中受持乃至四句偈等，为他人说，其福胜彼。何以故？须菩提！一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出。须菩提！所谓佛法者，即非佛法。",
+      "textHash": "2d5b74adf5be8bb1a08e64d97e54f338ce2347947e1c771f48ccc374a4067e07",
+      "audio": "audio/diamond_sutra/9da03294927bc9bd.mp3",
+      "audioHash": "d06edaa8f47c5ffd90c3287c04c843c48c036e1710548752e38353ffcacb3ac1",
+      "bytes": 139824
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 24,
+      "text": "「须菩提！于意云何？须陀洹能作是念，『我得须陀洹果』不？」",
+      "speechText": "「须菩提！于意云何？须陀洹能作是念，『我得须陀洹果』不？」",
+      "textHash": "9e2258e7a93a799824f4e19c38a031cea0b56c5ef368d5b54b1eda67a8cc72c5",
+      "audio": "audio/diamond_sutra/ec3897272085b90e.mp3",
+      "audioHash": "05f8b2ff29cc504acbd7c91eca1f0a1ccdc5a9321486236657066878b7cb4236",
+      "bytes": 48528
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 25,
+      "text": "须菩提言：「不也，世尊！何以故？须陀洹名为入流，而无所入，不入色、声、香、味、触、法，是名须陀洹。」",
+      "speechText": "须菩提言：「不也，世尊！何以故？须陀洹名为入流，而无所入，不入色、声、香、味、触、法，是名须陀洹。」",
+      "textHash": "3366b4567a7279562d80cee8e0369fb4eda3dd721d1413602756322170473403",
+      "audio": "audio/diamond_sutra/07cccdce5ac63208.mp3",
+      "audioHash": "3d4441e446f1e6969aa74373fe62a8f199bd06950c46c0a7473d36a7ca934eb9",
+      "bytes": 89856
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 26,
+      "text": "「须菩提！于意云何？斯陀含能作是念，『我得斯陀含果』不？」",
+      "speechText": "「须菩提！于意云何？斯陀含能作是念，『我得斯陀含果』不？」",
+      "textHash": "d26d116c68860e506ca084564965ac4b80fdc458215a116069c61f68d4b08f30",
+      "audio": "audio/diamond_sutra/e4c1e8b77855311e.mp3",
+      "audioHash": "4cdaa7948cff1567dce7f9f6907316e9b3e9d61619a5dbe087a50044809e6525",
+      "bytes": 48384
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 27,
+      "text": "须菩提言：「不也，世尊！何以故？斯陀含名一往来，而实无往来，是名斯陀含。」",
+      "speechText": "须菩提言：「不也，世尊！何以故？斯陀含名一往来，而实无往来，是名斯陀含。」",
+      "textHash": "42d949eb6640c642205f9e16565cb504b4fc6bf251c05b3d2a487af480167cac",
+      "audio": "audio/diamond_sutra/870b5a8373b8dddb.mp3",
+      "audioHash": "11829bfdec3c9db0b7821df2fc62a4f2b79a517efcc47049ec3790dcc3449f06",
+      "bytes": 64800
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 28,
+      "text": "「须菩提！于意云何？阿那含能作是念，『我得阿那含果』不？」",
+      "speechText": "「须菩提！于意云何？阿那含能作是念，『我得阿那含果』不？」",
+      "textHash": "2175962a34e03886a23715f86e83302d026bb2c3eaef429a8a32e4c941d5294e",
+      "audio": "audio/diamond_sutra/f5bab8b3bb05a199.mp3",
+      "audioHash": "12c13555177a744fa45ddfbfb9370294af9ac45d93d868052951ad6cc32bf9a7",
+      "bytes": 47808
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 29,
+      "text": "须菩提言：「不也，世尊！何以故？阿那含名为不来，而实无来，是故名阿那含。」",
+      "speechText": "须菩提言：「不也，世尊！何以故？阿那含名为不来，而实无来，是故名阿那含。」",
+      "textHash": "77652f573b8dcd54537b55938afd1c24cb76a4d50f588fb866cbf36166f869d3",
+      "audio": "audio/diamond_sutra/315ce5e4f12169be.mp3",
+      "audioHash": "866853d86ee0ff13976d153e321daa891458422863362c84728d71220aa15f49",
+      "bytes": 64512
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 30,
+      "text": "「须菩提！于意云何？阿罗汉能作是念，『我得阿罗汉道』不？」",
+      "speechText": "「须菩提！于意云何？阿罗汉能作是念，『我得阿罗汉道』不？」",
+      "textHash": "e5fb05904405947b08795b8780c778d674c35e948084e412ca4141fc48dbdb48",
+      "audio": "audio/diamond_sutra/1e98333acf4c2d08.mp3",
+      "audioHash": "56b50ed441f15ab1004a78033d9fa9fbf6981969dbf5e34de16a0d416014fa82",
+      "bytes": 46800
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 31,
+      "text": "须菩提言：「不也，世尊！何以故？实无有法名阿罗汉。世尊！若阿罗汉作是念『我得阿罗汉道』，即为著我、人、众生、寿者。世尊！佛说我得无诤三昧人中最为第一，是第一离欲阿罗汉。我不作是念：『我是离欲阿罗汉。』世尊！我若作是念『我得阿罗汉道』，世尊则不说须菩提是乐阿兰那行者。",
+      "speechText": "须菩提言：「不也，世尊！何以故？实无有法名阿罗汉。世尊！若阿罗汉作是念『我得阿罗汉道』，即为著我、人、众生、寿者。世尊！佛说我得无诤三昧人中最为第一，是第一离欲阿罗汉。我不作是念：『我是离欲阿罗汉。』世尊！我若作是念『我得阿罗汉道』，世尊则不说须菩提是乐阿兰那行者。",
+      "textHash": "9cfc74908d1d360832d3219d3e27635aed9c24fb4729a01da9f4b7767bfea780",
+      "audio": "audio/diamond_sutra/659eaa0d566b8c8c.mp3",
+      "audioHash": "c0621b9f11216abdc5de1cb003ec8e89702a651cda55d65e5411483819dd0856",
+      "bytes": 222768
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 32,
+      "text": "以须菩提实无所行，而名须菩提是乐阿兰那行。」",
+      "speechText": "以须菩提实无所行，而名须菩提是乐阿兰那行。」",
+      "textHash": "8955e08ebc06dce1fa0db8523b64580661f440ef2dfc7a2cac7a3730707b6e93",
+      "audio": "audio/diamond_sutra/31adce94bf2b774a.mp3",
+      "audioHash": "b3b144f63ae769d8b0cfa9271827a7eb81a9f5d28b213e2b631f7eac6db59aad",
+      "bytes": 35856
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 33,
+      "text": "佛告须菩提：「于意云何？如来昔在然灯佛所，于法有所得不？」",
+      "speechText": "佛告须菩提：「于意云何？如来昔在然灯佛所，于法有所得不？」",
+      "textHash": "9dd388aac27308ffb95e548ce392e562f677c830113ffff4f526999946df3fc1",
+      "audio": "audio/diamond_sutra/fdbac3a133a53ff9.mp3",
+      "audioHash": "f0d884dd8ab24f0d758d8ac0687df7ec3c424fd88da58379624c5f761b84697b",
+      "bytes": 47952
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 34,
+      "text": "「世尊！如来在然灯佛所，于法实无所得。」",
+      "speechText": "「世尊！如来在然灯佛所，于法实无所得。」",
+      "textHash": "fe70f50b603c4684b7a16be430290f9d496ed17d455e90f96f8d31bb0d079cf6",
+      "audio": "audio/diamond_sutra/225ce02220334bad.mp3",
+      "audioHash": "120bda192953e25fd2f6bad1ae546efb5293987018b8c050d0169ba5740dcbd3",
+      "bytes": 34992
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 35,
+      "text": "「须菩提！于意云何？菩萨庄严佛土不？」",
+      "speechText": "「须菩提！于意云何？菩萨庄严佛土不？」",
+      "textHash": "e025c98596f6ba12bd26eb7df06837d35057a078abb649bf025b5798e4efb66a",
+      "audio": "audio/diamond_sutra/ae6b4f171ab144d8.mp3",
+      "audioHash": "3343c3c8bde04064d1bc403c6150f0e2cb332c7eae904cefb2a887bf14010221",
+      "bytes": 37728
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 36,
+      "text": "「不也，世尊！何以故？庄严佛土者，则非庄严，是名庄严。」",
+      "speechText": "「不也，世尊！何以故？庄严佛土者，则非庄严，是名庄严。」",
+      "textHash": "781206f7e6e232491240a2701709fbe7ab2113792677b105744e5da6bc51351b",
+      "audio": "audio/diamond_sutra/3d81462bbe29b793.mp3",
+      "audioHash": "93c1ac9cbc3f8cbd0c036092b139517032f68764079fbdca3c0f99441428b827",
+      "bytes": 52704
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 37,
+      "text": "「是故须菩提，诸菩萨摩诃萨应如是生清净心，不应住色生心，不应住声、香、味、触、法生心，应无所住而生其心。",
+      "speechText": "「是故须菩提，诸菩萨摩喝萨应如是生清净心，不应住色生心，不应住声、香、味、触、法生心，应无所住而生其心。",
+      "textHash": "ac00b95a293d8f8ba7c3442a1c3def999ef6f5d80dceb3e3489129064c29fcbe",
+      "audio": "audio/diamond_sutra/f91abd4d6dc6f846.mp3",
+      "audioHash": "23c8c8ab7d678171afd2838323b41c9378a21305e37cced109391c836aacadbb",
+      "bytes": 88272
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 38,
+      "text": "「须菩提！譬如有人，身如须弥山王，于意云何？是身为大不？」",
+      "speechText": "「须菩提！譬如有人，身如须弥山王，于意云何？是身为大不？」",
+      "textHash": "1a493a09a91aac9b27cf323a0134af60eb150fea52a2fb9e234c695bc49787ab",
+      "audio": "audio/diamond_sutra/255351665a36faa8.mp3",
+      "audioHash": "e49067071b8770061be2584f2f6aa9206fd5bcd339e18c96e35973cefccb5f21",
+      "bytes": 52128
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 39,
+      "text": "须菩提言：「甚大，世尊！何以故？佛说非身，是名大身。」",
+      "speechText": "须菩提言：「甚大，世尊！何以故？佛说非身，是名大身。」",
+      "textHash": "819880c2c8dfd172b7557d0102db28cd91126a4eabb17c0bdcbcf8dafd46cca4",
+      "audio": "audio/diamond_sutra/1398f68d265c6445.mp3",
+      "audioHash": "9ba2ae9fc5fef473acd36c7b2257ee17ec5161dc1fa98f219139555e798b2b65",
+      "bytes": 51696
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 40,
+      "text": "「须菩提！如恒河中所有沙数，如是沙等恒河，于意云何？是诸恒河沙宁为多不？」",
+      "speechText": "「须菩提！如恒河中所有沙数，如是沙等恒河，于意云何？是诸恒河沙宁为多不？」",
+      "textHash": "f733bc12a41c75a847ff95deb98c4c927afa444b59d07de3ff0c88ff8cde8107",
+      "audio": "audio/diamond_sutra/fc29dc1adc707739.mp3",
+      "audioHash": "0187e8f7d08da2c40cd883f6986e270b27de356dd69c1b384031d6e219b28a23",
+      "bytes": 65376
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 41,
+      "text": "须菩提言：「甚多，世尊！但诸恒河尚多无数，何况其沙。」",
+      "speechText": "须菩提言：「甚多，世尊！但诸恒河尚多无数，何况其沙。」",
+      "textHash": "90edde131e18aec66df6a3bf4fdf1c1eaa35c60eabcf5390a8e29f741448988a",
+      "audio": "audio/diamond_sutra/cae825da2fa8013c.mp3",
+      "audioHash": "8903ad149804866ad75cd1b3c42354e061c000723dc11b33e2cb56dc526d8c1c",
+      "bytes": 47808
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 42,
+      "text": "「须菩提！我今实言告汝，若有善男子、善女人，以七宝满尔所恒河沙数三千大千世界以用布施，得福多不？」",
+      "speechText": "「须菩提！我今实言告汝，若有善男子、善女人，以七宝满尔所恒河沙数三千大千世界以用布施，得福多不？」",
+      "textHash": "23b9b54d74f39de6a509a9596ce6ee32a080462af586311ca8e85ad40b53ad36",
+      "audio": "audio/diamond_sutra/0158644d7a57a880.mp3",
+      "audioHash": "3f4de98dfca9106f564b9f9131cd41d981deed7b8be2c5bad2f71916375a625e",
+      "bytes": 81936
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 43,
+      "text": "须菩提言：「甚多，世尊！」",
+      "speechText": "须菩提言：「甚多，世尊！」",
+      "textHash": "dfa6759583d6cf253a1c5df7f3abcccf4f4d7f980c9c592dc74b542101a73b09",
+      "audio": "audio/diamond_sutra/b07830613e089cc3.mp3",
+      "audioHash": "9115223c5a04a11b772a141dcf271b080e9e15164589b5f434b646c8e3da42bb",
+      "bytes": 22464
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 44,
+      "text": "佛告须菩提：「若善男子、善女人于此经中，乃至受持四句偈等，为他人说，而此福德胜前福德。",
+      "speechText": "佛告须菩提：「若善男子、善女人于此经中，乃至受持四句偈等，为他人说，而此福德胜前福德。",
+      "textHash": "64a593f4df2bac78acaa4b60de1d70a2c9f9d605effdac6b986ba5ce90ae6fb7",
+      "audio": "audio/diamond_sutra/99d34390deb5aa87.mp3",
+      "audioHash": "e32135100bf4dec0bd9a9c802fcad6a5dab5e648069d02b150de518bc039ac75",
+      "bytes": 69408
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 45,
+      "text": "「复次，须菩提！随说是经，乃至四句偈等，当知此处，一切世间天、人、阿修罗皆应供养，如佛塔庙，何况有人尽能受持读诵？须菩提！当知是人成就最上、第一、希有之法，若是经典所在之处，则为有佛，若尊重弟子。」",
+      "speechText": "「复次，须菩提！随说是经，乃至四句偈等，当知此处，一切世间天、人、阿修罗皆应贡养，如佛塔庙，何况有人尽能受持读诵？须菩提！当知是人成就最上、第一、希有之法，若是经典所在之处，则为有佛，若尊重弟子。」",
+      "textHash": "ca16828f18cd7d8230ecd1bd1a659fb3ada0617a911298038db7b54f50329fde",
+      "audio": "audio/diamond_sutra/7c330bcbe746a4b2.mp3",
+      "audioHash": "238b0dabac0b85a3e939ad7712c414e4d1bc0dca860ca1148ae161fb34433b9a",
+      "bytes": 168624
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 46,
+      "text": "尔时，须菩提白佛言：「世尊！当何名此经？我等云何奉持？」",
+      "speechText": "尔时，须菩提白佛言：「世尊！当何名此经？我等云何奉持？」",
+      "textHash": "0e51acc4acdcbbada9e382c53d305271631844da66329e0138e05d141c14434e",
+      "audio": "audio/diamond_sutra/7283780ac85cac64.mp3",
+      "audioHash": "528a74a1f1ab0525c43d3cc1f23bc7130d16dadde5a7e0c6ae5d2be2ef1dfda7",
+      "bytes": 52272
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 47,
+      "text": "佛告须菩提：「是经名为『金刚般若波罗蜜』。以是名字，汝当奉持。所以者何？须菩提！佛说般若波罗蜜，则非般若波罗蜜。须菩提！于意云何？如来有所说法不？」",
+      "speechText": "佛告须菩提：「是经名为『金刚波惹波罗蜜』。以是名字，汝当奉持。所以者何？须菩提！佛说波惹波罗蜜，则非波惹波罗蜜。须菩提！于意云何？如来有所说法不？」",
+      "textHash": "ccb362f7a55b38cffaa34e625c047168c8c0741c2ee8b861124d9f8b6e5a6894",
+      "audio": "audio/diamond_sutra/0bdba3f18698dd3c.mp3",
+      "audioHash": "e3d30830635e40764ad4da7e3f6426ea51c3e3fe3f195ad0ce881bab7ab4d09c",
+      "bytes": 135648
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 48,
+      "text": "须菩提白佛言：「世尊！如来无所说。」",
+      "speechText": "须菩提白佛言：「世尊！如来无所说。」",
+      "textHash": "063c8e5ae5d4ffd17ade8913aadae93614e91169e91f29c6f3f29fe7254004ea",
+      "audio": "audio/diamond_sutra/5cada20025093e5c.mp3",
+      "audioHash": "ccee3a0e5976e653a9d0250aa56f95f44b671315b05ec53940a7254245f18f5a",
+      "bytes": 32400
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 49,
+      "text": "「须菩提！于意云何？三千大千世界所有微尘是为多不？」",
+      "speechText": "「须菩提！于意云何？三千大千世界所有微尘是为多不？」",
+      "textHash": "e297a02caafcb3651f393063854afc494a2d30ecf90baed3fe779be050ed78a3",
+      "audio": "audio/diamond_sutra/de7fc3fd5da7b7fb.mp3",
+      "audioHash": "a36570da6696b04e6226d1b5a357c98aeac91515155e0691e372feaa3d5ea2a1",
+      "bytes": 48528
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 50,
+      "text": "须菩提言：「甚多，世尊！」",
+      "speechText": "须菩提言：「甚多，世尊！」",
+      "textHash": "dfa6759583d6cf253a1c5df7f3abcccf4f4d7f980c9c592dc74b542101a73b09",
+      "audio": "audio/diamond_sutra/b07830613e089cc3.mp3",
+      "audioHash": "9115223c5a04a11b772a141dcf271b080e9e15164589b5f434b646c8e3da42bb",
+      "bytes": 22464
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 51,
+      "text": "「须菩提！诸微尘，如来说非微尘，是名微尘。如来说世界，非世界，是名世界。",
+      "speechText": "「须菩提！诸微尘，如来说非微尘，是名微尘。如来说世界，非世界，是名世界。",
+      "textHash": "5ea44cdcf526e5fd655f6482116b914698ec23dd7d5f202400dce988b8f83189",
+      "audio": "audio/diamond_sutra/63c7d3aa3176ff6e.mp3",
+      "audioHash": "5adfd1c9eaa356f7e6f80843af4e32fe8cf449810dfa221bf4b1a93f385b89a9",
+      "bytes": 66816
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 52,
+      "text": "「须菩提！于意云何？可以三十二相见如来不？」",
+      "speechText": "「须菩提！于意云何？可以三十二相见如来不？」",
+      "textHash": "f77f484804b766e1fb58ebec092517919434dca162845131210c7811fc00807e",
+      "audio": "audio/diamond_sutra/f6869220ea60c957.mp3",
+      "audioHash": "aff579756e9f1cfcfa1d8597863818eab0daa4052d4589903cf55998359c0a52",
+      "bytes": 39600
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 53,
+      "text": "「不也，世尊！不可以三十二相得见如来。何以故？如来说三十二相，即是非相，是名三十二相。」",
+      "speechText": "「不也，世尊！不可以三十二相得见如来。何以故？如来说三十二相，即是非相，是名三十二相。」",
+      "textHash": "1635bb321654a4d3be09a7ac59456dd56826e9e2893cec0a970decd0e79b3edf",
+      "audio": "audio/diamond_sutra/dbe937a368853f3c.mp3",
+      "audioHash": "89665b50b0afd9e8283e38c951086170db6a0b0bcfacc2b097c96e11162563d4",
+      "bytes": 74736
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 54,
+      "text": "「须菩提！若有善男子、善女人，以恒河沙等身命布施；若复有人，于此经中，乃至受持四句偈等，为他人说，其福甚多。」",
+      "speechText": "「须菩提！若有善男子、善女人，以恒河沙等身命布施；若复有人，于此经中，乃至受持四句偈等，为他人说，其福甚多。」",
+      "textHash": "3aee1689a8d63446a472a091d1a991f7f267bccb54734cb9f1d79edc450a4403",
+      "audio": "audio/diamond_sutra/756d0637a6e7bf46.mp3",
+      "audioHash": "75bc5e5e25a4c89f37e7ab3bd4a3d1e07a7909113195a1a80cfc42cee4e05b5b",
+      "bytes": 90288
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 55,
+      "text": "尔时，须菩提闻说是经，深解义趣，涕泪悲泣，而白佛言：「希有世尊！佛说如是甚深经典，我从昔来所得慧眼，未曾得闻如是之经。世尊！若复有人得闻是经，信心清净，则生实相，当知是人，成就第一希有功德。世尊！是实相者，则是非相，是故如来说名实相。世尊！",
+      "speechText": "尔时，须菩提闻说是经，深解义趣，涕泪悲泣，而白佛言：「希有世尊！佛说如是甚深经典，我从昔来所得慧眼，未曾得闻如是之经。世尊！若复有人得闻是经，信心清净，则生实相，当知是人，成就第一希有功德。世尊！是实相者，则是非相，是故如来说名实相。世尊！",
+      "textHash": "81a214f71053ba1277ed12f4b523a1c6699f0bc709fbc39565c75041ef64f0af",
+      "audio": "audio/diamond_sutra/fa8142188a4b82dd.mp3",
+      "audioHash": "12940c8862773391213698071d1eb5429420238b541514d1caf1c319b6f3e56d",
+      "bytes": 213264
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 56,
+      "text": "我今得闻如是经典，信解、受持不足为难，若当来世后五百岁，其有众生得闻是经，信解、受持，是人则为第一希有。何以故？此人无我相、人相、众生相、寿者相。所以者何？我相即是非相，人相、众生相、寿者相即是非相。何以故？离一切诸相，则名诸佛。」",
+      "speechText": "我今得闻如是经典，信解、受持不足为难，若当来世后五百岁，其有众生得闻是经，信解、受持，是人则为第一希有。何以故？此人无我相、人相、众生相、寿者相。所以者何？我相即是非相，人相、众生相、寿者相即是非相。何以故？离一切诸相，则名诸佛。」",
+      "textHash": "41e75f2f80e5c3d619b0fa5f27e54544d66cac2311f54b387185d168aa2c15bb",
+      "audio": "audio/diamond_sutra/a51ffeccc0e61730.mp3",
+      "audioHash": "8407466b38f1160b318b2c32db549e788e67a223f0edb76ab707313c74e134bf",
+      "bytes": 206784
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 57,
+      "text": "佛告须菩提：「如是，如是！若复有人得闻是经，不惊、不怖、不畏，当知是人甚为希有。何以故？须菩提！如来说第一波罗蜜，非第一波罗蜜，是名第一波罗蜜。须菩提！忍辱波罗蜜，如来说非忍辱波罗蜜。何以故？须菩提！如我昔为歌利王割截身体，我于尔时，无我相、无人相、无众生相、无寿者相。何以故？",
+      "speechText": "佛告须菩提：「如是，如是！若复有人得闻是经，不惊、不怖、不畏，当知是人甚为希有。何以故？须菩提！如来说第一波罗蜜，非第一波罗蜜，是名第一波罗蜜。须菩提！忍辱波罗蜜，如来说非忍辱波罗蜜。何以故？须菩提！如我昔为歌利王割截身体，我于尔时，无我相、无人相、无众生相、无寿者相。何以故？",
+      "textHash": "ea0b4f73cf9b04f7e3e93f2d48fbc1b083f5936830e8834b73a543af32650d1e",
+      "audio": "audio/diamond_sutra/e9067eb736d90718.mp3",
+      "audioHash": "081976ab1eadc5874252c1e3d65ef497e31492b8fefbb59af01c1e7eb403e5a4",
+      "bytes": 248256
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 58,
+      "text": "我于往昔节节支解时，若有我相、人相、众生相、寿者相，应生瞋恨。须菩提！又念过去于五百世作忍辱仙人，于尔所世，无我相、无人相、无众生相、无寿者相。是故，须菩提！菩萨应离一切相，发阿耨多罗三藐三菩提心，不应住色生心，不应住声、香、味、触、法生心，应生无所住心。若心有住，则为非住。",
+      "speechText": "我于往昔节节支解时，若有我相、人相、众生相、寿者相，应生瞋恨。须菩提！又念过去于五百世作忍辱仙人，于尔所世，无我相、无人相、无众生相、无寿者相。是故，须菩提！菩萨应离一切相，发阿耨多罗三藐三菩提心，不应住色生心，不应住声、香、味、触、法生心，应生无所住心。若心有住，则为非住。",
+      "textHash": "b38e44f4ab4586d23ac650daed56634991187cc3e6b0058508a598984f2aac0a",
+      "audio": "audio/diamond_sutra/02babf1718b50f27.mp3",
+      "audioHash": "610af44c7a186995291066b5c3c62b739af82155ee3a6b4d3ed58eb3d99e6ecb",
+      "bytes": 241776
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 59,
+      "text": "是故，佛说菩萨心不应住色布施。",
+      "speechText": "是故，佛说菩萨心不应住色布施。",
+      "textHash": "3dbc25619fab410405003d7e520df6a23a8569f31ebbcc26be90b271bee85830",
+      "audio": "audio/diamond_sutra/d7bc18057eea883f.mp3",
+      "audioHash": "f1a42d5337d00d30eb2095a405ed0dc578e2ef30c54d8fff52139ceac21ba423",
+      "bytes": 28080
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 60,
+      "text": "「须菩提！菩萨为利益一切众生，应如是布施。如来说：『一切诸相，即是非相。』又说：『一切众生，则非众生。』",
+      "speechText": "「须菩提！菩萨为利益一切众生，应如是布施。如来说：『一切诸相，即是非相。』又说：『一切众生，则非众生。』",
+      "textHash": "4262397aa40288ae63ee0ca41b928ef1fd3679fca214d7f1f1e6a34f8b96a33d",
+      "audio": "audio/diamond_sutra/d31b625297410f5c.mp3",
+      "audioHash": "bef84199ba7fe32d6b7785d8c2defa00bc4dece5e6d325a150c1f7144d32205c",
+      "bytes": 85536
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 61,
+      "text": "「须菩提！如来是真语者、实语者、如语者、不诳语者、不异语者。",
+      "speechText": "「须菩提！如来是真语者、实语者、如语者、不诳语者、不异语者。",
+      "textHash": "ea0e8d218e518fd65c549cfb1c9b1b7cf2cfe20cf4a394c2b72b055312dcd3d7",
+      "audio": "audio/diamond_sutra/2d070ed630cd3759.mp3",
+      "audioHash": "475817804c36fc746ec52a9344ccb700ba38347478203741c32737a9c374d031",
+      "bytes": 52560
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 62,
+      "text": "「须菩提！如来所得法，此法无实无虚。须菩提！若菩萨心住于法而行布施，如人入暗，则无所见；若菩萨心不住法而行布施，如人有目，日光明照，见种种色。",
+      "speechText": "「须菩提！如来所得法，此法无实无虚。须菩提！若菩萨心住于法而行布施，如人入暗，则无所见；若菩萨心不住法而行布施，如人有目，日光明照，见种种色。",
+      "textHash": "978cd5f35d7008f1621b2c2a23caaa0684e004b31da04b686a8e3b934bbac80c",
+      "audio": "audio/diamond_sutra/8e1acb5583ac71c1.mp3",
+      "audioHash": "8ddebeeb0317463ff3e9d1447b39b0d4b9226c67adebf4df7fa511290b6f762c",
+      "bytes": 123552
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 63,
+      "text": "「须菩提！当来之世，若有善男子、善女人，能于此经受持、读诵，则为如来以佛智慧悉知是人，悉见是人，皆得成就无量无边功德。",
+      "speechText": "「须菩提！当来之世，若有善男子、善女人，能于此经受持、读诵，则为如来以佛智慧悉知是人，悉见是人，皆得成就无量无边功德。",
+      "textHash": "cf98356c01e80801be3eb39ec340932c3f361fe2672bbd79b3e12b6f1dd0b04e",
+      "audio": "audio/diamond_sutra/07d0e8afd450335d.mp3",
+      "audioHash": "a60db5c78ee18068d3b78a564ab58eb393f8fbdf6765663e939e9cf80ada7150",
+      "bytes": 99648
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 64,
+      "text": "「须菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分复以恒河沙等身布施，后日分亦以恒河沙等身布施，如是无量百千万亿劫以身布施；若复有人，闻此经典，信心不逆，其福胜彼，何况书写、受持、读诵、为人解说。",
+      "speechText": "「须菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分复以恒河沙等身布施，后日分亦以恒河沙等身布施，如是无量百千万亿劫以身布施；若复有人，闻此经典，信心不逆，其福胜彼，何况书写、受持、读诵、为人解说。",
+      "textHash": "5c71d76ea6b27ac10d6886248873c7e94d338035c5edb3ea367a4e2b8cb4c3de",
+      "audio": "audio/diamond_sutra/495e05f97f2eadcf.mp3",
+      "audioHash": "f98c38212678966579daf0d9512aee3c7a1c2a122587ddf9c44bc525e944a105",
+      "bytes": 169632
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 65,
+      "text": "「须菩提！以要言之，是经有不可思议、不可称量、无边功德。如来为发大乘者说，为发最上乘者说。若有人能受持、读诵、广为人说，如来悉知是人，悉见是人，皆得成就不可量、不可称、无有边、不可思议功德，如是人等，则为荷担如来阿耨多罗三藐三菩提。何以故？须菩提！",
+      "speechText": "「须菩提！以要言之，是经有不可思议、不可称量、无边功德。如来为发大胜者说，为发最上乘者说。若有人能受持、读诵、广为人说，如来悉知是人，悉见是人，皆得成就不可量、不可称、无有边、不可思议功德，如是人等，则为荷担如来阿耨多罗三藐三菩提。何以故？须菩提！",
+      "textHash": "b9355ae526a39a031599ca8782d3f672c214f0f05d74636437f8be02f86fde63",
+      "audio": "audio/diamond_sutra/3509cd58a4e8d76e.mp3",
+      "audioHash": "ad157244ad86d8f6251de512c9a6a113f49819995274d63ca202ae8d6fe0655c",
+      "bytes": 207936
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 66,
+      "text": "若乐小法者，著我见、人见、众生见、寿者见，则于此经，不能听受、读诵、为人解说。",
+      "speechText": "若乐小法者，著我见、人见、众生见、寿者见，则于此经，不能听受、读诵、为人解说。",
+      "textHash": "503bba966b49cd670d775ad029c1f9f787a3608a32a6f05b325be028fbb5cfa2",
+      "audio": "audio/diamond_sutra/a69912023c45ca8b.mp3",
+      "audioHash": "bf7f36bbea9d59ab9b675750212bad83a3fd48843db7fec8afbc7d78443edb43",
+      "bytes": 66528
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 67,
+      "text": "「须菩提！在在处处若有此经，一切世间天、人、阿修罗所应供养；当知此处则为是塔，皆应恭敬、作礼、围绕，以诸华香而散其处。",
+      "speechText": "「须菩提！在在处处若有此经，一切世间天、人、阿修罗所应贡养；当知此处则为是塔，皆应恭敬、作礼、围绕，以诸华香而散其处。",
+      "textHash": "2a5a883baa49be33a032fadab0d7b3f48e4fdb538d3faa5bf345843d71186674",
+      "audio": "audio/diamond_sutra/523d581d3642cd14.mp3",
+      "audioHash": "8ed62a03d2d58d0401526f36bf4dbebc4b5acad9dd10e325e07ed9bc38d05c57",
+      "bytes": 99936
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 68,
+      "text": "「复次，须菩提！善男子、善女人受持、读诵此经，若为人轻贱，是人先世罪业应堕恶道，以今世人轻贱故，先世罪业则为消灭，当得阿耨多罗三藐三菩提。",
+      "speechText": "「复次，须菩提！善男子、善女人受持、读诵此经，若为人轻贱，是人先世罪业应堕恶道，以今世人轻贱故，先世罪业则为消灭，当得阿耨多罗三藐三菩提。",
+      "textHash": "52fa12938a56824523a18f77fa2447841bd10d675ac46d7922e2d59d29b6ea57",
+      "audio": "audio/diamond_sutra/9598dd9a1525baff.mp3",
+      "audioHash": "c598cff5e6b13847579c2fd45f52039a0c8087d4f885b987c2a9b7ae021c4bbf",
+      "bytes": 114480
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 69,
+      "text": "「须菩提！我念过去无量阿僧祇劫，于然灯佛前，得值八百四千万亿那由他诸佛，悉皆供养承事，无空过者；若复有人，于后末世，能受持、读诵此经，所得功德，于我所供养诸佛功德，百分不及一，千万亿分乃至算数、譬喻所不能及。",
+      "speechText": "「须菩提！我念过去无量阿僧其劫，于然灯佛前，得值八百四千万亿那由他诸佛，悉皆供养承事，无空过者；若复有人，于后末世，能受持、读诵此经，所得功德，于我所供养诸佛功德，百分不及一，千万亿分乃至算数、譬喻所不能及。",
+      "textHash": "89e9a6d41f6ecd336709f569f36e4ffe49ae6496c9c42884891a776b75fd607b",
+      "audio": "audio/diamond_sutra/e38b0d468c138e7d.mp3",
+      "audioHash": "a1c9d8016c7e54e6a62532c0e692aba6dfd26a095d72257ee0957b55be989013",
+      "bytes": 170064
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 70,
+      "text": "「须菩提！若善男子、善女人于后末世，有受持、读诵此经所得功德，我若具说者，或有人闻，心则狂乱，狐疑不信。须菩提！当知是经义不可思议，果报亦不可思议。」",
+      "speechText": "「须菩提！若善男子、善女人于后末世，有受持、读诵此经所得功德，我若具说者，或有人闻，心则狂乱，狐疑不信。须菩提！当知是经义不可思议，果报亦不可思议。」",
+      "textHash": "41c08f0a6bfd42ac6b4ec58b4b42a16b5c1add9e410836ec9eb6d3b9ea6bdb51",
+      "audio": "audio/diamond_sutra/1977d0e526017d3d.mp3",
+      "audioHash": "8bb51aac1f0c109694babf17d9295446250694b53e67dd9f22a9b45e280df974",
+      "bytes": 127008
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 71,
+      "text": "尔时，须菩提白佛言：「世尊！善男子、善女人发阿耨多罗三藐三菩提心，云何应住？云何降伏其心？」",
+      "speechText": "尔时，须菩提白佛言：「世尊！善男子、善女人发阿耨多罗三藐三菩提心，云何应住？云何祥伏其心？」",
+      "textHash": "dfdd7b63f5a32932d40bca03f7b1a26187633006fb01a30c6fe060b8953e6cac",
+      "audio": "audio/diamond_sutra/9dd42c40e931eb04.mp3",
+      "audioHash": "8d55c6fd1891eac8ff6a83892a334d7b3eb9517ee0cc2e76335bdfcb493f8289",
+      "bytes": 81504
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 72,
+      "text": "佛告须菩提：「善男子、善女人发阿耨多罗三藐三菩提者，当生如是心：『我应灭度一切众生。灭度一切众生已，而无有一众生实灭度者。』何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，则非菩萨。所以者何？须菩提！实无有法发阿耨多罗三藐三菩提者。",
+      "speechText": "佛告须菩提：「善男子、善女人发阿耨多罗三藐三菩提者，当生如是心：『我应灭度一切众生。灭度一切众生已，而无有一众生实灭度者。』何以故？须菩提！若菩萨有我相、人相、众生相、寿者相，则非菩萨。所以者何？须菩提！实无有法发阿耨多罗三藐三菩提者。",
+      "textHash": "a2c4da94a93c10331c7ce3ec7d736a2e245418a6999236a77ce1c1e924fa3da6",
+      "audio": "audio/diamond_sutra/ecc06e47af1b10f1.mp3",
+      "audioHash": "2b45c4624789dd080de3bee8166ee9662e1abfb35b2353f7fdf98561ea1d0f82",
+      "bytes": 205776
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 73,
+      "text": "「须菩提！于意云何？如来于然灯佛所，有法得阿耨多罗三藐三菩提不？」",
+      "speechText": "「须菩提！于意云何？如来于然灯佛所，有法得阿耨多罗三藐三菩提不？」",
+      "textHash": "8935b23d97c813852d7b52c9fbc1e12236fb53dcf088d55bd792f6ef032e95c1",
+      "audio": "audio/diamond_sutra/bc12d188e21998d6.mp3",
+      "audioHash": "a2475349f07da786ac13b5f5160e0ce49dae8ec661c70677fd2e4227660299ac",
+      "bytes": 57024
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 74,
+      "text": "「不也，世尊！如我解佛所说义，佛于然灯佛所，无有法得阿耨多罗三藐三菩提。」",
+      "speechText": "「不也，世尊！如我解佛所说义，佛于然灯佛所，无有法得阿耨多罗三藐三菩提。」",
+      "textHash": "e02e18d712f3f46773cddaf37520bdb67ee3d659f9d8f10d3509aa8ff3783b8e",
+      "audio": "audio/diamond_sutra/a135bf017c772cc8.mp3",
+      "audioHash": "1e94ae6a81aad7c12b807a01d8b77f97e92013459c555ff3f39dafcb1db38072",
+      "bytes": 60768
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 75,
+      "text": "佛言：「如是，如是！须菩提！实无有法，如来得阿耨多罗三藐三菩提。须菩提！若有法，如来得阿耨多罗三藐三菩提者，然灯佛则不与我受记：『汝于来世当得作佛，号释迦牟尼。』以实无有法得阿耨多罗三藐三菩提，是故然灯佛与我受记，作是言：『汝于来世当得作佛，号释迦牟尼。』何以故？如来者，即诸法如义。",
+      "speechText": "佛言：「如是，如是！须菩提！实无有法，如来得阿耨多罗三藐三菩提。须菩提！若有法，如来得阿耨多罗三藐三菩提者，然灯佛则不与我受记：『汝于来世当得作佛，号释迦牟尼。』以实无有法得阿耨多罗三藐三菩提，是故然灯佛与我受记，作是言：『汝于来世当得作佛，号释迦牟尼。』何以故？如来者，即诸法如义。",
+      "textHash": "1874c9b9f294d4dba3634dca4b2f8dc60ee834474a5ff82874419717120f184d",
+      "audio": "audio/diamond_sutra/b113950aa49aab16.mp3",
+      "audioHash": "7a330d61c56ee518d7ac80bf46331d9513f335aeed1c152880ea50d5ff3ad716",
+      "bytes": 234000
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 76,
+      "text": "「若有人言『如来得阿耨多罗三藐三菩提』，须菩提！实无有法，佛得阿耨多罗三藐三菩提。须菩提！如来所得阿耨多罗三藐三菩提，于是中无实无虚，是故如来说：『一切法皆是佛法。』须菩提！所言一切法者，即非一切法，是故名一切法。",
+      "speechText": "「若有人言『如来得阿耨多罗三藐三菩提』，须菩提！实无有法，佛得阿耨多罗三藐三菩提。须菩提！如来所得阿耨多罗三藐三菩提，于是中无实无虚，是故如来说：『一切法皆是佛法。』须菩提！所言一切法者，即非一切法，是故名一切法。",
+      "textHash": "a0f59541914d2564802c911e4523a333432d0728dd6f14b634e88c03b023fbe1",
+      "audio": "audio/diamond_sutra/003089a4dac8aea1.mp3",
+      "audioHash": "bcfb444bd36efd0ed69da576f38d243ffdd72e2efb901a9c1e665db17ec62dcc",
+      "bytes": 174240
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 77,
+      "text": "「须菩提！譬如人身长、大。」",
+      "speechText": "「须菩提！譬如人身长、大。」",
+      "textHash": "481139dc87fc1ed1da200bb6a82de708127ee578dd64b5346d8ce6deee39469a",
+      "audio": "audio/diamond_sutra/27a037955b5e42d4.mp3",
+      "audioHash": "562b8b1389ae9648fea074cb93a137f8293c1d821d116387a567d309027a1d0d",
+      "bytes": 28224
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 78,
+      "text": "须菩提言：「世尊！如来说人身长、大，则为非大身，是名大身。」",
+      "speechText": "须菩提言：「世尊！如来说人身长、大，则为非大身，是名大身。」",
+      "textHash": "4a40645862a93cf2061e991c9e2854d76a00649f001144d030d569d864206783",
+      "audio": "audio/diamond_sutra/bad11c4f754be79c.mp3",
+      "audioHash": "9f7b0717eb85983a817e58f115dc6e78c4e60abfabac54cca4ddd3c7f0f4bb58",
+      "bytes": 51840
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 79,
+      "text": "「须菩提！菩萨亦如是，若作是言『我当灭度无量众生』，则不名菩萨。何以故？须菩提！实无有法名为菩萨。是故，佛说：『一切法无我、无人、无众生、无寿者。』须菩提！若菩萨作是言『我当庄严佛土』，是不名菩萨。何以故？如来说庄严佛土者，即非庄严，是名庄严。须菩提！若菩萨通达无我、法者，如来说名真是菩萨。",
+      "speechText": "「须菩提！菩萨亦如是，若作是言『我当灭度无量众生』，则不名菩萨。何以故？须菩提！实无有法名为菩萨。是故，佛说：『一切法无我、无人、无众生、无寿者。』须菩提！若菩萨作是言『我当庄严佛土』，是不名菩萨。何以故？如来说庄严佛土者，即非庄严，是名庄严。须菩提！若菩萨通达无我、法者，如来说名真是菩萨。",
+      "textHash": "9421c3a2c05b2fd0d723cae8c043896e96a59d72ab50c4dd3b0a4c85f36719a5",
+      "audio": "audio/diamond_sutra/8d2f24c0c9177531.mp3",
+      "audioHash": "c613f1f89386d8a3926f63f9c1151f6b4143fe9ae048a9813294d9d9ca4f3747",
+      "bytes": 258624
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 80,
+      "text": "「须菩提！于意云何？如来有肉眼不？」",
+      "speechText": "「须菩提！于意云何？如来有肉眼不？」",
+      "textHash": "ea8beb948f068b6320e5d1abae4bbd7efd71955e5bd1bbce6e40c939e08b01c9",
+      "audio": "audio/diamond_sutra/fc283c63100add30.mp3",
+      "audioHash": "aacb004999d55bc08d7b364265a6d43c770d582e5c62c76983b5b5345976bc47",
+      "bytes": 35136
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 81,
+      "text": "「如是，世尊！如来有肉眼。」",
+      "speechText": "「如是，世尊！如来有肉眼。」",
+      "textHash": "52ade75fb368a37ce420e438eec77cd989df8676bdc9eac883332a6cf53a0363",
+      "audio": "audio/diamond_sutra/b7b3daaa8b4b29c9.mp3",
+      "audioHash": "885dba42d41b88fa8cc084174f46016eb7b1f06368c1f36eca4590510c18bf33",
+      "bytes": 26784
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 82,
+      "text": "「须菩提！于意云何？如来有天眼不？」",
+      "speechText": "「须菩提！于意云何？如来有天眼不？」",
+      "textHash": "17f6bcecd4536a8396e0ce9bf634814d55b8841d45aacf78a80b9e74a04053ce",
+      "audio": "audio/diamond_sutra/2bb67661736b07da.mp3",
+      "audioHash": "f1867f3ddadc2e33a2f9b0c25b13ba3aff704493126de08587bda95e32d7d3dc",
+      "bytes": 34992
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 83,
+      "text": "「如是，世尊！如来有天眼。」",
+      "speechText": "「如是，世尊！如来有天眼。」",
+      "textHash": "dd44c2ce7cf7a543ab559c6ff26448e1605e6c4b3d9695fc7f5d5d0f65d34393",
+      "audio": "audio/diamond_sutra/c444d04429a781bb.mp3",
+      "audioHash": "86d1d839af3049418c1f0c19f32b6e71c8e7505cb79f75d893663fffa406d8cc",
+      "bytes": 26784
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 84,
+      "text": "「须菩提！于意云何？如来有慧眼不？」",
+      "speechText": "「须菩提！于意云何？如来有慧眼不？」",
+      "textHash": "5447123f79bb4c8ea7025f9917a7e9f5323c6a3508d662648748ba3f2c8e37ac",
+      "audio": "audio/diamond_sutra/cb96e25d7c73296e.mp3",
+      "audioHash": "4360f12f9fb8a141a11c92a3e96a6ff943c01e83f562bc1af3f44d97d5993f77",
+      "bytes": 34992
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 85,
+      "text": "「如是，世尊！如来有慧眼。」",
+      "speechText": "「如是，世尊！如来有慧眼。」",
+      "textHash": "155dfabb3a1c5e540fbdc0206fb66c1f2a49eae5cd84dfb311adb20337078c70",
+      "audio": "audio/diamond_sutra/b2e065438ec2f45e.mp3",
+      "audioHash": "95b26b57b86151e5427318f960d091beb715999a3f8f3e7db485ac552db334da",
+      "bytes": 26640
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 86,
+      "text": "「须菩提！于意云何？如来有法眼不？」",
+      "speechText": "「须菩提！于意云何？如来有法眼不？」",
+      "textHash": "a01ebe485848bbc91a4fec4a27d642edc2bbf8ee38289d1dcf0fdecbac376821",
+      "audio": "audio/diamond_sutra/f133fa7a01e5fecc.mp3",
+      "audioHash": "1d05e55467797a6ac4e89aa8f83372784908c4c834bcffe45d0982cb6a84a062",
+      "bytes": 34848
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 87,
+      "text": "「如是，世尊！如来有法眼。」",
+      "speechText": "「如是，世尊！如来有法眼。」",
+      "textHash": "ebacc82a9ae0701ce271cef8fe1aa63e941b98d7a4528acff2b8efbaa7eb22bc",
+      "audio": "audio/diamond_sutra/1f9213fda0e0f80d.mp3",
+      "audioHash": "e25f045d12671fd69fd3abbd8acd98dac0dba95e36f21634e5a48caff888478e",
+      "bytes": 26784
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 88,
+      "text": "「须菩提！于意云何？如来有佛眼不？」",
+      "speechText": "「须菩提！于意云何？如来有佛眼不？」",
+      "textHash": "0076c0442c8f4d0f6bd5c257e355f32294ef96683712a9b7cb33abc2d33fe170",
+      "audio": "audio/diamond_sutra/172a9c1797127b21.mp3",
+      "audioHash": "9350ce5437e166de344f97863b12e2361bb9b3ba70954b14faf1ef91de6b30ba",
+      "bytes": 35424
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 89,
+      "text": "「如是，世尊！如来有佛眼。」",
+      "speechText": "「如是，世尊！如来有佛眼。」",
+      "textHash": "b874daebff987412733361801540dde9214ae16aefaad053e18c072f5240d367",
+      "audio": "audio/diamond_sutra/65a69ef7fc8f558b.mp3",
+      "audioHash": "6dc0c226e6ecba8d4c6c553295af817bd42c4abbae83243037ac07292ba99e1d",
+      "bytes": 27072
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 90,
+      "text": "「须菩提！于意云何？恒河中所有沙，佛说是沙不？」",
+      "speechText": "「须菩提！于意云何？恒河中所有沙，佛说是沙不？」",
+      "textHash": "8da35f1abf82b40047fc3e7009e8b4464f4f8b3943ecc1747cfd411afbdf91a1",
+      "audio": "audio/diamond_sutra/bf8162f4b26381ca.mp3",
+      "audioHash": "0da5880792b10c34e977a0139f5b61f1b7e8c1a8a33b6566d2f42694b9c91d2f",
+      "bytes": 45360
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 91,
+      "text": "「如是，世尊！如来说是沙。」",
+      "speechText": "「如是，世尊！如来说是沙。」",
+      "textHash": "b901e860278ab4af77521894aeabf552d16b616f282aa2df067d1b3747980567",
+      "audio": "audio/diamond_sutra/79f2b751efbb5537.mp3",
+      "audioHash": "953d8939461d370a520c6fd50d5033666328feb4ce321def52617630fef0e644",
+      "bytes": 26496
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 92,
+      "text": "「须菩提！于意云何？如一恒河中所有沙，有如是等恒河，是诸恒河所有沙数佛世界，如是宁为多不？」",
+      "speechText": "「须菩提！于意云何？如一恒河中所有沙，有如是等恒河，是诸恒河所有沙数佛世界，如是宁为多不？」",
+      "textHash": "8574a1fb8f947abf12f10c245b8ef15eb3f3c962f8b68eb2b5667df45d3126e0",
+      "audio": "audio/diamond_sutra/387a84e9c374f90c.mp3",
+      "audioHash": "ef2bacb3a333cd0839d50e17c8c951377bfb368c286c5fca113d2ef3cd9289a7",
+      "bytes": 77472
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 93,
+      "text": "「甚多，世尊！」",
+      "speechText": "「甚多，世尊！」",
+      "textHash": "862ed8968e39e78a03ba645b1f4e41374ff45d906d22aa22d311b0111cf5ad8e",
+      "audio": "audio/diamond_sutra/ec681994b097ee18.mp3",
+      "audioHash": "394345ddd21b6a239e97e31c7ffb795841a1e83958762a1e3a6bb7bf3b0da3c4",
+      "bytes": 14400
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 94,
+      "text": "佛告须菩提：「尔所国土中，所有众生若干种心，如来悉知。何以故？如来说诸心，皆为非心，是名为心。所以者何？须菩提！过去心不可得，现在心不可得，未来心不可得。",
+      "speechText": "佛告须菩提：「尔所国土中，所有众生若干种心，如来悉知。何以故？如来说诸心，皆为非心，是名为心。所以者何？须菩提！过去心不可得，现在心不可得，未来心不可得。",
+      "textHash": "5866ad371d736f61d7c257165b9efd6b17d488cf1d0225b0ba2c390f69ab91ae",
+      "audio": "audio/diamond_sutra/752e810c459f4a18.mp3",
+      "audioHash": "8165c272b5b8852f8bca2d0a68b63febf89068eb51a665f6cc6a06f84303f39b",
+      "bytes": 137376
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 95,
+      "text": "「须菩提！于意云何？若有人满三千大千世界七宝以用布施，是人以是因缘得福多不？」",
+      "speechText": "「须菩提！于意云何？若有人满三千大千世界七宝以用布施，是人以是因缘得福多不？」",
+      "textHash": "367548f82a50178772d4da083601719e99e0f5e61ab53eace8e1cefd968ba343",
+      "audio": "audio/diamond_sutra/0004d132815dc2df.mp3",
+      "audioHash": "05187b6e3261bbc33e903f9477a328b3c3b3215be7ad6727741ab8a55acc8152",
+      "bytes": 67104
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 96,
+      "text": "「如是，世尊！此人以是因缘得福甚多。」",
+      "speechText": "「如是，世尊！此人以是因缘得福甚多。」",
+      "textHash": "272ef8aa3cc8eaa59a7ae607b98479bc221cb7e9e5e3acbc803a1d6cc2912711",
+      "audio": "audio/diamond_sutra/7ba110790d4d0f28.mp3",
+      "audioHash": "9d7963519ca1664d830bfb3772530b7ef8cfaec80f0fd1d0bc1cd9bdf15c35c3",
+      "bytes": 33696
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 97,
+      "text": "「须菩提！若福德有实，如来不说得福德多；以福德无故，如来说得福德多。",
+      "speechText": "「须菩提！若福德有实，如来不说得福德多；以福德无故，如来说得福德多。",
+      "textHash": "88c379c0a1bf68bdb1d03e33ae37871ba9acff0add4abf753bd71864ce03076d",
+      "audio": "audio/diamond_sutra/4667cd2f7011002b.mp3",
+      "audioHash": "9bab9f026ecd422cd2f519a82cd0f2a4733303ba94c73028452ea13cabeb7f3e",
+      "bytes": 55296
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 98,
+      "text": "「须菩提！于意云何？佛可以具足色身见不？」",
+      "speechText": "「须菩提！于意云何？佛可以具足色身见不？」",
+      "textHash": "dfda6a51dc42ac186c86da987ed017c2729797f0d878fc2ec8648cf909295ab0",
+      "audio": "audio/diamond_sutra/eb2837e9746485e0.mp3",
+      "audioHash": "3cf9b17ed0748e3225757187a9f7037c558b3f4cf64001d16cec5791253dea1a",
+      "bytes": 39600
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 99,
+      "text": "「不也，世尊！如来不应以具足色身见。何以故？如来说具足色身，即非具足色身，是名具足色身。」",
+      "speechText": "「不也，世尊！如来不应以具足色身见。何以故？如来说具足色身，即非具足色身，是名具足色身。」",
+      "textHash": "71e9d0f66cb0ace19afeba4df1899cf091332cc539ae5acebd25768b6aaa9da6",
+      "audio": "audio/diamond_sutra/1ef25e44cf71429b.mp3",
+      "audioHash": "4c4df4e38d7a327b234ffa21bb6acb01d65085a9eab5f612d3e38e07048fc992",
+      "bytes": 80352
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 100,
+      "text": "「须菩提！于意云何？如来可以具足诸相见不？」",
+      "speechText": "「须菩提！于意云何？如来可以具足诸相见不？」",
+      "textHash": "425650e45ae93d35204e7801d27d733182c947063fd96c8d49cafb74285a5bb4",
+      "audio": "audio/diamond_sutra/27cb2795b1e4cf01.mp3",
+      "audioHash": "6dfd0b51e891953e5d5d469bdd37287c29720344b32b2349692cddb79384dc81",
+      "bytes": 40320
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 101,
+      "text": "「不也，世尊！如来不应以具足诸相见。何以故？如来说诸相具足，即非具足，是名诸相具足。」",
+      "speechText": "「不也，世尊！如来不应以具足诸相见。何以故？如来说诸相具足，即非具足，是名诸相具足。」",
+      "textHash": "a10f87903e0bf0859f130703916b4196f47ae99c883f706cdbb4e17bd5cb705f",
+      "audio": "audio/diamond_sutra/4cea28d759a48706.mp3",
+      "audioHash": "c5b4d06b3598fc313b5944c8bb9697046b6b733aebf5e50146064ddbfac8335b",
+      "bytes": 77904
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 102,
+      "text": "「须菩提！汝勿谓如来作是念，『我当有所说法』。莫作是念，何以故？若人言『如来有所说法』，即为谤佛，不能解我所说故。须菩提！说法者，无法可说，是名说法。」",
+      "speechText": "「须菩提！汝勿谓如来作是念，『我当有所说法』。莫作是念，何以故？若人言『如来有所说法』，即为谤佛，不能解我所说故。须菩提！说法者，无法可说，是名说法。」",
+      "textHash": "0bb6778267c4de22cc080a8008e51689021e9fef24fcba3456ecebca3a66621f",
+      "audio": "audio/diamond_sutra/fa9e3ca15fadc73f.mp3",
+      "audioHash": "4710c9f07248faebcfbbacfdfbbf29afeca23ec121131e71f3e7479af69c4a47",
+      "bytes": 124128
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 103,
+      "text": "尔时，慧命须菩提白佛言：「世尊！颇有众生于未来世，闻说是法生信心不？」",
+      "speechText": "尔时，慧命须菩提白佛言：「世尊！颇有众生于未来世，闻说是法生信心不？」",
+      "textHash": "a82eecf750a500daabd41109b8b456ca073823536614285c9779ed0a1bf2bb49",
+      "audio": "audio/diamond_sutra/4351822fd0b16523.mp3",
+      "audioHash": "e038309349c434c0e824b251a841dff420baaaa74b3a0534070aee18a3ee8924",
+      "bytes": 58464
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 104,
+      "text": "佛言：「须菩提！彼非众生，非不众生。何以故？须菩提！众生、众生者，如来说非众生，是名众生。」",
+      "speechText": "佛言：「须菩提！彼非众生，非不众生。何以故？须菩提！众生、众生者，如来说非众生，是名众生。」",
+      "textHash": "e70ebd8972a71ff21a86f4f691f33f5c7b3f1f6647d185343944bc27b94584dd",
+      "audio": "audio/diamond_sutra/208de127e7af3c65.mp3",
+      "audioHash": "07f5215f399e0210ea72c52efd16eedb5d6831093bb996a7d8704ab365729b15",
+      "bytes": 90000
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 105,
+      "text": "须菩提白佛言：「世尊！佛得阿耨多罗三藐三菩提，为无所得耶？」",
+      "speechText": "须菩提白佛言：「世尊！佛得阿耨多罗三藐三菩提，为无所得耶？」",
+      "textHash": "076b26872654c3cb4838c495e92badce7b863c5048a1fc8c4e96a576929a6cb9",
+      "audio": "audio/diamond_sutra/c72b9bfce8b81606.mp3",
+      "audioHash": "9d46f99ebe5f4cd3c0fa9d911315b0f922a6b12ed28917b2e9360e9b2be27d53",
+      "bytes": 50688
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 106,
+      "text": "「如是，如是！须菩提！我于阿耨多罗三藐三菩提乃至无有少法可得，是名阿耨多罗三藐三菩提。",
+      "speechText": "「如是，如是！须菩提！我于阿耨多罗三藐三菩提乃至无有少法可得，是名阿耨多罗三藐三菩提。",
+      "textHash": "d0dceebb8b218cecc7a950ff80fe71f1fad0db9dc9eaf8b09b153e3518264c6e",
+      "audio": "audio/diamond_sutra/ff4d36723b197325.mp3",
+      "audioHash": "e3621bc84da79dea20582df587167801960f8df1afd0a12a635f6c3c0ab56f1e",
+      "bytes": 76176
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 107,
+      "text": "「复次，须菩提！是法平等，无有高下，是名阿耨多罗三藐三菩提；以无我、无人、无众生、无寿者，修一切善法，则得阿耨多罗三藐三菩提。须菩提！所言善法者，如来说非善法，是名善法。",
+      "speechText": "「复次，须菩提！是法平等，无有高下，是名阿耨多罗三藐三菩提；以无我、无人、无众生、无寿者，修一切善法，则得阿耨多罗三藐三菩提。须菩提！所言善法者，如来说非善法，是名善法。",
+      "textHash": "98ea7652d8eb0a5e28b689b475368ee828b36dc354819974e2b35df348bc40dd",
+      "audio": "audio/diamond_sutra/82907ef4bfd9ec62.mp3",
+      "audioHash": "b7741baecab95d8fa660c2ed92035ab897cd05052e9abaaf2832eea681597e0c",
+      "bytes": 148176
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 108,
+      "text": "「须菩提！若三千大千世界中所有诸须弥山王，如是等七宝聚，有人持用布施；若人以此《般若波罗蜜经》，乃至四句偈等，受持、读诵、为他人说，于前福德百分不及一，百千万亿分，乃至算数、譬喻所不能及。",
+      "speechText": "「须菩提！若三千大千世界中所有诸须弥山王，如是等七宝聚，有人持用布施；若人以此《波惹波罗蜜经》，乃至四句偈等，受持、读诵、为他人说，于前福德百分不及一，百千万亿分，乃至算数、譬喻所不能及。",
+      "textHash": "b1e39d68f695949ea7ce7061872bbcb5ddb49c70dc2e8087b9030986053bf8e9",
+      "audio": "audio/diamond_sutra/35f033f4508b50fe.mp3",
+      "audioHash": "8b1f275a7636ef19bb32c5936ad910127db5ed0353e98e465e46be0b35390034",
+      "bytes": 149616
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 109,
+      "text": "「须菩提！于意云何？汝等勿谓如来作是念：『我当度众生。』须菩提！莫作是念。何以故？实无有众生如来度者，若有众生如来度者，如来则有我、人、众生、寿者。须菩提！如来说有我者，则非有我，而凡夫之人以为有我。须菩提！凡夫者，如来说则非凡夫。",
+      "speechText": "「须菩提！于意云何？汝等勿谓如来作是念：『我当度众生。』须菩提！莫作是念。何以故？实无有众生如来度者，若有众生如来度者，如来则有我、人、众生、寿者。须菩提！如来说有我者，则非有我，而凡夫之人以为有我。须菩提！凡夫者，如来说则非凡夫。",
+      "textHash": "251c91350f016dbdddb90edd8a905b3a385a62eb633c3521e886b54083ac7336",
+      "audio": "audio/diamond_sutra/d4df7eb62fbee64f.mp3",
+      "audioHash": "da7f70f1be80f171f535e85c418a1386bbc08b563fcdda1241ba5949a9461eba",
+      "bytes": 206352
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 110,
+      "text": "「须菩提！于意云何？可以三十二相观如来不？」",
+      "speechText": "「须菩提！于意云何？可以三十二相观如来不？」",
+      "textHash": "fd16de841e7b2a12b9d692641b98fc6dd6f111781d656e64d7ce91bd5aa97fe8",
+      "audio": "audio/diamond_sutra/be54bc0fa1327df3.mp3",
+      "audioHash": "64412038b960e96e1498d2552b63568b1ae97aace0c4f19d00e18bd9dbb35c91",
+      "bytes": 39600
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 111,
+      "text": "须菩提言：「如是，如是！以三十二相观如来。」",
+      "speechText": "须菩提言：「如是，如是！以三十二相观如来。」",
+      "textHash": "d3d25f86c084455885ed187d9c2c60b636335788dc183e4a2662a98014cfd7e5",
+      "audio": "audio/diamond_sutra/23f67c68d5e5d6d8.mp3",
+      "audioHash": "fb0961d81757ad4b65bf008ced6629525926319c99087bc95a794ad06c4d62c8",
+      "bytes": 38448
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 112,
+      "text": "佛言：「须菩提！若以三十二相观如来者，转轮圣王则是如来。」",
+      "speechText": "佛言：「须菩提！若以三十二相观如来者，转轮圣王则是如来。」",
+      "textHash": "4e515d01e0e7e17ec585060d0c80d19f9b3de3ac5b09a0dcf1f69e0f25fe6975",
+      "audio": "audio/diamond_sutra/3ae3d8c30d061850.mp3",
+      "audioHash": "ff486832dac02212bc30b0f01246f6b28ad5fe4bb459adbbd3dcd43562ac8a7c",
+      "bytes": 48816
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 113,
+      "text": "须菩提白佛言：「世尊！如我解佛所说义，不应以三十二相观如来。」",
+      "speechText": "须菩提白佛言：「世尊！如我解佛所说义，不应以三十二相观如来。」",
+      "textHash": "12f906f5d908696f4941600caa887fdab2234d488a84b4600c5a58d528dade44",
+      "audio": "audio/diamond_sutra/2a73532bba69add7.mp3",
+      "audioHash": "f4cd6b785ec7d6a6be7cf193ce2b2f28b47f1a189d33d32b5dae8c1a71ffc2ed",
+      "bytes": 49824
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 114,
+      "text": "尔时，世尊而说偈言：",
+      "speechText": "尔时，世尊而说偈言：",
+      "textHash": "36c7384bd0babeb48f792826ee322d95d65da1c248c82733602fb40ba95f4e56",
+      "audio": "audio/diamond_sutra/2f45e1cceaf3dc78.mp3",
+      "audioHash": "a15f7f2c781ecfc7687c65a3d3e1f18c9570ee012ae2758b1f4efd3376d22244",
+      "bytes": 19872
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 115,
+      "text": "「若以色见我，以音声求我，是人行邪道，不能见如来。",
+      "speechText": "「若以色见我，以音声求我，是人行邪道，不能见如来。",
+      "textHash": "ba181af6122829c658c5ca03d42df14a3851043c051a52b69e74453e94220893",
+      "audio": "audio/diamond_sutra/56c38d547525b663.mp3",
+      "audioHash": "93fdefaf4137c50192a75207a73ad745715654f9aea820181fa947987a76462c",
+      "bytes": 39168
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 116,
+      "text": "「须菩提！汝若作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』须菩提！莫作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』",
+      "speechText": "「须菩提！汝若作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』须菩提！莫作是念：『如来不以具足相故，得阿耨多罗三藐三菩提。』",
+      "textHash": "21e78a2955d3af4d9bff6b7893f1d91d649ef834b8475f78910ae0506558820a",
+      "audio": "audio/diamond_sutra/c1a9986f016825fb.mp3",
+      "audioHash": "fc333dc527b1c987b9c17e0dab20e6d5afc2fafafc1494bb9da7fd31e818aa4b",
+      "bytes": 99792
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 117,
+      "text": "「须菩提！汝若作是念：『发阿耨多罗三藐三菩提者，说诸法断灭相。』莫作是念。何以故？发阿耨多罗三藐三菩提心者，于法不说断灭相。",
+      "speechText": "「须菩提！汝若作是念：『发阿耨多罗三藐三菩提者，说诸法断灭相。』莫作是念。何以故？发阿耨多罗三藐三菩提心者，于法不说断灭相。",
+      "textHash": "c85ae9be3eba7f80cbc3a248d0fd0d0be6560fe38f8f0d730ada17cea1d526d0",
+      "audio": "audio/diamond_sutra/1f8198f14146978e.mp3",
+      "audioHash": "12577e4f47b90f8231773e79c4af4ba909beb0f8077831740d80460b971f623c",
+      "bytes": 105120
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 118,
+      "text": "「须菩提！若菩萨以满恒河沙等世界七宝布施；若复有人知一切法无我，得成于忍，此菩萨胜前菩萨所得功德。须菩提！以诸菩萨不受福德故。」",
+      "speechText": "「须菩提！若菩萨以满恒河沙等世界七宝布施；若复有人知一切法无我，得成于忍，此菩萨胜前菩萨所得功德。须菩提！以诸菩萨不受福德故。」",
+      "textHash": "aa466367ff9d842826bdec365bc43905ca01bd605f5509595dafa4aee00e91f9",
+      "audio": "audio/diamond_sutra/655239b5798ae7e1.mp3",
+      "audioHash": "53e51caf5007a3b8dd9e76c19368c52ab62b0360d15606c662cc2994827b720f",
+      "bytes": 109152
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 119,
+      "text": "须菩提白佛言：「世尊！云何菩萨不受福德？」",
+      "speechText": "须菩提白佛言：「世尊！云何菩萨不受福德？」",
+      "textHash": "caf74b5b5e1a255d73c312a555c14c1b6bc0850e183f9617e329a27bbfec0263",
+      "audio": "audio/diamond_sutra/52c9b10e740d6493.mp3",
+      "audioHash": "94c249d0c7030b8f10bb687dcd3751d12cffa8a6660c964c06de51fcbe340e58",
+      "bytes": 36864
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 120,
+      "text": "「须菩提！菩萨所作福德，不应贪著，是故说不受福德。",
+      "speechText": "「须菩提！菩萨所作福德，不应贪著，是故说不受福德。",
+      "textHash": "57337a253871376bc4d389cadd63c749165e2a50b1e7944556b5c568462b5210",
+      "audio": "audio/diamond_sutra/dc8046d2eab0cc0c.mp3",
+      "audioHash": "0fa5ebbb4d826051f7814376cdff4727a03aeca9489ad40d4081e846891ee223",
+      "bytes": 45504
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 121,
+      "text": "「须菩提！若有人言『如来若来若去、若坐若卧』，是人不解我所说义。何以故？如来者，无所从来，亦无所去，故名如来。",
+      "speechText": "「须菩提！若有人言『如来若来若去、若坐若卧』，是人不解我所说义。何以故？如来者，无所从来，亦无所去，故名如来。",
+      "textHash": "6dc690d3c4af524a69611a69429dbecf4b301ad789eb102ba39f65d3277e0d0d",
+      "audio": "audio/diamond_sutra/3f0caac48b5f8f50.mp3",
+      "audioHash": "18ef55339c6fe76684f452a3e5367baed4c19803d5006c044f1556c54339c460",
+      "bytes": 91584
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 122,
+      "text": "「须菩提！若善男子、善女人以三千大千世界碎为微尘，于意云何？是微尘众宁为多不？」",
+      "speechText": "「须菩提！若善男子、善女人以三千大千世界碎为微尘，于意云何？是微尘众宁为多不？」",
+      "textHash": "37f9c5a28d2d3fc8bb60895e98dd6e4ca7f26b786ae9c9c16b10eb617e9f2c5b",
+      "audio": "audio/diamond_sutra/56d3ffd4877b4f82.mp3",
+      "audioHash": "99c99ed6bf7960fe1fa20ae517fd2932c4b9bc062fcfc093147e7b2def4b3465",
+      "bytes": 71856
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 123,
+      "text": "「甚多，世尊！何以故？若是微尘众实有者，佛则不说是微尘众。所以者何？佛说微尘众，则非微尘众，是名微尘众。世尊！如来所说三千大千世界，则非世界，是名世界。何以故？若世界实有者，则是一合相。如来说一合相，则非一合相，是名一合相。」",
+      "speechText": "「甚多，世尊！何以故？若是微尘众实有者，佛则不说是微尘众。所以者何？佛说微尘众，则非微尘众，是名微尘众。世尊！如来所说三千大千世界，则非世界，是名世界。何以故？若世界实有者，则是一合相。如来说一合相，则非一合相，是名一合相。」",
+      "textHash": "9aea22ce72112a96da4b194ec14dacd0eaa98d3f852c32b7fe6f5b9b3f1e46f7",
+      "audio": "audio/diamond_sutra/a51fc27b38cbafce.mp3",
+      "audioHash": "5ba249cdccf11b113004f35476befda1c56f0127f82354f764e944f00a8be895",
+      "bytes": 206496
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 124,
+      "text": "「须菩提！一合相者，则是不可说，但凡夫之人贪著其事。",
+      "speechText": "「须菩提！一合相者，则是不可说，但凡夫之人贪著其事。",
+      "textHash": "fb34655ac4b7172b01fc087e9d7495c2a9344da9b15835cbc30e04f39cc1b94d",
+      "audio": "audio/diamond_sutra/92db1027a9ea6e92.mp3",
+      "audioHash": "8a1a2b9e993fe1996dc03871a31f8325013c07a2e9ea92ac875951ea268f2510",
+      "bytes": 46080
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 125,
+      "text": "「须菩提！若人言『佛说我见、人见、众生见、寿者见』，须菩提！于意云何？是人解我所说义不？」",
+      "speechText": "「须菩提！若人言『佛说我见、人见、众生见、寿者见』，须菩提！于意云何？是人解我所说义不？」",
+      "textHash": "f930d67cd0122911179c8e5b455301e01da0b9ecc0cc41ee851596bb566cb2bb",
+      "audio": "audio/diamond_sutra/0a51c37312539462.mp3",
+      "audioHash": "3391ff22f363bd924944b575b0645951455ad549b4fb01eced5a7399c72120d5",
+      "bytes": 77184
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 126,
+      "text": "「世尊！是人不解如来所说义。何以故？世尊说我见、人见、众生见、寿者见，即非我见、人见、众生见、寿者见，是名我见、人见、众生见、寿者见。」",
+      "speechText": "「世尊！是人不解如来所说义。何以故？世尊说我见、人见、众生见、寿者见，即非我见、人见、众生见、寿者见，是名我见、人见、众生见、寿者见。」",
+      "textHash": "06fc9cab05b95e3b48767597fe49ede25d3ac89df0a7da51602131216f4a523f",
+      "audio": "audio/diamond_sutra/c6f7050365b94674.mp3",
+      "audioHash": "ccc4c9c9a1383a5cfdcc0d5d545eb2a4a5f3143064fafa35b9964ba0fc17fe4f",
+      "bytes": 122976
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 127,
+      "text": "「须菩提！发阿耨多罗三藐三菩提心者，于一切法，应如是知，如是见，如是信解，不生法相。须菩提！所言法相者，如来说即非法相，是名法相。",
+      "speechText": "「须菩提！发阿耨多罗三藐三菩提心者，于一切法，应如是知，如是见，如是信解，不生法相。须菩提！所言法相者，如来说即非法相，是名法相。",
+      "textHash": "5d6e10c5c5644b84c117bee6a73b17fb9138fb436df7d8fb3430e1208cfbef45",
+      "audio": "audio/diamond_sutra/440fa70986b3599d.mp3",
+      "audioHash": "25be9ac368735f569d3be2c5c0b3f5ccc3d510bd7fcc7ee30499be93f5b5b245",
+      "bytes": 117792
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 128,
+      "text": "「须菩提！若有人以满无量阿僧祇世界七宝持用布施，若有善男子、善女人发菩萨心者，持于此经乃至四句偈等，受持、读诵、为人演说，其福胜彼。云何为人演说？不取于相，如如不动。何以故？",
+      "speechText": "「须菩提！若有人以满无量阿僧其世界七宝持用布施，若有善男子、善女人发菩萨心者，持于此经乃至四句偈等，受持、读诵、为人演说，其福胜彼。云何为人演说？不取于相，如如不动。何以故？",
+      "textHash": "ac3e3d3de6af18067add00e72f259b20e41bf0ad2c23bc6765e9520260a84a21",
+      "audio": "audio/diamond_sutra/e1180cf20a0bd65c.mp3",
+      "audioHash": "0fe35de48ed9ebcf4a4276dec33049430de3d15ab1e3603412a8a509800b65dd",
+      "bytes": 149760
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 129,
+      "text": "「一切有为法，如梦、幻、泡、影，如露亦如电，应作如是观。」",
+      "speechText": "「一切有为法，如梦、幻、泡、影，如露亦如电，应作如是观。」",
+      "textHash": "d7441f3c7183eb90c43916fd1427c3065368ab82674ad74af11ec37b5687fb29",
+      "audio": "audio/diamond_sutra/7d0ff8e2b1535246.mp3",
+      "audioHash": "66da690f94c3e09d50f81702c9a6af623430e07fdfd357890dafff418b1fb4ad",
+      "bytes": 47520
+    },
+    {
+      "sutra": "diamond_sutra",
+      "index": 130,
+      "text": "佛说是经已，长老须菩提及诸比丘、比丘尼、优婆塞、优婆夷，一切世间天、人、阿修罗，闻佛所说，皆大欢喜，信受奉行。",
+      "speechText": "佛说是经已，长老须菩提及诸比丘、比丘尼、优婆塞、优婆夷，一切世间天、人、阿修罗，闻佛所说，皆大欢喜，信受奉行。",
+      "textHash": "5eebe7a9221118478c5d9b69d05ba141b93388767baf0dda406935957497a884",
+      "audio": "audio/diamond_sutra/64b9c58738175dca.mp3",
+      "audioHash": "299f4d74d985858c0b0382decc32e226a9f579950f7432c870b6f81e372996d1",
+      "bytes": 95616
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 0,
+      "text": "南无喝啰怛那哆啰夜㖿。南无阿唎㖿。婆卢羯帝烁钵啰㖿。菩提萨跢婆㖿。摩诃萨跢婆㖿。摩诃迦卢尼迦㖿。",
+      "speechText": "拿摩喝啰怛那哆啰夜耶。拿摩阿唎耶。婆卢羯帝烁钵啰耶。菩提萨朵婆耶。摩喝萨朵婆耶。摩喝迦卢尼迦耶。",
+      "textHash": "151328dd2aa5893230da64035cb9fec624c20ad7814e6a4141076994ac7cf0c8",
+      "audio": "audio/dabei_mantra/10c762a8c5bf1afc.mp3",
+      "audioHash": "115246e454398e41e051cf6d6d4552c8efda370a7c33a3abf7e076c2146205c0",
+      "bytes": 91440
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 1,
+      "text": "唵。萨皤啰罚曳。数怛那怛写。南无悉吉利埵伊蒙阿唎㖿。婆卢吉帝室佛啰㘄驮婆。南无那啰谨墀。",
+      "speechText": "嗡。萨皤啰罚曳。数怛那怛写。拿摩悉吉利朵伊蒙阿唎耶。婆卢吉帝室佛啰楞驮婆。拿摩那啰谨墀。",
+      "textHash": "eef73a24a8807876e980771eeb630d297ee0850c97a56451a3e2729a19a78b26",
+      "audio": "audio/dabei_mantra/ed32d4aa74c0ebea.mp3",
+      "audioHash": "363f59ff90aa0e8bed04aaa464841f348258a88d339022047824ed932f4064b0",
+      "bytes": 86832
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 2,
+      "text": "醯唎摩诃皤哆沙咩。萨婆阿他豆输朋。阿逝孕。萨婆萨哆那摩婆伽。摩罚特豆。怛姪他。",
+      "speechText": "西唎摩喝皤哆沙咩。萨婆阿他豆输朋。阿逝孕。萨婆萨哆那摩婆伽。摩罚特豆。怛姪他。",
+      "textHash": "ec0b1fcbc710eb925956377286cc3037a9c14bcaa75dd850460b703f5c0f448e",
+      "audio": "audio/dabei_mantra/e9d2e64d551534d3.mp3",
+      "audioHash": "a7870965afd4039c96b07a13d4180087d5861b8915ecb596b82f83dda8deadee",
+      "bytes": 80352
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 3,
+      "text": "唵阿婆卢醯。卢迦帝。迦罗帝。夷醯唎。摩诃菩提萨埵。萨婆萨婆。",
+      "speechText": "嗡阿婆卢西。卢迦帝。迦罗帝。夷西唎。摩喝菩提萨朵。萨婆萨婆。",
+      "textHash": "fc029ac817ef27d1afcf3df59c54ed8d09faa3309cf9f9a082cc9a8c34268732",
+      "audio": "audio/dabei_mantra/f56095e730c48a28.mp3",
+      "audioHash": "5a6986d604a7e5d676410c0f0c68e0a1546f31e6bac1aa9b9ab743172e89be2e",
+      "bytes": 67104
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 4,
+      "text": "摩罗摩罗。摩醯摩醯唎驮孕。俱卢俱卢羯蒙。度卢度卢罚阇耶帝。摩诃罚阇耶帝。陀罗陀罗。",
+      "speechText": "摩罗摩罗。摩西摩西唎驮孕。俱卢俱卢羯蒙。度卢度卢罚阇耶帝。摩喝罚阇耶帝。陀罗陀罗。",
+      "textHash": "b3476612962115855d8dabecc44ab5a777368a5810a49a9606a678e219662896",
+      "audio": "audio/dabei_mantra/a1fe05fd4c819bc5.mp3",
+      "audioHash": "464c04a94f33d29292fcf26ad9019ee921f00e45d7d7107d2079f48def8646ea",
+      "bytes": 81216
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 5,
+      "text": "地利尼。室佛啰耶。遮罗遮罗。摩摩罚摩啰。穆帝囇。伊醯移醯。",
+      "speechText": "地利尼。室佛啰耶。遮罗遮罗。摩摩罚摩啰。穆帝利。伊西移西。",
+      "textHash": "32b45e3346a073c92723ba24038a99bf678f1a598426876b7a4316207768beb5",
+      "audio": "audio/dabei_mantra/84691015824f5bbf.mp3",
+      "audioHash": "10d036b44df8776dcab956114fcb250159f241094f668a5925860b8bd853c084",
+      "bytes": 64656
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 6,
+      "text": "室那室那。阿啰嘇佛啰舍利。罚沙罚嘇。佛罗舍耶。呼𠰷呼𠰷摩啰。呼𠰷呼𠰷醯利。",
+      "speechText": "室那室那。阿啰山佛啰舍利。罚沙罚山。佛罗舍耶。呼卢呼卢摩啰。呼卢呼卢西利。",
+      "textHash": "b2a5188eac6831f343a787eaa3576f3da848d20f8374c6500761939ee2338a28",
+      "audio": "audio/dabei_mantra/5817d7089d2f01ad.mp3",
+      "audioHash": "a6d058a357fafb909fd312f19d1da2f1654bbf9a854dd31f3fabfe71aed7bf05",
+      "bytes": 75600
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 7,
+      "text": "娑啰娑啰。悉利悉利。苏𠰷苏𠰷。菩提夜菩提夜。菩驮夜菩驮夜。弥帝利夜。",
+      "speechText": "娑啰娑啰。悉利悉利。苏卢苏卢。菩提夜菩提夜。菩驮夜菩驮夜。弥帝利夜。",
+      "textHash": "af53706c9c31996197ff3622b4f68bcf9be723e05571931f5a041d534b838e5d",
+      "audio": "audio/dabei_mantra/ecbbfe286e69c7c0.mp3",
+      "audioHash": "a827398213b38e9abf6e8f81469a9ffbd5d4f43463d3ee8c21a888abebb4f344",
+      "bytes": 72576
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 8,
+      "text": "那啰谨墀。地唎瑟尼那。波夜摩那。娑婆诃。悉陀夜。娑婆诃。",
+      "speechText": "那啰谨墀。地唎瑟尼那。波夜摩那。娑婆喝。悉陀夜。娑婆喝。",
+      "textHash": "40e3e88a783702e1d582d7c49fd1d52b428ad615ed5c4d66c5171cd823107d10",
+      "audio": "audio/dabei_mantra/1d37ac9d3dc66ed1.mp3",
+      "audioHash": "6537d021c484a2ff0fe906711a6340294d0f6f7a54b6f5480cad35ee615dec3f",
+      "bytes": 65520
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 9,
+      "text": "摩诃悉陀夜。娑婆诃。悉陀喻艺。室皤啰耶。娑婆诃。那啰谨墀。",
+      "speechText": "摩喝悉陀夜。娑婆喝。悉陀喻艺。室皤啰耶。娑婆喝。那啰谨墀。",
+      "textHash": "73910f6c09801ef89bcacb5c9687ca961e669c05efba809f6a7da26c24af8f64",
+      "audio": "audio/dabei_mantra/aed93656503f3170.mp3",
+      "audioHash": "3c948bfa8aabb7af804fd1d5cb2f4f1412521c3311d29674de6bc746350c8a36",
+      "bytes": 67392
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 10,
+      "text": "娑婆诃。摩啰那啰。娑婆诃。悉啰僧阿穆佉耶。娑婆诃。娑婆摩诃阿悉陀夜。",
+      "speechText": "娑婆喝。摩啰那啰。娑婆喝。悉啰僧阿穆佉耶。娑婆喝。娑婆摩喝阿悉陀夜。",
+      "textHash": "abda4cde6d98f87636e1dc66f1b9000123305d268ba08824c6c673bd3b05cbc3",
+      "audio": "audio/dabei_mantra/9541ed96e1205466.mp3",
+      "audioHash": "5cc0e1fb69f6a613596eb182f70372727afc4361f20a0bca86b80cff358c1c79",
+      "bytes": 73872
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 11,
+      "text": "娑婆诃。者吉啰阿悉陀夜。娑婆诃。波陀摩羯悉哆夜。娑婆诃。那啰谨墀皤伽啰㖿。",
+      "speechText": "娑婆喝。者吉啰阿悉陀夜。娑婆喝。波陀摩羯悉哆夜。娑婆喝。那啰谨墀皤伽啰耶。",
+      "textHash": "fff1006e8bd2071c576e65583cd735f50fc852126e1673fda2894a2b2be61d92",
+      "audio": "audio/dabei_mantra/ab5d72dd8e90619b.mp3",
+      "audioHash": "da26b095b65a40b112d588547dda37cef743e22a992ed2bcdae5daae3b08da26",
+      "bytes": 78192
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 12,
+      "text": "娑婆诃。摩婆利胜羯啰夜。娑婆诃。南无喝啰怛那哆啰夜耶。南无阿唎㖿。婆𠰷吉帝。",
+      "speechText": "娑婆喝。摩婆利胜羯啰夜。娑婆喝。拿摩喝啰怛那哆啰夜耶。拿摩阿唎耶。婆卢吉帝。",
+      "textHash": "6df3581e4aae0d44dacb14406a7527a1a8fb9d7b4a4dd1f263599046372d0a78",
+      "audio": "audio/dabei_mantra/03b9553bc8fd69c1.mp3",
+      "audioHash": "c5195ae7eb16089dc1c7d7b7b0a4482fd3a16875a2b7fa00643e666a245b6e31",
+      "bytes": 79056
+    },
+    {
+      "sutra": "dabei_mantra",
+      "index": 13,
+      "text": "烁皤啰夜。娑婆诃。唵悉殿都曼哆啰钵驮耶。娑婆诃。",
+      "speechText": "烁皤啰夜。娑婆喝。嗡悉殿都曼哆啰钵驮耶。娑婆喝。",
+      "textHash": "10ec7065624b5719351447fae22d58452fab340dec5d469adfe99dcf8e462e74",
+      "audio": "audio/dabei_mantra/abd4ded69ae98b2a.mp3",
+      "audioHash": "2204b7b36713049e54116647950a68b32cbe600e7bdf303b97f614a4cc3afaa3",
+      "bytes": 51120
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 0,
+      "text": "尔时，无尽意菩萨即从座起，偏袒右肩，合掌向佛而作是言：「世尊！观世音菩萨以何因缘名观世音？」",
+      "speechText": "尔时，无尽意菩萨即从座起，偏袒右肩，合掌向佛而作是言：「世尊！观世音菩萨以何因缘名观世音？」",
+      "textHash": "64a37bdb5b3f9f6401bd14cfa11361dadf3eb450afc845bb6bafbe806231eff4",
+      "audio": "audio/pumen_pin/ab5768635cbbf734.mp3",
+      "audioHash": "857dc0635455a67e9d6bb085d1598a16890f5536f06a39b9b8571c2abc8f3001",
+      "bytes": 77184
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 1,
+      "text": "佛告无尽意菩萨：「善男子！若有无量百千万亿众生受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。若有持是观世音菩萨名者，设入大火，火不能烧，由是菩萨威神力故。若为大水所漂，称其名号，即得浅处。若有百千万亿众生，为求金、银、琉璃、车𤦲、马瑙、珊瑚、虎珀、真珠等宝，入于大海。",
+      "speechText": "佛告无尽意菩萨：「善男子！若有无量百千万亿众生受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。若有持是观世音菩萨名者，设入大火，火不能烧，由是菩萨威神力故。若为大水所漂，称其名号，即得浅处。若有百千万亿众生，为求金、银、琉璃、车渠、马瑙、珊瑚、虎珀、真珠等宝，入于大海。",
+      "textHash": "ea60fc118cbf473a79a29614cdf55e22512c549cf2b7b79fb5f04a2f61eef29e",
+      "audio": "audio/pumen_pin/89e8ee9d1904a7b4.mp3",
+      "audioHash": "2d6e3e55ec092a4e52895a3105e66ee7c1bd8c2d98ad4373865e8b827d50e36c",
+      "bytes": 246384
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 2,
+      "text": "假使黑风吹其船舫，飘堕罗刹鬼国，其中若有，乃至一人，称观世音菩萨名者，是诸人等皆得解脱罗刹之难。以是因缘，名观世音。若复有人临当被害，称观世音菩萨名者，彼所执刀杖寻段段坏，而得解脱。若三千大千国土满中夜叉、罗刹欲来恼人，闻其称观世音菩萨名者，是诸恶鬼尚不能以恶眼视之，况复加害。",
+      "speechText": "假使黑风吹其船舫，飘堕罗刹鬼国，其中若有，乃至一人，称观世音菩萨名者，是诸人等皆得解脱罗刹之难。以是因缘，名观世音。若复有人临当被害，称观世音菩萨名者，彼所执刀杖寻段段坏，而得解脱。若三千大千国土满中夜叉、罗刹欲来恼人，闻其称观世音菩萨名者，是诸恶鬼尚不能以恶眼视之，况复加害。",
+      "textHash": "d79e0336c76fe26d233316ab07cd85f651ccea18439ce6f88f4d7c77d103be83",
+      "audio": "audio/pumen_pin/152b5b7ab63d7ee8.mp3",
+      "audioHash": "0458e28640481d2e9e90611b730d681cb72c8b48a14644516a6d73d92e6a1a34",
+      "bytes": 228672
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 3,
+      "text": "设复有人，若有罪、若无罪，杻械、枷锁检系其身，称观世音菩萨名者，皆悉断坏，即得解脱。若三千大千国土满中怨贼，有一商主将诸商人，赍持重宝经过崄路。其中一人作是唱言：『诸善男子！勿得恐怖！汝等应当一心称观世音菩萨名号。是菩萨能以无畏施于众生。汝等若称名者，于此怨贼当得解脱。』",
+      "speechText": "设复有人，若有罪、若无罪，杻械、枷锁检系其身，称观世音菩萨名者，皆悉断坏，即得解脱。若三千大千国土满中怨贼，有一商主将诸商人，赍持重宝经过崄路。其中一人作是唱言：『诸善男子！勿得恐怖！汝等应当一心称观世音菩萨名号。是菩萨能以无畏施于众生。汝等若称名者，于此怨贼当得解脱。』",
+      "textHash": "549746b056dbc486c4860799b9b55bf0453d8ace8714b1f07258e32db009e49e",
+      "audio": "audio/pumen_pin/fea5614d2607d7e1.mp3",
+      "audioHash": "48c9e4bde0b984b4a07df9dd23555f1abb84eef9deb1cbbf6612281285daebb2",
+      "bytes": 229536
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 4,
+      "text": "众商人闻，俱发声言：『南无观世音菩萨。』称其名故，即得解脱。",
+      "speechText": "众商人闻，俱发声言：『拿摩观世音菩萨。』称其名故，即得解脱。",
+      "textHash": "886e8b08cdcd953a3832569d71211202bd6133b365281f7aef402b0046b1df19",
+      "audio": "audio/pumen_pin/7663912efd3f4176.mp3",
+      "audioHash": "41c8c76db7c9547f1cca5602a651e7d81c8c1e3978f665e6a959651c2ce3c3bd",
+      "bytes": 47664
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 5,
+      "text": "「无尽意！观世音菩萨摩诃萨威神之力，巍巍如是。若有众生多于婬欲，常念恭敬观世音菩萨，便得离欲。若多瞋恚，常念恭敬观世音菩萨，便得离瞋。若多愚痴，常念恭敬观世音菩萨，便得离痴。",
+      "speechText": "「无尽意！观世音菩萨摩喝萨威神之力，巍巍如是。若有众生多于婬欲，常念恭敬观世音菩萨，便得离欲。若多瞋恚，常念恭敬观世音菩萨，便得离瞋。若多愚痴，常念恭敬观世音菩萨，便得离痴。",
+      "textHash": "eff2c65461d197ff003f952a502013e82e5c7f0e9ed5665b02b3869cd30feeb0",
+      "audio": "audio/pumen_pin/516aa4505c28b4ef.mp3",
+      "audioHash": "050036de3405168a802a0f2dd8a5d93812e4ba3b7c34a778ad37fe0ee27ab69f",
+      "bytes": 148608
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 6,
+      "text": "「无尽意！观世音菩萨有如是等大威神力，多所饶益。是故众生常应心念。若有女人，设欲求男，礼拜供养观世音菩萨，便生福德智慧之男；设欲求女，便生端正有相之女。宿殖德本，众人爱敬。",
+      "speechText": "「无尽意！观世音菩萨有如是等大威神力，多所饶益。是故众生常应心念。若有女人，设欲求男，礼拜供养观世音菩萨，便生福德智慧之男；设欲求女，便生端正有相之女。宿殖德本，众人爱敬。",
+      "textHash": "d2167ec92ca7d3a7bc880994ed480a1c08cd346145883a2f1642680264937c03",
+      "audio": "audio/pumen_pin/4eaff0d952b87e80.mp3",
+      "audioHash": "5e275f20f905f6de43d47923b9cc84c693a75a037eb090bc14bd56c4624c930f",
+      "bytes": 149184
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 7,
+      "text": "「无尽意！观世音菩萨有如是力。若有众生恭敬礼拜观世音菩萨，福不唐捐。是故众生皆应受持观世音菩萨名号。",
+      "speechText": "「无尽意！观世音菩萨有如是力。若有众生恭敬礼拜观世音菩萨，福不唐捐。是故众生皆应受持观世音菩萨名号。",
+      "textHash": "fe223626fc34af712d9a25a7618e24c3758b5503d6bae035c1eeb172c32c5ded",
+      "audio": "audio/pumen_pin/01c1b2aaaadbb481.mp3",
+      "audioHash": "002f6e1a4c79882ed1c893705d14fcbbe2af238c14d47bcee150ab2b44d1040e",
+      "bytes": 87696
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 8,
+      "text": "「无尽意！若有人受持六十二亿恒河沙菩萨名字，复尽形供养饮食、衣服、卧具、医药。于汝意云何？是善男子、善女人，功德多不？」",
+      "speechText": "「无尽意！若有人受持六十二亿恒河沙菩萨名字，复尽形供养饮食、衣服、卧具、医药。于汝意云何？是善男子、善女人，功德多不？」",
+      "textHash": "879e92e75b41087f70a65243db2eb6f087d7a6df495969214fc79093392a3b67",
+      "audio": "audio/pumen_pin/114f196d8025aa26.mp3",
+      "audioHash": "34281e5ffd3ea04c62b29d1eb6d232cbb544ba750b386c528339f4ad522137f0",
+      "bytes": 104400
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 9,
+      "text": "无尽意言：「甚多，世尊！」",
+      "speechText": "无尽意言：「甚多，世尊！」",
+      "textHash": "367e7003ccf02473da6207c39db63fa687eb6bfd7427501740ed7b32c3495b43",
+      "audio": "audio/pumen_pin/b7b66aaa2155a679.mp3",
+      "audioHash": "ab9caa73af4289ed5b86b39dc98499b45cd151be3e8617a740cf2d365a6dcbb9",
+      "bytes": 21456
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 10,
+      "text": "佛言：「若复有人受持观世音菩萨名号，乃至一时礼拜、供养。是二人福，正等无异，于百千万亿劫不可穷尽。无尽意！受持观世音菩萨名号，得如是无量无边福德之利。」",
+      "speechText": "佛言：「若复有人受持观世音菩萨名号，乃至一时礼拜、供养。是二人福，正等无异，于百千万亿劫不可穷尽。无尽意！受持观世音菩萨名号，得如是无量无边福德之利。」",
+      "textHash": "257721060f641e0af889e6f34d54e1fbd4a909d11c4a7df238b5b2b7dd7ba970",
+      "audio": "audio/pumen_pin/d87f9b0451df44ba.mp3",
+      "audioHash": "508de6b0110db1f8027615fb8bc86ecb0329a22faccaf2c15449a11c546cd92d",
+      "bytes": 127728
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 11,
+      "text": "无尽意菩萨白佛言：「世尊！观世音菩萨云何游此娑婆世界？云何而为众生说法？方便之力，其事云何？」",
+      "speechText": "无尽意菩萨白佛言：「世尊！观世音菩萨云何游此娑婆世界？云何而为众生说法？方便之力，其事云何？」",
+      "textHash": "eed37e7efef2b284790557a4a40c6a3a9a7fe22ef9c16d3e4f37b140906de467",
+      "audio": "audio/pumen_pin/dfe3bb9da0f6d15d.mp3",
+      "audioHash": "85058ddccd459dc5f1c36a0052248cb85f2734d397103cc1c20fe273f503b7ef",
+      "bytes": 82656
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 12,
+      "text": "佛告无尽意菩萨：「善男子！若有国土众生应以佛身得度者，观世音菩萨即现佛身而为说法；应以辟支佛身得度者，即现辟支佛身而为说法；应以声闻身得度者，即现声闻身而为说法；应以梵王身得度者，即现梵王身而为说法；应以帝释身得度者，即现帝释身而为说法；应以自在天身得度者，即现自在天身而为说法；",
+      "speechText": "佛告无尽意菩萨：「善男子！若有国土众生应以佛身得度者，观世音菩萨即现佛身而为说法；应以辟支佛身得度者，即现辟支佛身而为说法；应以声闻身得度者，即现声闻身而为说法；应以梵王身得度者，即现梵王身而为说法；应以帝释身得度者，即现帝释身而为说法；应以自在天身得度者，即现自在天身而为说法；",
+      "textHash": "184b268d56462cae20b5f215d32c0ef175a77fb534834a22a6ad234beeb567a4",
+      "audio": "audio/pumen_pin/1c75f0d58af29fe1.mp3",
+      "audioHash": "e600fe9e3f2a7c2a2030ad0ed717adb165a8a6a1da2a8fe11e504cd1a99166ee",
+      "bytes": 227376
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 13,
+      "text": "应以大自在天身得度者，即现大自在天身而为说法；应以天大将军身得度者，即现天大将军身而为说法；应以毘沙门身得度者，即现毘沙门身而为说法；应以小王身得度者，即现小王身而为说法；应以长者身得度者，即现长者身而为说法；应以居士身得度者，即现居士身而为说法；应以宰官身得度者，即现宰官身而为说法；",
+      "speechText": "应以大自在天身得度者，即现大自在天身而为说法；应以天大将军身得度者，即现天大将军身而为说法；应以毘沙门身得度者，即现毘沙门身而为说法；应以小王身得度者，即现小王身而为说法；应以长者身得度者，即现长者身而为说法；应以居士身得度者，即现居士身而为说法；应以宰官身得度者，即现宰官身而为说法；",
+      "textHash": "0d6c152cfb7de969b3f56750f6f66c447c625721105f73165e04d678c7ab666f",
+      "audio": "audio/pumen_pin/6a67bb651791def9.mp3",
+      "audioHash": "cd9d96714d551f631d756209dff75c135c7932751c40a1ec0a6cb0b8aa179cbe",
+      "bytes": 227520
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 14,
+      "text": "应以婆罗门身得度者，即现婆罗门身而为说法；应以比丘、比丘尼、优婆塞、优婆夷身得度者，即现比丘、比丘尼、优婆塞、优婆夷身而为说法；应以长者、居士、宰官、婆罗门妇女身得度者，即现妇女身而为说法；应以童男、童女身得度者，即现童男、童女身而为说法；",
+      "speechText": "应以婆罗门身得度者，即现婆罗门身而为说法；应以比丘、比丘尼、优婆塞、优婆夷身得度者，即现比丘、比丘尼、优婆塞、优婆夷身而为说法；应以长者、居士、宰官、婆罗门妇女身得度者，即现妇女身而为说法；应以童男、童女身得度者，即现童男、童女身而为说法；",
+      "textHash": "6df9da780e6cf812c05b7a62714986516a47382dcee3c452a6c9494e7a9c09aa",
+      "audio": "audio/pumen_pin/6e2a8dd8c767d091.mp3",
+      "audioHash": "5f86eeb6f4eecac1f26ff10a5f9ee214b8eb2c1f7e6901d5870f21150f32aca4",
+      "bytes": 199152
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 15,
+      "text": "应以天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等身得度者，即皆现之而为说法；应以执金刚身得度者，即现执金刚身而为说法。",
+      "speechText": "应以天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等身得度者，即皆现之而为说法；应以执金刚身得度者，即现执金刚身而为说法。",
+      "textHash": "c3b94f7d231ead55f6796353d598744f0c017e74d6d15d7248e6a37e2b86238a",
+      "audio": "audio/pumen_pin/62df3d465d372ef0.mp3",
+      "audioHash": "3b5aaa8bfc458bc3066d2328d4a9dbf7c78ef320fbeac06cc56966da91c84f69",
+      "bytes": 114048
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 16,
+      "text": "「无尽意！是观世音菩萨成就如是功德，以种种形，游诸国土，度脱众生。是故汝等应当一心供养观世音菩萨。是观世音菩萨摩诃萨于怖畏急难之中能施无畏，是故此娑婆世界皆号之为施无畏者。」",
+      "speechText": "「无尽意！是观世音菩萨成就如是功德，以种种形，游诸国土，度脱众生。是故汝等应当一心供养观世音菩萨。是观世音菩萨摩喝萨于怖畏急难之中能施无畏，是故此娑婆世界皆号之为施无畏者。」",
+      "textHash": "919875351d6ad0d11f3ebefea661b2ccc84365f9948171dff58a3277ae1dbbd0",
+      "audio": "audio/pumen_pin/ad68ddb6bdb13a2b.mp3",
+      "audioHash": "73182db7880cc3eb66e9fa3ab3f7382c2f817f7a27648ddba589e9c1bbc1b55f",
+      "bytes": 144864
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 17,
+      "text": "无尽意菩萨白佛言：「世尊！我今当供养观世音菩萨。」即解颈众宝珠、璎珞，价直百千两金，而以与之，作是言：「仁者！受此法施珍宝璎珞。」时观世音菩萨不肯受之。无尽意复白观世音菩萨言：「仁者！愍我等故，受此璎珞。」",
+      "speechText": "无尽意菩萨白佛言：「世尊！我今当供养观世音菩萨。」即解颈众宝珠、璎珞，价直百千两金，而以与之，作是言：「仁者！受此法施珍宝璎珞。」时观世音菩萨不肯受之。无尽意复白观世音菩萨言：「仁者！愍我等故，受此璎珞。」",
+      "textHash": "6f6a744104cf1fd22d578d539938ffc19baaf94bf647f4b9dc044062d031ba5b",
+      "audio": "audio/pumen_pin/0815d8b3bd856551.mp3",
+      "audioHash": "83735cf9c3cdd468219c8803933273a9db39e1a13e4e4eea131649ff559cf939",
+      "bytes": 167328
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 18,
+      "text": "尔时佛告观世音菩萨：「当愍此无尽意菩萨及四众，天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等故，受是璎珞。」",
+      "speechText": "尔时佛告观世音菩萨：「当愍此无尽意菩萨及四众，天、龙、夜叉、干闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等故，受是璎珞。」",
+      "textHash": "baa3158c51b0bc99dc05ab357c7db3cadd4dc6519140b03b769abb08a009bd0c",
+      "audio": "audio/pumen_pin/ca88e8cf49676ada.mp3",
+      "audioHash": "78db4859592c06dc94efb4d7afb2002b094202d01534d20ae96bfff6735be5be",
+      "bytes": 101808
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 19,
+      "text": "即时观世音菩萨愍诸四众，及于天、龙、人非人等，受其璎珞，分作二分，一分奉释迦牟尼佛，一分奉多宝佛塔。",
+      "speechText": "即时观世音菩萨愍诸四众，及于天、龙、人非人等，受其璎珞，分作二分，一分奉释迦牟尼佛，一分奉多宝佛塔。",
+      "textHash": "7851c6edaa2a5daaf4cb45f620ad85660977828408bf5c5681731348da155069",
+      "audio": "audio/pumen_pin/a0c8c7336d9f5b4e.mp3",
+      "audioHash": "21dad5db0960407346de77508c177d8d514cbc320f75d124b25c1ff7916aad32",
+      "bytes": 81504
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 20,
+      "text": "「无尽意！观世音菩萨有如是自在神力，游于娑婆世界。」",
+      "speechText": "「无尽意！观世音菩萨有如是自在神力，游于娑婆世界。」",
+      "textHash": "1d374b533e45b556981891bd8d4781f3e1ac5c53cd71034761f7899045ef86eb",
+      "audio": "audio/pumen_pin/a9341bab88621fbe.mp3",
+      "audioHash": "0e5523f62f595b454bd4abf118327b8390c72d44b50adeac2715570fd626fd55",
+      "bytes": 43056
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 21,
+      "text": "尔时无尽意菩萨以偈问曰：",
+      "speechText": "尔时无尽意菩萨以偈问曰：",
+      "textHash": "88c248bfcd612f48d46b7521d957dd2dd4f4300d56d1f3cb0f1002661635b215",
+      "audio": "audio/pumen_pin/5951033e248c00f1.mp3",
+      "audioHash": "9747d6eb111d03518ca43baf3783d20979e0632bc03220a27af00361a9e163f8",
+      "bytes": 20016
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 22,
+      "text": "「世尊妙相具，我今重问彼，佛子何因缘，名为观世音？具足妙相尊，偈答无尽意：『汝听观音行，善应诸方所，弘誓深如海，历劫不思议，侍多千亿佛，发大清净愿。我为汝略说，闻名及见身，心念不空过，能灭诸有苦。假使兴害意，推落大火坑，念彼观音力，火坑变成池。或漂流巨海，龙鱼诸鬼难，念彼观音力，波浪不能没。",
+      "speechText": "「世尊妙相具，我今重问彼，佛子何因缘，名为观世音？具足妙相尊，偈答无尽意：『汝听观音行，善应诸方所，弘誓深如海，历劫不思议，侍多千亿佛，发大清净愿。我为汝略说，闻名及见身，心念不空过，能灭诸有苦。假使兴害意，推落大火坑，念彼观音力，火坑变成池。或漂流巨海，龙鱼诸鬼难，念彼观音力，波浪不能没。",
+      "textHash": "afea5dff46d7a525c8ac56281446e951a59d29bec14cd5064f3a48ef8ec68e4b",
+      "audio": "audio/pumen_pin/87e7ab64c6aaf1e2.mp3",
+      "audioHash": "70f4f5bf5da5b0d6a4c40b43356fbac88d2db4fccde7388f4faeb0bc27d4e388",
+      "bytes": 242064
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 23,
+      "text": "或在须弥峰，为人所推堕，念彼观音力，如日虚空住。或被恶人逐，堕落金刚山，念彼观音力，不能损一毛。或值怨贼绕，各执刀加害，念彼观音力，咸即起慈心。或遭王难苦，临刑欲寿终，念彼观音力，刀寻段段坏。或囚禁枷锁，手足被杻械，念彼观音力，释然得解脱。呪诅诸毒药，所欲害身者，念彼观音力，还著于本人。",
+      "speechText": "或在须弥峰，为人所推堕，念彼观音力，如日虚空住。或被恶人逐，堕落金刚山，念彼观音力，不能损一毛。或值怨贼绕，各执刀加害，念彼观音力，咸即起慈心。或遭王难苦，临刑欲寿终，念彼观音力，刀寻段段坏。或囚禁枷锁，手足被杻械，念彼观音力，释然得解脱。呪诅诸毒药，所欲害身者，念彼观音力，还著于本人。",
+      "textHash": "7a4b71d61fa05d9e7e778f9a12beec07437fc499370bda94805932adb93be848",
+      "audio": "audio/pumen_pin/19b2334baecf695b.mp3",
+      "audioHash": "c99dc5006da9b3d17b223ab7065ab9ef9cf8c7c1f8bb58e41509a162317c7331",
+      "bytes": 241344
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 24,
+      "text": "或遇恶罗刹、毒龙诸鬼等，念彼观音力，时悉不敢害。若恶兽围遶，利牙爪可怖，念彼观音力，疾走无边方。蚖蛇及蝮蝎，气毒烟火燃，念彼观音力，寻声自回去。云雷鼓掣电，降雹澍大雨，念彼观音力，应时得消散。众生被困厄，无量苦逼身，观音妙智力，能救世间苦。具足神通力，广修智方便，十方诸国土，无刹不现身。",
+      "speechText": "或遇恶罗刹、毒龙诸鬼等，念彼观音力，时悉不敢害。若恶兽围遶，利牙爪可怖，念彼观音力，疾走无边方。蚖蛇及蝮蝎，气毒烟火燃，念彼观音力，寻声自回去。云雷鼓掣电，降雹澍大雨，念彼观音力，应时得消散。众生被困厄，无量苦逼身，观音妙智力，能救世间苦。具足神通力，广修智方便，十方诸国土，无岔不现身。",
+      "textHash": "c03eca0e0ee63a8a69ece1377225df0940e920941245d54db34ba1ff5d97b935",
+      "audio": "audio/pumen_pin/255167bb1b1c1b3a.mp3",
+      "audioHash": "53bc5e0025474c94855a65faa8295e45af1c52758e8d0154276b736508b090ab",
+      "bytes": 243360
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 25,
+      "text": "种种诸恶趣，地狱鬼畜生，生老病死苦，以渐悉令灭。真观清净观，广大智慧观，悲观及慈观，常愿常瞻仰。无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。悲体戒雷震，慈意妙大云，澍甘露法雨，灭除烦恼焰。诤讼经官处，怖畏军阵中，念彼观音力，众怨悉退散。妙音观世音，梵音海潮音，胜彼世间音，是故须常念，念念勿生疑。",
+      "speechText": "种种诸恶趣，地狱鬼畜生，生老病死苦，以渐悉令灭。真观清净观，广大智慧观，悲观及慈观，常愿常瞻仰。无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。悲体戒雷震，慈意妙大云，澍甘露法雨，灭除烦恼焰。诤讼经官处，怖畏军阵中，念彼观音力，众怨悉退散。妙音观世音，梵音海潮音，胜彼世间音，是故须常念，念念勿生疑。",
+      "textHash": "7694e13d2d9df7976a8d2bd4da56b9d6cc7b85aba2974f44d6b8d1699ff97393",
+      "audio": "audio/pumen_pin/a6282eef158445c5.mp3",
+      "audioHash": "12154de991d083b2eecc293833710eb749ca55123bd4f0b084ea7521b2cf3d3b",
+      "bytes": 255168
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 26,
+      "text": "观世音净圣，于苦恼死厄，能为作依怙，具一切功德，慈眼视众生，福聚海无量，是故应顶礼。』」",
+      "speechText": "观世音净圣，于苦恼死厄，能为作依怙，具一切功德，慈眼视众生，福聚海无量，是故应顶礼。』」",
+      "textHash": "8813be8e03031a762451d0a9e49ec393d64cf3b4fdc95c92eef962197d334d22",
+      "audio": "audio/pumen_pin/f7f778e1d7b7f698.mp3",
+      "audioHash": "a51bcfb86d1fb1d06207481bac618a7189adbd2cfdca11bf6be11db25f998229",
+      "bytes": 69696
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 27,
+      "text": "尔时持地菩萨即从座起，前白佛言：「世尊！若有众生闻是观世音菩萨品自在之业、普门示现神通力者，当知是人功德不少。」",
+      "speechText": "尔时持地菩萨即从座起，前白佛言：「世尊！若有众生闻是观世音菩萨品自在之业、普门示现神通力者，当知是人功德不少。」",
+      "textHash": "f32cc478e1a846fa18abdd31638e8047bcb85a12bd80ed8397b9109ec204bfeb",
+      "audio": "audio/pumen_pin/61512a6816bbff4f.mp3",
+      "audioHash": "4ea35e75ff7648be6db8b02e0098a2864295a749dfe45b9aaff1e2d278a4256c",
+      "bytes": 91152
+    },
+    {
+      "sutra": "pumen_pin",
+      "index": 28,
+      "text": "佛说是普门品时，众中八万四千众生，皆发无等等阿耨多罗三藐三菩提心。",
+      "speechText": "佛说是普门品时，众中八万四千众生，皆发无等等阿耨多罗三藐三菩提心。",
+      "textHash": "1c960e24e2b6e1b8e47a9b49ff5fc44e7424adcfe9f1dc563455fe1dcf6b8e83",
+      "audio": "audio/pumen_pin/73aad74159f68221.mp3",
+      "audioHash": "0201f65eb1d917c0f44453faaa313aacb323d8ec3d2aba2e16a180d8a4b6bbf7",
+      "bytes": 55872
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 0,
+      "text": "如是我闻：",
+      "speechText": "如是我闻：",
+      "textHash": "9a1293af00cb89af248120626b7a7c9c3668228f9c414ba661f597f251438639",
+      "audio": "audio/amituo_sutra/4f2ddb2f150a6f37.mp3",
+      "audioHash": "219dfc684f5d7b57b16b6fe1f85c4b7f2eda3e3b1be4163e444af7fc0122f5cf",
+      "bytes": 11376
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 1,
+      "text": "一时，佛在舍卫国祇树给孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+      "speechText": "一时，佛在设卫国其树几孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+      "textHash": "5e6e2ac055ec74c0d6ed78dfcd3e6900cf30c9b9065825f4e015dadb12a11b24",
+      "audio": "audio/amituo_sutra/18ed7fad85b9c9a7.mp3",
+      "audioHash": "5db2c5921349b5c751af820b0c2754da3318b7d039518750c22ced80b7fe1575",
+      "bytes": 65808
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 2,
+      "text": "长老舍利弗、摩诃目干连、摩诃迦叶、摩诃迦栴延、摩诃拘𫄨罗、离婆多、周梨槃陀迦、难陀、阿难陀、罗睺罗、憍梵波提、宾头卢颇罗堕、迦留陀夷、摩诃劫宾那、薄俱罗、阿㝹楼驮，如是等诸大弟子，并诸菩萨摩诃萨——文殊师利法王子、阿逸多菩萨、干陀诃提菩萨、常精进菩萨——与如是等诸大菩萨，及释提桓因等无量诸天大众俱。",
+      "speechText": "长老舍利弗、摩喝目干连、摩喝迦摄、摩喝迦栴延、摩喝拘𫄨罗、离婆多、周梨槃陀迦、难陀、阿难陀、罗睺罗、憍梵波提、宾头卢颇罗堕、迦留陀夷、摩喝劫宾那、薄俱罗、阿㝹楼驮，如是等诸大弟子，并诸菩萨摩喝萨——文殊师利法王子、阿逸多菩萨、干陀喝提菩萨、常精进菩萨——与如是等诸大菩萨，及释提桓因等无量诸天大众俱。",
+      "textHash": "631d3681edd152307939c9d917283e1088bc848abd255eb98dcff2d8ae1e8dd5",
+      "audio": "audio/amituo_sutra/6a53a7864c7138c0.mp3",
+      "audioHash": "63690edb66e2f302119a985817e52ef14bbe9dde322aaca88b0bc0cb5739bb47",
+      "bytes": 239472
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 3,
+      "text": "尔时，佛告长老舍利弗：",
+      "speechText": "尔时，佛告长老舍利弗：",
+      "textHash": "38fa3b900dd3f0d08bd4b969cc1d7e8d71bb80b6233b5f54de37212783bbc970",
+      "audio": "audio/amituo_sutra/10ecbb9789654d82.mp3",
+      "audioHash": "2bbfaed68b00cc4b60da04ea9c13418d90d46c5c4183398d9c1dfb3ae0bd6253",
+      "bytes": 21456
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 4,
+      "text": "「从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。舍利弗！彼土何故名为极乐？其国众生无有众苦，但受诸乐，故名极乐。又舍利弗！极乐国土，七重栏楯、七重罗网、七重行树，皆是四宝周匝围绕，是故彼国名曰极乐。",
+      "speechText": "「从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。舍利弗！彼土何故名为极乐？其国众生无有众苦，但受诸乐，故名极乐。又舍利弗！极乐国土，七重栏楯、七重罗网、七重行树，皆是四宝周匝围绕，是故彼国名曰极乐。",
+      "textHash": "1a251450bdb4ac6dcdcc0f9146ebac4ea3d51dac584a952cb121f5cfb08aac75",
+      "audio": "audio/amituo_sutra/17711bef3d756783.mp3",
+      "audioHash": "ebd97a6e831c789a69dd12718934c4fd676945b56315498da29765cd1a9c93d4",
+      "bytes": 195840
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 5,
+      "text": "「又舍利弗！极乐国土有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、颇梨合成；上有楼阁，亦以金、银、琉璃、颇梨、车𤦲、赤珠、马瑙而严饰之。池中莲花，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。舍利弗！极乐国土成就如是功德庄严。",
+      "speechText": "「又舍利弗！极乐国土有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、颇梨合成；上有楼阁，亦以金、银、琉璃、颇梨、车渠、赤珠、马瑙而严饰之。池中莲花，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。舍利弗！极乐国土成就如是功德庄严。",
+      "textHash": "70bcd180d1e6c06c211644a5c8983cbdd4df058933b7d515d23828550b5dd10a",
+      "audio": "audio/amituo_sutra/de8337fd61ba447b.mp3",
+      "audioHash": "04c8fa884294c0be2f8f7e3bd96dad23a7962e75ad5ba1d445260922a1a18db0",
+      "bytes": 238608
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 6,
+      "text": "「又舍利弗！彼佛国土，常作天乐，黄金为地，昼夜六时，天雨曼陀罗华。其国众生，常以清旦，各以衣裓盛众妙华，供养他方十万亿佛；即以食时，还到本国，饭食经行。舍利弗！极乐国土成就如是功德庄严。",
+      "speechText": "「又舍利弗！彼佛国土，常作天月，黄金为地，昼夜六时，天雨曼陀罗华。其国众生，常以清旦，各以衣裓盛众妙华，供养他方十万亿佛；即以食时，还到本国，饭食经行。舍利弗！极乐国土成就如是功德庄严。",
+      "textHash": "716148c5092cf233331d7eb53ef0977d27d64e8f9ba868778f4d554c4296766f",
+      "audio": "audio/amituo_sutra/4cb496e30d163b64.mp3",
+      "audioHash": "e9cba59e10aaaff80a4488ea801fd777a6406188f550325e5604581166908d96",
+      "bytes": 165600
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 7,
+      "text": "「复次舍利弗！彼国常有种种奇妙杂色之鸟——白鹄、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时出和雅音，其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。舍利弗！汝勿谓此鸟实是罪报所生。所以者何？彼佛国土无三恶趣。舍利弗！",
+      "speechText": "「复次舍利弗！彼国常有种种奇妙杂色之鸟——白鹄、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时出和雅音，其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。舍利弗！汝勿谓此鸟实是罪报所生。所以者何？彼佛国土无三恶趣。舍利弗！",
+      "textHash": "71029b4d4e533238b399d02da6d4d6362490208d7a983cd84f95e4b9ffba9c21",
+      "audio": "audio/amituo_sutra/e5523ebde6f45ca4.mp3",
+      "audioHash": "b9d6509df0638cb7a3c20ddd6ac4d2c7820c2cffc8e5ac5b85c12ecb4fe59177",
+      "bytes": 244800
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 8,
+      "text": "其佛国土尚无三恶道之名，何况有实？是诸众鸟，皆是阿弥陀佛欲令法音宣流，变化所作。舍利弗！彼佛国土微风吹动，诸宝行树及宝罗网出微妙音，譬如百千种乐同时俱作，闻是音者，皆自然生念佛、念法、念僧之心。舍利弗！其佛国土成就如是功德庄严。",
+      "speechText": "其佛国土尚无三恶道之名，何况有实？是诸众鸟，皆是阿弥陀佛欲令法音宣流，变化所作。舍利弗！彼佛国土微风吹动，诸宝行树及宝罗网出微妙音，譬如百千种乐同时俱作，闻是音者，皆自然生念佛、念法、念僧之心。舍利弗！其佛国土成就如是功德庄严。",
+      "textHash": "9b7073911bb309a6e4c832fb89f74614ef1121f9c2f20e1bf58a1ceb533a35a0",
+      "audio": "audio/amituo_sutra/2216ffa35bda1968.mp3",
+      "audioHash": "14f5b1b6f42ff098999442066443990c7bd352be8eb781a155e002d3d4d7b37e",
+      "bytes": 205056
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 9,
+      "text": "「舍利弗！于汝意云何？彼佛何故号阿弥陀？舍利弗！彼佛光明无量，照十方国无所障碍，是故号为阿弥陀。又舍利弗！彼佛寿命及其人民，无量无边阿僧祇劫，故名阿弥陀。舍利弗！阿弥陀佛成佛已来，于今十劫。又舍利弗！彼佛有无量无边声闻弟子，皆阿罗汉，非是算数之所能知；诸菩萨，亦复如是。舍利弗！",
+      "speechText": "「舍利弗！于汝意云何？彼佛何故号阿弥陀？舍利弗！彼佛光明无量，照十方国无所障碍，是故号为阿弥陀。又舍利弗！彼佛寿命及其人民，无量无边阿僧其劫，故名阿弥陀。舍利弗！阿弥陀佛成佛已来，于今十劫。又舍利弗！彼佛有无量无边声闻弟子，皆阿罗汉，非是算数之所能知；诸菩萨，亦复如是。舍利弗！",
+      "textHash": "2a63f0c600f470d43521dc9ec2fa19d3ed1dec317eb1244486579b1034cee717",
+      "audio": "audio/amituo_sutra/f46c3b76b61afeda.mp3",
+      "audioHash": "7c57569f0448a1a95a7410a7cec76cf03332f32eb33706878d915c15269e90b5",
+      "bytes": 259488
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 10,
+      "text": "彼佛国土成就如是功德庄严。",
+      "speechText": "彼佛国土成就如是功德庄严。",
+      "textHash": "e8e4989647d1101c89aabe35c33b577fd0fc7517a84f9aa2ae8d320f05c56d35",
+      "audio": "audio/amituo_sutra/50f8f49019e88588.mp3",
+      "audioHash": "3d1d66f3b1a901fd881e778de53916ef506339f133a30997dad585c3029d90fe",
+      "bytes": 24192
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 11,
+      "text": "「又舍利弗！极乐国土众生生者，皆是阿鞞跋致。其中多有一生补处，其数甚多，非是算数所能知之，但可以无量无边阿僧祇劫说。舍利弗！众生闻者，应当发愿，愿生彼国。所以者何？得与如是诸上善人俱会一处。",
+      "speechText": "「又舍利弗！极乐国土众生生者，皆是阿鞞跋致。其中多有一生补处，其数甚多，非是算数所能知之，但可以无量无边阿僧其劫说。舍利弗！众生闻者，应当发愿，愿生彼国。所以者何？得与如是诸上善人俱会一处。",
+      "textHash": "4f5d299e8c694b706a5247897ff66cc8913783224cc6fc63eb474685b0d1e03a",
+      "audio": "audio/amituo_sutra/a2c3acfbe8c34c3a.mp3",
+      "audioHash": "f7bd5f86463033d52df5c47c7ae981cecd4c3a9be63ade42f1ffc7682db93d68",
+      "bytes": 166032
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 12,
+      "text": "「舍利弗！不可以少善根福德因缘得生彼国。舍利弗！若有善男子、善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众，现在其前。是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。舍利弗！我见是利，故说此言。",
+      "speechText": "「舍利弗！不可以少善根福德因缘得生彼国。舍利弗！若有善男子、善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众，现在其前。是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。舍利弗！我见是利，故说此言。",
+      "textHash": "5bbe77be7a15e6356b3631778d06fd9344aa4655e87550b3807e1fdafe09f998",
+      "audio": "audio/amituo_sutra/b437b20602f66898.mp3",
+      "audioHash": "83833199214b41d0c6f58817b3d1ef4b7639ee07d6e84351e283da4a7bb69056",
+      "bytes": 243360
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 13,
+      "text": "若有众生闻是说者，应当发愿生彼国土。",
+      "speechText": "若有众生闻是说者，应当发愿生彼国土。",
+      "textHash": "31a014bfab5e13040c78663569c8ce1618316c76fc02dc443a20280670538dab",
+      "audio": "audio/amituo_sutra/9f3a6feab17a1870.mp3",
+      "audioHash": "b3c3f2ebf61ec6736c54a568826bb5cd4c888b11983e29dc2a704a0b976198cb",
+      "bytes": 30240
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 14,
+      "text": "「舍利弗！如我今者，赞叹阿弥陀佛不可思议功德；东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "speechText": "「舍利弗！如我今者，赞叹阿弥陀佛不可思议功德；东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "textHash": "683a9ebad3ef82da2fc0160354779f293fe4d079cf4c42501611e164149e87e3",
+      "audio": "audio/amituo_sutra/52b40e0686f405cc.mp3",
+      "audioHash": "af24776d2afb59dfda3ab312b3684c1487133ff57adc74848f76729be6b0483d",
+      "bytes": 185472
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 15,
+      "text": "「舍利弗！南方世界有日月灯佛、名闻光佛、大焰肩佛、须弥灯佛、无量精进佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "speechText": "「舍利弗！南方世界有日月灯佛、名闻光佛、大焰肩佛、须弥灯佛、无量精进佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "textHash": "7e6c64af167bd2f094961368c77ff1c17e5a2303e9e4d1c7afa6ad5e1ba124c6",
+      "audio": "audio/amituo_sutra/29227ed4c964744d.mp3",
+      "audioHash": "b09ba8948fe382ce4a1d8dcf2d54523d785b2bcb60fb6a3c9b753e556f61d1f2",
+      "bytes": 159552
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 16,
+      "text": "「舍利弗！西方世界有无量寿佛、无量相佛、无量幢佛、大光佛、大明佛、宝相佛、净光佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "speechText": "「舍利弗！西方世界有无量寿佛、无量相佛、无量幢佛、大光佛、大明佛、宝相佛、净光佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "textHash": "ad5e3d35215c631b2eb19403ae4d7632167d0ae8aa88f739b14d2a45e3ae775f",
+      "audio": "audio/amituo_sutra/4fc72db466a9613e.mp3",
+      "audioHash": "7841fea101fef2ee9434bc057c5ed7131382d686ca3c2434676d440d3f85f0cd",
+      "bytes": 168480
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 17,
+      "text": "「舍利弗！北方世界有焰肩佛、最胜音佛、难沮佛、日生佛、网明佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "speechText": "「舍利弗！北方世界有焰肩佛、最胜音佛、难沮佛、日生佛、网明佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "textHash": "fc6d242b4ff210af17ef42eefbe42850fbbb2738d6a8f70b0c8f36b1be645c99",
+      "audio": "audio/amituo_sutra/b016b72a81ae13f4.mp3",
+      "audioHash": "946e599e1721aa6ae50e36edb7aaa0a2eae23e9a85a2dbaa5279b5cb0b5fae40",
+      "bytes": 153792
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 18,
+      "text": "「舍利弗！下方世界有师子佛、名闻佛、名光佛、达摩佛、法幢佛、持法佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "speechText": "「舍利弗！下方世界有师子佛、名闻佛、名光佛、达摩佛、法幢佛、持法佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "textHash": "ae0bcf13721f8f2b4d9886019b58f6b87d1eb67c2538cc241402b54fa6a46b56",
+      "audio": "audio/amituo_sutra/96f921aa582d2af6.mp3",
+      "audioHash": "6b18259bd7207c5988aedae3bdb182adcc871c16df7de05ae59998129757d264",
+      "bytes": 158544
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 19,
+      "text": "「舍利弗！上方世界有梵音佛、宿王佛、香上佛、香光佛、大焰肩佛、杂色宝华严身佛、娑罗树王佛、宝华德佛、见一切义佛、如须弥山佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "speechText": "「舍利弗！上方世界有梵音佛、宿王佛、香上佛、香光佛、大焰肩佛、杂色宝华严身佛、娑罗树王佛、宝华德佛、见一切义佛、如须弥山佛，如是等恒河沙数诸佛，各于其国出广长舌相，遍覆三千大千世界，说诚实言：『汝等众生，当信是称赞不可思议功德一切诸佛所护念经。』",
+      "textHash": "b30417ddfa2f1d490695ede9e7d46aa7319ecac3a5b4fea25d3425e5ebd71a94",
+      "audio": "audio/amituo_sutra/b7647f71ae360fdd.mp3",
+      "audioHash": "860cfdc3a3058f3627829eca3abe041b18be099bc068f0075a3f224e471041c3",
+      "bytes": 202752
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 20,
+      "text": "「舍利弗！于汝意云何？何故名为『一切诸佛所护念经』？舍利弗！若有善男子、善女人，闻是经受持者，及闻诸佛名者；是诸善男子、善女人，皆为一切诸佛共所护念，皆得不退转于阿耨多罗三藐三菩提。是故舍利弗！汝等皆当信受我语及诸佛所说。",
+      "speechText": "「舍利弗！于汝意云何？何故名为『一切诸佛所护念经』？舍利弗！若有善男子、善女人，闻是经受持者，及闻诸佛名者；是诸善男子、善女人，皆为一切诸佛共所护念，皆得不退转于阿耨多罗三藐三菩提。是故舍利弗！汝等皆当信受我语及诸佛所说。",
+      "textHash": "68b03a27f73424976b3a95b8d03daa47d8278abd979cb36e67f14cbc9073be15",
+      "audio": "audio/amituo_sutra/9867c9bc57ebbad6.mp3",
+      "audioHash": "622dd85fbc6ed94bc64950f416f7500472832a7103a36f006063363cb1a04092",
+      "bytes": 195120
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 21,
+      "text": "「舍利弗！若有人已发愿、今发愿、当发愿，欲生阿弥陀佛国者；是诸人等，皆得不退转于阿耨多罗三藐三菩提，于彼国土若已生、若今生、若当生。是故舍利弗！诸善男子、善女人若有信者，应当发愿生彼国土。",
+      "speechText": "「舍利弗！若有人已发愿、今发愿、当发愿，欲生阿弥陀佛国者；是诸人等，皆得不退转于阿耨多罗三藐三菩提，于彼国土若已生、若今生、若当生。是故舍利弗！诸善男子、善女人若有信者，应当发愿生彼国土。",
+      "textHash": "0a3d17ac2953f75224b30d2e613b051405b80b8049aee1050df775efa9e1461a",
+      "audio": "audio/amituo_sutra/d11791276dd0bfd1.mp3",
+      "audioHash": "1b70829d9e1fa493f4b73a5b4e34924481341e9b7ae623bdc3eb8de5b07fd953",
+      "bytes": 162000
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 22,
+      "text": "「舍利弗！如我今者，称赞诸佛不可思议功德；彼诸佛等，亦称说我不可思议功德，而作是言：『释迦牟尼佛能为甚难希有之事，能于娑婆国土五浊恶世，劫浊、见浊、烦恼浊、众生浊、命浊中，得阿耨多罗三藐三菩提，为诸众生说是一切世间难信之法。』舍利弗！",
+      "speechText": "「舍利弗！如我今者，称赞诸佛不可思议功德；彼诸佛等，亦称说我不可思议功德，而作是言：『释迦牟尼佛能为甚难希有之事，能于娑婆国土五浊恶世，劫浊、见浊、烦恼浊、众生浊、命浊中，得阿耨多罗三藐三菩提，为诸众生说是一切世间难信之法。』舍利弗！",
+      "textHash": "8b536fc1642bdfa57b6433fa4e78beac567eb73264abed85158c8f697291e965",
+      "audio": "audio/amituo_sutra/71ef2f8f0d1a83e4.mp3",
+      "audioHash": "a702680e445a0a4acf1e8c151041ddbaea3e1fa341b824efa22a63a9f6c89484",
+      "bytes": 187488
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 23,
+      "text": "当知我于五浊恶世行此难事，得阿耨多罗三藐三菩提，为一切世间说此难信之法，是为甚难！」",
+      "speechText": "当知我于五浊恶世行此难事，得阿耨多罗三藐三菩提，为一切世间说此难信之法，是为甚难！」",
+      "textHash": "2cadc814fce40af010b5dd807afdb3deb584dbf7bca5a708c065973b32ca7270",
+      "audio": "audio/amituo_sutra/c84fbc7df0f902c6.mp3",
+      "audioHash": "5923445f204406465d1ac5ca210c278dffdc0b97634f0af81f60f521cd846709",
+      "bytes": 66384
+    },
+    {
+      "sutra": "amituo_sutra",
+      "index": 24,
+      "text": "佛说此经已，舍利弗及诸比丘，一切世间天、人、阿修罗等，闻佛所说，欢喜信受，作礼而去。",
+      "speechText": "佛说此经已，舍利弗及诸比丘，一切世间天、人、阿修罗等，闻佛所说，欢喜信受，作礼而去。",
+      "textHash": "e73d808622c0a19a2869078f100730b20349cf0adfa15e9b7b3a80097e5a5fa0",
+      "audio": "audio/amituo_sutra/e7ac0c498f7c6f92.mp3",
+      "audioHash": "a60a6124b6b8202b88b677606ab02a1a154f5a09a8168affe190e9850813e4b6",
+      "bytes": 70848
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 0,
+      "text": "为佛弟子，常于昼夜，至心诵念，八大人觉：",
+      "speechText": "为佛弟子，常于昼夜，至心诵念，八大人觉：",
+      "textHash": "be49371df29005acfba48fd1e2c4365cc967ed906c1cb3e7c9f48032ff2ed672",
+      "audio": "audio/eight_realizations/c5b09da499be2c05.mp3",
+      "audioHash": "fe70782def2e207f2f82b94e56cb6974f228d297992257c6bc92fcc0e476abb1",
+      "bytes": 36144
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 1,
+      "text": "第一觉悟：世间无常，国土危脆；四大苦空，五阴无我；生灭变异，虚伪无主；心是恶源，形为罪薮。如是观察，渐离生死。",
+      "speechText": "第一觉悟：世间无常，国土危脆；四大苦空，五阴无我；生灭变异，虚伪无主；心是恶源，形为罪薮。如是观察，渐离生死。",
+      "textHash": "8751c19b2861aa21a2180bafd4a432e22a01b91adcd14fae76f653ef4da4a486",
+      "audio": "audio/eight_realizations/2fdf556b565d8141.mp3",
+      "audioHash": "66b700c2b00f8651baeb4a2c86c0c9f1d517b9a9b17e800f987689b89093ffb2",
+      "bytes": 96912
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 2,
+      "text": "第二觉知：多欲为苦，生死疲劳，从贪欲起；少欲无为，身心自在。",
+      "speechText": "第二觉知：多欲为苦，生死疲劳，从贪欲起；少欲无为，身心自在。",
+      "textHash": "eb3fefaacca5f37a332a7f7cd97090d30c2393f2a69aa9717b35fe87e6333262",
+      "audio": "audio/eight_realizations/9f028721889709d1.mp3",
+      "audioHash": "71fa7dc67fd01bcf6d37cd6d63dc84bc8bc06fe6229e365dfddff0af39b6d832",
+      "bytes": 52128
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 3,
+      "text": "第三觉知：心无厌足，唯得多求，增长罪恶；菩萨不尔，常念知足，安贫守道，唯慧是业。",
+      "speechText": "第三觉知：心无厌足，唯得多求，增长罪恶；菩萨不尔，常念知足，安贫守道，唯慧是业。",
+      "textHash": "584c45216d621b22c574eb23df46443df7018666c1a51e02188450280b2e76f0",
+      "audio": "audio/eight_realizations/7545b113311d1b82.mp3",
+      "audioHash": "1f0214746097626603945dcb1b6dc8159c76af9aeefc13e2d118fae062094e07",
+      "bytes": 69840
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 4,
+      "text": "第四觉知：懈怠坠落；常行精进，破烦恼恶，摧伏四魔，出阴界狱。",
+      "speechText": "第四觉知：懈怠坠落；常行精进，破烦恼恶，摧伏四魔，出阴界狱。",
+      "textHash": "d9e61a341af265c5039700c9239e8be29b40799681bbed48ba8166b0c6c501c3",
+      "audio": "audio/eight_realizations/a2d2a296635cbb6d.mp3",
+      "audioHash": "1b2fadbe772e4b49303216ce910cd075922667cb2500702be2a6266ce193dbc2",
+      "bytes": 53280
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 5,
+      "text": "第五觉悟：愚痴生死。菩萨常念，广学多闻，增长智慧，成就辩才，教化一切，悉以大乐。",
+      "speechText": "第五觉悟：愚痴生死。菩萨常念，广学多闻，增长智慧，成就辩才，教化一切，悉以大乐。",
+      "textHash": "cdb2c0cb654f534d7779b3b4a2b51faa4fbaa124d109ed99984338589217f2bf",
+      "audio": "audio/eight_realizations/0229121c7c0294f5.mp3",
+      "audioHash": "fbc75ff462773170034839984fd4d969726a3ad2f5526e0991e45d963ce2b0ed",
+      "bytes": 70560
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 6,
+      "text": "第六觉知：贫苦多怨，横结恶缘。菩萨布施，等念冤亲，不念旧恶，不憎恶人。",
+      "speechText": "第六觉知：贫苦多怨，横结恶缘。菩萨布施，等念冤亲，不念旧恶，不憎饿人。",
+      "textHash": "b797cfdc232a1e4e7e939298fc130a766c1c1aafbb080177ac0f824b14c8a5fb",
+      "audio": "audio/eight_realizations/76f994da67d18d97.mp3",
+      "audioHash": "8b56617a85ef63ea24474f71ea3bae5f9410b8c657b1b9be20a9a81e47101d20",
+      "bytes": 62640
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 7,
+      "text": "第七觉悟：五欲过患。虽为俗人，不染世乐；常念三衣，瓦钵法器；志愿出家，守道清白；梵行高远，慈悲一切。",
+      "speechText": "第七觉悟：五欲过患。虽为俗人，不染世乐；常念三衣，瓦钵法器；志愿出家，守道清白；梵行高远，慈悲一切。",
+      "textHash": "868ba2f8cf58cc0a65a798d166a76e2c7a86b6987a3021bab551fbd61c227c3b",
+      "audio": "audio/eight_realizations/75a65d59be70919f.mp3",
+      "audioHash": "641e553c2c9900e64c5cd3312122ec707a9488daa99fd220f64abcd5a94b3d72",
+      "bytes": 87696
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 8,
+      "text": "第八觉知：生死炽然，苦恼无量。发大乘心，普济一切；愿代众生，受无量苦；令诸众生，毕竟大乐。",
+      "speechText": "第八觉知：生死炽然，苦恼无量。发大胜心，普济一切；愿代众生，受无量苦；令诸众生，毕竟大乐。",
+      "textHash": "e95e4ea4514c0831c62974e6621d93060f898afbf78fd2fe1331a102ab26137b",
+      "audio": "audio/eight_realizations/61b154c30dc49026.mp3",
+      "audioHash": "949921019f929ad498b6f4014b28f636a25308ad5775fbf46f60d256d8b56e2d",
+      "bytes": 80784
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 9,
+      "text": "如此八事，乃是诸佛菩萨大人之所觉悟。精进行道，慈悲修慧，乘法身船，至涅槃岸；复还生死，度脱众生。以前八事，开导一切，令诸众生，觉生死苦，舍离五欲，修心圣道。",
+      "speechText": "如此八事，乃是诸佛菩萨大人之所觉悟。精进行道，慈悲修慧，乘法身船，至涅槃岸；复还生死，度脱众生。以前八事，开导一切，令诸众生，觉生死苦，舍离五欲，修心圣道。",
+      "textHash": "54273416c2e8c3beb2f33ed317ae61d2d033572324f4c52919260ac9565f6f0e",
+      "audio": "audio/eight_realizations/7f6f2f2a7fb453d2.mp3",
+      "audioHash": "32ea29431744a8fdd67aa0b589335d6ba07614144f4ef606a5d2e21d268a5996",
+      "bytes": 134928
+    },
+    {
+      "sutra": "eight_realizations",
+      "index": 10,
+      "text": "若佛弟子，诵此八事，于念念中，灭无量罪；进趣菩提，速登正觉；永断生死，常住快乐。",
+      "speechText": "若佛弟子，诵此八事，于念念中，灭无量罪；进趣菩提，速登正觉；永断生死，常住快乐。",
+      "textHash": "9da868cc6943636e253930ceb08cd3ddad28694bb23f0ce15606fbf950252b05",
+      "audio": "audio/eight_realizations/3adfe45f1cbb2b33.mp3",
+      "audioHash": "ef4d40bf4555d1d7920bf35cd7889029be236516a585d6caa32ef7d3ccb6c5ed",
+      "bytes": 70560
+    }
+  ]
+}

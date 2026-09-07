@@ -1,0 +1,53 @@
+{
+  "corpus": [
+    {
+      "id": "heart_sutra",
+      "title": "般若波罗蜜多心经",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T08n0251",
+      "paragraphs": 7,
+      "characters": 260
+    },
+    {
+      "id": "diamond_sutra",
+      "title": "金刚般若波罗蜜经",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T08n0235",
+      "paragraphs": 131,
+      "characters": 5129
+    },
+    {
+      "id": "dabei_mantra",
+      "title": "大悲心陀罗尼",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T20n1060",
+      "paragraphs": 14,
+      "characters": 410
+    },
+    {
+      "id": "pumen_pin",
+      "title": "妙法莲华经·观世音菩萨普门品第二十五",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T09n0262",
+      "paragraphs": 29,
+      "characters": 2062
+    },
+    {
+      "id": "amituo_sutra",
+      "title": "佛说阿弥陀经",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T12n0366",
+      "paragraphs": 25,
+      "characters": 1857
+    },
+    {
+      "id": "eight_realizations",
+      "title": "佛说八大人觉经",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T17n0779",
+      "paragraphs": 11,
+      "characters": 372
+    }
+  ],
+  "audioFiles": 215,
+  "audioSeconds": 3583.27,
+  "sourceTextMatches": true,
+  "pinyinAligned": true,
+  "audioHashesMatch": true,
+  "allAudioDecodes": true,
+  "note": "Programmatic completeness and audio integrity checks; ASR spot checks are diagnostic, not a human pronunciation review."
+}
