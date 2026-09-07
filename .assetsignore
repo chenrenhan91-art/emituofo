@@ -3,6 +3,7 @@
 **/.DS_Store
 voices/*.onnx
 scripts/
+research/
 node_modules
 .github
 wrangler.jsonc

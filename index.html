@@ -258,7 +258,21 @@
       color: var(--text-dim);
       font-size: 12px;
       white-space: nowrap;
+      flex-shrink: 0;
     }
+    .chapter-nav { display: flex; align-items: center; gap: 8px; margin: 0 0 10px; }
+    .chapter-nav[hidden] { display: none; }
+    .chapter-nav select { flex: 1; min-width: 0; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-soft); color: var(--text); padding: 10px; font: inherit; font-size: 13px; }
+    .chapter-nav button { padding: 10px 6px; color: var(--gold-deep); white-space: nowrap; font-size: 12px; }
+    .chapter-nav button:disabled { opacity: .3; }
+    .study-intro { margin: 2px 0 12px; padding: 12px 0; border-bottom: 1px solid var(--line); color: var(--text-dim); font-size: 13px; line-height: 1.9; }
+    .study-intro summary { cursor: pointer; color: var(--gold-deep); }
+    .study-intro h2 { font-size: 16px; font-weight: 500; color: var(--text); margin: 8px 0; }
+    .verse-meaning { cursor: text; }
+    .verse-meaning .note-label { display: block; color: var(--gold-deep); font-size: 11px; margin-bottom: 4px; }
+    .verse-meaning p { margin: 3px 0; }
+    .note-terms { color: var(--text-faint); font-size: 12px; }
+    .study-source { color: var(--gold-deep); font-size: 11px; }
     .read-title {
       font-family: var(--font-serif);
       font-size: 22px;
@@ -810,6 +824,11 @@
           </div>
         </div>
         <div class="pills" id="sutra-pills"></div>
+        <div class="chapter-nav" id="chapter-nav" hidden>
+          <button id="chapter-prev" type="button" aria-label="上一品">上一品</button>
+          <select id="chapter-select" aria-label="选择经文章节"></select>
+          <button id="chapter-next" type="button" aria-label="下一品">下一品</button>
+        </div>
       </div>
       <div class="verse-list fs-1" id="verse-list"></div>
       <div class="read-dock">
@@ -977,6 +996,7 @@
       <div class="grab"></div>
       <h3>读经</h3>
       <div class="setting-row">拼音标注<button class="toggle" id="tog-pinyin" type="button"><i></i></button></div>
+      <div class="setting-row">白话注释<button class="toggle is-on" id="tog-meaning" type="button" aria-label="显示白话注释"><i></i></button></div>
       <div class="setting-row">语速
         <div class="seg" id="seg-rate">
           <button type="button" data-rate="0.7">慢</button>
@@ -998,9 +1018,9 @@
 
   <div class="toast" id="toast"></div>
 
-  <script src="data/sutras.js?v=cbeta-c827f963f437"></script>
+  <script src="data/sutras.js?v=cbeta-837a15ff0c4d"></script>
   <script>
-    const CORPUS_VERSION = "cbeta-c827f963f437";
+    const CORPUS_VERSION = "cbeta-837a15ff0c4d";
     const ACHIEVEMENTS = [
       { id: "first", mark: "初", title: "初诵", desc: "完成第一遍", test: (s) => s.totalCount >= 1 },
       { id: "dedicate", mark: "向", title: "回向", desc: "完成一次回向", test: (s) => s.hasDedicated },
@@ -1034,6 +1054,7 @@
     const S = {
       view: "home",
       sutra: 0,
+      chapter: 0,
       sessionCount: 0,
       todayCount: 0,
       totalCount: 0,
@@ -1186,6 +1207,7 @@
         corpusVersion: CORPUS_VERSION,
         savedAt: Date.now(),
         sutra: S.sutra,
+        chapter: S.chapter,
         sessionCount: S.sessionCount,
         todayCount: S.todayCount,
         totalCount: S.totalCount,
@@ -1216,6 +1238,7 @@
       if (!data || typeof data !== "object") return;
       S.lastRead = null;
       S.sutra = Math.max(0, Math.min(SUTRA_DATABASE.length - 1, Math.round(asNum(data.sutra, S.sutra))));
+      S.chapter = data.corpusVersion === CORPUS_VERSION ? Math.max(0, Math.min((SUTRA_DATABASE[S.sutra].chapters?.length || 1) - 1, Math.round(asNum(data.chapter, 0)))) : 0;
       S.sessionCount = Math.max(0, asNum(data.sessionCount, S.sessionCount));
       S.todayCount = Math.max(0, asNum(data.todayCount, S.todayCount));
       S.totalCount = Math.max(0, asNum(data.totalCount, S.totalCount));
@@ -1509,8 +1532,12 @@
       save();
     }
     function openRead() {
-      showView("read");
       const last = S.lastRead;
+      if (last && last.sutra === S.sutra) {
+        S.chapter = chapterForVerse(SUTRA_DATABASE[S.sutra], last.verse);
+        renderSutra();
+      }
+      showView("read");
       if (!last || last.sutra !== S.sutra) return;
       requestAnimationFrame(() => {
         const el = $("verse-" + last.verse);
@@ -1558,19 +1585,47 @@
       return Array.from(v.text).map((char, i) => /\p{Script=Han}/u.test(char)
         ? `<ruby>${char}<rt>${sounds[i]}</rt></ruby>` : char).join("");
     }
+    function escapeText(value) {
+      return String(value || "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    }
+    function chapterForVerse(s, i) {
+      return Math.max(0, (s.chapters || []).findIndex((ch) => i >= ch.start && i < ch.end));
+    }
+    function selectChapter(index) {
+      const s = SUTRA_DATABASE[S.sutra];
+      stopSpeech();
+      S.chapter = Math.max(0, Math.min(s.chapters.length - 1, index));
+      renderSutra();
+      $("verse-list").scrollTop = 0;
+      save();
+    }
     function renderSutra() {
       const s = SUTRA_DATABASE[S.sutra];
+      const chapters = s.chapters || [{title:"全文",start:0,end:s.verses.length}];
+      S.chapter = Math.max(0, Math.min(S.chapter || 0, chapters.length - 1));
+      const ch = chapters[S.chapter];
       $("sutra-title").textContent = s.shortTitle;
       $("sutra-sub").innerHTML = `${s.translator} · ${s.category} · <a href="${s.source}" target="_blank" rel="noopener noreferrer">CBETA ${s.sourceCode}</a>`;
+      $("chapter-nav").hidden = chapters.length <= 1;
+      $("chapter-select").innerHTML = chapters.map((c, i) => `<option value="${i}"${i === S.chapter ? " selected" : ""}>${escapeText(c.title)}</option>`).join("");
+      $("chapter-prev").disabled = S.chapter === 0;
+      $("chapter-next").disabled = S.chapter === chapters.length - 1;
       const list = $("verse-list");
       list.className = "verse-list fs-" + S.fontSize;
-      list.innerHTML = s.verses.map((v, i) => `
+      const intro = S.showMeaning && s.introduction ? `<details class="study-intro"><summary>读懂《${escapeText(s.shortTitle)}》</summary><p>${escapeText(s.introduction)}</p><a class="study-source" href="${s.source}" target="_blank" rel="noopener noreferrer">对照经文底本</a></details>` : "";
+      const guide = S.showMeaning && ch.summary ? `<section class="study-intro"><h2>${escapeText(ch.title)} · 导读</h2><p>${escapeText(ch.summary)}</p></section>` : "";
+      list.innerHTML = intro + s.verses.slice(ch.start, ch.end).map((v, offset) => {
+        const i = ch.start + offset;
+        const terms = (v.terms || []).map((t) => `${escapeText(t.term)}：${escapeText(t.explanation)}`).join("<br>");
+        return `
         <article class="verse" id="verse-${i}" data-i="${i}">
           <div class="verse-text${S.showPinyin ? " with-pinyin" : ""}">${S.showPinyin ? rubyVerse(v) : v.text}</div>
-        </article>`).join("");
+          ${S.showMeaning && v.meaning ? `<div class="verse-meaning"><span class="note-label">${v.noteKind === "context" ? "段落提示" : "白话注释"}</span><p>${escapeText(v.meaning)}</p>${terms ? `<p class="note-terms">${terms}</p>` : ""}</div>` : ""}
+        </article>`;
+      }).join("") + guide + (S.showMeaning && s.studySources?.length ? `<div class="study-intro">注释为依据原文与参考资料整理的导读。<br>${s.studySources.map((ref) => `<a class="study-source" href="${ref.url}" target="_blank" rel="noopener noreferrer">${escapeText(ref.title)}</a>`).join(" · ")}</div>` : "");
       renderPills();
-      prefetchVerse(s.id, 0);
-      prefetchVerse(s.id, 1);
+      prefetchVerse(s.id, ch.start);
+      prefetchVerse(s.id, ch.start + 1);
     }
     function renderMuyu() {
       $("count-session").innerHTML = `${S.sessionCount}<em>遍</em>`;
@@ -1602,6 +1657,7 @@
     }
     function renderToggles() {
       $("tog-pinyin").classList.toggle("is-on", S.showPinyin);
+      $("tog-meaning").classList.toggle("is-on", S.showMeaning);
       document.querySelectorAll("#seg-rate button").forEach((b) => b.classList.toggle("is-on", Number(b.dataset.rate) === S.speechRate));
       document.querySelectorAll("#seg-font button").forEach((b) => b.classList.toggle("is-on", Number(b.dataset.fs) === S.fontSize));
     }
@@ -1658,6 +1714,8 @@
       return S.speechRate / 0.85;
     }
     function highlight(i) {
+      const chapter = chapterForVerse(SUTRA_DATABASE[S.sutra], i);
+      if (chapter !== S.chapter) { S.chapter = chapter; renderSutra(); }
       document.querySelectorAll(".verse").forEach((el) => el.classList.remove("is-on"));
       const el = $("verse-" + i);
       if (el) {
@@ -1749,7 +1807,7 @@
     }
     function playAll() {
       if (S.isReadingAll) { stopSpeech(); return; }
-      const start = S.readingIndex >= 0 ? S.readingIndex : 0;
+      const start = S.readingIndex >= 0 ? S.readingIndex : (SUTRA_DATABASE[S.sutra].chapters?.[S.chapter]?.start || 0);
       stopSpeech();
       S.isReadingAll = true;
       $("btn-play").textContent = "暂停";
@@ -1803,17 +1861,23 @@
         if (!btn) return;
         stopSpeech();
         S.sutra = Number(btn.dataset.i);
+        S.chapter = 0;
         save();
         renderSutra();
         homeCopy();
       });
       $("verse-list").addEventListener("click", (e) => {
+        if (e.target.closest(".verse-meaning, a, summary, details")) return;
         const verse = e.target.closest(".verse");
         if (verse) playOne(Number(verse.dataset.i));
       });
       $("btn-play").addEventListener("click", playAll);
       $("btn-finish").addEventListener("click", () => { stopSpeech(); recordRecitation(false); });
       $("btn-read-settings").addEventListener("click", () => openSheet("sheet-settings"));
+      $("chapter-select").addEventListener("change", (e) => selectChapter(Number(e.target.value)));
+      $("chapter-prev").addEventListener("click", () => selectChapter(S.chapter - 1));
+      $("chapter-next").addEventListener("click", () => selectChapter(S.chapter + 1));
+      $("tog-meaning").addEventListener("click", () => { S.showMeaning = !S.showMeaning; save(); renderSutra(); renderToggles(); });
       $("btn-muyu").addEventListener("click", hitMuyu);
       $("btn-reset-session").addEventListener("click", () => { S.sessionCount = 0; save(); renderMuyu(); toast("本次已重设。"); });
       $("select-goal").addEventListener("change", (e) => { S.targetGoal = Number(e.target.value); save(); renderMuyu(); });
@@ -1908,7 +1972,7 @@
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {
-        navigator.serviceWorker.register("./sw.js?v=cbeta-c827f963f437").catch(() => {});
+        navigator.serviceWorker.register("./sw.js?v=cbeta-837a15ff0c4d").catch(() => {});
       });
     }
   </script>

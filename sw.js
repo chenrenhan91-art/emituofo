@@ -1,8 +1,8 @@
-const CACHE = "lingtai-cbeta-c827f963f437";
+const CACHE = "lingtai-cbeta-837a15ff0c4d";
 const ASSETS = [
   "/",
   "/index.html",
-  "/data/sutras.js?v=cbeta-c827f963f437",
+  "/data/sutras.js?v=cbeta-837a15ff0c4d",
   "/manifest.webmanifest",
   "/assets/ip-waiting.jpg",
   "/assets/ip-rejoice.jpg",

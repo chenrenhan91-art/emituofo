@@ -15,10 +15,17 @@ def main():
   raw=ROOT/'sources/cbeta'/f'{s["sourceCode"]}.xml'
   assert hashlib.sha256(raw.read_bytes()).hexdigest()==s['sourceHash']
   body=E.parse(str(raw)).find('.//t:body',NS)
-  if s['id']=='pumen_pin':selected=[x for x in body.findall('cb:div',NS) if x.get('type')=='pin' and ''.join(x.itertext()).lstrip().startswith('25 ')]
+  if s['id'] in ('ksitigarbha_sutra','lotus_sutra'):selected=body.xpath('./cb:div[@type="pin"]',namespaces=NS)
+  elif s['id']=='pumen_pin':selected=[x for x in body.findall('cb:div',NS) if x.get('type')=='pin' and ''.join(x.itertext()).lstrip().startswith('25 ')]
   elif s['id']=='dabei_mantra':selected=[x for x in body.xpath('.//t:p[@cb:type="dharani"]',namespaces=NS) if '南無喝囉' in ''.join(x.itertext())]
   else:selected=body.xpath('./cb:div[@type="jing"]',namespaces=NS)
-  assert len(selected)==1
+  assert len(selected)=={'ksitigarbha_sutra':13,'lotus_sutra':28}.get(s['id'],1)
+  assert s['introduction'] and s['studySources']
+  end=0
+  for ch in s['chapters']:
+   assert ch['start']==end and ch['end']>end
+   end=ch['end']
+  assert end==len(s['verses'])
   for root in selected:
    for el in list(root.iter())[::-1]:
     if E.QName(el).localname in ('note','mulu','head','juan','byline','docNumber'):

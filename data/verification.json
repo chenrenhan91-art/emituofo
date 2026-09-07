@@ -41,10 +41,24 @@
       "source": "https://cbetaonline.dila.edu.tw/zh/T17n0779",
       "paragraphs": 11,
       "characters": 372
+    },
+    {
+      "id": "ksitigarbha_sutra",
+      "title": "地藏菩萨本愿经",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T13n0412",
+      "paragraphs": 216,
+      "characters": 16932
+    },
+    {
+      "id": "lotus_sutra",
+      "title": "妙法莲华经",
+      "source": "https://cbetaonline.dila.edu.tw/zh/T09n0262",
+      "paragraphs": 871,
+      "characters": 69284
     }
   ],
-  "audioFiles": 215,
-  "audioSeconds": 3583.27,
+  "audioFiles": 1261,
+  "audioSeconds": 32609.64,
   "sourceTextMatches": true,
   "pinyinAligned": true,
   "audioHashesMatch": true,
