@@ -10,8 +10,10 @@ cc=OpenCC('t2s')
 def han(s):return ''.join(c for c in s if '\u3400'<=c<='\u9fff' or '\U00020000'<=c<='\U000323af')
 def main():
  data=json.loads((ROOT/'data/sutras.json').read_text());manifest=json.loads((ROOT/'audio/verses.json').read_text())
+ notes=json.loads((ROOT/'sources/long_sutra_notes.json').read_text())
  records={(r['sutra'],r['index']):r for r in manifest['records']};report=[];paths=set()
  for s in data:
+  if s['id'] in notes:assert len(notes[s['id']])==len(s['verses']),('commentary count',s['id'])
   raw=ROOT/'sources/cbeta'/f'{s["sourceCode"]}.xml'
   assert hashlib.sha256(raw.read_bytes()).hexdigest()==s['sourceHash']
   body=E.parse(str(raw)).find('.//t:body',NS)
@@ -39,6 +41,9 @@ def main():
   actual=han(''.join(v['text'] for v in s['verses']))
   assert actual==expected,('source text missing/reordered',s['id'])
   for i,v in enumerate(s['verses']):
+   assert isinstance(v.get('meaning'),str) and len(v['meaning'].strip())>=15,('missing commentary',s['id'],i)
+   if s['id'] in notes:
+    assert notes[s['id']][i]=={'textHash':v['textHash'],'meaning':v['meaning']},('commentary mapping',s['id'],i)
    assert len(v['text'])==len(v['pinyin'].split()),('pinyin alignment',s['id'],i)
    assert not han(v['pinyin']),('unresolved reading',s['id'],i)
    assert v['textHash']==hashlib.sha256(v['text'].encode()).hexdigest()
@@ -46,7 +51,7 @@ def main():
    for key in ['text','speechText','textHash','audio']:assert v[key]==record[key],(key,s['id'],i)
    f=ROOT/v['audio'];assert f.stat().st_size==record['bytes'];assert hashlib.sha256(f.read_bytes()).hexdigest()==record['audioHash']
    paths.add(v['audio'])
-  report.append({'id':s['id'],'title':s['title'],'source':s['source'],'paragraphs':len(s['verses']),'characters':len(actual)})
+  report.append({'id':s['id'],'title':s['title'],'source':s['source'],'paragraphs':len(s['verses']),'annotatedParagraphs':sum(bool(v.get('meaning','').strip()) for v in s['verses']),'characters':len(actual)})
  assert len(records)==sum(x['paragraphs'] for x in report)
  def decode(path):
   with tempfile.TemporaryDirectory() as d:

@@ -20,6 +20,7 @@ def attach(corpus):
  notes=json.loads((ROOT/'sources/verse_notes.json').read_text())
  guides=json.loads((ROOT/'sources/chapter_guides.json').read_text())
  hashes=json.loads((ROOT/'sources/verse_notes.hashes.json').read_text())
+ full_notes=json.loads((ROOT/'sources/long_sutra_notes.json').read_text())
  for s,intro in zip(corpus,INTRO):
   s['introduction']=intro
   s['studySources']=[{'title':'CBETA 经文底本','url':s['source']}]
@@ -47,3 +48,12 @@ def attach(corpus):
  pumen={v['textHash']:v['meaning'] for v in corpus[3]['verses']}
  for v in corpus[-1]['verses']:
   if v['textHash'] in pumen:v['meaning']=pumen[v['textHash']]
+ for s in corpus:
+  if s['id'] in full_notes:
+   records=full_notes[s['id']]
+   assert len(records)==len(s['verses']),('Incomplete commentary',s['id'])
+   for i,(v,n) in enumerate(zip(s['verses'],records)):
+    assert n['textHash']==v['textHash'],('Commentary text mismatch',s['id'],i)
+    assert isinstance(n['meaning'],str) and len(n['meaning'].strip())>=15,('Empty commentary',s['id'],i)
+    v['meaning']=n['meaning']
+  assert all(v.get('meaning','').strip() for v in s['verses']),('Missing commentary',s['id'])

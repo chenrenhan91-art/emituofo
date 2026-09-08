@@ -1018,9 +1018,9 @@
 
   <div class="toast" id="toast"></div>
 
-  <script src="data/sutras.js?v=cbeta-837a15ff0c4d"></script>
+  <script src="data/sutras.js?v=cbeta-ced9cf84bab9"></script>
   <script>
-    const CORPUS_VERSION = "cbeta-837a15ff0c4d";
+    const CORPUS_VERSION = "cbeta-ced9cf84bab9";
     const ACHIEVEMENTS = [
       { id: "first", mark: "初", title: "初诵", desc: "完成第一遍", test: (s) => s.totalCount >= 1 },
       { id: "dedicate", mark: "向", title: "回向", desc: "完成一次回向", test: (s) => s.hasDedicated },
@@ -1972,7 +1972,7 @@
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {
-        navigator.serviceWorker.register("./sw.js?v=cbeta-837a15ff0c4d").catch(() => {});
+        navigator.serviceWorker.register("./sw.js?v=cbeta-ced9cf84bab9").catch(() => {});
       });
     }
   </script>
