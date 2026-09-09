@@ -26,3 +26,21 @@ vm.createContext(failContext);vm.runInContext(source('speak','playOne'),failCont
 failContext.speak('text',()=>{completed=true;},{id:'a',i:0});failContext.reciter.onerror();
 assert(stopped);assert(!completed);assert(!fallback);
 console.log('PASS: stale callbacks are ignored; missing audio stops without false completion or voice fallback.');
+
+const loopContext = { S: {isReadingAll:false,isLooping:false,readingIndex:-1,sutra:0}, speakGen:0,
+ SUTRA_DATABASE:[{id:'a',verses:[{text:'a1'},{text:'a2'}]}], calls:[], timers:[], button:{},
+ $:()=>loopContext.button, markLastRead(){},highlight(){},prefetchVerse(){},
+ stopSpeech(){loopContext.speakGen++;loopContext.S.isReadingAll=false;loopContext.S.isLooping=false;},
+ speak(text,done,meta){loopContext.calls.push({text,done,meta});}, setTimeout(fn){loopContext.timers.push(fn);}
+};
+vm.createContext(loopContext);vm.runInContext(source('loopAll','hitMuyu'),loopContext);
+loopContext.loopAll();
+assert.equal(loopContext.calls[0].text,'a1');
+loopContext.calls[0].done();loopContext.timers[0]();
+assert.equal(loopContext.calls[1].text,'a2');
+loopContext.calls[1].done();loopContext.timers[1]();
+loopContext.timers[2]();
+assert.equal(loopContext.calls[2].text,'a1','the selected sutra restarts after its final verse');
+loopContext.loopAll();
+assert.equal(loopContext.S.isLooping,false,'second click pauses the loop');
+console.log('PASS: loop playback restarts after the final verse and pauses on second click.');

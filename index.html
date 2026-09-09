@@ -833,7 +833,7 @@
       <div class="verse-list fs-1" id="verse-list"></div>
       <div class="read-dock">
         <button class="btn-line" id="btn-play" type="button">顺序朗读</button>
-        <button class="btn-gold" id="btn-finish" type="button">本遍圆满</button>
+        <button class="btn-gold" id="btn-finish" type="button">循环播放</button>
       </div>
     </section>
 
@@ -1068,6 +1068,7 @@
       unlocked: [],
       lastFreezeMsg: false,
       isReadingAll: false,
+      isLooping: false,
       readingIndex: -1,
       quoteDay: "",
       quoteIndex: 0,
@@ -1726,7 +1727,9 @@
     function stopSpeech() {
       speakGen += 1;
       S.isReadingAll = false;
+      S.isLooping = false;
       $("btn-play").textContent = "顺序朗读";
+      $("btn-finish").textContent = "循环播放";
       reciter.onended = null;
       reciter.onerror = null;
       reciter.onloadedmetadata = null;
@@ -1830,6 +1833,31 @@
       };
       next(start);
     }
+    function loopAll() {
+      if (S.isLooping) { stopSpeech(); return; }
+      stopSpeech();
+      S.isReadingAll = true;
+      S.isLooping = true;
+      $("btn-play").textContent = "暂停";
+      $("btn-finish").textContent = "暂停循环";
+      const s = SUTRA_DATABASE[S.sutra];
+      const gen = speakGen;
+      const next = (idx) => {
+        if (!S.isLooping || gen !== speakGen) return;
+        if (idx >= s.verses.length) {
+          setTimeout(() => next(0), 700);
+          return;
+        }
+        S.readingIndex = idx;
+        markLastRead(idx);
+        highlight(idx);
+        prefetchVerse(s.id, idx + 1);
+        speak(s.verses[idx].text, () => {
+          if (S.isLooping && gen === speakGen) setTimeout(() => next(idx + 1), 500);
+        }, { id: s.id, i: idx });
+      };
+      next(0);
+    }
 
     function hitMuyu() {
       const stage = $("btn-muyu");
@@ -1872,7 +1900,7 @@
         if (verse) playOne(Number(verse.dataset.i));
       });
       $("btn-play").addEventListener("click", playAll);
-      $("btn-finish").addEventListener("click", () => { stopSpeech(); recordRecitation(false); });
+      $("btn-finish").addEventListener("click", loopAll);
       $("btn-read-settings").addEventListener("click", () => openSheet("sheet-settings"));
       $("chapter-select").addEventListener("change", (e) => selectChapter(Number(e.target.value)));
       $("chapter-prev").addEventListener("click", () => selectChapter(S.chapter - 1));
