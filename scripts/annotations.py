@@ -46,7 +46,7 @@ def attach(corpus):
       offset+=len(t)
  # Keep the standalone chapter and its full-book counterpart consistent.
  pumen={v['textHash']:v['meaning'] for v in corpus[3]['verses']}
- for v in corpus[-1]['verses']:
+ for v in next(s for s in corpus if s['id']=='lotus_sutra')['verses']:
   if v['textHash'] in pumen:v['meaning']=pumen[v['textHash']]
  for s in corpus:
   if s['id'] in full_notes:

@@ -14,10 +14,16 @@ def main():
  records={(r['sutra'],r['index']):r for r in manifest['records']};report=[];paths=set()
  for s in data:
   if s['id'] in notes:assert len(notes[s['id']])==len(s['verses']),('commentary count',s['id'])
-  raw=ROOT/'sources/cbeta'/f'{s["sourceCode"]}.xml'
+  raw=ROOT/'sources/user/taizang_nine.json' if s['id']=='taizang_nine' else ROOT/'sources/cbeta'/f'{s["sourceCode"]}.xml'
   assert hashlib.sha256(raw.read_bytes()).hexdigest()==s['sourceHash']
-  body=E.parse(str(raw)).find('.//t:body',NS)
-  if s['id'] in ('ksitigarbha_sutra','lotus_sutra'):selected=body.xpath('./cb:div[@type="pin"]',namespaces=NS)
+  body=E.parse(str(raw)).find('.//t:body',NS) if s['id']!='taizang_nine' else None
+  if s['id']=='taizang_nine':
+   supplied=json.loads(raw.read_text())['rows']
+   assert len(supplied)==len(s['verses'])
+   for row,v in zip(supplied,s['verses']):
+    assert han(row['text'])==han(v['text']) and row['meaning']==v['meaning'],('user text/notes mismatch',s['id'])
+   selected=[E.Element('p')];selected[0].text=''.join(row['text'] for row in supplied)
+  elif s['id'] in ('ksitigarbha_sutra','lotus_sutra'):selected=body.xpath('./cb:div[@type="pin"]',namespaces=NS)
   elif s['id']=='pumen_pin':selected=[x for x in body.findall('cb:div',NS) if x.get('type')=='pin' and ''.join(x.itertext()).lstrip().startswith('25 ')]
   elif s['id']=='dabei_mantra':selected=[x for x in body.xpath('.//t:p[@cb:type="dharani"]',namespaces=NS) if '南無喝囉' in ''.join(x.itertext())]
   else:selected=body.xpath('./cb:div[@type="jing"]',namespaces=NS)

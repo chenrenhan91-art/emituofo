@@ -10894,5 +10894,536 @@
         "url": "https://www.ddm.org.tw/event/edm/app/pages/page2-7.html"
       }
     ]
+  },
+  {
+    "id": "taizang_nine",
+    "title": "胎藏界九方便",
+    "shortTitle": "胎藏界九方便",
+    "translator": "用户提供全文",
+    "category": "礼诵仪文",
+    "source": "sources/user/taizang_nine.json",
+    "sourceLabel": "所用底本",
+    "sourceCode": "USER-TAIZANG-NINE",
+    "sourceHash": "92cafe06d502ad4c7d7ef1a24192cf786fd4f59f61fb7dd64e9d0310becb6780",
+    "introduction": "本篇依次展开归命、出罪、皈依、施身、发心、随喜、劝请、安住法身与回向九种方便，接续称名礼敬和清净偈。可把握恭敬、悔过、发愿、利他这一贯穿全文的方向。正文依用户提供版本保留，白话注释帮助理解各段大意。",
+    "studySources": [
+      {
+        "title": "用户提供底本",
+        "url": "sources/user/taizang_nine.json"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "全文",
+        "start": 0,
+        "end": 63
+      }
+    ],
+    "verses": [
+      {
+        "text": "一切恭敬敬礼常住三宝。",
+        "pinyin": "yī qiè gōng jìng jìng lǐ cháng zhù sān bǎo 。",
+        "speechText": "一切恭敬，敬礼常住三宝。",
+        "audio": "audio/taizang_nine/e010f7e6eede1610.mp3",
+        "textHash": "4204b15ca3d30f7e31b1a69d3ae2a769e1433cfaed702d05fee509588ebc9fda",
+        "meaning": "以恭敬心礼敬佛、法、僧三宝，作为整篇礼诵的开端。"
+      },
+      {
+        "text": "归命方便。",
+        "pinyin": "guī mìng fāng biàn 。",
+        "speechText": "归命方便。",
+        "audio": "audio/taizang_nine/35733110fa2e4247.mp3",
+        "textHash": "fcc9da7f195f1e2fcf7e450fb4bda3112063ad540f6a67696ecf26906ea11e92",
+        "meaning": "这一节以身、口、意的恭敬，表达对三宝与修学道路的归向。"
+      },
+      {
+        "text": "归命十方正等觉，三世一切具三身。",
+        "pinyin": "guī mìng shí fāng zhèng děng jué ， sān shì yī qiè jù sān shēn 。",
+        "speechText": "归命十方正等觉，三世一切具三身。",
+        "audio": "audio/taizang_nine/f6faa3231129bdd1.mp3",
+        "textHash": "4936df53c44d9ee5aa60a2a79f2d217580a8f065633b6fad8d3dbc5a173ac7e4",
+        "meaning": "礼敬十方及过去、现在、未来的一切佛；三身指法身、报身和化身。"
+      },
+      {
+        "text": "归命一切大乘法，归命不退菩提众。",
+        "pinyin": "guī mìng yī qiè dà shèng fǎ ， guī mìng bù tuì pú tí zhòng 。",
+        "speechText": "归命一切大胜法，归命不退菩提众。",
+        "audio": "audio/taizang_nine/7ca3296c8775e74f.mp3",
+        "textHash": "8e0e6917ea6915ad3175b2e021d3bfacc7a43996780636a49236a2fd9826f8c9",
+        "meaning": "归向大乘教法，礼敬在觉悟道路上坚定前行、不退转的菩萨大众。"
+      },
+      {
+        "text": "归命诸明真实言，归命一切诸密契。",
+        "pinyin": "guī mìng zhū míng zhēn shí yán ， guī mìng yī qiè zhū mì qì 。",
+        "speechText": "归命诸明真实言，归命一切诸密契。",
+        "audio": "audio/taizang_nine/6661b5f873e11c83.mp3",
+        "textHash": "730d221fe18226839228206ebd3316cc6287bc3ee61891e37a27d28f5fe9fa4d",
+        "meaning": "礼敬真言与密契；这里的明、真实言指真言教法，密契指相应的印契。"
+      },
+      {
+        "text": "以身口意清净业，殷勤无量恭敬礼。",
+        "pinyin": "yǐ shēn kǒu yì qīng jìng yè ， yīn qín wú liàng gōng jìng lǐ 。",
+        "speechText": "以身口意清净业，殷勤无量恭敬礼。",
+        "audio": "audio/taizang_nine/e786e9cb1b48bd02.mp3",
+        "textHash": "d46d9ba75f52d196924b5ed0ce556d80251b7f6c4e5c5c998213cee312575c76",
+        "meaning": "以清净的行为、言语和心念，真诚而持续地表达恭敬。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "归向并顶礼大悲毗卢遮那佛，以礼敬收束本节的发愿。"
+      },
+      {
+        "text": "出罪方便。",
+        "pinyin": "chū zuì fāng biàn 。",
+        "speechText": "出罪方便。",
+        "audio": "audio/taizang_nine/aafb6e00c168313b.mp3",
+        "textHash": "5717f92b9fc1fafc2105202b15befd42c2c0bd8fe3848a74742dfebc92c86f62",
+        "meaning": "这一节反省过失，承认伤害，并发愿停止重犯，体现忏悔的方向。"
+      },
+      {
+        "text": "我由无明所积集，身口意业造众罪，贪欲恚痴覆心故。",
+        "pinyin": "wǒ yóu wú míng suǒ jī jí ， shēn kǒu yì yè zào zhòng zuì ， tān yù huì chī fù xīn gù 。",
+        "speechText": "我由无明所积集，身口意业造众罪，贪欲恚痴覆心故。",
+        "audio": "audio/taizang_nine/d12ca5b65f1dded0.mp3",
+        "textHash": "5dd6cb0108c4a308a33f138759b1a96bccb2dbc75d5f2cdc251be4b36d3bd039",
+        "meaning": "由于不明事理，心被贪欲、愤怒和愚痴遮蔽，身口意积累了种种过失。"
+      },
+      {
+        "text": "于佛正法贤圣僧，父母二师善知识，以及无量众生所。",
+        "pinyin": "yú fó zhèng fǎ xián shèng sēng ， fù mǔ èr shī shàn zhī shí ， yǐ jí wú liàng zhòng shēng suǒ 。",
+        "speechText": "于佛正法贤圣僧，父母二师善知识，以及无量众生所。",
+        "audio": "audio/taizang_nine/4c1169ae7dd2fe25.mp3",
+        "textHash": "99f69326e716f823d601ae4a0362e1a9dfbed17408d4637b8667697313555cc9",
+        "meaning": "反省自己对三宝、父母、师长、善知识及其他众生所犯的过错。"
+      },
+      {
+        "text": "无始生死流转中，具造极重无尽罪。",
+        "pinyin": "wú shǐ shēng sǐ liú zhuǎn zhōng ， jù zào jí zhòng wú jìn zuì 。",
+        "speechText": "无始生死流转中，具造极重无尽罪。",
+        "audio": "audio/taizang_nine/4189457eb8923b30.mp3",
+        "textHash": "a0ba8fc13521662c6a1c84a018c0a61d949a7ed47c04ed8cdd276784f6a84b75",
+        "meaning": "在佛教无始轮回的观念中，承认自己长期积累的深重过失。"
+      },
+      {
+        "text": "亲对十方现在佛，悉皆忏悔不复作。",
+        "pinyin": "qīn duì shí fāng xiàn zài fó ， xī jiē chàn huǐ bù fù zuò 。",
+        "speechText": "亲对十方现在佛，悉皆忏悔不复作。",
+        "audio": "audio/taizang_nine/224edb2e64520057.mp3",
+        "textHash": "c5fc812a6ecdead664aec8213a591ba6832548b0e6975b7e56cd44648658fdf1",
+        "meaning": "如同面对十方诸佛，坦诚忏悔一切过错，并发愿不再造作。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "以顶礼毗卢遮那佛表达忏悔之心，提醒自己把悔过落实为改变。"
+      },
+      {
+        "text": "皈依方便。",
+        "pinyin": "guī yī fāng biàn 。",
+        "speechText": "皈依方便。",
+        "audio": "audio/taizang_nine/4a498455c19f3442.mp3",
+        "textHash": "53250f77bc5ee3bd8fb6f7b10027749e954231f02ee4004e732848e6d078d5b2",
+        "meaning": "这一节明确皈依佛、法、僧三宝，确立修学时所依循的方向。"
+      },
+      {
+        "text": "南无十方三世佛，三种常身正法藏。",
+        "pinyin": "ná mó shí fāng sān shì fó ， sān zhǒng cháng shēn zhèng fǎ zàng 。",
+        "speechText": "拿摩十方三世佛，三种常身正法藏。",
+        "audio": "audio/taizang_nine/10086ca8583de3f8.mp3",
+        "textHash": "65101b837eeecb1d768d7addff127ac31999bfcfd118e1ec12d420815c93311e",
+        "meaning": "礼敬十方三世诸佛及三身，并归向其所传示的正法宝藏。"
+      },
+      {
+        "text": "胜愿菩提大心众，我今悉皆正皈依。",
+        "pinyin": "shèng yuàn pú tí dà xīn zhòng ， wǒ jīn xī jiē zhèng guī yī 。",
+        "speechText": "胜愿菩提大心众，我今悉皆正皈依。",
+        "audio": "audio/taizang_nine/d03c018063bd1222.mp3",
+        "textHash": "9186c66d3cae339a8b8d9dad43906e8b767e7af5926a43e18d0ef501bdb2b079",
+        "meaning": "对发广大菩提愿的菩萨大众，自己也真诚归依并愿意学习。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "以归命顶礼收束皈依，表达对佛的智慧与慈悲的敬仰。"
+      },
+      {
+        "text": "施身方便。",
+        "pinyin": "shī shēn fāng biàn 。",
+        "speechText": "施身方便。",
+        "audio": "audio/taizang_nine/93d00c5e4b0593da.mp3",
+        "textHash": "958e8fa2db0c1b7c9b99f618cf586b96fa9a3b9cd6777e1c4f7c6467f6698145",
+        "meaning": "这一节以奉献身口意表达修学决心，愿将自身用于善行与利他。"
+      },
+      {
+        "text": "我净此身离诸垢，及与三世身口意。",
+        "pinyin": "wǒ jìng cǐ shēn lí zhū gòu ， jí yǔ sān shì shēn kǒu yì 。",
+        "speechText": "我净此身离诸垢，及与三世身口意。",
+        "audio": "audio/taizang_nine/fe058c14d36dbb9c.mp3",
+        "textHash": "843c7696bbe22743800e3b5cd1623a9442c95d3e5782121ec7f3c978b72ee2a4",
+        "meaning": "愿净化自己的身心，并使过去、现在、未来的身口意远离染污。"
+      },
+      {
+        "text": "过于大海刹尘数，奉献一切诸如来。",
+        "pinyin": "guò yú dà hǎi chà chén shù ， fèng xiàn yī qiè zhū rú lái 。",
+        "speechText": "过于大海岔尘数，奉献一切诸如来。",
+        "audio": "audio/taizang_nine/81e195137debcf72.mp3",
+        "textHash": "e8340ad67b07df0f546b53773a1b7617aad788321b1004c6cf706a2346d61446",
+        "meaning": "以超过佛土微尘数的广大心量，愿将身口意奉献于诸佛与觉悟之道。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "顶礼毗卢遮那佛，以恭敬心确认奉献身心、实践善行的愿望。"
+      },
+      {
+        "text": "发心方便。",
+        "pinyin": "fā xīn fāng biàn 。",
+        "speechText": "发心方便。",
+        "audio": "audio/taizang_nine/71206519935f8bc5.mp3",
+        "textHash": "673165d258acefc840f2cd5e1546a35d78b4871aa82dee4cb9672b5acf7a6386",
+        "meaning": "这一节发起菩提心，把追求觉悟与帮助一切众生联系起来。"
+      },
+      {
+        "text": "净菩提心胜愿宝，我今起发济群生。",
+        "pinyin": "jìng pú tí xīn shèng yuàn bǎo ， wǒ jīn qǐ fā jì qún shēng 。",
+        "speechText": "净菩提心胜愿宝，我今起发济群生。",
+        "audio": "audio/taizang_nine/f2e2e1aa06dc2f8f.mp3",
+        "textHash": "210cfe35c5f1ef30b61ee0bcf91989dab8ef636c9d9c63115413feabca90527c",
+        "meaning": "发起清净珍贵的觉悟之心与广大愿望，立志帮助一切众生。"
+      },
+      {
+        "text": "生苦等集所缠绕，及与无知所害身。",
+        "pinyin": "shēng kǔ děng jí suǒ chán rào ， jí yǔ wú zhī suǒ hài shēn 。",
+        "speechText": "生苦等集所缠绕，及与无知所害身。",
+        "audio": "audio/taizang_nine/a7bd73ee976d010d.mp3",
+        "textHash": "8a915fd95a409c29c17f99a042fb91dfbe0fb352d14bada8d716074af506cd47",
+        "meaning": "想到众生受生死诸苦及其原因缠绕，又因无知而不断遭受损害。"
+      },
+      {
+        "text": "救摄皈依令解脱，常当利益诸含识。",
+        "pinyin": "jiù shè guī yī lìng jiě tuō ， cháng dāng lì yì zhū hán shí 。",
+        "speechText": "救摄皈依令解脱，常当利益诸含识。",
+        "audio": "audio/taizang_nine/55630dccb4093493.mp3",
+        "textHash": "40f24c4207263628f816f9b1a2c117ba4679936121c626e16ba5721e20f4b864",
+        "meaning": "愿救助、接引众生，使其有所依靠并走向解脱，长久利益一切有情。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "以礼佛表达菩提愿，提醒自己持续关怀受苦者并实践慈悲。"
+      },
+      {
+        "text": "随喜方便。",
+        "pinyin": "suí xǐ fāng biàn 。",
+        "speechText": "随喜方便。",
+        "audio": "audio/taizang_nine/a38a32d6c062438d.mp3",
+        "textHash": "99fc93656ef83e78ff3ef2b22f2d54c954fbcc598d321e54c2a96e637b67c8d3",
+        "meaning": "这一节学习欣赏他人的善行与功德，使内心减少嫉妒，增长善意。"
+      },
+      {
+        "text": "十方无量世界中，诸正遍知大海众。",
+        "pinyin": "shí fāng wú liàng shì jiè zhōng ， zhū zhèng biàn zhī dà hǎi zhòng 。",
+        "speechText": "十方无量世界中，诸正遍知大海众。",
+        "audio": "audio/taizang_nine/2f6d68734bc08c94.mp3",
+        "textHash": "37dba9d937de8edea90697951ff53daf011ea1cd00a6a5fe5832922a5ab6f173",
+        "meaning": "观想十方无量世界中，如大海般广大的诸佛大众；正遍知是佛的尊号。"
+      },
+      {
+        "text": "种种善巧方便力，及诸佛子为群生。",
+        "pinyin": "zhǒng zhǒng shàn qiǎo fāng biàn lì ， jí zhū fó zǐ wèi qún shēng 。",
+        "speechText": "种种善巧方便力，及诸佛紫为群生。",
+        "audio": "audio/taizang_nine/6790ac606a220d54.mp3",
+        "textHash": "45c793777f091d71a04b935870e1c4056108c0151fa930054a99951416cd17b8",
+        "meaning": "诸佛以各种适合众生的方式教化，菩萨也为众生不断努力。"
+      },
+      {
+        "text": "诸有所修福业等，我今一切皆随喜。",
+        "pinyin": "zhū yǒu suǒ xiū fú yè děng ， wǒ jīn yī qiè jiē suí xǐ 。",
+        "speechText": "诸有所修福业等，我今一切皆随喜。",
+        "audio": "audio/taizang_nine/1dc2cf7a1564409c.mp3",
+        "textHash": "0aec14d4e88453874596f0cd0ff05a8a77013715485af3d96382b41414d2d643",
+        "meaning": "对他们所修的一切善行与福德，由衷欢喜、赞叹，并愿向其学习。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "以顶礼收束随喜，把欣赏善行的心转为自己修善的动力。"
+      },
+      {
+        "text": "劝请方便。",
+        "pinyin": "quàn qǐng fāng biàn 。",
+        "speechText": "劝请方便。",
+        "audio": "audio/taizang_nine/c3636c4f109b1b53.mp3",
+        "textHash": "501fbe6309cbae0f1ea89522bd0db8b9b443f47772ca07f0832379b72b45a482",
+        "meaning": "这一节恳请诸佛菩萨持续说法，使各处众生都有学习正法的机会。"
+      },
+      {
+        "text": "我今劝请诸如来，菩提大心救世者。",
+        "pinyin": "wǒ jīn quàn qǐng zhū rú lái ， pú tí dà xīn jiù shì zhě 。",
+        "speechText": "我今劝请诸如来，菩提大心救世者。",
+        "audio": "audio/taizang_nine/69a043c3a0e1173a.mp3",
+        "textHash": "476c87f17a697d7456dc5298a165aed2822474513d373bbe751383e06fe49420",
+        "meaning": "诚恳劝请诸佛及发广大菩提心、救助世间的菩萨，继续教导众生。"
+      },
+      {
+        "text": "唯愿普于十方界，恒以大云降法雨。",
+        "pinyin": "wéi yuàn pǔ yú shí fāng jiè ， héng yǐ dà yún jiàng fǎ yǔ 。",
+        "speechText": "唯愿普于十方界，恒以大云降法雨。",
+        "audio": "audio/taizang_nine/bc7f74d4f4019144.mp3",
+        "textHash": "e203567ac4908a354b59278c81686f19cb1e68c3316ce29a464f1214306aba89",
+        "meaning": "愿正法如大云普降甘雨，遍及十方，滋养众生的智慧与善根。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "顶礼毗卢遮那佛，表达渴望闻法、珍惜教导并愿意实践的心。"
+      },
+      {
+        "text": "安住法身方便。",
+        "pinyin": "ān zhù fǎ shēn fāng biàn 。",
+        "speechText": "安住法身方便。",
+        "audio": "audio/taizang_nine/b22dd5ff54e2c248.mp3",
+        "textHash": "41a019144fa6d2e29eca6bfada1b923aab4e113905825fc897b53742fc0d6e00",
+        "meaning": "这一节愿众生离苦去染，趋向清净智慧，安住于法界的真实。"
+      },
+      {
+        "text": "愿令凡夫所住处，速舍众苦所集身。",
+        "pinyin": "yuàn lìng fán fū suǒ zhù chù ， sù shě zhòng kǔ suǒ jí shēn 。",
+        "speechText": "愿令凡夫所住处，速舍众苦所集身。",
+        "audio": "audio/taizang_nine/57088228a26a3b61.mp3",
+        "textHash": "5e733b9fb37a74ee01150cb1c8cc4e55fdbba802f416816e4d0c525d961e7165",
+        "meaning": "愿凡夫无论身在何处，都能尽快远离积聚种种痛苦的生死状态。"
+      },
+      {
+        "text": "当得至于无垢地，安住清净法界体。",
+        "pinyin": "dāng dé zhì yú wú gòu dì ， ān zhù qīng jìng fǎ jiè tǐ 。",
+        "speechText": "当得至于无垢地，安住清净法界体。",
+        "audio": "audio/taizang_nine/7b3ac8ef811302af.mp3",
+        "textHash": "c50cd342e89d8227d43553cbdfb93c186607631c362534abd86bb5b7149a1c51",
+        "meaning": "愿达到远离染污的境地，安住于清净法界，不再受烦恼支配。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "以顶礼表达离苦向觉的愿望，将清净身心作为持续修学的方向。"
+      },
+      {
+        "text": "回向方便。",
+        "pinyin": "huí xiàng fāng biàn 。",
+        "speechText": "回向方便。",
+        "audio": "audio/taizang_nine/2ecf04d5ebf7f8f1.mp3",
+        "textHash": "6751bfb22c2608a3f510267e06c22d4c5dd276ee9ffc00ea85477a70fcd90339",
+        "meaning": "这一节将所修善业的愿心扩展到一切众生，愿大家共同离苦得觉。"
+      },
+      {
+        "text": "所修种种众善业，利益一切诸有情。",
+        "pinyin": "suǒ xiū zhǒng zhǒng zhòng shàn yè ， lì yì yī qiè zhū yǒu qíng 。",
+        "speechText": "所修种种众善业，利益一切诸有情。",
+        "audio": "audio/taizang_nine/2031bc90aa4bbb20.mp3",
+        "textHash": "a81e341ca48b3d0e5d846d6b567726b6fabdbea32e57053e8d4a555a5663906c",
+        "meaning": "愿自己所修的各种善行，都能用于利益具有感受与心识的众生。"
+      },
+      {
+        "text": "我今尽皆正回向，除生死苦至菩提。",
+        "pinyin": "wǒ jīn jìn jiē zhèng huí xiàng ， chú shēng sǐ kǔ zhì pú tí 。",
+        "speechText": "我今进皆正回向，除生死苦至菩提。",
+        "audio": "audio/taizang_nine/0a9c33a7d7f46d2b.mp3",
+        "textHash": "9ba17510975fe87d044c681144a900941233d42aec584ba405c4b32519dc13b4",
+        "meaning": "将一切善业回向众生，愿共同除去生死之苦，最终达到觉悟。"
+      },
+      {
+        "text": "皈命顶礼大悲毗卢遮那佛。",
+        "pinyin": "guī mìng dǐng lǐ dà bēi pí lú zhē nà fó 。",
+        "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+        "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+        "meaning": "顶礼毗卢遮那佛，收束九方便的发愿，并接续后面的称名礼敬。"
+      },
+      {
+        "text": "南无清净法身毗卢遮那佛。",
+        "pinyin": "ná mó qīng jìng fǎ shēn pí lú zhē nà fó 。",
+        "speechText": "拿摩清净法身皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/7385c040289b5dfc.mp3",
+        "textHash": "5617efe3dcd677af03f32e1f25287229e8854a6d2f785a9c4a6d71b819f4b7d6",
+        "meaning": "礼敬清净法身毗卢遮那佛；这一称名突出佛的清净智慧与法身。"
+      },
+      {
+        "text": "南无东方宝幢佛。",
+        "pinyin": "ná mó dōng fāng bǎo chuáng fó 。",
+        "speechText": "拿摩东方宝床佛。",
+        "audio": "audio/taizang_nine/8b3b27ba01dafbdd.mp3",
+        "textHash": "c50f51343fc3b76e2e9ebef8120aa0fc8270332e8fc7928a5cc980cbf76d7078",
+        "meaning": "礼敬东方宝幢佛，与下文的各方佛名共同组成方位礼敬的次序。"
+      },
+      {
+        "text": "南无南方开敷花王佛。",
+        "pinyin": "ná mó nán fāng kāi fū huā wáng fó 。",
+        "speechText": "拿摩南方开敷花王佛。",
+        "audio": "audio/taizang_nine/732afc28662d0587.mp3",
+        "textHash": "0998deea453addf171340a82fa42ae56f19bf2f5a334ebcf6295bef9efa02a7b",
+        "meaning": "礼敬南方开敷花王佛，依本篇排列的方位次序继续称念佛名。"
+      },
+      {
+        "text": "南无西方无量寿佛。",
+        "pinyin": "ná mó xī fāng wú liàng shòu fó 。",
+        "speechText": "拿摩西方无量寿佛。",
+        "audio": "audio/taizang_nine/25f701e12debe4c5.mp3",
+        "textHash": "b96a63451c378460d244223ffb03441afa5c5b3db5e7e3d186b23591ad62b9b8",
+        "meaning": "礼敬西方无量寿佛，以称名表达归向、恭敬与愿意学习的心。"
+      },
+      {
+        "text": "南无北方天鼓雷音佛。",
+        "pinyin": "ná mó běi fāng tiān gǔ léi yīn fó 。",
+        "speechText": "拿摩北方天鼓雷音佛。",
+        "audio": "audio/taizang_nine/e12c72eeb44e9323.mp3",
+        "textHash": "cac26a401afe1047f551359f9cca21ac5bf7525adc8760916613b7186177a861",
+        "meaning": "礼敬北方天鼓雷音佛，完成本篇对四方诸佛的称名礼敬。"
+      },
+      {
+        "text": "南无东南方普贤菩萨摩诃萨。",
+        "pinyin": "ná mó dōng nán fāng pǔ xián pú sà mó hē sà 。",
+        "speechText": "拿摩东南方普贤菩萨摩喝萨。",
+        "audio": "audio/taizang_nine/e7cbcf1203e383dd.mp3",
+        "textHash": "481d4337a9a71275a701e95c9bede4541cf01d7c673b7fb026c2cd77ecfb3394",
+        "meaning": "礼敬东南方普贤大菩萨；摩诃萨意为大士，是对大菩萨的尊称。"
+      },
+      {
+        "text": "南无西南方文殊师利菩萨摩诃萨。",
+        "pinyin": "ná mó xī nán fāng wén shū shī lì pú sà mó hē sà 。",
+        "speechText": "拿摩西南方文殊师利菩萨摩喝萨。",
+        "audio": "audio/taizang_nine/e372e57092f59d5c.mp3",
+        "textHash": "7246623bfdbf5a0eb0c5e45ddd7c5a6f8f4fadc6697fc0b2f967a16e1d993751",
+        "meaning": "礼敬西南方文殊师利大菩萨，以恭敬心称念并学习菩萨的智慧。"
+      },
+      {
+        "text": "南无西北方观世音菩萨摩诃萨。",
+        "pinyin": "ná mó xī běi fāng guān shì yīn pú sà mó hē sà 。",
+        "speechText": "拿摩西北方观世音菩萨摩喝萨。",
+        "audio": "audio/taizang_nine/6c7d4ac8cdecadb8.mp3",
+        "textHash": "db532a9ac4d16555388e225f6eb7b9327f105cfb38d6a2e2e7339e10845ee59d",
+        "meaning": "礼敬西北方观世音大菩萨，忆念倾听众生苦难、慈悲救助的愿行。"
+      },
+      {
+        "text": "南无东北方弥勒菩萨摩诃萨。",
+        "pinyin": "ná mó dōng běi fāng mí lè pú sà mó hē sà 。",
+        "speechText": "拿摩东北方弥勒菩萨摩喝萨。",
+        "audio": "audio/taizang_nine/84fd77ec45c84ebd.mp3",
+        "textHash": "4027faf7cd3387424c240824bbc02ac1055494c5745c7cc076cc63b401fa1572",
+        "meaning": "礼敬东北方弥勒大菩萨，与前面三位菩萨共同构成本篇的四隅礼敬。"
+      },
+      {
+        "text": "南无佛眼佛母殊胜金刚。",
+        "pinyin": "ná mó fó yǎn fó mǔ shū shèng jīn gāng 。",
+        "speechText": "拿摩佛眼佛母殊胜金刚。",
+        "audio": "audio/taizang_nine/c1a91d3911901942.mp3",
+        "textHash": "91ea7949e7d8ed48b3d5b4f19b5e5d3cf903b9bfdb14abb09d5842526702f35a",
+        "meaning": "依本篇称号礼敬佛眼佛母殊胜金刚，接续对诸尊的恭敬称名。"
+      },
+      {
+        "text": "南无不动明王尊圣。",
+        "pinyin": "ná mó bù dòng míng wáng zūn shèng 。",
+        "speechText": "拿摩不动明王尊圣。",
+        "audio": "audio/taizang_nine/5da92c94120719d8.mp3",
+        "textHash": "4d0c2beea9650175733e91f10958e5bf4f70acd50efb37ac85975ada1d3f2a7c",
+        "meaning": "礼敬不动明王，忆念坚定不移、调伏障碍而守护修学的精神。"
+      },
+      {
+        "text": "南无降三世明王尊圣。",
+        "pinyin": "ná mó xiáng sān shì míng wáng zūn shèng 。",
+        "speechText": "拿摩祥三世明王尊圣。",
+        "audio": "audio/taizang_nine/aa582562bc59f6ce.mp3",
+        "textHash": "9ad055b9ec7f130cb7f3410fbdbc706a874f6fe97446391c0265d03000fcf528",
+        "meaning": "礼敬降三世明王；这里的降读作降伏的降，表达调伏障碍之意。"
+      },
+      {
+        "text": "南无军荼利明王尊圣。",
+        "pinyin": "ná mó jūn tú lì míng wáng zūn shèng 。",
+        "speechText": "拿摩军图利明王尊圣。",
+        "audio": "audio/taizang_nine/1962765e94660344.mp3",
+        "textHash": "4eeb2a24139d47097587db1ff198d01aec7af49e2532295d963cbab5733bb717",
+        "meaning": "依本篇次序礼敬军荼利明王，以称名表达恭敬与护持修学的愿望。"
+      },
+      {
+        "text": "南无大威德明王尊圣。",
+        "pinyin": "ná mó dà wēi dé míng wáng zūn shèng 。",
+        "speechText": "拿摩大威德明王尊圣。",
+        "audio": "audio/taizang_nine/83eab93025fe4da1.mp3",
+        "textHash": "71942c3a38e85027facf7c2add255968fc9aa624ce117ddf1d41596cc084b7bc",
+        "meaning": "礼敬大威德明王，在本篇诸明王的礼敬次序中表达坚定的修学愿心。"
+      },
+      {
+        "text": "南无金刚药叉明王尊圣。",
+        "pinyin": "ná mó jīn gāng yào chā míng wáng zūn shèng 。",
+        "speechText": "拿摩金刚药叉明王尊圣。",
+        "audio": "audio/taizang_nine/3784d6b1cffb7306.mp3",
+        "textHash": "cccd27603b9ecc55f36c2dec4594075e9995ea603c7c00025d3f5b7d9e068ced",
+        "meaning": "礼敬金刚药叉明王，接续本篇对明王诸尊的称名与恭敬。"
+      },
+      {
+        "text": "南无三部界会一切诸佛菩萨摩诃萨。",
+        "pinyin": "ná mó sān bù jiè huì yī qiè zhū fó pú sà mó hē sà 。",
+        "speechText": "拿摩三部界会一切诸佛菩萨摩喝萨。",
+        "audio": "audio/taizang_nine/678dc28b1cf1ebc0.mp3",
+        "textHash": "daa341da1fc8f6ee2338e88c19177b0955fd0868682e5038238d312141a9b25d",
+        "meaning": "把礼敬扩展到三部界会的一切诸佛与大菩萨，不局限于前面所列名号。"
+      },
+      {
+        "text": "南无尽十方莲花藏世界海不可说不可说微尘刹土海会中常住三世平等一切三宝。",
+        "pinyin": "ná mó jìn shí fāng lián huā zàng shì jiè hǎi bù kě shuō bù kě shuō wēi chén chà tǔ hǎi huì zhōng cháng zhù sān shì píng děng yī qiè sān bǎo 。",
+        "speechText": "拿摩进十方莲花藏世界海，不可说不可说微尘岔土海会中，常住三世平等一切三宝。",
+        "audio": "audio/taizang_nine/147b8c68608bd7a2.mp3",
+        "textHash": "180f07d212e30f60f2caf64576a5cc7544c4abbb9c0037e5ad39eb5616f0973c",
+        "meaning": "以无量世界和微尘佛土形容广大范围，普遍礼敬十方三世一切三宝。"
+      },
+      {
+        "text": "跪诵下文：普为五类诸天众九际世出世父母诸善知识道场施主一切金刚护持者尽无余界一切有情并愿断除诸障皈命礼忏悔。",
+        "pinyin": "guì sòng xià wén ： pǔ wèi wǔ lèi zhū tiān zhòng jiǔ jì shì chū shì fù mǔ zhū shàn zhī shí dào chǎng shī zhǔ yī qiè jīn gāng hù chí zhě jìn wú yú jiè yī qiè yǒu qíng bìng yuàn duàn chú zhū zhàng guī mìng lǐ chàn huǐ 。",
+        "speechText": "跪诵下文：普为五类诸天众，九际世出世父母，诸善知识，道场施主，一切金刚护持者，进无余界一切有情，并愿断除诸障，皈命礼忏悔。",
+        "audio": "audio/taizang_nine/57187fcf44ff7671.mp3",
+        "textHash": "8eafef50c28fe8798f4df56d3965aee908a6f197afe7f11dde012d699d634c69",
+        "meaning": "“跪诵下文”是仪轨提示；下文为诸天、父母、师友、施主、护持者及一切有情共同发愿，愿除障忏悔。"
+      },
+      {
+        "text": "众等各念清净偈：诸法如影象，清净无暇秽，取说不可得，皆徒因众生。",
+        "pinyin": "zhòng děng gè niàn qīng jìng jì ： zhū fǎ rú yǐng xiàng ， qīng jìng wú xiá huì ， qǔ shuō bù kě dé ， jiē tú yīn zhòng shēng 。",
+        "speechText": "众等各念清净偈：诸法如影象，清净无暇秽，取说不可得，皆徒因众生。",
+        "audio": "audio/taizang_nine/0ff0922e902f6854.mp3",
+        "textHash": "bf195492cd5bff629a85ee6666cb5eb8014e14284c0b0953a812ab9c9fb77c22",
+        "meaning": "这一偈以影像譬喻诸法，提醒读者不固执于所取的形相与言说；字句依用户提供版本保留。"
+      },
+      {
+        "text": "南无毗卢遮那佛。",
+        "pinyin": "ná mó pí lú zhē nà fó 。",
+        "speechText": "拿摩皮卢遮纳佛。",
+        "audio": "audio/taizang_nine/5651fad0abb60e3e.mp3",
+        "textHash": "a264f6e983544bbafd786d2c93cd06a25feb1755bb6dece2edd065cf5f756ebe",
+        "meaning": "最后再次称念毗卢遮那佛，以恭敬与归依之心结束整篇礼诵。"
+      }
+    ]
   }
 ]

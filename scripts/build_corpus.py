@@ -100,6 +100,8 @@ def build():
   corpus.append(dict(id=sid,title=title,shortTitle=short,translator=translator,category='完整咒文' if sid=='dabei_mantra' else '完整经文',source=f'https://cbetaonline.dila.edu.tw/zh/{code}',sourceCode=code,sourceHash=hashlib.sha256(path.read_bytes()).hexdigest(),verses=verses))
   corpus[-1]['chapters']=chapters or [{'title':'完整咒文','start':0,'end':len(verses)}]
   print(sid,len(verses),len(re.findall(r'[\u3400-\u9fff]',full)),full[:30],full[-45:])
+ from user_corpus import build_user_liturgy
+ corpus.append(build_user_liturgy(ROOT,READINGS,SPEAK))
  from annotations import attach
  attach(corpus)
  (ROOT/'data/sutras.json').write_text(json.dumps(corpus,ensure_ascii=False,indent=2)+'\n')

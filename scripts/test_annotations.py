@@ -26,12 +26,13 @@ class AnnotationCoverage(unittest.TestCase):
  def test_all_paragraphs_and_shared_chapter(self):
   corpus=json.loads((ROOT/'data/sutras.json').read_text())
   attach(corpus)
-  self.assertEqual([len(s['verses']) for s in corpus[-2:]],[216,871])
+  self.assertEqual([len(s['verses']) for s in corpus if s['id'] in ('ksitigarbha_sutra','lotus_sutra')],[216,871])
   for s in corpus:
    self.assertTrue(all(v['meaning'].strip() for v in s['verses']),s['id'])
   standalone={v['textHash']:v['meaning'] for v in corpus[3]['verses']}
-  chapter=corpus[-1]['chapters'][24]
-  for v in corpus[-1]['verses'][chapter['start']:chapter['end']]:
+  lotus=next(s for s in corpus if s['id']=='lotus_sutra')
+  chapter=lotus['chapters'][24]
+  for v in lotus['verses'][chapter['start']:chapter['end']]:
    self.assertEqual(v['meaning'],standalone[v['textHash']])
 
 if __name__=='__main__':unittest.main()

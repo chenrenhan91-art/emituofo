@@ -63,10 +63,18 @@
       "paragraphs": 871,
       "annotatedParagraphs": 871,
       "characters": 69284
+    },
+    {
+      "id": "taizang_nine",
+      "title": "胎藏界九方便",
+      "source": "sources/user/taizang_nine.json",
+      "paragraphs": 63,
+      "annotatedParagraphs": 63,
+      "characters": 782
     }
   ],
-  "audioFiles": 1261,
-  "audioSeconds": 32609.64,
+  "audioFiles": 1316,
+  "audioSeconds": 32844.98,
   "sourceTextMatches": true,
   "pinyinAligned": true,
   "audioHashesMatch": true,

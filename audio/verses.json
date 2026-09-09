@@ -13043,6 +13043,636 @@
       "audio": "audio/lotus_sutra/78b882b6d7f1a89a.mp3",
       "audioHash": "6ffcd08bd5003c1e712db431c0d0d56381dde72df927c5bf9ffd96154a84161f",
       "bytes": 86544
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 0,
+      "text": "一切恭敬敬礼常住三宝。",
+      "speechText": "一切恭敬，敬礼常住三宝。",
+      "textHash": "4204b15ca3d30f7e31b1a69d3ae2a769e1433cfaed702d05fee509588ebc9fda",
+      "audio": "audio/taizang_nine/e010f7e6eede1610.mp3",
+      "audioHash": "35d3484a2a46796a9eb98ea7719ca132daf3f37e79dc98f922c78ffa970f3b51",
+      "bytes": 22176
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 1,
+      "text": "归命方便。",
+      "speechText": "归命方便。",
+      "textHash": "fcc9da7f195f1e2fcf7e450fb4bda3112063ad540f6a67696ecf26906ea11e92",
+      "audio": "audio/taizang_nine/35733110fa2e4247.mp3",
+      "audioHash": "fb28d1ab96e8ef559914941b57f1aac59e6733c167d261243fd5f824fb7ddff9",
+      "bytes": 11376
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 2,
+      "text": "归命十方正等觉，三世一切具三身。",
+      "speechText": "归命十方正等觉，三世一切具三身。",
+      "textHash": "4936df53c44d9ee5aa60a2a79f2d217580a8f065633b6fad8d3dbc5a173ac7e4",
+      "audio": "audio/taizang_nine/f6faa3231129bdd1.mp3",
+      "audioHash": "f3f59567ef69958ca48f3bb800d04df361995e6bf250eb32411b2e0a684385ed",
+      "bytes": 28080
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 3,
+      "text": "归命一切大乘法，归命不退菩提众。",
+      "speechText": "归命一切大胜法，归命不退菩提众。",
+      "textHash": "8e0e6917ea6915ad3175b2e021d3bfacc7a43996780636a49236a2fd9826f8c9",
+      "audio": "audio/taizang_nine/7ca3296c8775e74f.mp3",
+      "audioHash": "e9324b9aa99de91cace59a66c40342dd85742618837933ee0c4b06bb74cd85ff",
+      "bytes": 27216
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 4,
+      "text": "归命诸明真实言，归命一切诸密契。",
+      "speechText": "归命诸明真实言，归命一切诸密契。",
+      "textHash": "730d221fe18226839228206ebd3316cc6287bc3ee61891e37a27d28f5fe9fa4d",
+      "audio": "audio/taizang_nine/6661b5f873e11c83.mp3",
+      "audioHash": "26c80699f6139df2bb6784c5ded862bbf004f336f19cd0d4e0acdf75a1e3b844",
+      "bytes": 28512
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 5,
+      "text": "以身口意清净业，殷勤无量恭敬礼。",
+      "speechText": "以身口意清净业，殷勤无量恭敬礼。",
+      "textHash": "d46d9ba75f52d196924b5ed0ce556d80251b7f6c4e5c5c998213cee312575c76",
+      "audio": "audio/taizang_nine/e786e9cb1b48bd02.mp3",
+      "audioHash": "9993d81c22ef9ab5154be3e50c73faa3da824d95e346ede705c267107e406ef5",
+      "bytes": 27072
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 6,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 7,
+      "text": "出罪方便。",
+      "speechText": "出罪方便。",
+      "textHash": "5717f92b9fc1fafc2105202b15befd42c2c0bd8fe3848a74742dfebc92c86f62",
+      "audio": "audio/taizang_nine/aafb6e00c168313b.mp3",
+      "audioHash": "da8048c56aca8c84ae4510ac5a965d30449859f2e8599b622d55ea6dba34d0b4",
+      "bytes": 11520
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 8,
+      "text": "我由无明所积集，身口意业造众罪，贪欲恚痴覆心故。",
+      "speechText": "我由无明所积集，身口意业造众罪，贪欲恚痴覆心故。",
+      "textHash": "5dd6cb0108c4a308a33f138759b1a96bccb2dbc75d5f2cdc251be4b36d3bd039",
+      "audio": "audio/taizang_nine/d12ca5b65f1dded0.mp3",
+      "audioHash": "33c91be4243548535985cbf9ec81f0881c75a1c93813e9f73624f466e9d20a69",
+      "bytes": 39024
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 9,
+      "text": "于佛正法贤圣僧，父母二师善知识，以及无量众生所。",
+      "speechText": "于佛正法贤圣僧，父母二师善知识，以及无量众生所。",
+      "textHash": "99f69326e716f823d601ae4a0362e1a9dfbed17408d4637b8667697313555cc9",
+      "audio": "audio/taizang_nine/4c1169ae7dd2fe25.mp3",
+      "audioHash": "e3c821ec47c95d30c8bc0cceb0c336a97e54687e10dac52d92e1b82092e75334",
+      "bytes": 41472
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 10,
+      "text": "无始生死流转中，具造极重无尽罪。",
+      "speechText": "无始生死流转中，具造极重无尽罪。",
+      "textHash": "a0ba8fc13521662c6a1c84a018c0a61d949a7ed47c04ed8cdd276784f6a84b75",
+      "audio": "audio/taizang_nine/4189457eb8923b30.mp3",
+      "audioHash": "b3183f51f4e82d5d43cfefa63ed6d108b0ec7260ec5f89b4fc2dcebd04f08812",
+      "bytes": 27936
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 11,
+      "text": "亲对十方现在佛，悉皆忏悔不复作。",
+      "speechText": "亲对十方现在佛，悉皆忏悔不复作。",
+      "textHash": "c5fc812a6ecdead664aec8213a591ba6832548b0e6975b7e56cd44648658fdf1",
+      "audio": "audio/taizang_nine/224edb2e64520057.mp3",
+      "audioHash": "0b186c0af40855a997377ed16b36ddc9b920f460ac07828f6a45b4f17820eb7f",
+      "bytes": 28224
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 12,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 13,
+      "text": "皈依方便。",
+      "speechText": "皈依方便。",
+      "textHash": "53250f77bc5ee3bd8fb6f7b10027749e954231f02ee4004e732848e6d078d5b2",
+      "audio": "audio/taizang_nine/4a498455c19f3442.mp3",
+      "audioHash": "970c4f42584b39ccb04819aecd26a63820e827089f5339ef17d380e681e671e2",
+      "bytes": 11088
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 14,
+      "text": "南无十方三世佛，三种常身正法藏。",
+      "speechText": "拿摩十方三世佛，三种常身正法藏。",
+      "textHash": "65101b837eeecb1d768d7addff127ac31999bfcfd118e1ec12d420815c93311e",
+      "audio": "audio/taizang_nine/10086ca8583de3f8.mp3",
+      "audioHash": "f861e76ea6497b64b48a8dafcfcb14807a45e2ff87e6b2275a82df46216c28bb",
+      "bytes": 29232
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 15,
+      "text": "胜愿菩提大心众，我今悉皆正皈依。",
+      "speechText": "胜愿菩提大心众，我今悉皆正皈依。",
+      "textHash": "9186c66d3cae339a8b8d9dad43906e8b767e7af5926a43e18d0ef501bdb2b079",
+      "audio": "audio/taizang_nine/d03c018063bd1222.mp3",
+      "audioHash": "7028cb52dcad5d8b5683944df3d7383cbc78b29350e784728767aa09b1fcff70",
+      "bytes": 28224
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 16,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 17,
+      "text": "施身方便。",
+      "speechText": "施身方便。",
+      "textHash": "958e8fa2db0c1b7c9b99f618cf586b96fa9a3b9cd6777e1c4f7c6467f6698145",
+      "audio": "audio/taizang_nine/93d00c5e4b0593da.mp3",
+      "audioHash": "9f7af7e9cc4ff1b2f2032298389dafb7bdbf757d3a524d6d256c2fba78dbd17d",
+      "bytes": 11808
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 18,
+      "text": "我净此身离诸垢，及与三世身口意。",
+      "speechText": "我净此身离诸垢，及与三世身口意。",
+      "textHash": "843c7696bbe22743800e3b5cd1623a9442c95d3e5782121ec7f3c978b72ee2a4",
+      "audio": "audio/taizang_nine/fe058c14d36dbb9c.mp3",
+      "audioHash": "b53822bf445a19ceb33235c7dbdcf9ffeeefcc0df203e187e1506f42ff4a76a7",
+      "bytes": 26928
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 19,
+      "text": "过于大海刹尘数，奉献一切诸如来。",
+      "speechText": "过于大海岔尘数，奉献一切诸如来。",
+      "textHash": "e8340ad67b07df0f546b53773a1b7617aad788321b1004c6cf706a2346d61446",
+      "audio": "audio/taizang_nine/81e195137debcf72.mp3",
+      "audioHash": "4194f0b51648a6e336133ed96178fdb2e2c303888f1614d996f8333318bb9dfa",
+      "bytes": 27072
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 20,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 21,
+      "text": "发心方便。",
+      "speechText": "发心方便。",
+      "textHash": "673165d258acefc840f2cd5e1546a35d78b4871aa82dee4cb9672b5acf7a6386",
+      "audio": "audio/taizang_nine/71206519935f8bc5.mp3",
+      "audioHash": "18de8001bdab01762fb677821e81d2522f9fa0ed144168957ef8f486af9cc7de",
+      "bytes": 11376
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 22,
+      "text": "净菩提心胜愿宝，我今起发济群生。",
+      "speechText": "净菩提心胜愿宝，我今起发济群生。",
+      "textHash": "210cfe35c5f1ef30b61ee0bcf91989dab8ef636c9d9c63115413feabca90527c",
+      "audio": "audio/taizang_nine/f2e2e1aa06dc2f8f.mp3",
+      "audioHash": "1d2ac58ee784eb1dfcc1a23f8d929a760ec2881d6fefc8bd5f4f93c143a5e2f9",
+      "bytes": 27792
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 23,
+      "text": "生苦等集所缠绕，及与无知所害身。",
+      "speechText": "生苦等集所缠绕，及与无知所害身。",
+      "textHash": "8a915fd95a409c29c17f99a042fb91dfbe0fb352d14bada8d716074af506cd47",
+      "audio": "audio/taizang_nine/a7bd73ee976d010d.mp3",
+      "audioHash": "0af2ab8511f3db67efad42ebfbaf87c882ecfc14553864c01117e2d6630db437",
+      "bytes": 27216
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 24,
+      "text": "救摄皈依令解脱，常当利益诸含识。",
+      "speechText": "救摄皈依令解脱，常当利益诸含识。",
+      "textHash": "40f24c4207263628f816f9b1a2c117ba4679936121c626e16ba5721e20f4b864",
+      "audio": "audio/taizang_nine/55630dccb4093493.mp3",
+      "audioHash": "bb2f5aca259ebf16b06abde3c3a084e116ca30ae0eec55eca90e0a0212e06f64",
+      "bytes": 27216
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 25,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 26,
+      "text": "随喜方便。",
+      "speechText": "随喜方便。",
+      "textHash": "99fc93656ef83e78ff3ef2b22f2d54c954fbcc598d321e54c2a96e637b67c8d3",
+      "audio": "audio/taizang_nine/a38a32d6c062438d.mp3",
+      "audioHash": "4e3c9f4a7121ac31cf6353851e318f0b1d3ea500fce9a2058cee423b73e2f21c",
+      "bytes": 11952
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 27,
+      "text": "十方无量世界中，诸正遍知大海众。",
+      "speechText": "十方无量世界中，诸正遍知大海众。",
+      "textHash": "37dba9d937de8edea90697951ff53daf011ea1cd00a6a5fe5832922a5ab6f173",
+      "audio": "audio/taizang_nine/2f6d68734bc08c94.mp3",
+      "audioHash": "e83cf7960c4e222ddaf82ccba7d2c68f9ac1c947a1b222beac629e9643e5a46c",
+      "bytes": 28080
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 28,
+      "text": "种种善巧方便力，及诸佛子为群生。",
+      "speechText": "种种善巧方便力，及诸佛紫为群生。",
+      "textHash": "45c793777f091d71a04b935870e1c4056108c0151fa930054a99951416cd17b8",
+      "audio": "audio/taizang_nine/6790ac606a220d54.mp3",
+      "audioHash": "02b2d55b7b19ba4e1bae8b5dc855174f45d458003bdcbeb66cb67f84fcb9efd4",
+      "bytes": 29808
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 29,
+      "text": "诸有所修福业等，我今一切皆随喜。",
+      "speechText": "诸有所修福业等，我今一切皆随喜。",
+      "textHash": "0aec14d4e88453874596f0cd0ff05a8a77013715485af3d96382b41414d2d643",
+      "audio": "audio/taizang_nine/1dc2cf7a1564409c.mp3",
+      "audioHash": "7a0a86cb0e2ee32bc633610fac2abdb3832d9739d7c9b5b98c38f317cc044e8e",
+      "bytes": 26928
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 30,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 31,
+      "text": "劝请方便。",
+      "speechText": "劝请方便。",
+      "textHash": "501fbe6309cbae0f1ea89522bd0db8b9b443f47772ca07f0832379b72b45a482",
+      "audio": "audio/taizang_nine/c3636c4f109b1b53.mp3",
+      "audioHash": "62efcf873c361d00e45fcf4931985d7dacc65a82d2cdddc0d64d74656e87c057",
+      "bytes": 11664
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 32,
+      "text": "我今劝请诸如来，菩提大心救世者。",
+      "speechText": "我今劝请诸如来，菩提大心救世者。",
+      "textHash": "476c87f17a697d7456dc5298a165aed2822474513d373bbe751383e06fe49420",
+      "audio": "audio/taizang_nine/69a043c3a0e1173a.mp3",
+      "audioHash": "1889ae1a97d844e2bfb3122588a4c0e7471369c1443fa69d4db696911c2dd27d",
+      "bytes": 26208
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 33,
+      "text": "唯愿普于十方界，恒以大云降法雨。",
+      "speechText": "唯愿普于十方界，恒以大云降法雨。",
+      "textHash": "e203567ac4908a354b59278c81686f19cb1e68c3316ce29a464f1214306aba89",
+      "audio": "audio/taizang_nine/bc7f74d4f4019144.mp3",
+      "audioHash": "6e3c06e319ff7557348598fef024102e34028a9c57fad9381c8a6faec1a59ab9",
+      "bytes": 27216
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 34,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 35,
+      "text": "安住法身方便。",
+      "speechText": "安住法身方便。",
+      "textHash": "41a019144fa6d2e29eca6bfada1b923aab4e113905825fc897b53742fc0d6e00",
+      "audio": "audio/taizang_nine/b22dd5ff54e2c248.mp3",
+      "audioHash": "5f912f0bacdd99614a9b5c555cd297f6920c6d8f5299276e43a2d04d3078f133",
+      "bytes": 14400
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 36,
+      "text": "愿令凡夫所住处，速舍众苦所集身。",
+      "speechText": "愿令凡夫所住处，速舍众苦所集身。",
+      "textHash": "5e733b9fb37a74ee01150cb1c8cc4e55fdbba802f416816e4d0c525d961e7165",
+      "audio": "audio/taizang_nine/57088228a26a3b61.mp3",
+      "audioHash": "787fd3546636c65555e5b06a93233448b145bc356699753983737d78281f3bbb",
+      "bytes": 28656
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 37,
+      "text": "当得至于无垢地，安住清净法界体。",
+      "speechText": "当得至于无垢地，安住清净法界体。",
+      "textHash": "c50cd342e89d8227d43553cbdfb93c186607631c362534abd86bb5b7149a1c51",
+      "audio": "audio/taizang_nine/7b3ac8ef811302af.mp3",
+      "audioHash": "349a2db03eea7ceeb107d9244334c3111f92d118289911ab32b8524b3bbe6a04",
+      "bytes": 27648
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 38,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 39,
+      "text": "回向方便。",
+      "speechText": "回向方便。",
+      "textHash": "6751bfb22c2608a3f510267e06c22d4c5dd276ee9ffc00ea85477a70fcd90339",
+      "audio": "audio/taizang_nine/2ecf04d5ebf7f8f1.mp3",
+      "audioHash": "759fa04720fb264b77736928f29bd48a650fa91a6103eb5e478081cecea00a44",
+      "bytes": 11376
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 40,
+      "text": "所修种种众善业，利益一切诸有情。",
+      "speechText": "所修种种众善业，利益一切诸有情。",
+      "textHash": "a81e341ca48b3d0e5d846d6b567726b6fabdbea32e57053e8d4a555a5663906c",
+      "audio": "audio/taizang_nine/2031bc90aa4bbb20.mp3",
+      "audioHash": "87b5739f7b8048146ee29efb8fefe2244c85fc67af9651f3e177ffae8a64a2db",
+      "bytes": 29088
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 41,
+      "text": "我今尽皆正回向，除生死苦至菩提。",
+      "speechText": "我今进皆正回向，除生死苦至菩提。",
+      "textHash": "9ba17510975fe87d044c681144a900941233d42aec584ba405c4b32519dc13b4",
+      "audio": "audio/taizang_nine/0a9c33a7d7f46d2b.mp3",
+      "audioHash": "b3479c0c4cf540b4c0e271429edd9305b58ba4bca5df5144098e1e08a06a8128",
+      "bytes": 28800
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 42,
+      "text": "皈命顶礼大悲毗卢遮那佛。",
+      "speechText": "皈命顶礼大悲皮卢遮纳佛。",
+      "textHash": "429d36a2019155cd412625c6de7343df591a1a0feab992688aea2a6a315d0061",
+      "audio": "audio/taizang_nine/af7ae9a36a7f877d.mp3",
+      "audioHash": "92d0de7e27b38eb9fd9d8409246a031a7b47393b647bc5c5795c910f7408889b",
+      "bytes": 22896
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 43,
+      "text": "南无清净法身毗卢遮那佛。",
+      "speechText": "拿摩清净法身皮卢遮纳佛。",
+      "textHash": "5617efe3dcd677af03f32e1f25287229e8854a6d2f785a9c4a6d71b819f4b7d6",
+      "audio": "audio/taizang_nine/7385c040289b5dfc.mp3",
+      "audioHash": "409033a40cd0ad0aae09d6e2065fa96b5874ea632533ac604bc281a195905919",
+      "bytes": 23184
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 44,
+      "text": "南无东方宝幢佛。",
+      "speechText": "拿摩东方宝床佛。",
+      "textHash": "c50f51343fc3b76e2e9ebef8120aa0fc8270332e8fc7928a5cc980cbf76d7078",
+      "audio": "audio/taizang_nine/8b3b27ba01dafbdd.mp3",
+      "audioHash": "03628f5d7d4e9262b9e7611d70c0bd3a8ef5dfdb87ba16d6979e00c7d8cbc8ce",
+      "bytes": 16272
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 45,
+      "text": "南无南方开敷花王佛。",
+      "speechText": "拿摩南方开敷花王佛。",
+      "textHash": "0998deea453addf171340a82fa42ae56f19bf2f5a334ebcf6295bef9efa02a7b",
+      "audio": "audio/taizang_nine/732afc28662d0587.mp3",
+      "audioHash": "9ab3f1ff487e0b34c53da5c9df411eecbeda66348ab9f0ad1018d6bd1058f4f7",
+      "bytes": 18864
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 46,
+      "text": "南无西方无量寿佛。",
+      "speechText": "拿摩西方无量寿佛。",
+      "textHash": "b96a63451c378460d244223ffb03441afa5c5b3db5e7e3d186b23591ad62b9b8",
+      "audio": "audio/taizang_nine/25f701e12debe4c5.mp3",
+      "audioHash": "b8f299be33151a8b278c9528fcf354fac7e7096b18d0abb527947904312a6816",
+      "bytes": 17856
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 47,
+      "text": "南无北方天鼓雷音佛。",
+      "speechText": "拿摩北方天鼓雷音佛。",
+      "textHash": "cac26a401afe1047f551359f9cca21ac5bf7525adc8760916613b7186177a861",
+      "audio": "audio/taizang_nine/e12c72eeb44e9323.mp3",
+      "audioHash": "36bf28f8a98e6901b1713db19623c0788677654f2bc4ca9a188966b12bd89c80",
+      "bytes": 18864
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 48,
+      "text": "南无东南方普贤菩萨摩诃萨。",
+      "speechText": "拿摩东南方普贤菩萨摩喝萨。",
+      "textHash": "481d4337a9a71275a701e95c9bede4541cf01d7c673b7fb026c2cd77ecfb3394",
+      "audio": "audio/taizang_nine/e7cbcf1203e383dd.mp3",
+      "audioHash": "de3cffe8f7c5220f7581bd0f084d66d776311f7486eaa34d08e08c3d2ab3dea6",
+      "bytes": 23472
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 49,
+      "text": "南无西南方文殊师利菩萨摩诃萨。",
+      "speechText": "拿摩西南方文殊师利菩萨摩喝萨。",
+      "textHash": "7246623bfdbf5a0eb0c5e45ddd7c5a6f8f4fadc6697fc0b2f967a16e1d993751",
+      "audio": "audio/taizang_nine/e372e57092f59d5c.mp3",
+      "audioHash": "e5c39b5703ff00a34f12d9b8a453b7477edad7fcf5e46f4920650413d25664d7",
+      "bytes": 26640
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 50,
+      "text": "南无西北方观世音菩萨摩诃萨。",
+      "speechText": "拿摩西北方观世音菩萨摩喝萨。",
+      "textHash": "db532a9ac4d16555388e225f6eb7b9327f105cfb38d6a2e2e7339e10845ee59d",
+      "audio": "audio/taizang_nine/6c7d4ac8cdecadb8.mp3",
+      "audioHash": "744e0a8c65bfccfd7efc62dcd413e420621895c4751edd517239553cd4028958",
+      "bytes": 24768
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 51,
+      "text": "南无东北方弥勒菩萨摩诃萨。",
+      "speechText": "拿摩东北方弥勒菩萨摩喝萨。",
+      "textHash": "4027faf7cd3387424c240824bbc02ac1055494c5745c7cc076cc63b401fa1572",
+      "audio": "audio/taizang_nine/84fd77ec45c84ebd.mp3",
+      "audioHash": "82a47280fc70a9561c557c0039be00e99e18921def27ffae5e258db5454e4361",
+      "bytes": 23040
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 52,
+      "text": "南无佛眼佛母殊胜金刚。",
+      "speechText": "拿摩佛眼佛母殊胜金刚。",
+      "textHash": "91ea7949e7d8ed48b3d5b4f19b5e5d3cf903b9bfdb14abb09d5842526702f35a",
+      "audio": "audio/taizang_nine/c1a91d3911901942.mp3",
+      "audioHash": "5afeccb33cacc7bffea8207cddd0fa58fa5a55b4f8a899eeebf9d96dbba0cbdc",
+      "bytes": 20736
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 53,
+      "text": "南无不动明王尊圣。",
+      "speechText": "拿摩不动明王尊圣。",
+      "textHash": "4d0c2beea9650175733e91f10958e5bf4f70acd50efb37ac85975ada1d3f2a7c",
+      "audio": "audio/taizang_nine/5da92c94120719d8.mp3",
+      "audioHash": "dfa55a117e965e710cc5d8d5be6da20ae2f7d8a8d8dc8ff0c37808af41eceb39",
+      "bytes": 17136
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 54,
+      "text": "南无降三世明王尊圣。",
+      "speechText": "拿摩祥三世明王尊圣。",
+      "textHash": "9ad055b9ec7f130cb7f3410fbdbc706a874f6fe97446391c0265d03000fcf528",
+      "audio": "audio/taizang_nine/aa582562bc59f6ce.mp3",
+      "audioHash": "4a64e3afd384cfe2a3e79af2bacc049f586852a960b84f8da421d584b3a9830c",
+      "bytes": 18864
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 55,
+      "text": "南无军荼利明王尊圣。",
+      "speechText": "拿摩军图利明王尊圣。",
+      "textHash": "4eeb2a24139d47097587db1ff198d01aec7af49e2532295d963cbab5733bb717",
+      "audio": "audio/taizang_nine/1962765e94660344.mp3",
+      "audioHash": "b06e8bce74c49d4787565c1ff5237f74b1a06fd0df35229a6be413c44b66faac",
+      "bytes": 19008
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 56,
+      "text": "南无大威德明王尊圣。",
+      "speechText": "拿摩大威德明王尊圣。",
+      "textHash": "71942c3a38e85027facf7c2add255968fc9aa624ce117ddf1d41596cc084b7bc",
+      "audio": "audio/taizang_nine/83eab93025fe4da1.mp3",
+      "audioHash": "e684332881a6a2ff149e3c53b95431426c65895d784d4f7c1a50a9b8689b86fb",
+      "bytes": 19872
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 57,
+      "text": "南无金刚药叉明王尊圣。",
+      "speechText": "拿摩金刚药叉明王尊圣。",
+      "textHash": "cccd27603b9ecc55f36c2dec4594075e9995ea603c7c00025d3f5b7d9e068ced",
+      "audio": "audio/taizang_nine/3784d6b1cffb7306.mp3",
+      "audioHash": "ac75a3097a9c1b00b25e1a2cb3e53ed1766c6500d81c122424bcfe88de2acd6f",
+      "bytes": 19872
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 58,
+      "text": "南无三部界会一切诸佛菩萨摩诃萨。",
+      "speechText": "拿摩三部界会一切诸佛菩萨摩喝萨。",
+      "textHash": "daa341da1fc8f6ee2338e88c19177b0955fd0868682e5038238d312141a9b25d",
+      "audio": "audio/taizang_nine/678dc28b1cf1ebc0.mp3",
+      "audioHash": "a221ed2e3d68f2a290a86a0c19ac0f43b1b197bb784e45d97ef3442d19029099",
+      "bytes": 28512
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 59,
+      "text": "南无尽十方莲花藏世界海不可说不可说微尘刹土海会中常住三世平等一切三宝。",
+      "speechText": "拿摩进十方莲花藏世界海，不可说不可说微尘岔土海会中，常住三世平等一切三宝。",
+      "textHash": "180f07d212e30f60f2caf64576a5cc7544c4abbb9c0037e5ad39eb5616f0973c",
+      "audio": "audio/taizang_nine/147b8c68608bd7a2.mp3",
+      "audioHash": "170c3c3419d03e86d20f2a8d573170e548ebdae9fdf9a6ed468588586e176cdc",
+      "bytes": 61344
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 60,
+      "text": "跪诵下文：普为五类诸天众九际世出世父母诸善知识道场施主一切金刚护持者尽无余界一切有情并愿断除诸障皈命礼忏悔。",
+      "speechText": "跪诵下文：普为五类诸天众，九际世出世父母，诸善知识，道场施主，一切金刚护持者，进无余界一切有情，并愿断除诸障，皈命礼忏悔。",
+      "textHash": "8eafef50c28fe8798f4df56d3965aee908a6f197afe7f11dde012d699d634c69",
+      "audio": "audio/taizang_nine/57187fcf44ff7671.mp3",
+      "audioHash": "f87b33abd3e22c07608cef6ab5db2997ce5a12c2b0bd6b814344b4e0674b5f1b",
+      "bytes": 99792
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 61,
+      "text": "众等各念清净偈：诸法如影象，清净无暇秽，取说不可得，皆徒因众生。",
+      "speechText": "众等各念清净偈：诸法如影象，清净无暇秽，取说不可得，皆徒因众生。",
+      "textHash": "bf195492cd5bff629a85ee6666cb5eb8014e14284c0b0953a812ab9c9fb77c22",
+      "audio": "audio/taizang_nine/0ff0922e902f6854.mp3",
+      "audioHash": "5f575c9b3a6c2777c6b59c92ef0703a10f16deec19aac774df93ed8a53273470",
+      "bytes": 52848
+    },
+    {
+      "sutra": "taizang_nine",
+      "index": 62,
+      "text": "南无毗卢遮那佛。",
+      "speechText": "拿摩皮卢遮纳佛。",
+      "textHash": "a264f6e983544bbafd786d2c93cd06a25feb1755bb6dece2edd065cf5f756ebe",
+      "audio": "audio/taizang_nine/5651fad0abb60e3e.mp3",
+      "audioHash": "c8cd34af745f74296da6b72ed151f795a2c7e20e77d6110c4b8703c28b99b6e5",
+      "bytes": 15840
     }
   ]
 }

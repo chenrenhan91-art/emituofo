@@ -1018,9 +1018,9 @@
 
   <div class="toast" id="toast"></div>
 
-  <script src="data/sutras.js?v=cbeta-ced9cf84bab9"></script>
+  <script src="data/sutras.js?v=cbeta-eb3e0512e76b"></script>
   <script>
-    const CORPUS_VERSION = "cbeta-ced9cf84bab9";
+    const CORPUS_VERSION = "cbeta-eb3e0512e76b";
     const ACHIEVEMENTS = [
       { id: "first", mark: "初", title: "初诵", desc: "完成第一遍", test: (s) => s.totalCount >= 1 },
       { id: "dedicate", mark: "向", title: "回向", desc: "完成一次回向", test: (s) => s.hasDedicated },
@@ -1605,7 +1605,7 @@
       S.chapter = Math.max(0, Math.min(S.chapter || 0, chapters.length - 1));
       const ch = chapters[S.chapter];
       $("sutra-title").textContent = s.shortTitle;
-      $("sutra-sub").innerHTML = `${s.translator} · ${s.category} · <a href="${s.source}" target="_blank" rel="noopener noreferrer">CBETA ${s.sourceCode}</a>`;
+      $("sutra-sub").innerHTML = `${s.translator} · ${s.category} · <a href="${s.source}" target="_blank" rel="noopener noreferrer">${escapeText(s.sourceLabel || 'CBETA ' + s.sourceCode)}</a>`;
       $("chapter-nav").hidden = chapters.length <= 1;
       $("chapter-select").innerHTML = chapters.map((c, i) => `<option value="${i}"${i === S.chapter ? " selected" : ""}>${escapeText(c.title)}</option>`).join("");
       $("chapter-prev").disabled = S.chapter === 0;
@@ -1972,7 +1972,7 @@
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {
-        navigator.serviceWorker.register("./sw.js?v=cbeta-ced9cf84bab9").catch(() => {});
+        navigator.serviceWorker.register("./sw.js?v=cbeta-eb3e0512e76b").catch(() => {});
       });
     }
   </script>
