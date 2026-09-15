@@ -3,3 +3,4 @@
 voices/*.onnx
 .wrangler
 .dev.vars*
+ios/build/

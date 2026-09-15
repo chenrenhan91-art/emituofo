@@ -779,6 +779,17 @@
     }
     .toast.is-on { opacity: 1; transform: translate(-50%, 0); }
 
+    .legal-links {
+      display: flex;
+      justify-content: center;
+      gap: 9px;
+      margin: 22px 0 2px;
+      font-size: 12px;
+      color: var(--text-faint);
+    }
+    .legal-links a { color: var(--text-dim); text-decoration: none; }
+    .legal-links a:active { color: var(--gold); }
+
     @media (prefers-reduced-motion: reduce) {
       *, *::before, *::after {
         animation: none !important;
@@ -932,6 +943,13 @@
         <div class="install-card" id="install-card">
           <div class="section-label">加到主屏幕</div>
           <p>iPhone：分享，再选「添加到主屏幕」。Android：浏览器菜单里选「安装应用」。加完以后更像一款 App，功课也更稳。</p>
+        </div>
+        <div class="legal-links" aria-label="法律与支持">
+          <a href="privacy.html">隐私政策</a>
+          <span>·</span>
+          <a href="support.html">支持</a>
+          <span>·</span>
+          <a href="https://cbetaonline.dila.edu.tw/" rel="noopener noreferrer">经文底本</a>
         </div>
       </div>
     </section>
